@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 97-07-01155"
+decided: "1998-06-23"
+citations: ["22 Ct. Int'l Trade 604", "15 F. Supp. 2d 806"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Outokumpu Copper Strip, B.V., plaintiff v. United States, defendant, and Hussey Copper, Ltd., the Miller Co., Olin Corp., Revere Copper Prod., Inc., International Assoc. of Machinists & Aerospace Workers, International Union, Allied Indus. Workers of America (AFL-CIO), Mechanics Educ. Soc’y of America (Local 56), and United Steelworkers of America (AFL-CIO/CLC), defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/22/cases/0604-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11117126
+cites_cases: ["53 Fed. Reg. 30,455", "61 Fed. Reg. 1,324", "62 Fed. Reg. 33,395"]
+---
+
+# Outokumpu Copper Strip, B.V. v. United States
+
+## Majority (DiCarlo, Senior Judge:)
+
+Opinion and Order
+DiCarlo, Senior Judge:
+This action isa result of the third administrative review of an antidumping order published in Brass Sheet and Strip from the Netherlands, 53 Fed. Reg. 30,455 (Dep’t Comm. 1988) (anti-dumping duty order). The period of review was August 1,1990 to July 31,1991. The final results contained ministerial errors that affected the final dumpingmargin for the period of review. See Brass Sheet and Strip from the Netherlands, 61 Fed. Reg. 1,324 (Dep’t Comm. 1996) (final admin, review) [hereinafter Final Results]. In a related case filed by the current defendant-intervenors, the court authorized Commerce to correct those errors. Aug. 1, 1996 Order, Hussey Copper, Ltd. v. United States, Ct. No. 96-02-00578 (Ct. Int’l Trade dismissed Aug. 7, 1997). Commerce then issued amended final results. Brassl Sheet and Strip from the Netherlands, 62 Fed. Reg. 33,395 (Dep’t Comm. 1997) (amendment of final admin, review) [hereinafter Amended Final Results],
+Plaintiff charges that in addition to correcting the ministerial errors identified in the court’s order, Commerce’s Amended Final Results adopted an unauthorized change in methodology. The U.S. sales database used to calculate the dumping margin in the original Final Results included all entries made during the period of review, regardless of sale date. The Amended Final Results excluded entries sold before the period of review. The Amended Final Results also excluded one exporter’s sales price transaction. These changes reduced the number of transactions included in the database from 391 to 150, increasing the margin of dumping from 2.03% to 5.85%.
+Defendant states that the changes were inadvertent, and agrees that the U.S. sales database should include the omitted sales. It asks that the case be remanded to Commerce to reinstate the excluded transactions. The court also agrees that a remand is necessary, since the change to the scope of the U.S. sales database was neither requested by the parties nor authorized by the court. Accordingly, it is hereby
+Ordered that the case is remanded to Commerce with instructions to reinstate in the U.S. sales database: 1) all entries of merchandise sold prior to the period of review and entered duringthe period of review, and 2) the exporter’s sales price transaction omitted from the Amended Final Results. It is further
+Ordered that Commerce shall recalculate the dumping margins and issue new amended final results consistent with this order. Remand results are due within thirty days of the date this opinion is entered. It is further
+Ordered that any party contesting the amended results shall file comments or responses within thirty days, after which Commerce will have fifteen days in which to file a reply.
