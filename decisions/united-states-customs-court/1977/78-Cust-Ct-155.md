@@ -1,0 +1,92 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4702; Court Nos. 72-5-01008, etc."
+decided: "1977-06-16"
+citations: ["78 Cust. Ct. 155"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Paul M. W. Bruckmann v. United States"]
+source_url: "https://static.case.law/cust-ct/78/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6564641
+cites_cases: ["259 F. Supp. 874", "354 F. Supp. 280", "420 F. 2d 1399", "420 F.2d 1401", "47 CCPA 32", "56 CCPA 133", "57 CCPA 58", "57 Cust. Ct. 333", "60 CCPA 185", "62 Cust. Ct. 136", "69 Cust. Ct. 197", "8 Ct. Cust. Appls. 273"]
+---
+
+# Bruckmann v. United States
+
+## Majority (Maletz, Judge:)
+
+Maletz, Judge:
+These consolidated cases which come before the court on cross-motions for summary judgment have been submitted on a stipulation of facts and involve the question as to the proper tariff classification of parts of street lamps that were designed to be operated by gas. More specifically, the parts — which were imported from England through the port of Mobile — consisted of:
+(1) 100 articles invoiced as “gas lamp stems” which were imported in 1968;
+(2) 100 articles invoiced as “gas lamps complete” consisting of gas lamp “stems” and gas lamp “tops” which were imported in 1970, with the stems and tops packed in separate cases;
+(3) 50 articles invoiced as “gas lamps complete” likewise consisting of gas lamp “stems” and gas lamp “tops” which were imported in 1971, with the stems and tops again packed in separate cases.
+The imported gas lamp stems and tops were classified by the government under item 653.39 of the Tariff Schedules of the United States which covers other illuminating articles and parts thereof of base metal, and assessed duty at the rate of 19% ad valorem.
+Plaintiff, on the other hand, relying on general interpretative rule 10 (ij) of the tariff schedules — which prescribes in part that “a provision for ‘parts’ * * * does not prevail over a specific provision for such part” — claims that the gas lamp stems, while parts of street lamps, are properly classifiable under item 652.93 of the tariff schedules, as modified, T.D. 68-9, which provides, among other things, for columns, pillars, posts, beams, girders and similar structural units, and requires a rate of duty of 2.5%, 2% or 1.5% ad valorem depending upon the date of entry.
+In the alternative, plaintiff claims that since the gas lamp stems are parts, they are classifiable under item 653.30'of the tariff schedules, as modified, T.D. 68-9, which is contained under the superior heading “Illuminating articles and parts thereof, of base metal:” and covers incandescent lamps, designed to be operated by gas, dutiable at the rate of 9%, 7% or 6% ad valorem depending upon the date of entry.
+Plaintiff further claims that the imported gas lamp tops are, as parts, likewise classifiable under the same item of the tariff schedules set out in the preceding paragraph, i.e., item 653.30, as modified.
+The relevant provisions of the tariff schedules are as follows:
+10. General Interpretative Rules. For the purposes of these schedules—
+***** * *
+(ij) a provision for “parts” of an article covers a product solely or chiefly used as a part of such article, but does not prevail over a specific provision for such part.
+Schedule 6, Part 3, Subpart F:
+Hangars and other buildings, bridges, bridge sections, lock-gates, towers, lattice masts, roofs, roofing frameworks, door and window frames, shutters, balustrades, columns, pillars, and posts, and other structures and parts of structures, all the foregoing of base metal:
+Of iron or steel:
+* * * * * * *
+Columns, pillars, posts, beams, girders, and similar structural units:
+Not in part of alloy iron or steel:
+652. 93 Cast-iron (except malleable cast-iron) articles, rough or advanced_ ()
+*******
+Illuminating articles and parts thereof, of base metal:
+653. 30 Incandescent lamps designed to be operated by propane or other gas, or by compressed air and kerosene or gasoline_ ()
+Other:
+653.35 Table, floor and other portable lamps for indoor illumination, of brass_ * *
+Other:
+653.37 Of brass_ * *
+653.39 Other_19% ad val.
+I
+Against the background of these tariff provisions, we consider first plaintiff’s claim that by virtue of general interpretative rifle 10(ij), the imported lampposts — which, as previously observed, are referred to as gas lamp stems — are properly classifiable under item 652.93 which covers columns, pillars, posts, and similar structural units of cast iron. It is undisputed that the stems are of cast iron; that each weighs in excess of 300 pounds and is in one piece; and that each is designed as a lamppost to be sunk into the ground and to support a street light lantern on top.
+However, it must be concluded that the imported stems are not the type of article intended to be covered by item 652.93. Thus, in Laurence Myers Scaffolding Co. v. United States, 57 Cust. Ct. 333, 340, C.D. 2809, 259 F. Supp. 874, 879 (1966), appeal dismissed, 56 CCPA 133 (1967), this court, after examining various definitions covering the terms used in item 652.93, stated: “Running through the foregoing definitions is the concept that a column, pillar, or post, when ready for use, is a unitary element providing upright support to a building or structure.” (Emphasis added.) And in J. Bay McDermott & Co., Inc. v. United States, 69 Cust. Ct. 197, 207, C.D. 4394, 354 F. Supp. 280, 287 (1972), cross-appeals dismissed, 60 CCPA 185 (1973), the court added: “From the definitions and from the decided cases, it appears that an essential characteristic of a column, pillar, or post insofar as classification for tariff purposes is concerned, is that it be a firm upright support for a structure.” (Emphasis added.) The lamp stems here involved unquestionably do not support a building or a structure. Thus they are not structural units in a tariff sense and, accordingly, are not classifiable under item 652.93.
+II
+We come next to plaintiff’s claim that since the lamp stems and tops are parts, they were erroneously classified under item 653.39 and are properly classifiable under item 653.30. Thus, the basic issue is whether or not the provision of item 653.30 includes parts of the article described in that provision. On this phase, defendant argues that an inspection of the provisions of the tariff schedules makes it clear that item 653.39, not 653.30, is intended to encompass the parts which fall under the superior heading “Illuminating articles and parts thereof, of base metal:”. Elaborating on this argument, defendant states (br. p. 2):
+The colon of the superior heading clearly represents, through punctuation, an attempt to show that each provision under it is intended to be a specific elaboration of the superior heading. No implication as to the parts can therefore be made for each provision. To the contrary, if a provision is to encompass parts it should so specify. This fact is borne out by an inspection of similar type provisions of the Tariff Schedules where parts were intended to be included. For example, item 661.65 falls under a superior beading which is similar to the superior heading of item 653.30, in that it also provides for “parts thereof.” Item 661.65 does however specifically provide: “Instantaneous or storage water heaters, and parts thereof.” This is a prime illustration of a situation where Congress intended to include parts under a certain item and so specified. The Tariff Schedules are filled with such examples. [Footnote omitted.] It is thus clear that in those situations where Congress intended parts to be included within the embrace of an item falling under a superior heading which contains the jfhrase “parts thereof,” Congress ordinarily specified that such item was to include parts. * * * It follows that since item 653.30 does not specifically provide for parts, Congress did not intend parts to be included thereunder, and that item 653.39, the so-called basket provision for the superior heading “Illuminating articles and parts thereof, of base metal,” is the provision Congress intended the parts to be classified under.
+This argument, it is concluded, is without merit. For in the court’s view, it seems clear in the circumstances of this case that the reason for the superior heading in question was to render each of the provisions indented thereunder a “parts” provision. In other words, the purpose of incorporating the superior heading at the margin with the provisions following the .colon indented below in series was to make plain that the superior heading modified all that followed. In point on this aspect is Velan Steam Spec. et al. v. United States, 57 CCPA 58, C.A.D. 976, 420 F. 2d 1399 (1970). In Velan the involved merchandise was classified under item 680.22 of the tariff schedules covering hand-operated and check valves. The importer-appellant contended that the merchandise merely consisted of parts of valves which should have been classified under item 680.27.
+The provisions of the tariff schedules (as existing on the date of entry, September 23, 1963) read in material part as follows:
+Taps, cocks, valves, and similar devices, however operated, used to control the flow of liquids, gases, or solids, all the foregoing and parts thereof:
+Hand-operated and check:
+Of copper_ * * * 680. 20
+Other_ 22.5% ad val. 680. 22
+Other:
+Ballcock mechanisms, and parts. * * * 680. 25
+Other_ 10% ad val. 680. 27
+The involved tariff schedule item, as amended by Public Law 89-241, effective December 7, 1965, read in material part as follows:
+* * * * * * *
+Hand-operated and check, and parts thereof: [Emphasis added.]
+The appellate court affirmed the decision of this court (62 Cust. Ct. 136, C.D. 3700 (1969)) on the basis that the provision for “Other” in item 680.22 covers all hand-operated valves and farts thereof. Particularly pertinent is the following statement of the appellate court in Velan (67 CCPA at 61, 420 F. 2d at 1401-2):
+We have here a situation where the applicable statute consists of a superior heading and two inferior headings with four article descriptions (items 680.20 through 680.27), two indented under each inferior heading. The superior heading' has broad sweep covering various valves and “similar devices, however operated” as well as their parts, thus indicating that parts are covered in the provisions which immediately follow. The only article description mentioning parts per se is item 680.25, covering ballcock mechanisms and parts thereof. Where the framework and the language admit, it is the duty of the court to so construe a statute as to give effect to every part thereof. Giving effect to the statute so as to embrace coverage for parts of hand-operated and check valves under item 680.22 as classified, is, in our opinion, fully consonant with the terms of the statute under consideration. To read the words “parts of hand-operated and check” not into item 680.22 but into item 680.27, a provision clearly intended to cover devices other than hand-operated and check, would in our judgment constitute a resort to judicial legislation contrary to congressional intent. [Emphasis added.]
+It is apparent that the statutory provisions involved here are quite similar in form to the statute in Velan. Thus in the present case, the superior heading has four article descriptions (items 653.30, 653.35, 653.37 and 653.39) with two inferior headings. And as in Velan the superior heading here has “broad sweep covering various * * * [illuminating articles * * *] as well as their parts, thus indicating that parts are covered in the provisions which immediately follow.” 57 CCPA at 61, 420 F.2d 1401. Indeed, the statutory provisions here involved are even more persuasive than those in Velan in leading to the conclusion that Congress intended to provide for all parts of illuminating articles in the provisions covered by the superior heading. For here unlike the statutory structure in Velan — which contains a specific parts provision in item 680.25 — there is no reference whatever to parts in the provisions that follow the superior heading. The point is that if the parts provision of the superior heading here involved were not to apply to all the provisions thereunder, it would have no efficacy whatever and thus would contravene the established rule of statutory construction that the entire context of a statute must be considered and every effort must be made to give effect to all of its language. See, e.g., United States v. Gulf Oil Corporation, et al., 47 CCPA 32, 35, C.A.D. 725 (1959).
+Defendant, however, argues (as previously noted) that even though a superior heading contains a provision for parts, the provisions thereunder do not encompass parts unless they so specify. This conclusion, defendant maintains, comes from an inspection of similar type provisions of the tariff schedules where parts are specifically provided for notwithstanding that the superior heading also provides for parts. However, according to defendant, an exception exists in the case of a basket provision. For in defendant’s view, where a superior heading contains a parts provision, then the basket provision covers parts even though parts are not therein specified. But applying defendant’s own test, an inspection of similar type provisions of the tariff schedules shows that parts are specifically provided for under various basket provisions notwithstanding that the superior heading also provides for parts. For example, in the same Subpart F of Schedule 6 as here involved, the provisions for chains read as follows:
+Cham and chains, and parts thereof, all the foregoing of base metal not coated or plated with precious metal:
+Of iron or steel:
+Chain or chains used for the transmission of power, and parts thereof:
+Of not over 2-inch pitch and containing more than three parts per pitch, and parts thereof:
+652.12 Valued under 40 cents per pound_ * *
+652.18 Other_ * * *
+652.21 Anchor or stud link chain or chains, and parts thereof_ * * Hs
+Chain or chains (except the foregoing) the links of which are of stock essentially round in cross section, and parts thereof:
+652.24 Under %6 inch in diameter. _ * * *
+Yis inch or more but under % inch in diameter_ H: Hi *
+H:
+652.35 Other, including parts [emphasis added]_ * * +
+What this comes down to is that in connection with defendant’s particular argument, other provisions of the tariff schedules afford no guidance here in determining whether or not item 653.39, the so-called basket provision for the superior heading “Illuminating articles and parts thereof * * *,” is the only provision Congress intended parts of illuminating articles to be classified under. Nor by the same token do other provisions of the tariff schedules afford guidance here in determining whether or not item 653.30 covers parts of illuminating articles. Indeed, were we to carry defendant’s reasoning to its logical conclusion, no provision encompassed by the superior heading “Illuminating articles and parts thereof” would cover parts. This would include, among others, item 653.39, the basket provision, and item 653.30, the claimed provision.
+In sum, it is concluded that the clear intent of Congress in using the term “and parts thereof” as an adjunct to the term “illuminating articles” in the superior heading to items 653.30, 653.35, 653.37 and 653.39 is to render all of those provisions parts provisions. Otherwise, the provision for parts in the superior heading would be nugatory. It is therefore held that by virtue of the superior heading, item 653.30 of the tariff schedules provides for parts and that the imported lamp stems and tops are properly classifiable thereunder, as claimed by plaintiff.
+For the foregoing reasons, defendant’s motion for summary judgment is denied; plaintiff’s cross-motion for summary judgment is granted; and the district director at the port of Mobile is hereby directed to reliquidate the imported lamp stems and tops in issue under item 653.30 of the tariff schedules, as modified, T.D. 68-9.
+The “stems” in issue were hollow cast-iron gas lamppost stems or standards which were chiefly used to support gas lamp lanterns and to provide a hollow housing for the gas supply line.
+The “tops” in issue consisted of copper gas lamp lanterns and iron or steel “frogs” which connected the “tops” to the “stems.” The “frogs” were not shipped attached to the “tops,” but rather as separate items.
+Under item 652.93, the rate of duty for articles entered in 1968 is 2.5% ad valorem; for articles entered in 1970, the rate of duty is 2% ad valorem; for articles entered in 1971, the rate of duty is 1.5% ad valorem.
+Under item 653.30, the rate of duty for articles entered in 1968 is 9% ad valorem; for articles entered in 1970, the rate of duty is 7% ad valorem; for articles entered in 1971, the rate of duty is 6% ad valorem.
+The term “structure" was defined in Simon, Buhler & Baumann v. United States, 8 Ct. Cust. Appls. 273, 276, T.D. 37537 (1918), as follows:
+Ordinarily speaking, “structure" carries with it the idea of size, weight, and strength, and it has come to mean anything composed of parts capable of resisting heavy weights or strains and artificially joined together for some special use.
+The appellate couit further held that the 1965 amendment which specifically included “parts” of “hand-operated and check valves” was “intended only to clarify the language originally employed * * *.” 57 CCPA at 61, 420 F. 2d at 1402. Parenthetically, it is interesting to note that in Velan, the government in its appellate brief (pp. 6-12) took precisely the opposite position it takes here. Thus, in its appellate brief (p. 8), the government stressed that the superior heading providing for “taps, cocks, valves, and similar devices * * * and parts thereof ” (emphasis added) was applicable in reference to item 680.22 not only to other hand-operated valves but also to parts thereof — this notwithstanding that item 680.22 did not contain specific language covering parts.
+In view of this conclusion, it is unnecessary to consider plaintiffs further argument that the imported gas lamps and stems are entireties classifiable under item 653.30.
