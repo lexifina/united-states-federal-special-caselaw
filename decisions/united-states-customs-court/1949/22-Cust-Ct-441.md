@@ -1,0 +1,58 @@
+---
+court: "United States Customs Court"
+docket: "7699; Entry No. 857708"
+decided: "1949-05-04"
+citations: ["22 Cust. Ct. 441"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Budde & Westermann v. United States"]
+source_url: "https://static.case.law/cust-ct/22/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672068
+---
+
+# Budde v. United States
+
+## Majority (Lawrence, Judge:)
+
+Lawrence, Judge:
+Bottle caps, also known as metallic capsules, manufactured by the N. V. Deventer Algemeene Industrieele Maat-schappij, Dept. Deventer Capsulefabriek (hereinafter referred to as the D. A. I. M.) of Deventer, Holland, are the subject of this appeal. The importation consisted of three sizes: 30/30 m/m invoiced and entered at Fl. 3.45 per 1,000; 29/34 m/m invoiced at Fl. 3.35 per 1,000 but entered at Fl. 3.65 per 1,000; and size 29/38 m/m invoiced and entered at Fl. 2.85 per 1,000.
+Plaintiff contends that the entered values represent the export values of the capsules within the meaning of section 402 (d) of the Tariff Act of 1930.
+The appraiser found foreign values for the three sizes substantially higher than the entered values.
+“Foreign value” and “export value” are defined in the statute as follows:
+SEC. 402 [Tariff Act of 1930]. VALUE.
+* * :Ji # * * *
+(c) Foebign Value. — The foreign value of imported merchandise shall be the market value or the price at the time of exportation of such merchandise to the United States, at which such or similar merchandise is freely offered for sale to all purchasers in the principal markets of the country from which exported, in the usual wholesale quantities and in the ordinary course of trade, including the cost of all containers and coverings of whatever nature, and all other costs, charges, and expenses incident to placing the merchandise in condition, packed ready for shipment to the United States.
+(d) Export Value. — The export value of imported merchandise shall be the market value or the price, at the time of exportation of such merchandise to the United States, at which such or similar merchandise is freely offered for sale to all purchasers in the principal markets of the country from which exported, in the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States, plus, when not included in such price, the cost of all containers and coverings of whatever nature, and all other costs, charges, and expenses incident to placing the merchandise in condition, packed ready for shipment to the United States.
+It is the contention of plaintiff that there is no foreign value for the merchandise in controversy for the reason that it was not freely offered for sale to all purchasers for home consumption in the country of exportation. In other words, it is contended that there was a controlled market for home consumption which, under well-settled principles laid down in authorities which will be cited infra, precludes the application of statutory foreign value to the importation.
+Furthermore, plaintiff contends that it is clearly established by the record that the entered values correctly represent the statutory export value of the merchandise.
+Therefore, the question before me for decision is which of the two statutory bases of valuation above mentioned shall be adopted.
+The evidence consists of an affidavit executed by Wilhelmus Johannes de Breuk, managing director of the D. A. I. M., which was received in evidence as exhibit 1.
+Attached to exhibit 1 are two price lists marked “A” and “B”, respectively. Upon motion of defendant, it was ruled that price list marked “B” would be disregarded on the ground that it is not related in point of time to the date of exportation of the imported, merchandise.
+Plaintiff then introduced the testimony of Ernst William Schmich, vice president of the importing firm, who identified the items on the invoice which he had purchased from the D. A. I. M., and stated that he ordered the merchandise in accordance with the price list marked “A” attached to exhibit 1; also that the invoice prices for the three items above referred to were the same as those set forth in price fist “A” except that the item invoiced at El. 3.35 should have been charged at FI. 3.65, according to the price list, which was in fact the entered value for that item.
+When plaintiff rested, defendant moved to dismiss importer’s appeal for failure to establish “all the elements in connection with each of those two values” [foreign and export]. The motion was taken under advisement to be determined subsequently. It is now overruled and an exception allowed.
+Defendant offered in evidence a certified report by Treasury Representative Charles R. Clark, file number 67-450, to which were attached numerous documentary exhibits. In addition to this, defendant offered ano ther report by Paul Hermes, Assistant Treasury Attache, which is referred to in the Clark report, and requested that the papers be received in evidence as a collective exhibit. The receipt of these reports in evidence was objected to by plaintiff on the ground that they do not cover the period of time “immediately on or immediately prior to the date of exportation of the merchandise involved.” This objection was taken under advisement and the reports referred to were marked as defendant’s exhibit 2 for identification. The case was then submitted. Subsequently it was stipulated and agreed by the respective parties that all of the objections as to the admissibility of the reports which were marked defendant’s exhibit 2 for identification “be and the same are hereby withdrawn”; and it was further agreed by the parties that said reports should be received in evidence herein and be marked collective exhibit 2-A and collective exhibit 2-B, respectively.
+It was also stipulated and agreed by the respective parties that a copy of a letter dated June 10, 1948, addressed to the United States Department of State by the American Consul General, Amsterdam, the Netherlands, be received in evidence as defendant’s collective exhibit 3.
+It appears from the affidavit of Wilbelmus Johannes de Breuk, plaintiff’s exhibit 1, that he is the managing director of the D. A. I. M. and had charge of all sales of bottle caps or capsules sold by the D. A. I. M. for home consumption in the Netherlands and for exportation to foreign countries from July 1, 1934, to March 20, 1947; that during the period in wbicb the present merchandise was imported there were but three manufacturers of bottle caps or capsules in the Netherlands; -that all the purchasers of bottle caps for home consumption in the Netherlands were divided among the three manufacturers of bottle caps in the Netherlands, the names and addresses of which were given; that each manufacturer could sell exclusively to his allotted customers and could not offer for sale or sell bottle caps to the purchasers of such commodities as were allotted to the other two manufacturers, pursuant to an agreement negotiated by and between these manufacturers.
+This evidence is not controverted and clearly demonstrates that there was a controlled market in the Netherlands for bottle caps such as or similar to those in controversy for home consumption.
+In United States v. Graham & Zenger, Inc., 31 C. C. P. A. (Customs) 131, C. A. D. 262, the court observed:
+We do not deem it necessary to discuss the cases relied upon in the opinion of the trial judge, for the reason that generally speaking they all lay down the principle that a foreign market is controlled when restrictions are imposed on the resale, free use, dominion over the merchandise, or confining of sales to selected purchasers. [Italics supplied.]
+See also United States v. Heemsoth-Kerner Corp., 31 C. C. P. A. (Customs) 75, C. A. D. 252.
+Reverting again to the affidavit of de Breuk, exhibit 1, affiant states that during the period appropriate to the date of exportation herein, bottle caps or capsules such as or similar to those in controversy were freely offered to all purchasers and sold for export to the United States by the D. A. I. M. at prices set forth in the price list marked “A”; that there were no exclusive purchasing or selling agreements by the D. A. I. M. on sales for export; that the usual wholesale quantity of bottle caps or capsules such as or similar to those here under consideration was 60,000 bottle caps or capsules; and that the principal market for the sale of bottle caps or capsules by the D. A. I. M. for export to the United States was Deventer, the Netherlands.
+The information contained in defendant’s collective exhibits 2-A and 2-B and collective exhibit 3 fails to overcome the weight to be attached to the evidence submitted on behalf of plaintiff.
+It is noted in passing that since the submission of this case defendant has filed with the court a letter stating in part—
+After consulting the record, as well as importer’s main and supplemental briefs, this office does not desire to file a brief in behalf of the United States in the above entitled matter.
+After reviewing the entire record, I find as facts — ■
+1. The merchandise consists of bottle caps or capsules manufactured by the N. V. Deventer Algemeene Industrieele Maatschappij, Dept. Deventer Capsulefabriek of Deventer, Holland, which was imported at New York and entered on the basis of export value as defined in section 402 (d) of the Tariff Act of 1930.
+2. The merchandise was appraised on the basis of foreign value as defined in section 402 (c), Tariff Act of 1930.
+3. That Deventer, Holland, was the principal market for the sale of such or similar merchandise in Holland including sales for export to the United States.
+4. That such or similar merchandise was neither freely offered for sale nor sold in the principal market of the Netherlands for home consumption in the usual wholesale quantities and in the ordinary course of trade.
+5. That pursuant to an agreement entered into by and between three manufacturers of such or similar merchandise in the Netherlands, all purchasers of such or similar merchandise for home consumption in the Netherlands were divided among three manufacturers and each manufacturer could sell only to his allotted customers and could not offer for sale or sell such or similar merchandise to the purchasers of such commodities as were allotted to other manufacturers.
+6. That the usual wholesale quantity in which such or similar merchandise was sold or offered for sale for export to the United States was 60,000 bottle caps or capsules.
+7. That such or similar merchandise was freely offered and sold for export to the United States on and immediately prior to the date of exportation of the importation here involved to all purchasers in the usual wholesale quantities and in the ordinary course of trade at prices the same as the per se unit entered values herein, less the items of ocean freight and marine insurance as invoiced.
+I,therefore, conclude as matter of law—
+1. That there is no foreign value as that value is defined in section 402 (c) of the Tariff Act of 1930 for the merchandise in controversy, owing to the fact that the market for home consumption in Deventer, Holland, was a controlled market.
+2. That there is an export value as defined in section 402 (d) of said act.
+3. That export value as that value is defined in section 402 (d) of said act is the proper basis for the determination of the values of the merchandise under consideration, and that said values are the per se unit values, less ocean freight and marine insurance as invoiced.
+Judgment will be entered accordingly.
