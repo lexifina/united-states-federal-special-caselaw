@@ -1,0 +1,41 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 88-11-01546"
+decided: "1988-10-18"
+citations: ["12 Ct. Int'l Trade 969", "698 F. Supp. 923"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A.N. Deringer, Inc., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/12/cases/0969-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6114129
+cites_cases: ["19 U.S.C. § 1514", "377 F. Supp. 955", "72 Cust. Ct. 257"]
+---
+
+# A.N. Deringer, Inc. v. United States
+
+## Majority (Musgrave, Judge:)
+
+Opinion
+John R. Bolton, Assistant Attorney General, Joseph I. Liebman, Attorney in Charge, Commercial Litigation Branch, Civil Division, U.S. Department of Justice (Mark S. Sochaczewsky) for defendant.
+Background
+Musgrave, Judge:
+The fact situation presented in this case seems to be fraught with mistakes and errors, and while the Court might entertain a modicum of sympathy for the importer, as the plaintiff was apparently, at some time, entitled to a refund of duties, the case must be dismissed for reasons set out below.
+The merchandise at issue, unwrought copper, was entered under Item 612.06, TSUS, apparently by mistake, on April 2, 1984. On April 11, 1984 the importer prepared a memorandum to the Customs Service referring to the entry in question, noting that the entry was not liquidated, indicating the error, requesting that they be allowed to revise the entry to reflect a temporary importation bond, and requesting a refund of duty; unfortunately, this memo, through inadvertence or error was not sent to Customs until later, when on June 28, 1984 an even briefer memorandum was sent to Customs, enclosing the omitted April 11, 1984 memorandum and requesting relief in accordance therewith, and citing their claim to relief as being "in accordance with Section 520(c)(1) Tariff Act of 1930, as amended.” This request was denied on July 18, 1984.
+On July 17, 1984, plaintiff filed a protest which it alleges was a protest of the classification and rate of duty assessed by Customs, pursuant to 19 U.S.C. § 1514. Defendant, meanwhile, claims that the July 17 protest was against the refusal to reliquidate under § 1520(c)(1) and was therefore prematurely filed, as it was submitted one day prior to the actual denial by Customs. Defendant moves to dismiss for lack of jurisdiction.
+Discussion
+Plaintiff cites Mattel Inc., v. U.S., 72 Cust. Ct. 257, C.D. 4547, 377 F. Supp. 955 (1974), as controlling in this case. In Mattel, plaintiff sought the reliquidation of certain goods and requested of Customs "correction under section 520 (c).” Plaintiff subsequently filed a protest against Customs’ refusal to reliquidate. Plaintiffs [Mattel’s] complaint was based on the claim that the letters requesting reli-quidation constituted timely protests under section 514, and should have been treated as such by Customs. The Court found for the plaintiff, holding that the letters of request did indeed constitute timely protests. As the Court stated, letters have been held sufficient as protests "where they conveyed to the customs officials the objection in the mind of the protesting party so that the former would have an opportunity to review their decision and to take action accordingly.” Mattel supra at 260, 377 F. Supp. at 959. The Court in Mattel further stated that "however cryptic, inartistic, or poorly drawn a communication may be, it is sufficient as a protest for purposes of Section 514 if it conveys enough information to apprise knowledgeable officials of the importer’s intent and the relief sought.” Id. at 262, 377 F.Supp. at 960. With respect to the letters in issue the Court found that plaintiffs reference to section 520(c) was merely a "gratuitous addition”; consequently, the Court found that the letters constituted valid protests.
+If Mattel is controlling in this case as contended by plaintiff, and (a) the reference to section 520(c) in plaintiffs June 28, 1984 document is deemed to be gratuitous and (b) the June 28 document is deemed a protest under section 1514, then the denial of this protest on July 18, 1984 might well have been an appropriate subject of an action in this Court to require a refund of duties, had such action been commenced within 180 days of the denial of the protest (July 18, 1984). However, the summons and complaint were filed in November of 1985, some 16 months after the denial of that "protest.”
+Given that plaintiff had lost its rights, whatever they might have been, under that informal protest, then viewing the case most favorable to plaintiff on the facts before the Court, we move on to consider the protest of July 17, 1984. For this purpose it will be assumed that plaintiffs June 28th memorandum was a Section 520 request for reliquidation, and that the July 17th submission, which is denominated "Protest”, protests the refusal of the Customs Service to reliquidate. Plaintiff, in the July 17th protest, discusses the legislative history of Section 520 and urges its claim for relief in accordance with that Section. In later pleadings, however, plaintiff seems to have abandoned its claim under 520(c)(1) and shifted it to Section 1514. While this may seem inartful — and the defendant so avers — this Court in Mattel cited with approval that "Subsequently, plaintiff [Mattel] abandoned its claim under Section 520(c), leaving only its contention that the letters are valid Section 1514 protests.” Mattel supra at 259, 377 F.Supp. at 958.
+Plaintiffs July 17th protest wraps itself in the language, and indeed the history, of Section 520; however, it concludes on the following note: ", we respectfully request that this Protest be allowed and our original request be granted.” Without further facts, it would appear that the reference to "our original request” must be to the June 28th (and April 11th), 1984 informal protest. This would appear to indicate that plaintiffs intent was to refer to its earlier June 28th "protest” and was contesting the denial of this "protest.” If this be the case then it would be barred under Section 1514(c)(2) which provides that:
+"A protest of a decision, order, or finding described in subsection (a) of this section shall be filed with such customs officer within ninety days after but not before—
+(A) Notice of liquidation * * * or
+(B) In circumstances where subparagraph (A) is inapplicable, the date of the decision as to which protest is made.” (emphasis added.)
+Because the denial of plaintiffs June 28th submission (whether or not a protest) did not occur until July 18th, plaintiffs July 17th protest would be premature by one day and would therefore be barred by Section 1514(c)(2).
+Furthermore, if plaintiffs June 28th letter to Customs constituted a "protest”, as it might be deemed under the Mattel case, then the denial of that protest by the Customs Service on July 18 is final (See 19 U.S.C. § 1514(a)), there having been no subsequent protest by plaintiff of that denial.
+Another possibility, although not urged by the parties, is that plaintiffs July 17th protest was, in effect, an amendment of the June 28th "protest”. This does not help plaintiff, however, as that protest, thus amended, was denied in its entirety, the next day, July 18.
+Thus, the only possibility of plaintiffs case surviving would be to disregard plaintiffs June 28th request qua protest. This we cannot do. Plaintiff urges that Mattel is controlling and, were it the only document before the Court, plaintiffs June 28th request would be considered a protest. It follows, then, that the July 17th protest was either, (a) premature as to the July 18th denial by the Customs Service, or (b) barred by § 1514(c)(1), which states that only one protest may be filed for each entry of merchandise.
+Accordingly, the case must be dismissed for lack of jurisdiction.
+Plaintiffs Exhibit attached to pleadings.
+defendant’s Reply Brief, p. 3.
