@@ -1,0 +1,41 @@
+---
+court: "United States Customs Court"
+docket: "53222; petition 6462-R (Laredo)"
+decided: "1949-06-02"
+citations: ["22 Cust. Ct. 331"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Edward H. Corrigan v. United States,"]
+source_url: "https://static.case.law/cust-ct/22/cases/0331-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6660942
+cites_cases: ["19 U. S. C. § 1489", "36 C. C. P. A. 29"]
+---
+
+# Corrigan v. United States
+
+## Majority (Johnson, Judge:)
+
+Johnson, Judge:
+This petition for the remission of additional duties assessed under authority of section 489 of the Tariff Act of 1930, 19 U. S. C. § 1489, involves 6,630 1-pound packages of dried bananas advanced in value by the appraiser, thus causing an assessment thereon of additional duties for such undervaluation. The petition prays that the additional duties be refunded.
+At the trial three witnesses testified on behalf of the broker who is the importer of record and the petitioner herein. The broker testified that the entry in question was prepared under his direction. He drew attention to the fact that the shipment arrived in the United States in 1944 when we were at war and during the period when the port of Laredo was overloaded with imports. The broker testified that the quality of help obtainable at that time was below par and due to the rush of work he neglected to make inquiry of either the shipper or the importer concerning whether or not the commission was a buying or a selling commission; that he also failed to notice that the total value extension of the unit value was erroneous upon the face of the invoice. Neither did he notice that an error had been made in converting the cost of dutiable charges into United States currency upon the entry.
+The purchaser of the merchandise testified that he agreed to pay 24 cents a pound, c. i. f. New York, but, as he did not see the consular invoice prior to the time of entry he had no reason to suspect that such invoice would not properly reflect the contract price.
+The seller of the merchandise testified that the commission was in fact a selling commission and was always added to the price of dried bananas. Neither the purchaser nor the broker, according to their testimony, made any attempt to conceal or misrepresent the facts and they were without intention to defraud the Government of revenue, or to deceive the appraiser as to the value of the goods.
+An examination of the invoice plainly discloses that there was an error in the unit value extension total. It also shows that the cases and packing totaled 1,788 Mexican dollars upon the invoice but a period was placed thereon in black ink making the charges one-tenth of that sum. That is to say, the item of “Envases” was invoiced at “$865.00” and was changed to “$86.500,” and the item of “Empaque” was invoiced at “$923.00” and changed to “$92.300,” which when converted to United States currency brought the cost of 85 cases and 6,630 cellophane packages down to a total of .$36.80, from the invoice price of $368. Had a reappraisement been called for, these mistakes'could have been corrected and it could have been made clear that these manifest errors had caused the large percentage of advance here complained about rather than the actual advance in the unit price of the goods.
+Erom the evidence as a whole it appears that the broker in making entry was negligent in failing to properly supervise the work of his subordinates and to check the entered values with the invoice totals, and in neglecting to ascertain whether or not the entered value reflected the proper value of the merchandise. However, we do not believe that the evidence warrants the finding that the petitioner made entry with the intention of defrauding the Government or concealing or misrepresenting the facts, or that it was his intention to deceive the appraiser as to the value of the merchandise.
+Judgment will therefore be entered granting the petition.
+
+## Dissent (Cline, Judge:)
+
+DISSENTING OPINION
+Cline, Judge:
+I regret that I am unable to agree with my associates that the petition in this ease should be granted.
+The petitioner is the broker who prepared the entry herein. He testified that at that time he had no information as to the value of the merchandise other than the consular invoice; that entry was made on the basis of that invoice; that he did not check the extension of the unit value on the invoice (which was subsequently found to be erroneous); that he submitted a request for information as to value to the appraiser, but the appraiser gave him no information; that he did not ask the shipper, the manufacturer, or the purchaser in the United States for any information as to value.
+There is a sheet attached to the consular invoice wherein a charge for “Envases” (cases) was shown in typed figures as “$865.00” and changed in ink to “$86.500” and a charge for “Empaque” (packing) was shown in typed figures as “$923.00” and changed in ink to “$92.300.” In making entry the broker added Mex. $86.50 as the cost for the cases and Mex. $92.30 as the cost of packing, without making any inquiry as to which figures were correct.
+The sheet attached to the consular invoice also contains an item “Comisión 5%-$236.28,” but this was not included in the entry and the broker testified that he did not know whether it was a buying or a selling commission. Ernesto Ibarra, the seller of the merchandise, testified that it was a selling commission and that he never offered merchandise for sale without including the selling commission in the price to be paid by the customer.
+The price of the merchandise according to the consular invoice was 15 cents per pound, but it appears from the testimony of Lloyd M. Trafford, vice president of the importing company, that the purchase price was 24 cents per pound, c. i. f. New York.
+In United States v. H. S. Dorf & Co. of Pa., Inc., 36 C. C. P. A. 29, C. A. D. 392, the broker submitted a request for information to the examiner, but when it was returned with no information, he made entry on the basis of the invoice price. It appeared that the importer had placed a subsequent or.der at a higher price, but had not disclosed this to the broker, nor had the broker made any inquiry of the importer as to the value of the merchandise. The court denied the petition, stating that filing a submission sheet does not obviate the duty imposed upon the entrant to ascertain and enter the merchandise at its true value; that where a submission sheet has been returned with no information, that fact is sufficient to put a broker on notice so as to require him to seek further information before making entry; and that an inquiry of the importer would have revealed the subsequent order at a higher price. The court said:
+* * * Appellee made no such inquiry, and without making any attempt to ascertain any additional facts from others in the trade as to the value of the merchandise, simply entered the shipment at the invoiced value. Such indifference as to the proper value of the goods as is disclosed by the record in this case doe's not meet the requirements of satisfactory proof of good faith which will support appellee’s petition for remission under the statute. National Silk Spinning Co., Inc. v. United States, 28 C. C. P. A. (Customs) 24, 26, C. A. D. 119; R. W. Gresham v. United States, 27 C. C. P. A. (Customs) 106, C. A. D. 70.
+In the instant case, the broker did no more than submit a request for information to the appraiser, although certain figures on the consular invoice and the sheet attached thereto were questionable. The submission sheet was returned with no information, but the broker made no inquiry either of the seller, which would have disclosed that the commission was a selling commission, or of the importer, which would have disclosed the contract price.
+The carelessness of the broker and his indifference to the correct value of the merchandise disclosed by this record do not constitute such proof of good faith as will support a petition for remission under the statute. The petition should be denied.
