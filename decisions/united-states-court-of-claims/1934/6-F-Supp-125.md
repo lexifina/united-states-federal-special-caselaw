@@ -1,0 +1,27 @@
+---
+court: "United States Court of Claims"
+docket: "K-254"
+decided: "1934-03-05"
+citations: ["6 F. Supp. 125"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BOOTH, Chief Justice, and GREEN, LITTLETON, WILLIAMS, and WHALEY, Judges."]
+parties: ["PIEDMONT WAGON & MFG. CO. v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/6/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4131034
+cites_cases: ["102 S. E. 389", "112 N. C. 751", "119 S. E. 235", "130 S. E. 32", "130 S. E. 545", "168 N. C. 632", "17 S. E. 536", "179 N. C. 298", "186 N. C. 210", "190 N. C. 406", "190 N. C. 655", "2 F. Supp. 538", "34 Am. St. Rep. 528", "34 F.(2d) 155", "34 F.(2d) 513", "37 F.(2d) 703", "53 F.(2d) 1", "84 S. E. 1032"]
+---
+
+# Piedmont Wagon & Mfg. Co. v. United States
+
+## Majority (LITTLETON, Judge.)
+
+LITTLETON, Judge.
+The elaim for additional interest on the overpayment for 1917 credited on March 31, 1926, to a tax due for 1929 cannot be allowed. This credit was made under section 1116 of the Revenue Act of 1926 (26 USCA § 153 note), which provides that interest on over-payments credited shall be paid only to the due date of the tax against which credited. The Commissioner computed and paid interest to the due date of the 1929 tax in accordance with the statute. No additional tax was assessed for 1917.
+The claim for an overpayment of $18,-736.88 for the fiscal year 1919, based on the alleged erroneous determination by the Commissioner of Internal Revenue of the inventory for that year, cannot be considered for the reason that no claim for refund on this ground was filed until August 29, 1931, more than five years after the return was due and more than four years after the tax was paid. Moreover, the evidence introduced by plaintiff with respect to this item does not support the claim that the inventory was erroneously determined by the Commissioner.
+The main contention of plaintiff, and the ground upon which the suit was originally predicated, is that the additional taxes for the fiscal years 1918 and 1919 were barred by the statute of limitation at the time they were assessed and collected for the reasons that (1) E. P. Rhyne, manager, secretary, and treasurer of the corporation, was without authority to execute the waivers, and (2) all of them were secured under duress and by fraud. We cannot sustain this contention. E. P. Rhyne was an executive officer of the corporation and it held him out as authorized to act for it in the matter of its tax liability for the years involved. The Commissioner, by letters addressed to plaintiff, requested the waivers for 1918 and 1919 and in response to these requests plaintiff transmitted to the Commissioner and filed with him such waivers bearing' its corporate seal, and executed by it by said E. P. Rhyne as secretary and treasurer. Central Aguirre Sugar Co. v. United States (Ct. Cl.) 2 F. Supp. 538. An executive officer or manager of North Carolina corporations has broad authority to act therefor. Rumbough v. Improvement Co., 112 N. C. 751, 17 S. E. 536, 34 Am. St. Rep. 528; Morris v. Basnight, 179 N. C. 298, 102 S. E. 389; Beck v. Wilkins-Ricks Co., 186 N. C. 210, 119 S. E. 235; Kelly v. Newark Shoe Stores Co., 190 N. C. 406, 130 S. E. 32; Fuller v. Motor & Tire Service, 190 N. C. 655, 130 S. E. 545, and such authority is the same as to third persons; Powell & Powell v. Lumber Co., 168 N. C. 632, 84 S. E. 1032. See, also, Hammond v. Carthage Sulphite Pulp & Paper Co. (D. C.) 34 F.(2d) 155; Liberty Baking Co. v. Heiner (D. C.) 34 F.(2d) 513; Id. (C. C. A.) 37 F.(2d) 703; Stevens Engraving Co. v. United States (C. C. A.) 53 F.(2d) 1.
+Upon the record we think E. P. Rhyne acted within the scope of his authority as manager, secretary, and treasurer of the corporation in signing the waivers consenting to assessment and collection of the tax in question after the statutory period of limitation and that plaintiff is not entitled to recover on the ground that the waivers were invalid for lack of authority in Rhyne to act for the corporation in the premises.
+The claim that the waivers were obtained under fraud and duress is not sustained by the evidence. The waivers in question were sent to plaintiff by the Commissioner in the usual way with request that they be executed and returned. This was done without protest of any kind.
+The petition must be dismissed. It is so ordered.
