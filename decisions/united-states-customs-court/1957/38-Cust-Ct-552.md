@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "60914; protest 279039-K (New York)"
+decided: "1957-06-21"
+citations: ["38 Cust. Ct. 552"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Atalanta Trading Corp. v. United States,"]
+source_url: "https://static.case.law/cust-ct/38/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6638730
+---
+
+# Atalanta Trading Corp. v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+The protest was dismissed.
