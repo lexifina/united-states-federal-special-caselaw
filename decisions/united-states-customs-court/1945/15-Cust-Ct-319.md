@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "50665"
+decided: "1945-11-15"
+citations: ["15 Cust. Ct. 319"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 108058-K, etc., of C. J. Tower & Sons (Buffalo)."]
+source_url: "https://static.case.law/cust-ct/15/cases/0319-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6658612
+cites_cases: ["14 Cust. Ct. 84"]
+---
+
+# Protests 108058-K of C. J. Tower & Sons
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+It was stipulated that the boron carbide in question is the same in all material respects as that the subject of Tower & Sons v. United States (14 Cust. Ct. 84, C. D. 917). In accordance therewith the merchandise was held dutiable as claimed.
