@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "68127; protest 60/25152 (San Diego)"
+decided: "1963-11-20"
+citations: ["51 Cust. Ct. 264"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Engine Imports, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/51/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6590591
+cites_cases: ["2 Cust. Ct. 114", "41 Cust. Ct. 306", "43 CCPA 9", "44 Cust. Ct. 253", "44 Cust. Ct. 448", "65 Treas. Dec. 1206", "86 Treas. Dec. 121"]
+---
+
+# Engine Imports, Inc. v. United States
+
+## Majority (Kao, Judge:)
+
+Kao, Judge:
+Plaintiff, an importer and distributor of automobile and marine accessories and parts, imported through the port of San Diego, Calif., certain articles invoiced as “%e" Filter Links.” These articles were assessed with duty at the rate of 19 per centum ad valorem, pursuant to the provisions of paragraph 397 of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dee. 150, T.D. 54108, for manufactures of steel, not specially provided for.
+It is the contention of plaintiff, interposed by way of amendment to its protest, that said merchandise is dutiable at the rate Of 8% per centum ad valorem as parts of internal-combustion engines of the carburetor type, either within the purview of paragraph 353 or of paragraph 372 of the Tariff Act of 1930, as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade, 86 Treas. Dec. 121, T.D. 52739.
+The cited provisions of the tariff laws, insofar as here pertinent, read as follows:
+Paragraph 397, as modified by T.D. 54108, supra:
+Articles or wares not specially provided for, whether partly or wholly manufactured :
+Composed wholly or in chief value of iron, steel, copper, brass, nickel, pewter, zinc, aluminum, or other base metal (except lead), but not plated with platinum, gold, or silver, or colored with gold lacquer:
+Other, composed wholly or in chief value of iron, steel, brass, bronze, zinc, or aluminum (except * * *)_19% ad val.
+Paragraph 353, as modified by T.D. 52739, supra:
+Articles having as an essential feature an electrical element or device, such as electric motors, fans, locomotives, portable tools, furnaces, heaters, ovens, ranges, washing machines, refrigerators, and signs, finished or unfinished, wholly or in chief value of metal, and not specially provided for :
+Internal-combustion engines, carburetor type_8%% ad val.
+Parts, finished or unfinished, wholly or in chief value of metal, not specially provided for, of articles provided for in any item 353 of this Part (not including X-ray tubes or parts thereof)_The same rate of duty as the articles of which they are parts
+Paragraph 372, as modified by T.D. 52739, supra:
+Machines, finished or unfinished, not specially provided for:
+Internal-combustion engines of the carburetor type_8%% ad val.
+Parts, not specially provided for, wholly or in chief value of metal or porcelain, of any article provided for in any item 372 in this Part:
+Other_:_The rate for the article of which they are parts
+Aside from a pamphlet illustrating how filter links of the type here in issue are used, which was received in evidence as defendant’s exhibit A, all of the evidence in the case was proffered by the plaintiff. It consists of the testimony of Patrick R. Patrick, president of the plaintiff corporation, a sample of the merchandise at bar, plaintiff’s exhibit 1, and a sample of a filter link of the one-fourth-ineh size, plaintiff’s exhibit 2, having the same uses as the imported five-sixteenths of 1 inch filter link.
+The witness, who had had some experience, both as a youth, and, later, in the British Royal Air Force, in maintaining, repairing, and replacing automotive and aircraft engines, testified as to his familiarity with the subject filter links. He had seen them produced in the country of exportation, had sold them throughout the United States, and had seen them used in the California and New York areas. The use he described was in connection with internal-combustion engines of the carburetor type in automobiles, motorcycles, and power lawnmowers. The filter link is inserted in the fuel line, for the purpose of preventing gasoline impurities from reaching the carburetor.
+It is not clear from the record at what point the actual installation is made, since, on direct examination, the witness stated that it could be “anywhere between the pump and the carburetor,” while, on cross-examination, he said it could be “anywhere in the fuel line between the tank and the carburetor.” IVherever the link is installed, however, it is necessary to sever the fuel line and slide the cut ends over the caps of the filter link. Consequently, once the line is cut to insert the link, the engine could not operate without the link, without either replacing the complete line or repairing the cut in it.
+The witness also stated that, in his opinion, based upon personal observation, some type of filter would be standard equipment for internal-combustion engines of the carburetor type; that he would not consider a gasoline tank per se a part of an internal-combustion engine of the carburetor type, but he thought it necessary to have some place to store fuel and some kind of fuel to operate the engine; and that, while an engine can operate without a filter, it can not do so as efficiently, because “carburetor jets are extremely small. They are designed to atomize fuel. And if one or more of them gets clogged up you have an inefficient fuel supply.”
+It is allegedly the fact that the filter links at bar are designed for use in internal-combustion engines of the carburetor type, coupled with the circumstance that, once installed, they are essential to the operation of such engines, upon which counsel for plaintiff predicates his contention that these articles are parts of internal-combustion engines of the carburetor type. Counsel urges that the instant filter links are similar in all material respects to the carburetors and parts thereof involved in the case of Davies, Turner & Co. v. United States, 41 Cust. Ct. 306, Abstract 62130; the magnetos and parts thereof the subject of decision in Roneo Corporation v. United States, 44 Cust. Ct. 253, C.D. 2184; and the spark plugs involved in Lodge Spark Plug Co., Ine., and James Loudon et al. v. United States, 44 Cust. Ct. 448, Abstract 64136, all of which were held to be parts of internal-combustion engines of the carburetor type, and similar in principle to the superchargers, which were held to be parts of automobiles in the ease of United States v. Antonio Pompeo, 43 CCPA 9; C.A.D. 602.
+Counsel for defendant does not challenge the record evidence of the purpose for which these links were designed nor the effect of their installation in the fuel systems of internal-combustion engines, but contends that neither a fuel line nor a filtering system is per se a part of an internal-combustion engine, however essential they may be to the ultimate operation of the engine. In support of this proposition, counsel adverts to the definition of an internal-combustion engine in Webster’s New International Dictionary, second edition, together with its accompanying diagrams of the structure and component elements of such an engine.
+It must indeed be observed that the article described and depicted in the dictionary as an internal-combustion engine is an entity which does not include, as an essential functioning part, either a fuel line or a filtering system. These are but the means by which the operating power is cleansed and transported into the mechanism of the motor, but they are not in and of themselves elements with which the engine works.
+The quoted definition reads as follows :
+Mach. A heat engine in which the pressure necessary to produce motion of the mechanism results from the ignition or burning of a fuel-air mixture within the engine cylinder.
+One of the accompanying diagrams lists some 25 component parts comprising the entity which is an internal-combustion engine, but the system by which the fuel is brought into the engine is not among the items enumerated.
+We are inclined to agree with counsel for defendant that a fuel line for an internal-combustion engine serves the same function, namely, as a conduit for transmitting motivating power, as the flexible steel shafts involved in the cases of Henry A. Wess, Inc. v. United, States, 65 Treas. Dec. 1206, Abstract 26564, and A. KUngelhiyfer v. United States, 2 Cust. Ct. 114, C.D. 102, which were held not to be parts of the machines to which they were connected. As stated in the Wess case:
+But are such shafts, strictly speaking, parts of machines, within the meaning of said paragraph 372 ? We think not. At best, they function merely as auxiliary attachments or appurtenances and are simply the media through which the motivating power is transmitted to the machine proper. In this respect they function precisely as do belts. Indeed, it may be said that these shafts are used in lieu of belts. Since such is their sole use, they are no more parts of machines than are belts so classifiable.
+If the tariff provision invoked by plaintiff read “machinery or parts thereof” there possibly would be some logic in contending that these shafts constituted an integral part of the concrete-surfacing machine above referred to. But being merely the intermediary through which the electric current is transmitted from the power-generating mechanism to the machine which utilizes it as a motivating force, it follows that such intermediary is no more a part of the one machine than it is a part of the other.
+A gasoline line which runs from the gasoline tank to the motor of an automobile supplies the power which is utilized by the engine in the performance of the function which it is designed to serve. It is not, however, a part of the engine. Consequently, whether or not a filter link is a part of a gasoline line, which need not here be expressly determined, it is no more a part of the engine than the line into which it is inserted.
+By reason of the foregoing, we find the contention of the plaintiff that the instant filter links are parts of internal-combustion engines of the carburetor type to be without merit. All claims in the protest are, therefore, overruled.
+Judgment will be entered accordingly.
