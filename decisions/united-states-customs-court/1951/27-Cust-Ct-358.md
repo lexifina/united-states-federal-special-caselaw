@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "56048; protest 146580-K (San Francisco)"
+decided: "1951-11-19"
+citations: ["27 Cust. Ct. 358"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. N. Jackson & Co., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/27/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643372
+---
+
+# L. N. Jackson & Co. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+Following the authorities cited in Abstract 15400 the court dismissed the protest.
