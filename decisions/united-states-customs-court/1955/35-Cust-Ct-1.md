@@ -1,0 +1,63 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1712"
+decided: "1955-06-29"
+citations: ["35 Cust. Ct. 1"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Laweence, Rao, and Foe», Judges"]
+parties: ["Trans Atlantic Company v. United States"]
+source_url: "https://static.case.law/cust-ct/35/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6584092
+cites_cases: ["1 Ct. Cust. Appls. 34", "1 Ct. Cust. Appls. 422", "10 Cust. Ct. 222", "11 Ct. Cust. Appls. 105", "13 Ct. Cust. Appls. 315", "148 U. S. 648", "168 Fed. 242", "19 C. C. P. A. 43", "19 U. S. C. § 1001", "2 Ct. Cust. Appls. 475", "2 Cust. Ct. 371", "22 C. C. P. A. 281", "22 C. C. P. A. 38", "22 C. C. P. A. 390", "23 C. C. P. A. 117", "23 C. C. P. A. 365", "30 Cust. Ct. 372", "4 Ct. Cust. Appls. 508", "73 Treas. Dec. 297", "73 Treas. Dec. 817", "82 Treas. Dec. 305", "86 Treas. Dec. 121"]
+---
+
+# Trans Atlantic Co. v. United States
+
+## Majority (Lawrence, Judge:)
+
+Lawrence, Judge:
+The merchandise under consideration here consists of hinges, imported with screws, in carboard boxes.
+The collector of customs, treating the merchandise as entireties, classified it as articles in chief value of base metal and assessed duty thereon at the rate of 22per centum ad valorem, in accordance with the terms of paragraph 397 of the Tariff Act of 1930 (19 U. S. C. § 1001, par. 397), as modified by the General Agreement on Tariffs and Trade (82 Treas. Dec. 305, T. D. 51802).
+Plaintiff claims by its protest that the screws should be separately classified pursuant to the eo nomine provision therefor in paragraph 338 of said act (19 U. S. C. § 1001, par. 338), as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade (86 Treas. Dec. 121, T. D. 52739), and subjected to duty at the rate of 12% per centum ad valorem, leaving only the hinges to be classified in said paragraph 397. In other words, the claim for a reduction in duty is limited to the screws.
+The competing provisions of the statutes, so far as pertinent here, read as follows:
+Paragraph 397 of the Tariff Act of 1930, as modified, sufra:
+Articles or wares not specially provided for, wb.eth.er partly or wholly manufactured:
+% :fi * % :j; %
+Composed wholly or in chief value of iron, steel, lead, copper, brass, nickel, pewter, zinc, aluminum, or other metal (not including platinum, gold, or silver), but not plated with platinum, gold, or silver, or colored with gold lacquer:
+Other (except slide fasteners and parts thereof)_22%% ad val.
+Paragraph 338 of said act, as modified, supra:
+Screws, commonly called wood screws, of iron or steel_ 12%% ad val.
+At the trial, the case was submitted upon an oral stipulation in which the parties agreed as follows:
+1. That the merchandise under protest consists of screws packed with hinges in cardboard boxes, 2 hinges and 12 screws to a box, as represented by the sample which I now file with the court, and which may, with the consent of the court, be received into evidence as Plaintiff’s Exhibit 1, all of which were classified and assessed with duty as entireties as manufactures in chief value of metal, not specially provided for, with duty at 22% per cent ad valorem under paragraph 397, TariS Act of 1930, as modified by the President under the General Agreement on Tariffs and Trade, T. D. 51802.
+>}: ^ # ‡ ‡ ‡ #
+2. * * * that said screws are ordinary wood screws of steel capable of use in any wooden surface and not necessarily with any particular article or surface.
+3. That each hinge is designed for use 'and is capable of use only as a hinge; that each said hinge consists of two brass plated butts or wings fastened together with a round headed steel pin; that each butt or wing contains 3 holes therein through which holes each hinge is designed to be fastened as a hinge to two separate surfaces by means of screws, nails, bolts or similar fastening devices.
+4. That it is not necessary to use only screws as fastening devices for said hinges, but that nails, bolts or some similar fastening devices can be and are frequently used as said fastening devices. However, screws, nails, bolts or some similar fastening devices (with shanks capable of passing through the said holes in the said hinges and of engaging the surfaces being hinged, and with heads sufficiently large not to pass through said holes in said hinges) must be employed to fasten the hinges to the two surfaces being hinged together.
+5. That the merchandise is sold to the trade in its condition as represented by Exhibit 1, and the number of screws (12 screws) in each package is exactly the number required for the use of the two hinges in each package when all holes in each hinge are used; that the size, design and shape of the said screws in each of said boxes is customary and suitable for attaching the hinges with which packed to wooden surfaces and that said hinges are usually used as hinges for wooden surfaces, but that longer or shorter wood screws are occasionally used with said hinges, and said hinges are also used as hinges for non-wooden surfaces (such as metal surfaces) where different kinds of fastening devices are required.
+6. That the six holes in each of the hinges are countersunk in such a way that the heads of the imported screws which are packed therewith and which are also countersunk under the heads so that when said screws are used as fastening devices with the hinges, the heads of the screws fit the countersunk holes and the top of the screws lie flush with the face of the hinge.
+# ifc s¡«
+An examination of exhibit 1, which was received in evidence to illustrate the imported merchandise, discloses that it is a cardboard box, containing 2 hinges and 12 screws which are packed together as a set. The hinges contain 6 countersunk holes, by means of which they may be fastened to surfaces with 6 screws of the size, design, and shape known as wood screws and suitable for attaching the hinges to a wooden surface. It appears, however, from paragraph 4 of the agreed statement of facts “That it is not necessary to use only screws as fastening devices for said hinges, but that nails, bolts or some similar fastening devices can be and are frequently used as said fastening devices.”
+It is noted also that in paragraph 2 of the stipulation it is agreed “* * * that said screws are ordinary wood screws of steel capable of use in any wooden surface and not necessarily with any particular article or surface.”
+Obviously, the salient facts in the case are not in dispute.
+The primary question for determination here is whether the hinges and screws were properly regarded as entireties for duty purposes. Plaintiff, in its brief, sets forth what it deems to be “the particular points that are decisive of this case * * *”—
+1. The screws herein are provided for eo nomine in Paragraph 338. Hinges, as such, are not provided for in the tariff law except in the catch-all provision for manufactures of metal.
+2. The screws can be used in any wooden surface, and they are not dedicated for use with the hinges with which imported or with any other article.
+3. The hinges can be, and frequently are, attached to surfaces by fastening devices that are not the imported screws.
+In support of its contention, plaintiff invites our attention to the case of Kwong Yuen & Co. v. United States, 73 Treas. Dec. 297, T. D. 49409, in which china vases and wooden stands therefor were held to be separately dutiable; also to the case of Abercrombie & Fitch Co. v. United States, 10 Cust. Ct. 222, C. D. 758, wherein balls, mallets, and other articles, comprising parts of a croquet set, were held subject to classification as separate entities.
+Plaintiff further calls our attention to the case of Selsi Co., Inc., v. United States, 2 Cust. Ct. 371, C. D. 160, in which this court expressed itself as follows upon the subject of entireties:
+The principle of customs law is well settled that to constitute an entirety for tariff purposes a combination of two or more articles must be so joined together or merged that the whole creates a new and different article with a new name and use. See Isaacs v. Jonas, 148 U. S. 648; United States v. Auto Import Co., 168 Fed. 242; Park & Tilford v. United States, 1 Ct. Cust. Appls. 34, T. D. 31006; Knauth v. United States, 1 Ct. Cust. Appls. 422, T. D. 31499; Jackson Co. v. United States, 2 Ct. Cust. Appls. 475, T. D. 32227; United States v. Haaker, 4 Ct. Cust. Appls. 508, T. D. 33935; Altman v. United States, 13 Ct. Cust. Appls. 315, T. D. 41232; Salemi & Sons v. United States, 19 C. C. P. A. 43, T. D. 44892; United States v. Miyaka, 22 C. C. P. A. 38, T. D. 47039; Yardley v. United States, 22 C. C. P. A. 390, T. D. 47400; United States v. Woolworth, 23 C. C. P. A. 365, T. D. 48212; Brach v. United States, Abstract 26145, and Fiver v. United States, T. D. 47357.
+Where articles (other than those eo nomine provided for) designed to be used together are separate, distinct, and complete in themselves, they are not to be regarded as entireties for tariff purposes, because they do not merge so as to form a new or distinct article of commerce having a different character and use, or because neither becomes essential to the completeness of the other, or bears a natural affinity or relation one to the other. See Borgfeldt v. United States, 11 Ct. Cust. Appls. 105, T. D. 38750; United States v. Kalter, id. 540, T. D. 39680; Lord & Taylor v. United States (G. A. 6942, T. D. 30140); Cincinnati Artistic Wrought Iron Works v. United States, T. D. 44354; Vantine v. United States, Abstract 34727 (T. D. 34165); Coty Processing Co., Inc. v. United States, 23 C. C. P. A. 117, T. D. 47768; and United States v. Hensel, Bruckmann & Lorbacher, Inc., 22 C. C. P. A. 281, T. D. 47330.
+Further, the court said—
+As a general proposition, therefore, articles are not regarded by the courts as entireties for dutiable purposes when there is no natural affinity in composition, and particularly where one of the articles is complete in all of its parts without regard to the article imported to be used with it.
+Obviously, the screws and hinges in controversy do not merge to form an article having a new name or use. The screws when affixed do not change the character of the hinges, which retain their original identity, and so do the screws, which are used merely as a means of fastening the hinges to doors or other surfaces. Moreover, as .disclosed by the stipulation of fact, “it is not necessary to use only screws as fastening devices for said hinges, but that nails, bolts or some similar fastening devices can be and are frequently used as said fastening devices.”
+In support of the collector’s classification of the imported articles, defendant cites the following cases, wherein certain commodities were held to be subject to duty as entireties:
+Artgift Corp. v. United States, 30 Cust. Ct. 372, Abstract 57135 — a metal statuette, securely affixed to a wooden base, with a glass dome placed over the statuette.
+Altman & Co. v. United States, 13 Ct. Cust. Appls. 315, T.D. 41232— corsets and lace trimmings, the trimmings being imported for the sole purpose of finishing and completing the corsets.
+United States v. Auto Import Co., 168 Fed. 242 — automobiles imported with the exact number of tires required for their use.
+L. Oppleman, Inc. v. United States, 73 Treas. Dec. 817, T. D. 49565— barometers and parts thereof, and barometer frames or cases therefor into the bases of which were fastened circular containers in the form of ships’ steering wheels for the purpose of holding the barometers in position, the frames or cases being regarded as essential to the proper functioning of the barometers.
+The factual circumstances of the four cases just cited differ from those in the instant case in such important respects as to distinguish them clearly, and we find nothing therein inimical to the conclusion we have reached. In each of the cases cited by defendant, the .various items of merchandise in controversy merged in such a manner as to complete the involved articles. In the issue now before us, there is no merger of hinges and screws — each retains its individual identity at all times.
+For the reasons above set forth, we sustain the claim in the protest that the screws in controversy are properly dutiable at 12% per centum ad valorem as provided in paragraph 338 of the Tariff Act of 1930, as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade, supra.
+Judgment will be issued in accordance with the views above expressed.
