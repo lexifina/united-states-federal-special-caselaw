@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "42486"
+decided: "1939-10-18"
+citations: ["3 Cust. Ct. 448"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 917236-G, etc., of Alfred Dunhill of London, Inc. (New York)."]
+source_url: "https://static.case.law/cust-ct/3/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6687426
+---
+
+# Protests 917236-G of Alfred Dunhill of London, Inc.
+
+## Majority (Evans, J.)
+
+Opinion by
+Evans, J.
+In accordance with stipulation of counsel and on the authority of Dunhill v. United States (C. D. 70) and Abstract 41307 the lighter parts in question were held dutiable at two-thirds of 1 cent each and two-fifths of 1 cent per dozen for each 1 cent the value exceeds 20 cents per dozen, and 25 percent ad valorem, under paragraph 1527 (c) (2) and the French Trade Agreement (T. D. 48316).
