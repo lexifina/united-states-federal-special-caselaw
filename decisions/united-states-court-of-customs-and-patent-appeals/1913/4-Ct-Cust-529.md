@@ -1,0 +1,19 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "991"
+decided: "1913-03-21"
+citations: ["4 Ct. Cust. 529"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gallagher & Ascher v. United States"]
+source_url: "https://static.case.law/ct-cust/4/cases/0529-09.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6094472
+---
+
+# Gallagher v. United States
+
+## Majority
+
+Machine tools.
