@@ -1,0 +1,38 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 91-09-00695"
+decided: "1994-02-11"
+citations: ["18 Ct. Int'l Trade 104", "843 F. Supp. 737"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NTN Bearing Corp. of America, American NTN Bearing Mfg. Corp., and NTN Corp., plaintiffs v. United States, defendant, and Timken Co., defendant-intervenor"]
+source_url: "https://static.case.law/ct-intl-trade/18/cases/0104-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6133435
+cites_cases: ["12 CIT 343", "17 CIT 1149", "305 U.S. 197", "56 Fed. Reg. 41", "685 F. Supp. 1252", "835 F. Supp. 646"]
+---
+
+# NTN Bearing Corp. of America v. United States
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+Plaintiffs, NTN Bearing Corp. of America, American NTN Bearing Mfg. Corp. and NTN Corporation (“NTN”), move for a second remand ordering the Department of Commerce, International Trade Administration (“ITA”), to use the interest rate supplied by NTN for the purpose of calculating credit expenses in Japan and inventory carrying costs in the United States.
+The administrative determination under review is the ITA’s Results of Redetermination Pursuant to Court Remand NTN Bearing Corp. of America, American NTN Bearing Mfg. Corp. and NTN Corporation v. United States, Slip Op. 93-204 (October 22, 1993) (“Remand Results”).
+Background
+This case is before this Court as a result of NTN’s challenge to the ITA’s final results in Tapered Roller Bearings, Finished and Unfinished, and Parts Thereof, From Japan; Final Results of Antidumping Duty Administrative Review, 56 Fed. Reg. 41, 508 (1991). For the factual background to this case, the reader is referred to NTN Bearing Corp. of America v. United States, 17 CIT 1149, 835 F. Supp. 646 (1993).
+In NTN, 17 CIT at 1157, 835 F. Supp. at 653, this Court remanded this case to the ITA “to (1) apply the 10% cap to the methodology used in the final results [to choose such or similar merchandise], and (2) either recalculate NTN’s credit expenses and inventory carrying cost to take into account the effect of compensatingbalances or, in the alternative, to substantiate on the record why it should not.”
+Discussion
+ITA’s final results filed pursuant to a remand will be sustained unless that determination is “unsupported by substantial evidence on the record, or otherwise not in accordance with law.” 19 U.S.C. § 1516a(b)(l)(B) (1988). Substantial evidence is ’’relevant evidence as a reasonable mind might accept as adequate to support a conclusion.” Consolidated Edison Co. v. NLRB, 305 U.S. 197, 229 (1938); Alhambra Foundry Co. v. United States, 12 CIT 343, 345, 685 F. Supp. 1252, 1255 (1988).
+1. Ten Percent Deviation Cap:
+Upon remand, this Court ordered the ITA to apply a 10% cap which would eliminate potential matches of home market sales of similar merchandise with a U.S. sale of similar merchandise if any of the five physical criteria of the home market models examined by the ITA differed by more than 10% from the same physical criteria for the U.S. model.
+The ITA has implemented the Court’s instructions on this issue. Remand Results at 2-3. Therefore, the ITA’s Remand Results are affirmed as to the ITA’s implementation of the 10% cap.
+2. Compensating Balances:
+In its Remand Results, the ITA explained why it uses the total amount of the loan made to NTN in calculating NTN’s interest rate. For example, if you assume a $120,000 loan with a 10% interest rate and acquirement that NTN maintain a $20,000 compensating balance which earns interest at 5%, NTN’s total interest expense would be ($120,000 x 10%) - ($20,000 x 5%) = $12,000 - $1,000 = $11,000. This interest is payable on the full amount of the loan, i.e., $120,000. Therefore, NTN’s real interest rate is 9.2% ($11,000/$120,000). Remand Results at 4; Defendant’s Response to Plaintiffs ’ Comments on Results of Redetermination Pursuant to Court Ordered Remand.
+NTN continues to disagree with the ITA’s calculation of NTN’s interest rate. NTN argues that if the ITA is going to take the interest earned on compensating balances into account in calculating NTN’s interest expense, the ITA should be required to take into account the fact that NTN in reality only has the use of $100,000 in the example above. Therefore, NTN would calculate the interest rate as follows: ($120,000 x 10%)-($20,000 x5%)/($120,000-$20,000) = $11,000/$100,000 = 11%. Plaintiffs’ Comments on Results of Redetermination Pursuant to Court Ordered Remand at 2-7.
+The Court agrees with the ITA’s reasoning on this issue. NTN’s proposed methodology ignores the fact that, in the example above, the total amount which NTN has borrowed is $120,000 and it is this amount to which the net interest rate applies. The amount that NTN actually had the use of is irrelevant in calculating the interest rate which NTN paid.
+Therefore, the ITA’s explanation of its calculation of NTN’s interest rate for the purpose of calculating NTN’s credit expenses in Japan and inventory carrying costs in the United States is affirmed.
+Conclusion
+The ITA’s Results of Redetermination Pursuant to Court Remand NTN Bearing Corp. of America. American NTN Bearing Mfg. Corp. and NTN Corporation v. United States, Slip Op. 93-204 (October 22, 1993) is affirmed and this case is hereby dismissed.
