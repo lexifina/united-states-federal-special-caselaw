@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2103"
+decided: "1959-07-17"
+citations: ["43 Cust. Ct. 60"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges; Oliver, O.J., concurring"]
+parties: ["Greene Trading Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/43/cases/0060-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577510
+cites_cases: ["141 U.S. 468", "257 U.S. 563", "28 Treas. Dec. 385", "30 Cust. Ct. 244"]
+---
+
+# Greene Trading Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+The merchandise the subject of these protests is described on the invoices as “Illipe butter” and was assessed with duty at the rate of 10 per centum ad valorem under the provision in paragraph 53 of the Tariff Act of 1930, as modified by the Presidential proclamation reported in T.D. 52739, for expressed or extracted vegetable oils, not specially provided for. The protest claim in each case is for free entry under the provision in paragraph 1794 of the said act for “Vegetable tallow.”
+There is no serious dispute as to the facts, it being established that the involved merchandise is Illipe butter, also known as Borneo tallow. It was conceded on the part of the defendant that the merchandise before the court is in fact a vegetable tallow.
+Pointing out that the designation of vegetable tallow in paragraph 1794 is a designation by name, i.e., an eo nomine designation, plaintiff contends that, under well-settled principles of tariff statutory construction, an eo nomine designation, without words of limitation, includes all forms of the article. United States v. Fries Bros., Inc., 37 C.C.P.A. (Customs) 36, C.A.D. 416. Plaintiff further points out that the common meaning of the term, as given by lexicographers, includes—
+* * * any one of several fatty vegetable substances, variously derived, resembling tallow, and used locally for making candles, soap, etc. [Funk & Wagnalls New Standard Dictionary, 1930.]
+* * * any fatty tallowlike substance obtained from plants, as from the Chinese tallow tree, and used for burning, as a lubricant, in soap manufacture, etc. fWebster’s New International Dictionary, 1930.]
+Plaintiff, therefore, contends that under the cited rule of statutory construction and upon the basis of the common meaning of the term, Illipe butter or Borneo tallow, being a kind of vegetable tallow, is entitled to classification under the free list provision therefor.
+Defendant, while recognizing the existence of the principle of statutory construction cited by the plaintiff, contends that the provision for vegetable tallow falls into an exception to the rule, that where a contrary legislative intent can be shown, the cited rule does not apply. The exception relied upon by the defendant is well stated in the exposition of the rule by the majority in the case of Nootka Packing Co. et al. v. United States, 22 C.C.P.A. (Customs) 464, T.D. 47464, as follows:
+Tbe clear weight of the authorities on the subject is that an eo nomine statutory designation of an article, without limitations, or a shown contrary legislative intent, judicial decision, or administrative practice to the contrary, and without proof of commercial designation, will include all forms of said article.
+Defendant contends that a contrary legislative intent is shown by reference to the “Summary of Tariff Information, 1929, on Tariff Act of 1922.” This work is a compilation prepared by the United States Tariff Commission for the use of the Committee on Ways and Means of the House of Bepresentatives at the time when the Tariff Act of 1922 was under examination with the view of revision or readjustment thereof. Where the common meaning of a term used in the Tariff Act of 1930 has been found to be ambiguous or involved in doubt, the Summary of Tariff Information, 1929, has been used as a source material of legislative history to aid the court in determining the legislative intent in the use of the terms. Sears, Roebuck & Co. v. United States, 26 C.C.P.A. (Customs) 161, C.A.D. 11.
+It is well settled, however, that resort to such materials is not warranted when the language of the tariff statute is plain and unambiguous. C. J. Tower & Sons. v. United States, 41 C.C.P.A. (Customs) 195, C.A.D. 550. In other words, resort to legislative history materials may be used to solve a doubt, but not to create one.
+Defendant seeks to justify resort to the Summary of Tariff Information, 1929, however, on the ground that the common meaning of the term “vegetable tallow,” as given in Webster’s New International Dictionary, indicates that it has both a broad and a narrow meaning, as follows:
+Any fatty tallowlike substance obtained from plants and used in soap and candles, for burning, etc.; specif., Chinese tallow.
+Under circumstances where a term has both broad and narrow common meanings, it has been held that resort to legislative history may be justified in order to determine which meaning was intended to be applied to the term. Sears, Roebuck & Co. v. United States, supra.
+We note that the dictionary definition showing both a general and a specific meaning for the term “vegetable tallow,” relied upon by the defendant, is one which appeared in Webster’s New International Dictionary issued in 1934 and later years. Examination of the definitions of the term as contained in dictionaries issued at or about the time of the passage of the Tariff Act of 1930, such as Webster’s New International Dictionary, 1930, as well as Funk & Wagnalls New Standard Dictionary, 1930, both hereinbefore quoted, does not indicate two meanings for the term, but only a single meaning of broad scope, which unquestionably includes the merchandise at bar.
+It is well settled that the common or commercial meaning of an eo nomine designation in a tariff act is to be determined as of the effective date of the act. Wilbur-Ellis Co. et al. v. United States, 18 C.C.P.A. (Customs) 472, T.D. 44762; American Net and Twine Company v. Worthington, 141 U.S. 468, 35 L. ed. 821; Orbis Products Corp. v. United States, 30 Cust. Ct. 244, C.D. 1527.
+We, therefore, hold that the common meaning of the term “vegetable tallow” at the time of the passage of the Tariff Act of 1930 was as demonstrated by the dictionary definitions, hereinbefore quoted, given by lexicographers in 1930. There is, therefore, no warrant for resort to legislative history, as at that time there was no ambiguity.
+It appearing that the merchandise is more specifically provided for under paragraph 1794 as “vegetable tallow” than under the provision in paragraph 53 for expressed or extracted oils, the protest claim in each case for free entry under paragraph 1794 is sustained, and judgment will issue accordingly.
+
+## Concurrence (Oliver, Chief Judge:)
+
+CONCURRING OPINION
+Oliver, Chief Judge:
+While I concur with the' majority in their conclusion, I feel that the classification of this merchandise is controlled by the rule of statutory construction that an eo nomine designation, without words of limitation or qualification, includes all forms of the article, and that, consistent with that principle, the substance in question, being concededly a vegetable tallow, is entitled to free entry under the eo nomine provision therefor in paragraph 1794, as claimed by plaintiff.
+Support therefor is found in the following- review of the tariff provisions, as enacted in four different tariff acts, granting free entry to vegetable tallow.
+In the Tariff Act of 1909 (paragraph 580), the provision for vegetable tallow was limited to such as is “commonly used in soap mating or in wire drawing, or for stuffing or dressing leather,” and “fit only for such uses.”
+In the Tariff Act of 1913 (paragraph 498), the phrase, “fit only for such uses” was eliminated. Omission of those words of limitation showed unmistakable congressional intent to grant free entry to vegetable tallow, commercially and practically for purposes other than those theretofore named. Such a statutory construction was applied in Perry, Ryer & Co. v. United States, 28 Treas. Dec. 385, T.D. 35221. There, the merchandise was identified as mafura tallow, a substance derived from the seeds of a tree grown in Portuguese East Africa and adaptable for use in soap making. Giving to the statute (paragraph 498 of the Tariff Act of 1913) a liberal construction not invoked over its predecessor (paragraph 580 of the Tariff Act of 1909), it was held that even though mafura tallow had not been actually used in this country, it was sufficient, upon a showing that the substance was comparable to a long list of vegetable tallows used in soap making and that it had been so used in a foreign country, to grant free entry to the merchandise under paragraph 498, supra.
+In subsequent tariff legislation—first, the Tariff Act of 1922 (paragraph 1691) and, later, the Tariff Act of 1930 (paragraph 1794), the provision for “vegetable tallow” was enacted without any words of limitation or qualification.
+The consistency with which Congress has continued to broaden or enlarge the scope of the provision for vegetable tallow must be accepted as reflecting a congressional intent to include within paragraph 1794, supra, all kinds of vegetable tallow, without regard to quality, grade, or use.
+Defendant’s reference to tlie “Summary of Tariff Information, 1929, on Tariff Act of 1922” seeks to create ambiguity in statutory language that needs no construction. The document has no place for discussion herein. Our appellate court, in United States v. Kung Chen Fur Corporation, 38 C.C.P.A. (Customs) 107, C.A.D. 447, stated the principle as follows:
+It is equally as well settled that extrinsic aid properly may be invoked only after ambiguity has been found to exist; or, to state it differently, it is not proper to invoke extrinsic aid and thereby create ambiguity. In the case of Railroad Commission of Wisconsin, et al. v. Chicago, Burlington & Quincy Railroad Co., 257 U.S. 563, 588-9, the Supreme Court of the United States declared that extraneous aids “are only admissible to solve doubt and not to create it.” * * *
+Since it is conceded that the merchandise in question is a vegetable tallow, it follows, in the light of the reasoning hereinabove set forth, that the substance is entitled to free entry under paragraph 1794, supra, as held by the majority.
