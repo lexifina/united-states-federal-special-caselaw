@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "59199; protest 249441-K (New York)"
+decided: "1955-06-29"
+citations: ["35 Cust. Ct. 207"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["H. George Caspari, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/35/cases/0207-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6587877
+cites_cases: ["32 Cust. Ct. 24"]
+---
+
+# H. George Caspari, Inc. v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+It was stipulated that the merchandise is similar in all material respects to the paper napkins the subject of Wesley & Winter, Inc. v. United States (32 Cust. Ct. 24, C. D. 1575). Upon the agreed statement of facts and following the cited authority, it was held that the merchandise is dutiable at 15 percent under paragraph 1413, as modified, supra.
