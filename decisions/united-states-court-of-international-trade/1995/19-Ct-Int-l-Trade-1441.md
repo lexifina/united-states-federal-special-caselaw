@@ -1,0 +1,176 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 94-05-00294"
+decided: "1995-12-26"
+citations: ["19 Ct. Int'l Trade 1441", "914 F. Supp. 554"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bauerhin Technologies Ltd., partnership, and John V. Carr & Son Inc., plaintiffs v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/19/cases/1441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11908012
+cites_cases: ["14 CIT 146", "17 CIT 79", "17 CIT 871", "1960 WL 8476", "21 C.C.P.A. 322", "22 F.3d 1102", "24 F.3d 1390", "28 U.S.C. § 2639", "292 U.S. 640", "43 CCPA 9", "48 CCPA 30", "58 C.C.P.A. 9", "6 C.I.T. 176", "62 F.3d 1407", "63 F.3d 1407", "68 F.3d 1333", "733 F.2d 873", "738 F. Supp. 528", "739 F.2d 628", "829 F. Supp. 1387", "855 F. Supp 1283", "855 F. Supp. 1292", "861 F.Supp 136", "885 F. Supp. 243", "920 F.2d 910"]
+---
+
+# Bauerhin Technologies Ltd. v. United States
+
+## Majority (Wallach, Judge:)
+
+OPINION
+I
+Introduction
+Wallach, Judge:
+In this action, Bauerhin Technologies Limited and John V Carr & Son, Inc., (hereinafter collectively referred to as “Bauer-hin”) challenge classification by Customs of imported padded inserts for infant car seats or swings as items of bedding under subheading 9404.90.20 HTSUS, and of cloth canopies for those seats and swings as other made up textile articles under subheading 6307.90.94 HTSUS.
+Bauerhin argues that Customs erred and that both types of imports should be classified as parts of automobile seats under subheading 9401.90.10, or parts of other seats under 9401.90.50.
+Bauerhin bases its insert arguments on its central proposition that the seat inserts at issue could not possibly be, and are not in the trade, viewed as items of bedding under Heading 9404 HTSUS. Accordingly, says Bauerhin, the doctrine of ejusdem generis dictates that, based upon an examination of the characteristics of items included in Chapter 9404, the seat inserts must be classified as parts of auto seats.
+Bauerhin’s argument on seat inserts is not well taken.
+Customs is correct in its assertion that the seat inserts are cushions described in Heading 9404, and that Note 3(b) to Chapter 94 HTSUS prohibits classification in Heading 9401 or as parts of such goods. While analysis needs not go past that point, it is also appropriate to note that the promotional material submitted as evidence by Bauerhin demonstrates that the baby seats and swings for which the inserts are imported shows they are used as bedding, even under the legal analysis propounded by the Plaintiffs.
+Thus, given Customs’ presumption of correct classification, the Defendant is entitled to a Summary Judgment on seat inserts.
+Customs clearly erred in its initial classification in Heading 9404 of the canopies here at issue. Since those items contain no padding, as Customs conceded in its Ruling on Bauerhin’s protest, inclusion in Heading 9404 was erroneous. Customs instead reclassified the canopies under HTSUS item 6307.90.94 as other made-up textile articles.
+Bauerhin argues that the canopies are not accurately described as made up textile items, and that they (and the inserts) are, in fact,-more accurately described as parts of seats. HTSUS 9401. There are two relevant lines of cases. The Willoughby Camera line relied upon by the Government holds that to be classified as a part an item must be “necessary to the article,” without which it “could not function.” The canopies at issue simply do not meet that standard.
+The other line of cases, represented by Bauerhin’s citation to Sumi-tomo, holds that where an item is “dedicated for use” in an article, and can not apply to any other purpose, it is a part of that article. The canopies do meet that second standard. While it is true the seats may be used without them, the canopies do satisfy a specific and integral need for infant comfort and protection, and are themselves useless except as parts of seats.
+The court is convinced that while Willoughby Camera may often be cited for the Government’s proposition, it does not in fact squarely stand for it, and to the extent that it does, while it has not been directly overruled, it has either been supplanted or represents an outmoded doctrine. Accordingly, Bauerhin is correct in its assertion that Customs erred in its classification of the canopies and they múst be reclassified as parts of seats under HTSUS 9401.
+II
+Statement of Material Facts Not at Issue
+1. Bauerhin Technologies Limited and John V Carr & Son, Inc., are the importer of record or the consignee of the merchandise which is the subject of this action. Plaintiffs Statement Of Material Facts As To Which There Exists No Triable Issue Of Fact (“Plaintiffs’ Statement”) ¶1 and Defendant’s Response ¶1.
+2. Protests were timely filed and denied. Ibid ¶2.
+3. All liquidated duties were timely paid and this action was timely commenced. Ibid ¶3.
+4. The merchandise at issue consists of seat inserts and canopies for infant car seats, infant carrier seats or swing seats, described on the commercial invoices as “Baby Pads,” or “Upholstery for Baby Car Seats,” or as “canopies,” with or without other words of description. Ibid ¶4.
+5. Upon liquidation, Customs classified the merchandise under HTSUS subheading CA9404.90.20 or 9404.90.20, as articles of bedding and similar articles, other, other, with duty assessed thereunder at the rates of 6%, 4.2%, 3.6% or 3% ad valorem. In entry no. 744-3087464-9 of September 24, 1992, the inserts for swing seats were classified under HTSUS 5512.29.00 at 17% ad valorem duty. Ibid ¶5.
+6. In Headquarters Ruling Letter 953673, October 6,1993, Customs held the inserts for infant automobile, rocker and swing seats (the seats) were classifiable under HTSUS 9404.90.20, and that the canopies were classifiable under HTSUS 6307.90.94 (now 6307.90.99, as other made up [textile] articles. Ibid ¶6.
+7. The seat inserts for the seats are all form fitted or shaped to fit the seats with which they are designed to be used. Ibid ¶7.
+8. The inserts for the seats have sewn openings to allow insertion of a restraining or safety belt. Ibid ¶8.
+9. The inserts for the automobile and infant carrier seats are secured to the molded seat with plastic clips. Ibid ¶9.
+10. The canopies are designed to fit over and enclose a portion of the infant auto seats and can be pulled over the top of the seats to cover the infant’s head. Ibid ¶10.
+11. The seat inserts and canopies, though imported separately, are packaged for retail sale together with the seats with which they are used as a single unit. Ibid ¶11.
+12. The seat inserts and canopies are specifically designed to be used with infant automobile, carrier or swing seats. Ibid ¶15.
+13. The seats are not intended for use or used without the inserts. Ibid ¶16.
+14. The seat inserts and canopies provide protection to the infant using the seat equipped with those articles. Ibid ¶17.
+15. The seat insert and canopies are not used as bedclothes or mattresses. Ibid ¶18.
+16. The only use for the canopies is for attachment to an automobile infant seat. Ibid ¶19
+17. The imported seat inserts and canopies are not mattresses, Ibid ¶20, eiderdowns, Ibid ¶21, quilts, Ibid ¶22, pouffes, Ibid ¶23, nor pillows, Ibid ¶24.
+18. The seat inserts and canopies are not designed for nor intended for use in conjunction with a bed. Ibid ¶26.
+19. The seat inserts are stuffed with polyester fiberfill with an outer covering of 50% cotton and 50% polyester fabric. Defendant’s Statement Of Material Facts Not In Issue (Defendant’s Statement”) ¶4 and Plaintiffs Response ¶4.
+20. The seat inserts and canopies are sold separately from seats, .but only as replacement parts for the seats with which they are intended to be used. Ibid ¶8 5 and 28.
+21. The canopies are made of a 50% cotton and 50% polyester fabric. Ibid ¶6.
+Ill
+DISCUSSION
+A
+This Case is Ripe for Summary Judgment
+Because there are no disputed material facts, this case may be determined on summary judgment. CIT Rule 56 standards show summary judgment will be denied if the parties present “a dispute about a fact such that a reasonable trier of fact could return a verdict against the movant.” Semperit Indus. Prod., Inc. v. United States, 855 F. Supp. 1292, 1297 (CIT, 1994) quoting UGG Int’l, Inc. v. United States, 17 CIT 79, 83 (CIT, 1993), (quotation and citation omitted). Only disputes over facts that are material, that is, facts that might affect the outcome of the suit under the governing law, will properly preclude the entry of summary judgment. Factual disputes that are irrelevant or unnecessary will not be counted. See, United States v. Ziegler Bolt & Parts Co., Slip Op. 95-3 (CIT, 1995). C.f. Everflora Miami, Inc. v. United States, 885 F. Supp. 243, 247 (CIT, 1995).
+Determination of the proper scope of a tariff provision is a question of law which may be resolved by summary judgment. Semperit, 855 F. Supp. At 1297 (citations omitted). Here, since there are no material issues of disputed fact, and since the only remaining question is the proper scope of HTSUS subheadings 6307.90.94 (now 6307.90.99), 9401.90.10, 9401.90.50.and 9404.90.20, summary judgment is appropriate.
+B
+Seat Inserts, Separately Imported, Fall Under HTSUS 9404
+The seat inserts here at issue are made of cloth of “simple child-like patterns * * * intended to appeal to children,” Motion For Summary Judgment at page 21, stuffed with polyester fiberfill. Samples were provided to the Court, (Exhibits A through D to Willms Affidavit attached to Plaintiffs’ Motion For Summary Judgment) and their use is shown in catalogues and magazines attached as Exhibits A, B, C, D and E to the Affidavit of Philip Simons and Exhibit 1 to the Carolyn Pochatek Affidavit. The inserts are used, the parties agree, in infant car seats, infant carrier. seats or swing seats.
+Much of Bauerhin’s argument is devoted to an argument that the doctrine of ejusdem generis mandates classification of the seat inserts as parts of automobile seats HTSUS 9401.90.10, or parts of other seats, HTSUS 9401.90. That argument, however, is not germane to disposition of this case, because Heading 9404 is unambiguous, and since Customs’ classification is correct it must prevail.
+Two factors control classification of the inserts.
+First, the evidence adduced by Bauerhin not only fails to overcome the presumption of correctness to which the Customs’ classification is entitled, it in fact tends to show that classification was correct. See, Jarvis Clark Co. v. United States, 733 F.2d 873, 878, reh’g denied, 739 F.2d 628 (1984).
+Second, even if they might otherwise qualify as parts of seats under Heading 9401, as argued by Bauerhin, Note 3(b) to Chapter 94 clearly states that goods entered separately, “are not to be classified in heading 9401 * * * as parts of goods.” (emphasis added).
+1
+The Inserts at Issue are Used for Purposes Which Fall Within the Commonly Accepted Use of the Word “Bedding”
+HTSUS General Rule Of Interpretation 1 provides:
+The * * * titles of sections, chapters and subchapters are provided for ease of reference only; for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes and provided such headings or notes do not otherwise require * * *
+(Emphasis added).
+“Tariff terms are construed in accordance with their common and popular meaning, and in construing such terms the court may rely upon its own understanding, dictionaries and other reliable sources.” Medline Industries, Inc. v. United States, 62 F.3d 1407, 1409 (Fed. Cir. 1995) (citation omitted).
+Medline is of particular interest here, because it reverses an opinion narrowly construing the term “bed linen” under HTSUS 6302. In doing so, the Federal Circuit noted:
+The Court of International Trade erred in limiting the scope of the term “bed linen” in Heading 6302 of HTSUS to include only those items found on all beds. The correct definition of bed linens includes linen, cotton or other fabric articles for a bed. Because this definition is broad enough to encompass Medline’s drawsheets, the drawsheets qualify for a classification under subheading 6302.31.20.
+62 F.3rd at 1410.
+Similarly, the commonly accepted definition of “bedding and similar furnishing” is broad enough to encompass Bauerhin’s inserts.
+Customs classified the inserts here as bedding, even though it recognized that they were used as parts of seats after importation. Finding Of Fact 12, supra. The question then, is whether these inserts may be properly classified as “articles of bedding and similar furnishing” even though their end use is in child safety seats and swings? Because 1) the commonly accepted meaning of bedding includes bed pads for sleeping, 2) the padding upon which children nap here is at the least a “similar furnishing” to bedding, and 3) Plaintiff’s own evidence shows the end use of these inserts includes napping, the court answers that question in the affirmative.
+The word bedding is commonly accepted to include those items connected with a bed, including sheets, blankets or other coverings, Websters Third New International Dictionary, Merriam-Webster (Springfield, MA, 1993) and, the mattress, feather bed or other article lain upon. Oxford English Dictionary, 2d Ed. (Clarendon Press, Oxford, 1989).
+If Heading 9404 was limited to bedding alone, Bauerhin’s argument to go beyond GRI1 might have some force. It is not, however, so limited.
+Heading 9404 includes “Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered,” (Emphasis added).
+Certainly, similar furnishing to articles of bedding must include those items a principle use of which is for infants’ naps. That the inserts here are such an item is demonstrated in the evidentiary material submitted by Bauerhin with its Motion.
+Thus, for example, in the Graco Catalogue submitted by Bauerhin as Exhibit C to the Simons Affidavit, the “Advantage” swing chair elicits this description:
+Soothing motion calms a fussy baby. The four-position, reclining seat with washable cloth cover, allows baby either to sit upright or recline for sleeping.
+Exhibit C to Simons Affidavit (emphasis added).
+Similarly, Bauerhin relies upon the 1993 Century Products Catalogue attached to the Affidavit of Carolyn Poehatek as Exhibit 1. In her Affidavit, Ms. Poehatek testifies that Century “* * * purchases the seat inserts for its infant carriers, swing seats, and car seats from Bauerhin. ” Pocha-tek Affidavit at ¶3.
+It is, therefor, significant that in Exhibit 1, Century describes its “Sit-tin’ Pretty™ Infant Seat” as featuring a:
+2-position seat [which] allows baby to nap, eat or play in comfort
+Exhibit 1 to Poehatek Affidavit at page 6. (emphasis added).
+In its discussion of another exhibit, the June, 1994, edition of American Baby Magazine, Exhibit E to the Affidavit of Philip Simons, Bauer-hin mentions a number of advertisements for infant car seats and swings, (specifically mentioning advertisements for Evenflo®, Fisher-Price® , Century®, Gerry® and Kolcraft®) and states that they demonstrate that magazines that advertise “infant car seats and swings do not advertize [sic] these goods with baby bedding or baby furnishings.” Plaintiffs’ Motion For Summary Judgment at pp.36-37. They go on to argue:
+The advertisements which feature these articles do not make any reference to baby cribs and other bedding articles such as quilts and comforters. Clearly, this catalogue demonstrates that infant car seats and swings are not marketed in the same manner as bedding and similar furnishings.
+Plaintiffs’ Motion For Summary Judgment at p.37.
+Quite to the contrary, the advertisement for the Gerry “Good Vibes” ™ Bouncer is specifically headed:
+It vibrates. They sleep. Ahh, relief.
+Exhibit E at pp.58 and 59 (emphasis added)
+Perhaps most telling, though, is Bauerhin’s extensive reliance on the 1993 Spring/Summer Sears Roebuck Annual Catalogue, Exhibit A to the Affidavit of Philip Simons, Plaintiffs’ Motion For Summary Judgment at pp. 30-32 et seq. Bauerhin discusses advertisements for 11 car seats at pp.234 and 235 of Exhibit A, placing great emphasis on references to its inserts as something other than a “cushion.”
+The Sears Catalogue, in fact, specifically features an infant car seat called the Kolcraft® Rock N Ride which:
+* * * is designed for rear facing installation for infants up to 18 lbs. Offers a secure 3-point harness. New “Soft N Cozy” quilted cotton and polyester covers. Rocker feature helps relax baby for good napping and peaceful traveling.
+Exhibit A at p.235 (emphasis added).
+Bauerhin’s own exhibits thus demonstrate that its inserts are used as part of devices uniquely designed for infants in large part to sleep upon. The inserts’ role in that use is as an item of “bedding” or a “ similar furnishing,” provisions of HTSUS.
+In addition, even if the inserts did not clearly fall under Heading 9404, Note 3(b) to Chapter 94 clearly excludes their classification as parts under heading 9401.
+2
+The Inserts are Excluded from Classification as Parts of Seats by Note 3(b) to Chapter 94
+Bauerhin also argues that the seat inserts should be classified as “parts of seats” under Heading 9401.90.10 and 9401.90.50. GRI 1 requires the Court to review the section and chapter notes to determine fully headings’ meaning. Where a Chapter Note clearly resolves any question of interpretation the court need look no further. See, e.g. Nidec Corp. v. United States, 68 F.3d 1333 (Fed. Cir., 1995).
+Note 3(b) to Chapter 94 specifically states that goods described in heading 94.04 entered separately, “are not to be classified in heading 94.01 * * * as parts of goods.” The inserts at issue here were imported separately from the infant seats, swings and carrier into which they are eventually incorporated. Plaintiffs Statement of Material Facts Not At Issue ¶11. Accordingly, Bauerhin’s argument that the inserts be classified as parts of automobile seats, Heading 9401.90.10, or of other seats, 9401.90.50, must he rejected as a matter of law.
+A different result, however, is mandated regarding the cloth canopies here at issue.
+C
+Because They are Dedicated for Use in Seats, the Cloth Canopies are Parts of Seats Under HTSUS 9401
+Bauerhin also argues that its cloth canopies for infant seats should be classified as seat parts. Those canopies were originally classifiedby Customs under HTSUS 9404. After Bauerhin protested, in Headquarters Ruling Letter 953673, October 6,1993, Customs reclassified the canopies under HTSUS 6307.90.94 (now 6307.90.99), as other made up [textile] articles. Statement of Material Facts Not At Issue ¶8 5 and 6.
+The Government argues pursuant to United States v. Willoughby Camera Stores, Inc. , supra, that “[i]t is a well-established rule that a ‘part’ of an article is something necessary to the completion of that article. It is an integral, constituent or component part, without which the article to which it is to be joined, could not function as such article.” Defendant’s Motion p.17 citing from Willoughby Camera, 21 C.C.P.A. at 324 (emphasis in original).
+Willoughby is certainly an appropriate place to begin our search for the rule governing determination of when parts are parts.
+There, the importer claimed that certain wooden tripods were parts of cameras. Three of the five judges joined (and two concurred) in an opinion which reached the same result we might reach today. They held that the tripods were not “necessary to completion of [a camera] ” and therefore not a part of it. Ibid.
+As recently as E.M. Chem. v. United States, 920 F.2d 910 (Fed. Cir., 1990), the Federal Circuit has cited Willoughby for the proposition that:
+A part of an article is “something necessary to the completion of that article* * * without which the article to which it is to be joined, could not function as such article. ”
+920 F.2d at 913.
+Clearly, Willoughby did not have to go that far to hold that wooden tripods were not camera parts. The overbreadth of that holding resulted in that some intellectual thrashing as courts struggled to avoid unjust results. The court recognized the existence of a second line of parts cases in Spearhead Indus., Inc. v. United States, 6 C.I.T. 176, (CIT, 1983), when it noted:
+The question as to what constitutes a part for tariff purposes has given rise to much litigation. From this litigation there have developed two lines of cases on the subject. The first [arose from Wil-loughby]. In order to be apart under the Willoughby case, the article must be an integral, constituent or component part, without which the article to which it is joined could not function as such article. The other line of cases evolved from United States v. Pompeo, 43 CCPA 9, C.A.D. 602 (1955), which held that a device may be apart of an article even though its use is optional and the article will function without it, if the device is dedicated for use upon the article, and, once installed, the article will not operate without it.
+6 C.I.T at 181.
+Pompeo, however, went even farther than that in its departure from Willoughby. The Court there held that classification of imported items as parts should be “based upon the * * * nature and function of the imported item” rather than on whether the item of which it was a part could not function without it. United States v. Pompeo, 43 CCPA 9, 13, (1955).
+That divergence has resulted in a line of cases such as Mitsubishi Int’l Corp. v. United States, 17 CIT 871, 829 F. Supp. 1387 (1993), App. Dis’m, Mitsubishi Int’l Corp. v. United States, 22 F.3d 1102 (Fed. Cir. 1993), which noted, after recognizing that under the Pompeo line that to decide whether an item is solely or chiefly used as a part, “* * * the Court must consider the nature, function and purpose” of the item in relation to the article it will join. 17 CIT at 881 (citing Ideal Toy Corp. v. United States, 58 C.C.P.A. 9 (1979), and restating the general Willoughby rule, that:
+Nevertheless, the mere “fact that the article operates, functions or can be used without the item is not determinative.” Ideal Toy 58 CCPA at 13, 433 F.2d at 803 (citing Trans Atlantic Co. v. United States, 48 CCPA 30, C.A.D. 758, 1960 WL 8476 (1960).
+17 CIT at 881-882.
+The Mitsubishi court held that even if the item to which the part would be joined could function without it:
+* * * the fact that the [imported item’s] sole purpose is to secure the [principal machine’s] operation is enough to establish that the component is integral to the machine.
+Ibid at 882. See, also, Sumitomo Corp. Of Am. v. United States, 855 F. Supp 1283, 1291, (CIT, 1994).
+The court is persuaded that the Mitsubishi analysis more fully reflects current economic reality under the HTSUS, and that if forced to chose between the Willoughby/Pompeo dichotomy the Federal Circuit would prefer the latter. Accordingly, because the canopies here at issue, while not necessary to the operation of the baby seats to which they will attach, do satisfy a specific and integral need for use of those items, Statement Of Material Facts Not At Issue ¶14, and because the canopies have no use other than as a seat attachment, Statement Of Material Facts Not At Issue ¶16, the court finds that they are parts of automobile seats pursuant to the analysis above discussed, and that accordingly, the government’s classification is incorrect and Bauerhin’s alternative is correct. See, Jarvis Clark Co. v. United States, supra.
+IV
+Conclusion
+For the reasons stated above, Plaintiffs Motion for Summary Judgment is denied as to inserts and granted as to canopies which should be classified under HTSUS Heading CA 9401.90.10 as parts of seats, and Defendant’s Cross-Motion for Summary Judgment is denied as to canopies and granted as to inserts which should be classified under HTSUS Heading 9404.90.20 as bedding and similar furnishing.
+These items were imported from Canada between February 22,1991 and April 29,1993. See, Schedules of Protests attached to Plaintiffs’ Motion For Summary Judgment, and HRL Ruling 953673 of October 6,1993, Exhibit E thereto.
+In the case of Entry No. 744-3087464-9 of September 24,1992, imported inserts for swing seats were classified under HTSUS 5512.29.00 as woven fabrics of synthetic staple fibers, other. Statement of Material Facts Not At Issue, ¶5. Both parties have abandoned that classification, and nether argues that it is the correct one here.
+United States v. Willoughby Camera Stores, Inc,, 21 C.C.P.A. 322 (Cust. & Pat.App., 1933). cert. denied, 292 U.S. 640 (1934).
+Sumitomo Corp. Of Am. v. United States, 855 F. Supp 1283, 1291 (CIT, 1994).
+At oral argument counsel for both parties resolved an internal inconsistency between paragraphs 10 and 19 of their stipulated facts by agreeing on the record that the canopies were for use only with infant auto seats.
+The parties agree there are no genuine issues of material fact, Plaintiffs Motion Page 7 and Reply, Page 12, Defendant’s Reply, page 1, and Plaintiffs’ and Defendant’s Responses.
+"As in all customs cases, a statutory presumption of correctness attaches to classifications by the Customs Service and the party challenging the classification has the burden of overcoming this presumption,” UGG Int’l, Inc. u United States, 17 CIT 79 (CIT, 1993); 28 U.S.C. § 2639(a)(l)(1988).
+The sections at issue are as follows:
+Chapter 63, Heading 6307:
+6307 Other made up articles, including dress patterns:
+6307.90 Other
+6307.90.99 Other
+*******
+Other:
+•* * * * * * * Other
+Chapter 94, Heading 9401
+9401 Seats (other than those of heading 9402), whether or not convertible into beds, and parts thereof:
+9401.20 Seats of a kind used for motor vehicles
+Child safety seats
+9401.90 Parts:
+9401.90.10 Of seats of a kind used for motor vehicles
+9401.90.50 Other
+Chapter 94, Heading 9404
+9404 Mattress supports; articles of bedding and similar furnishing (for example, mattresses, quilts, eiderdowns, cushions, pouffes and pillows) fitted with springs or stuffed or internally fitted with any material or of cellular rubber or plastics, whether or not covered:
+9404.90 Other:
+Pillows, cushions and similar furnishings:
+9404.90.10 Of cotton
+* * * * * * *
+9404.90.20 Other
+The Government argues that even if ejusdem. generis were applicable it would be inappropriate here. It claims the doctrine applies only where an enumeration of specific things is followed by a general word or phrase, and accordingly the general word or phrase is held to refer to things of the same kind as those specified. See, e.g., Sports Graphics, Inc. v. U.S., 24 F.3d 1390, 1392 (emphasis added). The Government says the doctrine is inapplicable to HTSUS 9404, where the wording is reversed. While the issue is not determinative, the court rejects the Government’s argument. As is noted in 2A Singer, Sutherland, Statutory Construction, § 47.17 (5th Ed. 1992) “[w]here the opposite sequence is found, i.e., specific words following general ones, the doctrine is equally applicable.”
+Thus, under Jarvis Clark Co. v. United States, 733 F.2d 873, 878, reh‘g denied, 739 F.2d 628 (1984) this court is required to reach a correct result, and “must consider whether the government’s classification is correct, both independently and in comparison with the importer’s alternative.”
+Bauerhin, in its Motion For Summary Judgment, pp.22-24, relied extensively on the decision in Medline Indus., Inc. v. United States, Slip Op. 94-94, (CIT, 1994), rev'd 63 F.3d 1407 (Fed. Cir. 1996). The Briefs were filed before the parties and the Court had the benefit of publication by the Court Of Appeals For The Federal Circuit of its decision reversing that opinion.
+The description of “The Advantage” faces the “Swing Buyers’Guide” about which Bauerhin states “the inserts are referred to as ‘washable cloth pads’ for all of the swings sold by this company.” Plaintiffs’ Motion For Summary Judgment at p.33, (emphasis added).
+Bauerhin did not, in its Motion For Summary Judgment provide page references to the advertisements referenced in Exhibit E. At oral argument, counsel for Bauerhin identified the advertisement above discussed at pp. 58 and 59, as one of the items referenced.
+At oral argument, counsel for Bauerhin agreed that it characterized as car seats all 15 seats shown on pp. 234-235 of Exhibit A, despite its limited reference to “11” infant car seats on pages 234 and 235.
+The Court notes that Additional U.S. Rules of Interpretation 1(c) (HTSUS) provides:
+In the absence of special language or context which otherwise requires — a provision for parts of an article covers products solely or principally used as a part of such articles but a provision for “parts” or “parts and accessories” shall not prevail over a specific provision for such part or accessory.
+Because the Court finds that HTSUS provides for Bauerhin’s baby seat inserts specifically under 9404.90.20, competing headings for parts or accessories cannot prevail. Id.
+Bauerhin makes the argument, without citation to authority, that because Customs on review reclassified the canopies, “this determination is sufficient to overcome the presumption of correctness which attached to the Govern* raent’s initial classification of the canopies. ” Plaintiffs’ Motion For Summary Judgment p.38. At oral argument, counsel for both sides were unable to articulate any supporting authority for that position or its converse, and the court declines to adopt it.
+The Government describes Willoughby Camera as “most frequently cited as the authority for determining whether an article is a part. ” Defendant’s Cross Motion For Summary Judgment p.17. It provided no authority for that proposition and counsel was unable to cite the court to authority at oral argument.
+The court in Spearhead did not attempt to resolve the apparent conflict, since it found the items at issue were not parts under either line of cases. Ibid.
+Some cases have described the Willoughby rule as having been modified over the years. See, e.g. Clipper Belt Lacer Co. v. United States, 14 CIT 146, 155, 738 F. Supp. 528 (1990). Given continued references to the unmodified rule, see, e.g., E.M. Chem. v. United States, 920 F.2d at 913, those cases positing the existence of two lines of cases appear to more accurately reflect the situation.
+That is, that it “satisfy a specific and integral need in the * * * machine’s operation * * *” Ibid.
+Nor does the court believe that decision would be affected by the pellucid reasoning of Nidec Corp. v. United States, 861 F.Supp 136, 141-142, (CIT, 1994) Aff'd, 68 F.3d 1333 (Fed. Cir. 1995) pointing out the precedence of the General Rules.
+pursuant to Additional U.S. Rules of Interpretation 1(c), supra at footnote 15, the Court finds no heading that provides specifically for Bauerhin’s baby seat canopies. Therefore, the classification analysis can turn to parts-and-accessories.
