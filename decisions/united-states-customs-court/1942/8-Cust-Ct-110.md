@@ -1,0 +1,44 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 586"
+decided: "1942-01-23"
+citations: ["8 Cust. Ct. 110"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Walker and Tilson, Judges"]
+parties: ["Browne Vintners Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/8/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6613320
+---
+
+# Browne Vintners Co. v. United States
+
+## Majority (Tilson, Judge:)
+
+Tilson, Judge:
+These two suits were filed by the plaintiff seeking to recover certain sums of money alleged to have been illegally exacted as customs duties on imported glass containers of cognac. Duty was levied upon said merchandise at the rate of 60 per centum ad valorem under paragraph 218 (f) of the act of 1930, as tableware in chief value of glass, having found that the same was unusual containers under section 504 of-the said act.
+The plaintiff claims among other things that the merchandise is properly classifiable as bottles holding more than one pint under paragraph 217 of said act, and as such dutiable at % of 1 cent per pound, by virtue of paragraph 810, as containers of an imported article provided for in schedule 8.
+The plaintiff contends that the merchandise herein is in fact bottles according to the common meaning as defined by the dictionaries; that the cognac imported in these bottles is provided for in schedule 8; that paragraph 810 provides that such bottles shall be dutiable at one-third the rate provided on such bottles if imported empty or separately; and that hence the sole issue is whether the said bottles should be classified under paragraph 217 at}{ of 1 cent per pound, or alternatively under paragraph 218 (f) at % of the 60 per centum ad valorem duty therein provided for.
+Counsel for the defendant states the issue as follows:
+1. Are the decanters in question usual containers, or are they unusual containers used as bottles for table service?
+2. Does paragraph 810 apply to articles provided for in paragraph 218 (f)?
+The law pertinent to a decision herein is as follows:
+SEC. 504. COVERINGS AND CONTAINERS.
+If there shall be used for covering or holding imported merchandise, whether dutiable or free of duty, any unusual material, article, or form designed for use otherwise than in the bona fide transportation of such merchandise to the United States, additional duties shall be levied upon such material, article, or form at the rate or rates to which the same would be subjected if separately imported.
+Par. 218. (f) Table and kitchen articles and utensils, and all articles of every description not specially provided for, composed wholly or in chief value of glass, blown or partly blown in the mold or otherwise, or colored, cut, engraved, etched, frosted, gilded, ground (except such grinding as is necessary for fitting stoppers or for purposes other than ornamentation), painted, printed in any manner, sand-blasted, silvered, stained, or decorated or ornamented in any manner, whether filled or unfilled, or whether their contents be dutiable or free, 60 per centum ad valorem.
+Par. 217. Bottles, vials, jars, ampoules, and covered or uncovered demijohns, and carboys, any of the foregoing, wholly or in chief value of glass, filled or unfilled, not specially provided for, and whether their contents be dutiable or free (except such as contain merchandise subject to an ad valorem rate of duty, or to a rate of duty based in whole or in part upon the value thereof, which shall be dutiable at the rate applicable to their contents), shall be subject to duty as follows: If holding more than one pint, 1 cent per pound; * * *: Provided, That the terms “bottles,” “vials,” “jars,” “ampoules,” “demijohns,” and “carboys,” as used herein, shall be restricted to such articles when suitable for use and of the character ordinarily employed for the holding or transportation of merchandise, and not as appliances or implements in chemical or other operations, and shall not include bottles for table service and thermostatic bottles.
+Par. 810. When any article provided for in this schedule is imported in bottles ' or jugs, duty shall be collected upon the bottles or jugs at one-third the rate provided on the bottles or jugs if imported empty or separately.
+At the trial of this case Emillio N. Adams testified on behalf of the plaintiff that he was employed by Browne Vintners Co., as traffic manager; that his duties consisted of ordering all imported merchandise and handling the same through the customs and the distribution of the same to plaintiff’s customers. He also testified that he personally examined samples of every importation that plaintiff' made and that he was familiar with the various items on the invoices, particularly 20 cases, Nos. 23601 to 23620, containing each 12 decanters of % quart of cognac, 78 proof;-10 cases, each containing 12 decanters of Louis Xm cognac, and 20 cases, each containing 12 decanters of Louis XIII cognac; 25 cases, each containing 12 decanters of cognac brandy, and 10 cases of cognac brandy, fine champagne, cases 18110 to 18119, and also 10 cases, each containing 12 decanters of cognac brandy, in cases 18120 to 18129. Asked to describe the merchandise the witness stated that it was cognac which was over one hundred years old, originally imported into this country as “age unknown.”
+The witness further stated that the merchandise hereinbefore set out was all the same; that he had obtained a sample of the merchandise the same as that here in question, both as to contents and container. He produced a sample and the same was admitted in evidence as exhibit 1 and the stopper for the container was marked exhibit 1-A. He also testified that all the items hereinbefore referred to contained Louis XIII cognac and that such cognac was always imported in containers such as those here involved; that such containers are reserved for Louis XIII cognac, and that such cognac goes to the ultimate consumer in these containers.
+The witness further testified that he had used and served the merchandise represented by exhibit 1, had seen it used by others, and that the purpose served by these containers was to hold the liquor during the period of importation and that they served no other purpose; he had never seen or heard of them being used for any other purpose.
+The defendant offered testimony as to the use of containers claimed to be similar to those here involved, but in view of the conclusion which we feel we must reach under the decision in United States v. Mulligan, C. A. D. 179, we deem it unnecessary to set this testimony out in detail here.
+An examination of tbe sample in evidence herein, exhibit 1, satisfies us that these containers are unusual containers and their classification and duty status is therefore controlled by the decision of the appellate court in the Mulligan case, supra, from which we quote the following:
+We come next to the question of whether the articles before us are unusual containers. As has been stated, it appears to be the position of appellee that even though they be unusual containers within section 504, supra, they nevertheless are subject to the provisions of paragraph 810, supra.
+With this contention we are unable to agree.
+Section 504, supra, of the Tariff Act of 1930 appears as one of the administrative provisions of the act, and it seems to us that by its terms it modifies all schedules and paragraphs embraced in the various titles relating to classification and rates of duty. It does not affect the question of classification per se, but does affect the rate based upon such classification. If the articles here involved had been imported unfilled, we must assume for the purposes of this ease that they would have been classified under paragraph 218 (f), supra, and it seems to us that if they were unusual containers for the merchandise with which they were filled, paragraph 810, supra, may not properly be invoked.
+It would not be reasonable to hold that the Congress intended to give unusual containers of the merchandise covered by the respective paragraphs in schedule 8, a rate status different from that given unusual containers of other kinds of merchandise.
+* * . * * # ‡ H*
+We feel constrained, therefore, to hold (1) that the importer failed to overcome the presumptively correct finding of the collector that the articles are unusual containers, and (2) that, since they are presumptively unusual containers, paragraph 810, supra, is not applicable.
+The application of the pronouncements made in the Mulligan case, supra, to the facts in this case requires us to overrule all the claims of the plaintiff. All the claims of the plaintiff in this case are therefore overruled. Judgment will be rendered accordingly.
