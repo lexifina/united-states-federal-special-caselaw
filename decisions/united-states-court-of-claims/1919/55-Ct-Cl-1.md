@@ -1,0 +1,34 @@
+---
+court: "United States Court of Claims"
+docket: "32583"
+decided: "1919-12-01"
+citations: ["55 Ct. Cl. 1"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hay, Judge, Downey, Judge, Booth, Judge, and Campbell, Chief Justice, concur."]
+parties: ["DALY & HANNAN DREDGING COMPANY v. THE UNITED STATES."]
+source_url: "https://static.case.law/us-ct-cl/55/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1611372
+cites_cases: ["109 U. S., 200", "148 U. S., 31", "18 C. Cls., 496", "19 C. Cls., 39", "19 Wall.. 17", "191 U. S., 159", "196 U. S., 310", "20 C. Cls., 137", "20 C. Cls., 290", "226 U. S. 545", "23 C. Cls., 77", "233 U. S., 165", "33 C. Cls., 453", "35 C. Cls., 129", "4 C. Cls., 549", "42 C. Cls., 318", "44 C. Cls., 205", "5 C. Cls., 65", "53 C. Cls., 155", "53 C. Cls., 549", "8 C. Cls., 213", "95 U. S., 539", "96 U. S. 689"]
+---
+
+# Daly & Hannan Dredging Co. v. United States
+
+## Majority (Graham, Judge,)
+
+Graham, Judge,
+reviewing the facts found to be established delivered the opinion of the court:
+This action grew out of a contract between the plaintiff and the defendant for dredging certain material from the harbor at Newport, R. I.
+Paragraph 27 of the specifications, which were made a part of the contract, contained the following:
+“ The material to be removed is believed to be compact sand, gravel, and clay overlaid by a small amount of mud, and containing some bowlders of varying sizes, but bidders are expected to examine the work and to decide for themselves as to its character, and to make their bids accordingly, as the United States does not guarantee the accuracy of this description. . . . The removal of ledge rock if found will not be required.”
+The plaintiff began the work and in the course of the dredging encountered ledge rock. Its -representative thereafter communicated with the contracting officer and submitted in writing a proposal for removing this ledge rock in' consideration of the payment by the defendant of additional compensation to that named in the original contract. Subsequently a conference between the plaintiff and the contracting officer relative to the removal of the ledge rock was held and a written tentative supplemental agreement prepared — but not signed by either party — for submission, under the terms of the original contract, to the Chief of Engineers of the War Department for his approval. His approval was necessary, under the terms of the contract, before said agreement could be valid and binding upon the defendant, which fact was well known to the plaintiff. The Chief of Engineers refused to approve the supplemental agreement and the plaintiff was so informed.
+This ledge rock was not removed at the request, on the demand, or by the authority of the defendant. Much of it was removed between the time at which the supplemental agreement was prepared and the notification to the plaintiff of the refusal of the Chief of Engineers to approve the same.
+The terms of the original contract were not vacated, changed, or supplemented by any subsequent agreement to pay the plaintiff for the removal of said ledge rock.
+The plaintiff’s counsel in the oral argument and in his brief stated that this was an action to recover on a quantum meruit for money expended and labor performed presumably on an implied contract. It is well settled that so long as the original contract is in full force and effect, unrescinded, unchanged, or amended by a subsequent agreement, there can be no recovery on a quantum meruit. “ So long, therefore, as that contract remains unrescinded, he can not recover the value of his services upon a quantum meruit. Yet if the special contract be wholly abandoned, or its terms be varied by the mutual consent of the parties, the law implies a new promise.” (Story on Contracts, 2 ed., par. 15.) “ But where the parties have made an express agreement to perform certain acts, it is not to be extended by implication, so as to embrace all other unstipulated acts, which may be either convenient or necessary to the perfect performance of their express covenants; for it may very naturally happen, and indeed such is the presumption, that, having expressed some, they have expressed all the conditions by which they intended to be bound, and that what is omitted forms as much a part of the intentions as what is stipulated.” (Id., par. 16.) “Express stipulations can not in general be set aside or varied by implied promises; or, in other words, a promise is not implied where there is an express written contract, unless the express contract has been rescinded or abandoned, or has been varied by the consent of the parties. Hence, the rule is, that, if there be an express written contract between the parties, the plaintiff in an action to recover for work and labor done, or for money paid, must declare upon the written agreement so long as the special agreement remains in force and unrescinded, as he can not recover under such circumstances upon a quantum meruit” Hawkins v. United States, 96 U. S. 689-697.
+There is in the pleadings some suggestion of misrepresentation by the defendant, prior to the execution of the original contract, as to the nonexistence of ledge rock, but the plaintiff’s attorney in the argument before the court disclaimed any purpose or right to recover upon this ground. However, there is no proof of any misrepresentation by the defendant in regard to either the existence or the nonexistence of ledge rock. The plaintiff’s attorney also in the argument before the court disclaimed any purpose or right to recover for expenditures made in the removal of the ledge rock upon the ground that it was extra work, although the said proposed supplemental agreement would indicate that, at the time it was prepared, the claim was based upon the theory that this was extra work. Be this as it may, the Chief of Engineers refused to approve said proposed agreement for extra work, and as there is no proof of any other agreement to compensate the plaintiff for extra work, as provided by the contract, a claim for compensation for extra work could not be considered.
+“There was a total failure to comply with these provisions, and though it may be a hard case, since the court found that the work was in fact extra and of considerable value, yet Plumley can not recover for that which, though extra, was not ordered by the officer and in the manner required by the contract.” Plumley v. United States, 226 U. S. 545.
+It follows from the foregoing that the plaintiff has no grounds for a recovery in this case.
+The petition is dismissed, and it is so ordered.
+Hay, Judge, Downey, Judge, Booth, Judge, and Campbell, Chief Justice, concur.
