@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for Veterans Claims"
 docket: "97-232"
 decided: "1997-08-05"
-citations: ["10 Vet. App. 454", "10 Vet. App. 453"]
+citations: ["10 Vet. App. 454"]
 reporter: "vet-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Harold E. BAILEY, Appellant, v. Hershel W. GOBER, Acting Secretary of
 source_url: "https://static.case.law/vet-app/10/cases/0454-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1185549
-cites_cases: ["1 Vet.App. 150", "1 Vet.App. 3", "10 Vet.App. 453", "100 F.3d 929", "106 F.3d 1577", "111 S.Ct. 805", "112 L.Ed.2d 865", "2 Vet.App. 252", "2 Vet.App. 362", "2 Vet.App. 602", "28 U.S.C. § 1651", "298 U.S. 178", "359 U.S. 231", "38 C.F.R. § 20.101", "38 C.F.R. §§ 2.6", "38 U.S.C. § 301", "38 U.S.C. § 511", "38 U.S.C. § 512", "38 U.S.C. § 7101", "38 U.S.C. § 7104", "38 U.S.C. § 7266", "38 U.S.C. §§ 7102", "434 U.S. 159", "486 U.S. 800", "496 U.S. 414", "498 U.S. 1075", "498 U.S. 89", "68 F.3d 1344", "8 Vet.App. 169", "928 F.2d 389", "96 F.3d 1390", "960 F.2d 139", "974 F.2d 1326"]
+cites_cases: ["1 Vet.App. 3", "10 Vet.App. 453", "100 F.3d 929", "106 F.3d 1577", "2 Vet.App. 362", "2 Vet.App. 602", "28 U.S.C. § 1651", "359 U.S. 231", "38 C.F.R. § 20.101", "38 C.F.R. §§ 2.6", "38 U.S.C. § 301", "38 U.S.C. § 511", "38 U.S.C. § 512", "38 U.S.C. § 7101", "38 U.S.C. § 7104", "38 U.S.C. § 7266", "38 U.S.C. §§ 7102", "434 U.S. 159", "496 U.S. 414", "498 U.S. 89", "68 F.3d 1344", "96 F.3d 1390", "960 F.2d 139", "974 F.2d 1326"]
 ---
 
 # Bailey v. Gober
