@@ -1,7 +1,8 @@
 ---
 court: "United States Court of Claims"
 decided: "1870-12"
-citations: ["6 Ct. Cl. 95", "6 Ct. Cl. 69"]
+decided_precision: "month"
+citations: ["6 Ct. Cl. 95"]
 reporter: "us-ct-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
