@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "55990; protests 130218-K, etc. (New York)"
+decided: "1951-11-07"
+citations: ["27 Cust. Ct. 347"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wm. S. Pitcairn Corp. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/27/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6635299
+cites_cases: ["39 C. C. P. A. 15"]
+---
+
+# Wm. S. Pitcairn Corp. v. United States
+
+## Majority (Cline, J.)
+
+Opinion by
+Cline, J.
+In accordance with stipulation of counsel that certain items of the merchandise consist of earthenware and china figures similar in all’ material respects to the figures passed upon in Wm. S. Pitcairn Corp. v. United States (39 C. C. P. A. 15, C. A. D. 458), the claim of the plaintiffs was sustained.
