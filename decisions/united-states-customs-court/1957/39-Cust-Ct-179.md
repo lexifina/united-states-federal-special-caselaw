@@ -1,0 +1,57 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1923"
+decided: "1957-10-17"
+citations: ["39 Cust. Ct. 179"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Olivee, Mollison, and Wilson, Judges"]
+parties: ["Border Brokerage Co. et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/39/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6580336
+---
+
+# Border Brokerage Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+Section 3424 (a) of the Internal Revenue Code of 1939, as modified by the Presidential proclamation relating to the General Agreement on Tariffs and Trade, T. D. 51802, provided for a tax or duty on the importation of—
+Lumber, including sawed timber, rough, or planed or dressed on one or more sides (except lumber and timber of teak, balsa, Japanese white oak, Japanese maple, Northern white pine (pinus strobus), Norway pine (pinus resinosa), and Western white spruce, and except flooring made of maple, birch, and beech): * * *
+at varying rates depending upon the kind of lumber imported (and in some cases, not material here, upon its condition).
+The plaintiffs herein imported lumber described on the invoices as “yellow cedar,” with or without other qualifying words. The collector of customs assessed tax or duty at the rate of $1.50 per thousand feet, board measure, under the catchall provision in section 3424 (a), as modified, for lumber, other than those kinds specifically named. The protest in each case is directed against this assessment, claiming the merchandise to be properly dutiable at the rate of 75 cents per thousand feet, board measure, under the said Internal Revenue Code provision, as modified, for “cedar (except cedar commercially known as Spanish cedar).”
+There is no dispute as to the actual nature of the lumber involved. It is lumber derived from a tree bearing the botanical name Chamaecy-paris nootkatensis and is not commercially known as Spanish cedar. The parties are agreed that the issue is whether such lumber is within the meaning of the term “cedar,” as used in section 3424 (a), as modified, supra.
+The term “cedar” did not appear in section 3424 (a) as it was originally enacted, but was inserted by a modification proclaimed by the President under the Trade Agreements Act. Neither party has cited anything in the way of the history of the trade agreement modification which would indicate that it was the intent of the negotiators of the general agreement and/or of the President in issuing the pertinent proclamation that the term “cedar,” as used in the general agreement and proclamation, should have any particular meaning other than its ordinary meaning.
+Moreover, there does not seem to be any question but that, as it appears in the modification of section 3424 (a), supra, the term “cedar” is a tariff term, subject to the rules of interpretation and construction generally applied thereto.
+One of the basic rules applicable in the interpretation of tariff terms is that, in the absence of manifest contrary intention of the legislature, the tariff sense of a term is its ordinary or common meaning, unless commercial designation is established. Armand Schwab & Co., Inc. v. United States, 32 C. C. P. A. (Customs) 129, 132, C. A. D. 296.
+Plaintiffs contend that the common and commercial meaning of the term “cedar” is the same, and that the merchandise at bar, yellow cedar, is embraced within that meaning.
+Counsel for the defendant has not indicated whether it contends that the common and commercial meanings of the term “cedar” are different, but relies upon the testimony of its witnesses as to a commercial meaning of the term “cedar,” which embraces only lumber known as “western red cedar” or “red cedar” and excludes the merchandise at bar. The defendant, therefore, has not indicated whether it relies upon the rule of commercial designation, a prerequisite to the application of which is a difference between the common and commercial meanings of a tariff term, but, in any event, it is proper at this point to consider and determine the common meaning of the term “cedar.”
+Some of the rules of law which apply in the determination of the common meaning of tariff terms are set forth succinctly in United States v. Mercantil Distribuidora, S. A., Joseph H. Brown, 43 C. C. P. A. (Customs) 111, 117, C. A. D. 617, as follows:
+* * * The common meaning of a tariff term is a question of law for the court. United States v. Shalon & Co., 33 C. C. P. A. (Customs) 29, C. A. D. 311. In determining the common meaning of tariff terms, courts may receive evidence as to such meaning, but such evidence is merely advisory to the court. United States v. O. Brager-Larsen, 36 C. C. P. A. (Customs) 1, C. A. D. 388. The courts are not bound by such testimony, but will ordinarily chiefly rely upon decisions of the courts and upon the definitions found in dictionaries and other léxico-graphical authorities. United States v. Florea & Co., Inc., 25 C. C. P. A. (Customs) 292, 296, T. D. 49396.
+Neither party has cited any judicial decision establishing the common meaning of the term “cedar.”
+In support of its contention that the common meaning of that term embraces yellow cedar, the merchandise at bar, and that the commercial meaning is the same as its common meaning, plaintiffs offered the evidence of two witnesses of considerable experience in the wholesale lumber trade of the United States, the gist of whose testimony is that, in their experience in such trade, the term “cedar” embraced the wood of a number of trees of differing botanical genera, including Ohamaecyparis nootkatensis, and commonly denominated by the addition to the term “cedar” of adjectives denoting color, such as “red,” “white,” or “yellow,” and/or location, such as “western,” “inland,” “Alaska,” “Tennessee,” etc.
+This testimony, which, as hereinbefore noted, is advisory only, corroborates many dictionary and other lexicographic authorities, cited by counsel for the plaintiffs and available to the court, as follows:
+Webster’s New International Dictionary, 2d edition, 1945:
+cedar * * * 1. Any of a large number of trees having fragrant wood of remarkable durability; specif.: a Any of many conifers of temperate or subtropical regions; as: (1) The cedar of Lebanon and other species of Cedrus. (2) Any tree of the genus Juniperus, esp. J. virginiana, the red cedar, of eastern North America, the West Indian species J. barbadensis, and, less often, J. communis, the juniper. (3) Any tree of the genus Chamaecyparis, esp. C. thyoides, the white cedar, of eastern North America, and several western species. (4) Any tree of the genus Thuja, esp. T. occidentalis, the arborvitae, and T. plicata, the enormous western red cedar. * * *
+2. The wood of the cedar.
+* ifc * * ?j« ‡ *
+Encyclopaedia Britannica, 1947, volume 5, pages 85-6:
+CEDAR, a name applied to several coniferous trees (see Gymnosperms), and a few broad-leaved species.
+*******
+The name cedar is applied to species of several other genera of conifers, including Juniperus, Thuja, Libocedrus, Chamaecyparis and Cupressus.
+Collier’s Encyclopedia, 1953, volume 4, pages 620-1:
+CEDAR, a name widely used for many kinds of cone-bearing evergreen trees. The true cedar, Cedrus, has 3 species native to Asia and Africa: the very handsome wide-branched cedar of Lebanon, C. libani, mentioned in the Bible and valued through many centuries for its durable red wood; the deodar, C. deodara, native to the Himalayas; and an African cedar, C. atlántica, a native of the Atlas Mountains. All these are grown in this country as ornamentals. In the United States, cedar is the common name of various trees, such as the white cedar, an 80-ft. tree, Chamaecyparis thyoides, of the southern states; the yellow cedar, C. nootkatensis, a 120-ft. tree of the northern Pacific coast; and the very beautiful Port Orford cedar, C. lawsoniana, a 200-ft. tree, native to Oregon and California. * * *
+The Encyclopedia Americana, 1953, volume 6, pages 160-1:
+CEDAR, various cone-bearing evergreen trees and their wood; also several nonconiferous trees. * * *
+* * * The yellow cedar (Chamaecyparis nootkatensis), a common tree on the Pacific coast from Oregon to Alaska, is valued, in cabinet work and interior house-finishing, for its light yellow wood, which takes a high polish. * * *
+New International Encyclopaedia, 2d edition, 1920, volume IV, page 740:
+CEDAR * * *. A name applied to several species of coniferous evergreen trees, as well as to the wood of a number of trees in no way related to the conifers. * * *
+* * * The yellow cedar of the Pacific coast is Chamaecyparis nootkatensis. It is found from northern California to Alaska. The wood when seasoned is a beautiful light yellow and takes a high polish, on which account it is highly esteemed for finishing lumber and cabinetwork. * * *
+Some of the definitions of “cedar” appearing in the foregoing works are quite lengthy, and none have here been quoted in full. However, it sufficiently appears from the quoted portions that, in its common meaning, the term “cedar” embraces the trees of many genera, among which is the genus Chamaecyparis, and, specifically, the species C. nootkatensis, or yellow cedar, and the wood thereof. We, therefore, find that the merchandise at bar, yellow cedar lumber, derived from Chamaecyparis nootkatensis, is cedar lumber within the common meaning of the term “cedar,” as used in section 3424 (a), as modified, supra.
+While, as has been said, the defendant does not specifically assert that the commercial meaning of the term “cedar” is different from its common meaning, and thus in terms invoke the rule of commercial designation, the testimonial evidence given by its two witnesses was directed toward establishing that, in the wholesale trade and commerce of the United States dealing in cedar lumber at and prior to January 1, 1948, the date when the Presidential proclamation relating to the General Agreement on Tariffs and Trade (in which the term “cedar” appears) became effective, the term “cedar,” without any qualifying words, meant only western red cedar or red cedar.
+We are of the opinion that if such testimony was offered as evidence under the rule of commercial designation, it was insufficient to establish the evidentiary facts necessary to a finding under that rule of the ultimate facts that the claimed commercial meaning was general, definite, and uniform.
+If such testimony was offered as an aid to the court in the determination of the common meaning of the term, we are of the opinion that it must be rejected and the common meaning be held to be that shown by the clear and unequivocal definitions found in the dictionaries and other lexicographical authorities, hereinbefore set out.
+Inasmuch as the common meaning of the term “cedar,” as used in the statute, embraces lumber such as that at bar, and no contrary judicial decision or legislative intent appears, and no commercial designation differing therefrom has been established, the protest-claim for tax or duty at the rate of 75 cents per thousand feet, board measure, under section 3424 (a), as modified, supra, is sustained as to the merchandise described in the invoices as “yellow cedar,” with or without other qualifying words.
+Judgment will issue accordingly.
