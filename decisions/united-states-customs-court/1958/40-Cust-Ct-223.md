@@ -1,0 +1,95 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1987"
+decided: "1958-04-24"
+citations: ["40 Cust. Ct. 223"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Lawrence, Rao, and Ford, Judges"]
+parties: ["Pheoll Manufacturing Company v. United States"]
+source_url: "https://static.case.law/cust-ct/40/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6580767
+cites_cases: ["176 Fed. 736", "19 Cust. Ct. 28", "30 Cust. Ct. 274", "33 Cust. Ct. 286", "84 Treas. Dec. 403", "85 Treas. Dec. 116"]
+---
+
+# Pheoll Manufacturing Co. v. United States
+
+## Majority (Rao, Judge:)
+
+Rao, Judge:
+The merchandise before the court in this case consists of cold rolled nut stock steel, imported in coils of various lengths, having a width of inch, and a thickness of either inch or inch. It was classified as steel in strips, not thicker than }{ inch and not exceeding 16 inches in width, and, accordingly, was assessed with duty at the rate of 12J¿ per centum ad valorem, pursuant to the provisions of paragraph 316 (a) of the Tariff Act of 1930, as modified by the Annecy Protocol to the General Agreement on Tariffs and Trade, 84 Treas. Dec. 403, T. D. 52373, supplemented by Presidential proclamation, 85 Treas. Dec. 116, T. D. 52462.
+Two protests are involved in this action and have been consolidated for the purposes of trial. It appears from the official papers, as well as by oral motion to abandon by counsel for plaintiff, that protest 208755-K, insofar as it relates to entries 10773 and 3210, was made prematurely. As respects said entries, the protest is deemed abandoned. It further appears, however, that said entries are properly, and timely, covered by protest 213222-K, which is before the court in this consolidated action and, hence, are subject to the determination herein made.
+It is the claim of plaintiff in said protests that the subject merchandise is provided for in paragraph 315 of said act, as modified, supra, either as steel wire rods, in any shape, or as flat rods, up to 6 inches in width, ready to be drawn or rolled into wire or strips, valued at over 4 cents per pound, and, hence, is dutiable at the rate of Ko cent per pound, plus the additional duty of Ke cent imposed therein for rods which are cold rolled.
+The pertinent provisions, insofar as here applicable, are couched in the following language:
+[315] Wire rods: Rivet, screw, fence, and other iron or steel wire rods, whether round, oval, or square, or in any other.shape, nail rods and flat rods up to six inches in width ready to be drawn or rolled into wire or strips, all the foregoing in coils or otherwise:
+‡ ‡ ‡ ‡ ‡ $ ‡
+Valued at over 4 cents per pound_, _%0$ per lb.
+* * * * * * *
+All iron or steel bars and rods of whatever shape or section which are cold rolled, cold drawn, cold hammered, or polished in any way in addition to the ordinary process
+of hot rolling or hammering_per lb. in addition to the rates provided on bars or rods of whatever section or shape which are hot rolled
+[316 (a)] All flat wires and all steel in strips not thicker than one-quarter of one inch and not exceeding sixteen inches in width, whether in long or short lengths, in coils or otherwise, and whether rolled or drawn through dies or rolls, or
+otherwise produced:
+* * * * * * * Thicker than five one-hundredths of one inch_12%% ad val.
+The record in this case consists of the oral testimony of two witnesses called in behalf of plaintiff, together with four exhibits, which may be described as follows:
+Plaintiff’s exhibit 1 — a sample of the imported merchandise, identical in all respects, save as to length, and except that it is not in coil form. It is representative of that portion of the imported merchandise having a thickness of inch.
+Plaintiff’s collective exhibit 2 — two pieces of steel strip, approximately 2% inches wide, and Xs inch in thickness.
+Plaintiff’s collective exhibit 3 — two pieces of round steel rod, % inch in diameter, from which is produced—
+Plaintiff’s collective exhibit 4 — two pieces of flat steel, % inch wide and % inch in thickness, which is conceded to be similar in all material respects to the imported merchandise.
+Plaintiff’s first witness was John Debri, who has been employed by the American steel and wire division of the United States Steel Corp. for.48 years and is presently serving as assistant to the manager for the Chicago district. In that capacity, he supervises the operations of two plants, one located at Joliet and the other at Waukegan. Prior thereto, and for a period of about 3 years, he was general superintendent of the Joliet plant.
+It appears from the testimony of this witness that the Joliet plant produces rods from billets, by a rolling process, and that the Wauke-gan plant manufactures wires and springs from such rods. In the production of wire rods, billets 2% feet square in cross section and 30 feet long are reduced in cross section by pressure exerted upon rolls through which the billet is passed. There are 21 continuous passes. The resulting rod can be further reduced in cross section through cold rolling, wire drawing, or hot rolling. To produce wire from hot rolled rods, the scale is removed in a weak acid solution, the rod is lime-coated, and then drawn through dies to the required size.
+Although the manufacture of sheet metal and strip has never been under the jurisdiction of this witness, he has seen it made and has used a great deal of it. He described strip as the product of a slab, which is wider and thicker than a billet. The slab is cold rolled into a wide strip, or sheet, and then sheared into desired widths. Debri did not consider plaintiff’s exhibit 1 to be a strip, for the reasons that it had not been sheared, but had been rolled to produce flatness and to control size, and that its thickness was too great in proportion to its width. In his opinion, plaintiff’s exhibit 1 had not been drawn, but was “cold rolled from a rod”; that is, a round rod of the type of plaintiff’s collective exhibit 3.
+Debri further testified that plaintiff normally purchases from American Steel & Wire a round rod that has been rolled, cleaned, and coated. He stated that wire rods are rolled up to an inch and a quarter (presumably in diameter); that, as a rule, the smallest commercial rod is 0.208 inch; and that the purpose of cold rolling a rod to produce nut stock is “to get the size that you need to produce a nut, and it is cheaper to make a round rod and reduce it in a cold rolling plant to the size required.”
+This witness identified plaintiff’s collective exhibit 2 as steel strip, because it bore evidence of having been sheared or slit from a rather wide sheet, and because it'is “much, much wider in proportion to its thickness than a cold rolled product could possibly be.” It was his belief, based upon his admittedly limited experience with the production of steel strip, that plaintiff’s collective exhibit 3 could not be rolled into steel strip, for the reason that it would break up, and that the smallest width and thickness obtainable from such material would be about the size of plaintiff’s exhibit 1.
+Fred Kuehn, purchasing agent for plaintiff and in its employ for over 27 years, also testified in its behalf. He stated that it is his duty to purchase nut stock for the company and that he buys over 500 tons a year. As a consequence, and by virtue of watching plant operations; a knowledge of the chemical characteristics of steel; the way it functions in the plant; and its final use in the trade, he is familiar with steel products such as rod and wire.
+Kuehn identified plaintiff’s exhibit 1 as a sample of the instant importations and described it as C 1108 nut stock quality steel, known in the trade as nut stock. In his opinion, it was neither drawn nor sheared, but was cold rolled from a rod. He also identified plaintiff’s collective exhibit 4 as nut stock, cold rolled from rod such as plaintiff’s collective exhibit 3, and identical to plaintiff’s exhibit 1.
+It was Kuehn’s opinion that neither plaintiff’s exhibit 1 nor plaintiff’s collective exhibj t 4 was steel strip predicated upon the following considerations: That steel strip is the product of a strip rolling operation; that it has a maximum width of 24 inches and a minimum width of 3 inches; that it is a flat product, having a relative thickness, as compared with width; that the tolerances on strip are closer than they are on nut stock; that plaintiff’s exhibit 1 is the product of a rod rolling operation; and that it is too narrow, as compared with its thickness, to be considered strip. He siso observed that plaintiff’s exhibit 1 could not be rolled into a strip, and, when asked whether it was ready to be drawn or rolled, stated that it can be rolled.
+It is at once apparent that both witnesses for the plaintiff were guided to the conclusion that the merchandise at bar is not steel strips by the mileposts of methods of production, relative dimensions, and.closeness of tolerances. These are standards which have, however, been rendered irrelevant by the statutory language employed in the provision for steel in strips. In the light of the phrase, “whether rolled or drawn through dies or rolls, or otherwise produced,” considerations of methods of production are clearly immaterial. [Italics supplied.] By virtue of the imposition of maximum dimensions-— “not thicker than one-quarter of one inch and not exceeding sixteen inches in width,” — it would likewise appear that the relationship of thickness to width is without significance in the determination of whether the subject merchandise is steel in strips. Moreover, in providing for all steel in strips within certain specified limitations, and those only, Congress has made plain its purpose to eliminate any other factors, as, for example, degree of finish or closeness of tolerance.
+If the imported articles are strips, there can be no question but that they respond in every particular to the statutory description of steel in strips in paragraph 316 (a), swpra. They are not thicker than one-quarter of 1 -inch, nor wider than 16 inches. They are in long lengths, in coils, and have been rolled.
+This court has had occasion to consider the word “strip” in connection with the metals schedule of the present tariff law and to construe its meaning in accordance with common understanding. In the case of Burgess Battery Co. v. United States, 19 Cust. Ct. 28, C. D. 1063, wherein was involved the question of whether certain zinc coils, 7% inches wide, Koo inch thick, and approximately 40 feet long, were zinc sheets or zinc strips, the following definitions of the word “strip” were quoted:
+Webster’s New International Dictionary, Second Edition (1943):
+* * * * * * *
+strip:
+1. A narrow or relatively long piece; * * *
+>¡i ‡ * # *
+10. A rolled piece of metal, esp. iron or steel, of the thickness of sheet metal but relatively long and narrow.
+Funk & Wagnall’s New Standard Dictionary of the English Language (1942 ed.):
+*******
+strip:
+1. A narrow piece comparatively long; * * *.
+The Century Dictionary (1891 ed.):
+*******
+strip:
+1. A narrow piece, comparatively long * * *.
+The Oxford Dictionary (1914 ed.):
+*******
+strip:
+j. ‡ *
+d. A narrow piece of board, metal plate, etc. * * *
+In holding that the zinc coils before it were included within the meaning of the word “strip,” as thus defined, this court also made reference, inter alia, to the case of United States v. Ashcroft Mfg. Co., 176 Fed. 736, wherein certain glass articles, 5}{inches long, 1% inches wide, and % inch thick, were held to be strips of glass, being narrow pieces, comparatively long.
+By clear analogy, the merchandise at bar must be said to fall within the meaning of the word “strip,” and, hence, is provided for in paragraph 316 (a), supra.
+Plaintiff contends, however, that, as regards the instant merchandise, more specific provision is to be found in paragraph 315, as modified, supra, in that it consists of “flat rods up to six inches in width ready to be drawn or rolled into wire or strips, all the foregoing in coils or otherwise.”
+So far as the word “rod” is concerned, it has been construed in the cases of Mohawk Iron & Steel Co. v. United States, 30 Cust. Ct. 274, C. D. 1533, and John V. Carr & Son, Inc. v. United States, 33 Cust. Ct. 286, C. D. 1666, to have a meaning consistent with that found in the following lexicons:
+Webster’s New International Dictionary, 1930 edition:
+Rod, n.* * * 1. A straight and slender stick; * * * hence, any slender bar, as of wood or metal.
+Funk & Wagnalls New Standard Dictionary of the English Language, 1942 edition:
+Rod, n. 1. A shoot or twig of any woody plant; a straight, slim piece of wood or other material; * * *.
+Knight’s American Mechanical Dictionary (1876):
+Rod. A straight, slender piece of wood or metal, as the ramrod, wiping-rod, rifling-rod, used by gunsmiths and armories.
+* * * * * * *
+A connecting piece, as that between the cross-head of an engine and a crank. A connecting-rod. And so on.
+Audel’s Mechanical Dictionary (1942):
+Rod. — 1. A wand, stick or long slender bar of any material, wood, iron, brass, steel, etc. ■
+The circumstance that the statutory language here invoked by plaintiff contemplates rods in coils removes from consideration the element of straightness which underlies the foregoing definitions. And with that element eliminated, the merchandise at bar consists of such slender pieces of metal as may appropriately be called rods.
+Thus, from the point of view of common meaning, as judicially determined, the terms “rod” and “strip” have overlapping connotations, and as applied to the merchandise before us, either term might properly be employed to describe it. We are of opinion, however, that the conflict between the two provisions here in controversy, insofar as it relates to merchandise having the dimensions of that in issue, is more apparent than real, and that Congress, in specifying a maximum thickness of one-quarter of 1 inch for strip steel, intended to encompass all steel in strips, within that outside dimension, regardless of whether they are also rods. It appears that comparable provisions in earlier tariff acts, to wit, paragraph 135 of the Tariff Act of 1909, paragraph 114 of the Tariff Act of 1913, provided for “steel in strips, not thicker than number fifteen wire gauge and not exceeding five inches in width.” In the Tariff Act of 1922, the language was changed to its present wording. The new wording did more than effect an increase in the size of the steel strips- described. It further expanded the scope of the provision by including all steel in strips meeting the new dimensions. If the congressional purpose was not thereby to make the provision completely inclusive within the expressed confines, no other reason for the changes suggests itself. It must, therefore, follow that an article which is both a rod and a strip, but is not thicker than one-quarter of 1 inch nor wider than 16 inches, is more specifically provided for in paragraph 316 (a) than in paragraph 315.
+Furthermore, whereas paragraph 316 (a) provides for all steel in strips meeting the specified dimensions, the flat rods which are provided for in paragraph 315 are those only which are ready to be drawn into wire or strips.
+The evidence which has been introduced in this case does not affirmatively establish that the instant strips or rods are in that condition. If anything, it tends toward showing the contrary. Witness Debri testified that the purpose of cold rolling a round rod to produce nut stock is to obtain the requisite size for the production of a nut. He was also of opinion that round rods, of the type of plaintiff’s collective exhibit 3, could not be rolled to a smaller width and thickness than that of plaintiff’s exhibit 1. “To reduce that to get what I would consider a strip, the steel would break up before you could roll it.” It may fairly be inferred from this testimony that nut stock, so-called, already has the desired dimensions for punching into individual nuts, and that it is plainly not destined for further rolling, or drawing, into wire or strips.
+When the question of whether plaintiff’s exhibit 1 is ready to be drawn or rolled was asked of witness Kuehn, his answer was, “It can be rolled.” We think susceptibility for subjection to a process is by no means the equivalent of a state of preparedness for the undergoing of such process. Moreover, we are of opinion that, in the use of the words “ready to be drawn or rolled into wire or strips,” Congress contemplated material intended for further treatment in the manner specified, as distinguished from material merely possessing a capacity for it.
+In any event, it is extremely doubtful that the merchandise at bar, in its condition as imported, possessed the capacity for further rolling or drawing. Plaintiff’s expert witness Debri plainly indicated that it did not. Counsel for plaintiff assert the contrary. Nevertheless, we find in their brief the following revealing statement:
+(c) “Ready to be drawn or rolled into wire or strips”. The record discloses that the merchandise was in such a state of readiness (R. 39). The amount of such additional finishing or rolling would of course be limited by the reduced ductility resulting from the previous cold finishing (R. 2), unless heat treating, or as it is sometimes called, annealing, were employed. The Making, Shaping & Treating of Steel, by Camp & Francis, United States .Steel Company, Pittsburgh, Pa., 1951. See also definition of “anneal”, Webster’s New International Dictionary, 2nd Edition, unabridged 1950.
+We are inclined to the view that the admittedly reduced ductility of the material at bar negates that condition of readiness to which the statute addresses itself. If the material in its condition as imported is not ready to be rolled or drawn into wire or strips, it can not be said to have fulfilled the specific statutory requirements for classification as flat rods.
+For the same reason, the subject merchandise must be excluded from that portion of said paragraph 315 which enumerates “steel wire rods, whether round, oval, or square, or in any other shape.” By definition, wire rods are “metal rod(s) from which wire is drawn.” See Webster’s New International Dictionary, second edition, 1951. Since the instant steel strips are not only not used for that purpose, but are not susceptible of such use, they can not find classification within the provision for wire rods.
+Based upon the foregoing considerations, we find and hold that the merchandise here in issue consists of steel in strips, within the purview of paragraph 316 (a), as modified, swpra, as classified by the collector. All claims in the protest are, therefore, overruled.
+Judgment will be entered accordingly.
+Number 15 wire gauge is shown by Webster’s New International Dictionary to equal 0.0720 inch.
