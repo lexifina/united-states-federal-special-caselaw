@@ -1,0 +1,70 @@
+---
+court: "United States Customs Court"
+docket: "R.D. 11754; Entry No. 7272"
+decided: "1971-11-26"
+citations: ["67 Cust. Ct. 513"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. J. Tower & Sons of Niagara, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/67/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573593
+cites_cases: ["139 Fed. 546", "20 CCPA 344", "308 F. Supp. 88", "51 CCPA 81", "64 Cust Ct. 608"]
+---
+
+# C. J. Tower & Sons of Niagara, Inc. v. United States
+
+## Majority (Richardson, Judge:)
+
+Richardson, Judge:
+This is an appeal for reappraisement by plaintiff as customs broker on behalf of Vulcan Tire Equipment Co., Inc., of Niagara Falls, New York (hereinafter referred to as the American company), a wholly owned subsidiary of Vulcan Equipment Co., Ltd., of Toronto, Canada (hereinafter referred to as the Canadian company). The appeal involves the dutiable value of certain vulcanizing equipment for the repair of passenger and truck tires, which was exported by the manufacturer, the Canadian company, to the American company on an alleged sales arrangement, February 9,1959.
+The parties are in agreement that the proper basis of valuation is export value as set forth in section 1401a (b) of Title 19 U.S.C.A. (section 402 (b), Tariff Act of 1930, as amended by the Customs Simplification Act of 1956).
+The American company claims the status of a “selected purchaser,” as defined in section 1401a(f) (1) (B) of Title 19 XJ.S.C.A. (section) 402(f) (1) (B), Tariff Act of 1930, as amended), and that the various invoice unit prices, loss 2%, in Canadian funds “fairly reflect the market value” of the imported merchandise. The defendant contends that the American company was not a bona fide purchaser from the Canadian company but an agent of the latter; that the invoice prices do not fairly reflect the market value of the merchandise, as is required in sales to “selected purchasers”; and that the appraisement at various unit values, in United States funds, less 2%, less segregable components of United States origin, less $16.00 prorated, less duty included, packed, represented the dutiable value of the importations. There is no issue as to the segregable components of United States origin or their value.
+Plaintiff’s witness, Bernard D. Aim, president of the Canadian company, testified that the American company was incorporated in 1957, and from that time to February 1, 1959, it was a service company of the Canadian company and that on and prior to February 9, 1959 he was the general sales manager of both the Canadian and American companies; that his father, E. J. Aim, was majority stockholder in both companies; and that on and after February 1, 1959, the American company was appointed the sole distributor of the Canadian company, at which time the Canadian company began selling to the American company only.
+The evidence the plaintiff points to as establishing its contention that the American company was a separate entity and a selected purchaser is as follows:
+1. An undated price list from the Canadian company to jobbers and distributors in Canada which was in effect on and prior to February 1, 1959 (exhibit 1), to show the home consumption prices.
+2. An undated price list which plaintiff’s witness described as the Canadian company’s price list to the American company in effect when the invoice was sent February 5,1959 and the merchandise was shipped February 9,1959 (exhibit 2).
+3. A showing of the differential between unit consumption prices in Canada and unit prices to the American company as of February 5, 1959, how the latter corresponded to the unit prices on the invoice (exhibit 5), and the explanation that the Canadian company’s prices for domestic consumption were higher because the American company, according to testimony, absorbed the selling, administrative and product guarantee costs as well as the cash discount pertinent to the sale in the United States market, whereas the Canadian company absorbed these costs in the home market (E. 73).
+The comparison of the two price’s in Canadian currency is as follows:
+Domestic Price for Differential Consnmp- Export to in tion Price U.S. Dollars
+M-P Mold vulcanizer_ 175. 00 135. 00 40. 00
+M-P Airbag_ 20.00 16.50 3.50
+M-P Heatpad_ 15.00 11.80 3.20
+M-T Mold vulcanizer_ 350. 00 272. 50 77. 50
+M-T Airbag_ 30.00 34.00 (4.00)
+M-T Heatpad_ 30.00 30.00 0.00
+4.The American company is an incorporated legal entity, with its own warehouse and manager in Niagara Falls, New York; paid taxes in the United States and to the State of New York.
+The evidence the defendant cites in support of its contention that the American company was not a bona fide “purchaser” or “selected purchaser,” but an agent of the Canadian company is as follows:
+1. Bernard D. Aim was the secretary-treasurer of both companies and he and one other officer could make money transfers between the two corporations without authorization of the board of directors or shareholders of either firm (E. 139).
+2. Bernard D. Aim set the prices for jobbers in the United States (E. 153).
+3. Orders are made by jobbers direct to the Canadian company. See: Defendant’s customs agents’ reports, exhibits G, H, J, K, L, and M.
+4. The Administrative Office of both companies was in Canada and the Canadian company upon receipt of an order would prepare an invoice to the American company and one to the American jobber on behalf of the American company which it mailed directly to the jobber and made a charge to the American company for this service (E.338). Freight shipments were from Canada directly to the ultimate consignee (E.337), without entering the American company’s warehouse.
+5. H. J. Lacey was the sales manager for both the Canadian and American companies (E.119), and the salesmen in the United States remained on the Canadian company’s payroll and worked out of Toronto, but the proportion of the salesmen’s time spent on the American market was charged to the American company (E.133).
+6. Sales were made f.o.b. Toronto. See: Defendant’s collective exhibits B, C, D, and E.
+7. Payments by jobbers were made directly to the Canadian company or to the American company at the Canadian company’s address. See: Defendant’s customs agents’ reports, exhibits G, H, J, K, L, and M. Payments from the American company to the Canadian company or vice versa were not made by checks, but by bank transfers in Canada, by the secretary for both companies in the bank where both companies had separate accounts.
+8. Parts which were defective or had to be repaired or exchanged were sent by the American purchasers to the American company at Niagara Falls, New York. See: Defendant’s exhibits G, H, J, K, and L. The American company also did parcel post mailings and made some adjustments of claims of purchasers.
+9. Defendant’s exhibit C, a “memo #8 to all jobbers” on the Canadian company’s letterhead, dated February 19, 1959 (R.124) outlines a new procedure for orders and payments by United States jobbers as follows:
+New Peooedtjee
+As of February 1, 1959, all American sales of Vulcan Equipment will be made through our subsidiary: Vulcan Tire Equipment Co., Inc., 7671/2 Seventeenth Street, Niagara Falls, N.Y. All equipment since February 1, 1959, has been invoiced by Vulcan Tire Equipment Co. Inc., and cheques covering these bills should be made payable to that firm care of 55 Research Road, Toronto 17, Ontario, Canada. Payment of earlier invoices, as indicated on same, should be addressed in the normal manner to Vulcan Equipment Co. Ltd., 55 Research Rd. Toronto 17, Ontario, Canada. In order to avoid a lot of confusion, we would appreciate clearing up the old Vulcan Equipment account as quickly as possible.
+All correspondence, orders, etc., - although directed to Vulcan Tire Equipment - should still be mailed to 55 Research Road. Pending orders have been transferred to Vulcan Tire Equipment and will not be delayed. For the present, the Niagara Falls personnel are instructed not to accept phone calls, etc. in that the majority of the sales promotion and paper work is handled through Toronto. Initially, the branch office will only tahe care of adjustments, rush parts, etc. and the majority of orders will be shipped directly from the Toronto factory. Later we are expecting to commence manufacturing and assembly operations in Niagara Falls. [Emphasis added.]
+No “manufacturing and assembly operations” were in effect at Niagara Falls at the time of the involved importation nor is there any evidence in the record that such operations were ever put into effect.
+10. The invoices dated February 5 and 6, 1959, covering the merchandise in issue, were on the letterhead of the Canadian company addressed to the American company and indicated that the listed merchandise had been shipped to individual customers.
+When the incorporation, of the American company, and the preparation of the two invoices by the Canadian company - one to the American company and one to the jobber - and some changes in accounting procedure by the Canadian company are balanced against the above mentioned ten items of evidence adduced by the defendant, the principal-agent relationship existing prior to February 1, 1959, cannot be transformed into a seller-buyer relationship.
+Under 19 U.S.C.A., section 1401a(f) (1) (B) (section 402(f) (1) (B) of the Tariff Act of 1930, as amended), proof of export value to a selected purchaser must be based upon merchandise “sold” or, in the absence of sales, offered—
+* # **!!:* *
+(B) in the ordinary course of trade to one or more selected purchasers at wholesale at a price which fairly reflects the market value of the merchandise, . .
+From the evidence adduced there is a real question whether “sales” were made from the Canadian company to the American company. Offers to sell are not involved. A sale is a contract by which absolute ownership of property is transferred from one person to another for a price, sum of money, or other consideration. J. H. Cottman & Co. v. United States, 20 CCPA 344, 356, T.D. 46114 (1932); Greb Industries, Ltd. v. United States, 64 Cust Ct. 608, 617, R.D. 11691, 308 F. Supp. 88 (1970). There is no evidence of a contract between the Canadian company and its American subsidiary for the sale of the instant merchandise, nor from the American company to any United States jobbers. Title did not pass from the Canadian company to the American company, but directly to the United States jobbers (R. 171, 174).
+“. . . Where a corporation is so organized and controlled and its affairs are so conducted as to make it a mere instrumentality or agent or adjunct of another corporation, its separate existence as a distinct corporate entity will be ignored, and the two corporations will be regarded in legal contemplation as one unit.” [I. Maurice Wormser, The Disregard of the Corporate Fiction and Allied Corporate Problems p. 54. This same quotation is in Wormser’s article in 12 Columbia Law Review 496 at p. 502 (1912). See: In Re Muncie Pulp Company, 139 Fed. 546 (C.C.A. 2d 1905).]
+There is no denial that a “sale” may exist between a parent and a wholly owned subsidiary as in United States v. Acme Steel Co., 51 CCPA 81, C.A.D. 841 (1964), at p. 87, and Greb Industries, Ltd. v. United States, supra. “The issue of whether or not there was an export value for the merchandise under consideration depends, as stated by the court below, ‘upon the existence of sales in the ordinary course of trade at prices which fairly reflect the market value of the merchandise.’ ” Acme case, supra, p. 88. The question in the Acme case was not whether a “sale” existed, but what constituted the “price” which fairly reflected the “market value” of the merchandise. The merchandise, steel stampings, was sold and delivered by the Canadian subsidiary directly to the parent company in the United States, at Chicago, Illinois.
+In the Greb Industries case, supra, the Canadian manufacturer sold ice skating outfits to its wholly owned subsidiary Bauer Canadian Skate, Inc., a Delaware corporation, maintaining its own warehouse in North Tonawanda, N.Y.; having its own bank account; filing its own income tax returns and paying its own taxes in the United States. Greb Industries sold the ice skating outfits to Bauer, and shipped them to Bauer for warehousing at North Tonawanda, from which point Bauer sold the outfits to its retail purchasers in the United States. Checks were drawn on Bauer’s bank in the United States, though the same persons signed checks for both companies.
+The court holds the plaintiff has failed to offer evidence sufficient to rebut the presumption of correctness attaching to the appraisement of the involved merchandise. As such, the court finds as facts:
+1. That the merchandise consists of certain vulcanizing equipment for the repair of passenger and truck tires manufactured in and exported from Canada February 9,1959.
+2. That the imported merchandise was appraised on the basis of export value as defined in 19 U.S.C.A., section 1401a(b) (section 402(b), Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, T.D. 54165), at various unit values higher than the entered values and does not appear on the final list of the Secretary of the Treasury in T.D. 54521.
+3. Plaintiff has failed to prove that it was a selected purchaser of the imported merchandise.
+4. The record establishes that the merchandise was not sold by the Canadian company to the American company, but that the American company was a selling agent of the Canadian company.
+The court concludes as a matter of law:
+1. That plaintiff has failed to rebut the presumption of correctness attaching to the appraisement of the imported merchandise.
+2. That export value as defined in section 1401a (b) is the proper basis of value of the imported merchandise.
+3. That such values are represented herein by the appraised values.
+Judgment will be entered accordingly.
