@@ -1,0 +1,63 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4244"
+decided: "1971-07-15"
+citations: ["67 Cust. Ct. 4"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao, Foeb, and Newman, Judges"]
+parties: ["Karl Schroff & Associates, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/67/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6571612
+cites_cases: ["156 U.S. 601", "298 F. Supp. 1188", "306 F. Supp. 440", "37 Treas. Dec. 117", "58 CCPA 110", "61 Cust. Ct. 33", "62 Cust. Ct. 444", "63 Cust. Ct. 200", "65 Cust. Ct. 387", "66 Cust. Ct. 316"]
+---
+
+# Karl Schroff & Associates, Inc. v. United States
+
+## Majority (Fora, Judge:)
+
+Fora, Judge:
+We have before us for determination the proper classification of certain Gate Valve Bodies produced by a forging operation. The imported articles designated as items 3111 and 685 Gate Valve Bodies, were classified by the district director as parts for hand operated valves used to control the flow of liquids, gases or solids under item 680.22, Tariff Schedules of the United States, and as such were assessed with duty at the rate of 16 per centum ad valorem.
+Plaintiff contends the imported merchandise consists of forgings as provided for in item 608.25, Tariff Schedules of the United States, and therefore subject to duty at the rate of 9.5 per centum ad valorem.
+The pertinent statutory provisions are here set forth:
+Forgings of iron or steel, not machined, not tooled, and not otherwise processed after
+608.25 Other than alloy iron or steel-9.5% ad val.
+Taps, cocks, valves, and similar devices, however operated, used to control the flow of liquids, gases, or solids, all the foregoing and parts thereof:
+Hand-operated and check, and parts thereof:
+* * * * * ❖
+680.22 Other_ 16% ad val.
+Schedule 6, Part 2, headnote 1, Tariff Schedules of the United States:
+1. This part covers precious metals and base metals (including such metals when they are chemically pure), their alloys, and their so-called basic shapes and forms, and, in addition, covers metal waste and scrap. Unless the context requires otherwise, the provisions of the part apply to the products described by whatever process made (i.e., whether rolled, forged, drawn, extruded, cast or sintered) and whether or not such products have been subjected to treatments to improve the properties or appearance of the metals or to protect them against rusting, corrosion or other deterioration. These treatments include annealing tempering, case-hardening and similar heat-treatments or nitriding; descaling, pickling, scraping, scalping and other processes to remove oxidation scale and crust; rough coating with oil, tar, grease, red leadj or other material to prevent rusting; polishing, burnishing, glazing, artificial oxidation, phosphatizing, and other finishing treatments; metallization by cementation, by electroplating, by immersion in a bath, of molten metal, or by other means; coating with enamel, paint, lacquer, or other non-metallic substances; and cladding. This part does not include;—
+(i) insulated electric conductors (see part 5 of this schedule);
+(ii) milliners wire and other wire covered with textile or other nonmetallic material (see part 3B of this schedule);
+(iii) leaf and foil (see part 3C of this schedule); or
+(iv) other articles specially provided for elsewhere in the tariff schedules, or parts of articles.
+The record consists of the testimony of two witnesses called on behalf of plaintiff and one called on behalf of defendant as well as three exhibits received on behalf of plaintiff. At the outset, counsel for the respective parties stipulated that the imported merchandise was other than an alloy of iron or steel. The official papers were received in evidence without being marked.
+The record clearly establishes the imported articles to be forged valve bodies which have been “normalized.” In their condition as imported, they have no end use but must be further processed to make a valve. The finishing process after importation consists of the following operations as described by witness Brown:
+We bore and face the bonnet end; we then seat the body; we then drill and cap the bonnet end for the studs; after that we parkerize the body, which is just a rust preventive — that’s the last operation.
+Q. Are those operations which you just described known as machining operations? — A. Except for parkerizing.
+Q. Now what does “parkerizing” mean? — A. It is a rust preventive.
+Q. Can you tell us what “parkerizing” is ? — A. Well, it’s dipped in a solution, it puts a coating on the body to prevent it from rusting.
+Normalizing was described as a heat treatment which does not change the shape or configuration of the forging but changes the structure of the steel. This operation was described as heating the metal to a temperature above the so-called critical range and holding it there for a specified period of time and then air cooling it. Other forms of heat treatments consist of annealing, hardening and tempering. According to defendant’s witness, Dr. Gordon, the heat treating of steel is not part of the forging operation. Both witnesses, Englert and Gordon, agreed that the forging is allowed to cool and then is normalized in the same plant.
+The record is clear that the imported articles are not machined or tooled and that by looking at exhibit 1, it could not be determined if it was normalized. In addition, the same finishing operations are required to make a valve from exhibit 1 whether or not it was normalized. Exhibit 1 is a forging in its condition as imported.
+Before considering the merits of this case, defendant in its brief has brought to our attention the fact that liquidation in this case occurred less than sixty days after appraisement. Citing Pistorino & Co., Inc. v. United States, 65 Cust. Ct. 387, C.D. 4110 (1970), rehearing granted. In view of our decision in the case of John V. Carr & Son, Inc. v. United States, 66 Cust. Ct. 316, C.D. 4209 (1971), we hold the liquidation herein valid and the protest timely.
+The basic question for consideration is whether the heat treatment known as “normalizing” constitutes a process after forging. The subsidiary issues involving General Interpretative Rules 10(h) and 10(ij) would not come into play if the court held the imported merchandise to fall within the forging provision of item 608.25, supra. Rule 10 (h), supra, covers finished or unfinished articles1 and reads as follows:
+(h) unless the context requires otherwise, a tariff description of an article covers such article, whether assembled or not assembled, and whether finished or not finished;
+This rule does not require classification of the articles as unfinished valves when they are forgings as provided for in item 608.25, supra. United States v. J. Gerber & Co., Inc., et al., 58 CCPA 110, C.A.D. 1013 (1971). Rule 10(ij) covering parts would also not be applicable as the provision for forging, in our opinion, is a sufficiently specific provision which describes the manner by which it is made. West Coast Glass Distributors v. United States, 62 Cust. Ct. 444, C.D. 3797, 298 F. Supp. 1188 (1969).
+The recent decision of the Gerber case, supra, reviewed the background of the provision now before us for consideration and made the following observation:
+Plaintiff correctly points out that the Tariff Commission, in formulating the schedules for the 1962 Act, first intended to abandon the old para. 319(a) which provided for:
+forgings of iron or steel- — not machined, tooled or otherwise advanced — by any process — subsequent to the forging process,
+and to substitute different language, but then changed its mind, and in the Tariff Glassification Study, First Supplemental Report, January 1962, Miscellaneous Series TC, recommended the item, 608.25, quoted above, which Congress adopted, and which varies in no material respect from the old para. 319(a). As a matter of fact, the provision for iron and steel forgings as a specifically enumerated tariff item has been the practice of Congress continuously since para. 167 of the Tariff Act of 1883:
+Forgings of iron or steel, or forged iron, of whatever shape, or in whatever stage of manufacture, not specially enumerated or provided for in this act. * * *.
+Essentially the same language is contained in para. 139 of the 1890 Act, para. 115 of the 1894 Act, and para. 127 of the Act of 1897. In para. 128 of the 1909 Act, we first see the language “but not machined, tooled, or otherwise advanced in condition by any process or operation subsequent to the forging process.” The reason for this 'amendment, we are told, was “so as to state precisely in what degree of finishing or completion forgings may be improved without being considered as advanced from the class of forgings for tariff purposes.” Notes on Tariff Revision, Pre-fared Por The Use of The Committee on Ways and Means, House of Representatives, 60th Cong., 1908, p. 154. Apparently, the Congress felt that such an amendment would do away with the need to litigate the advancement question in most cases, as in Saltonstall v. Wiebusch, Thus the language of present Item 608.25 has remained substantially unchanged since the Act of 1909. In view of this unbroken policy, and the intent generally not to change duty rates in the 1962 enactment (see discussion of this in Smidth, supra), we would look for plain indications before finding elsewhere in the schedules an intent to detract from the impact these forgings items have historically had.
+Normalizing is an operation which takes place after the forging is created. It has, however, been held that certain processing subsequent to the production of a forging may be incidental to the forging operation and therefore not an operation after forging. W. R. Filbin & Co., Inc. v. United States, 63 Cust. Ct. 200, C.D. 3897, 306 F. Supp. 440 (1969). Examples of such operations are grinding off dangerous excrescences, which was held to be incidental to creating a merchantable forging (E. Dillingham, Inc., et al. v. United States, 61 Cust. Ct. 33, C.D. 3522 (1968)), and removing the flash and punching holes in the platter-like configuration (W. R. Filbin & Co., Inc. v. United States, supra). In the latter case it was noted that the operation was done while the platter was still at forging temperature, thus indicating a continuity of operations.
+In the instant case the normalizing operation could not take place until the forging had cooled. The record is not clear as to whether it took place immediately after the forging had cooled or at some later time.
+While the normalizing did not change the shape or configuration or outward appearance of the forging, it did improve the properties of the material. It would appear from headnote 1, schedule 6, part 2, that such an operation was considered to be subsequent to rolling, forging, casting, etc., but .that unless the context required otherwise, it would not take the merchandise out of the classification applicable if there had been no such processing.
+The superior heading to item 608.25 provides for “Forgings of iron or steel, not machined, not tooled, and not otherwise processed after forging[Emphasis supplied.] In view of headnote 1, such processes include those covered by the headnote, which Congress indicated occurred after the forging had been made.
+In F. W. Myers & Co. v. United States, 37 Treas. Dec. 117, T.D. 38154 (1919), so-called car replacers, composed of steel, and made by the casting process and thereafter cooled and annealed, were held not to be classifiable ‘as steel castings since they had been made by both the casting and annealing processes. The court noted that the removal of gates, fins, and other excrescences was incidental to the casting operation, but did not find this true of the annealing process. It pointed out that it was absolutely necessary that these car replacers be annealed to enable them to withstand the strain required of them.
+In the instant case there is evidence that the merchandise could not be used for a valve body if it were not heat treated or normalized.
+We are of the opinion that normalizing is not a process incidental to creating a forging but is a subsequent process designed to improve the properties of the material. A forging so processed is excluded from classification under item 608.25, supra. The plaintiff has therefore failed to overcome the presumption of correctness attaching to the classification of the district director. The protest is accordingly overruled.
+Judgment will be entered accordingly.
+156 U.S. 601 (1895).
