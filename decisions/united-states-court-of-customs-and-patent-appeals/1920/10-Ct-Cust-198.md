@@ -1,0 +1,44 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2050"
+decided: "1920-11-23"
+citations: ["10 Ct. Cust. 198"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Barber, Be Vries, and Martin, Judges."]
+parties: ["United States v. Tice & Lynch"]
+source_url: "https://static.case.law/ct-cust/10/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3875778
+cites_cases: ["10 Ct. Cust. Appls., 24", "38 Treas. Dec., 764", "6 Ct. Cust. Appls., 460"]
+---
+
+# United States v. Tice & Lynch
+
+## Majority (De Vries, Judge,)
+
+De Vries, Judge,
+delivered the opinion of the court:
+This importation was of a serial paper-bound publication entitled “Journal of the Institute of Actuaries.” On importation from England, whereat it ivas published, the collector of customs at the port of New York classified the particular issue for dutiable purposes under paragraph 329 of the current tariff act, here pertinently providing in part, as follows:
+329. Books of all kinds, bound or unbound, including blank books, slate books, and pamphlets; engravings, photographs, etchings, maps, charts, music in books or sheets, and printed matter, all the foregoing, and not specially provided for in this section, 15 per centum ad valorem. * * *
+The importers protested, making claim that the importation was entitled to free entry under that part of paragraph 426 of said act according such to “all textbooks used in schools and other educational institutions.” This provision is but elemental of a more extended paragraph, other portions of which we deem here instructive and for that reason quote more fully therefrom, as follows:
+426. Books and pamphlets printed wholly or chiefly in languages other than English; also books and music, in raised print, used exclusively by the blind, and all text bools used in schools and other educational institutions. * * * (Italics ours.)
+The board sustained the importers’ contention and the Government appeals:
+The publication in question is shown by the record to be a paper-bound serial issued quarterly by the Institute of Actuaries, an English organization similar to such in this country. This serial reports the proceedings of the foreign association and, as aptly stated by a witness at the trial below, relevant subjects:
+A. These are particulars issued quarterly as a result of the meetings of these actuaries. It is really a congress of actuaries that report the results of their investigations as to mortality rates and general information, for the use of actuaries, to anyone connected with insurance companies.
+The journal also contains correspondence and serial articles. The members of the institute are men in business and not students. Copies of the journal are sent all members of the institute, are sold to actuaries in England and the United States, and are also sold for use in colleges and schools. The reason and theory supporting importers’ claim were succinctly expressed by a witness at the trial, who stated:
+Q. What is there about these books, Mr. Kirk, which makes'them especially desirable for use in colleges and among students of insurance? — A. They show to the students the various operations and methods by which the actuaries compute their rates and compute tables of mortality and calculations of reserve.
+Q. 2s the knowledge here developed of that branch of work more or less progressive? — A. Yes; it is.
+Q. Do these books record the newer developments in that science? — A. They do.
+The court is unable to agree with the board in its conclusion. In passing, it may be suggested, without deciding the point, that it is not entirely clear that the context of paragraph 426 does not confine the free entry accorded “textbooks” to “books” in the narrower sense and does not afford such to “pamphlets,” particularly serial pamphlets. Indeed, in view of the fact that serial pamphlets are not of the same contents and not of necessity even of the same subject matter, issue by issue, it is a little difficult to understand how free entry could be decreed an entire serial. That very fact throws doubt upon the purpose of Congress to have contemplated such in the language here invoked, “ textbooks used in schools and other educational institutions.”
+Indeed this journal differs not at all in its peculiar field from the contents and uses, so far as here shown, of the journal issued by American Bar Association, the various medical journals issued by the several medical associations, or the engineering journals issued by similar associations, and hundreds of other similar journals likewise issued, in their peculiar spheres. The contents of each within its own employment is technical, scientific, and professional, little or not at all understood by the ordinary reader even of superior intelligence, and, probably, in all the mentioned cases, much used by students in schools and educational institutions, even by instructors before their classes. Nevertheless it will not be seriously contended that Congress, by the limited terms employed in paragraph 426, intended to admit free of duties all such publications, uniformly serial and of varying contents.
+The statutory phrase suggests more that which one would find enumerated in the prescribed curriculum of the particular school or educational institution rather than the whole scope of pertinent scientific treatises and publications found upon its library tables and shelves.
+The idea was perhaps more practically defined in two earlier decisions of this court interpreting this statutory clause. In Dutton & Co. v. United States (6 Ct. Cust. Appls., 460; T. D. 35987), we said:
+The term * * * applies only to such books as either set out in their text the facts or principles of some branch of learning which is to be taught to students, or to such as are prepared with especial introductions, notes, glossaries, spacings, or other “editorial apparatus,” which particularly adapt them for the use of students or instructors engaged in classroom work as a class apart from mere general readers.
+Likewise, in Wakem & McLaughlin v. United States (10 Ct. Cust. Appls., 24; T. D. 38259) we reaffirmed the principle of the Dutton case and further amplified its determinative factors in this language:
+We are unable to discover anything in these books which seems designed and calculated to impress thereon the character of a textbook as distinguished from one designed for or used by the public generally, or to find therein anything which clearly indicates that any particular book is in a class set apart for students’ use. As arranged they are adapted to the use of the general reader and to a place in a general library in keeping with original design of the producers as set forth in the Dutton case. To produce a textbook apparently was not the aim, and if it was within the scope of the plan of Everyman’s Library, it was probably incidental.
+In the last case this court quoted with approval the very concise language of the board in an earlier appeal allotting scope to this phrase wherein it was stated:
+There are on the market textbooks on history, science, literature, and other branches of learning, but the books in question bear no outward or visible sign or internal evidence of being included within that category. To meet the tariff provision here invoked by the importers necessarily requires more proof than that a book is largely or even chiefly used as a textbook in schools and other educational institutions. The book itself must be a textbook, and we can not conceive how that fact can be determined unless the book bears some internal evidence which will tend to distinguish it from the ordinary library book. To attempt to hold as textbooks all books with which students in higher institutions of learning are obliged to become conversant nowadays, would mean that practically every standard work of literature, science, art, drama, etc., is a textbook, for they all contain certain facts and principles governing their respective subjects which at some time or other form the subject of lectures and discourses in colleges and universities.
+So with these several publications. While the subj ect matter therein treated is so abstruse, technical, or scientific that it can be understood or used solely by actuaries or such students, in this particular these serial pamphlets differ not in the least from serials commonly enumerated and known as medical journals, law journals, chemical journals, astronomical journals, and many other such, replete with scientific, technical, and progressive information, discoveries, and developments, useful to and used by the technicist and student but Sanskrit to the ordinary reader and student of high attainments.
+Reversed. .
