@@ -1,0 +1,31 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 251"
+decided: "1939-11-28"
+citations: ["3 Cust. Ct. 272"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallingek, Judges"]
+parties: ["Thomas Textile Service Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/3/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6627382
+---
+
+# Thomas Textile Service Co. v. United States
+
+## Majority (Kincheloe, Judge:)
+
+Kincheloe, Judge:
+The merchandise the subject of this controversy consists of six bales of linen paddings from Belgium, numbered ‘966 to 971, inclusive, and. was assessed for duty at 40 per centum ad valorem under paragraph 1009 (b) of the Tariff Act of 1930, and the Reciprocal Trade Agreement with Belgium (T. D. 47600), as woven fabrics, such as are commonly 'used for paddings or interlinings in clothing, wholly or in chief value of flax, exceeding 30 but not exceeding 120 threads to the square inch, counting the warp and filling, and •weighing not less than 4% and not more than 12 ounces per square yard. The plaintiff, the Thomas Textile Service Co. claims the thread count in the cloth to exceed 120 threads to the square inch, end that it is therefore dutiable at only 30 per centum ad valorem under paragraph 1010 of said act and said trade agreement, as woven fabrics wholly or in chief value of flax, etc., not specially provided for.
+The only fact in dispute herein is the thread count of the merchandise in question, the weight thereof being admittedly between 4% and 12 ounces per square yard. So that if it is shown that the cloth is •over 120 threads per square inch the claim of the plaintiff will prevail, while if the cloth is shown not to exceed 120 threads to the square inch duty thereon will have been correctly assessed.
+Miss Olive K. Thomas testified she was the senior partner in the firm of the Thomas Textile Service Co., the plaintiff company, who are importers, converters, and jobbers of materials for the manufacture of men’s clothing. She stated she supervised the taking of a sample out of bale 971 in the presence of a gentleman from the United States Testing Co., and tbat be cut three samples from the piece, and that the paddings in all six bales were all of the same material and the same width.
+Robert M. Gregg, technician for the United States Testing Co., testified that he recalled calling at the office or factory of the Thomas Textile Service Co. and obtained the samples of the linen linings; that he observed the bale 971 from which the samples were taken; that he took the samples back to the laboratory of his company for the purpose of ascertaining the thread count, and that he found same as follows:
+I pulled the threads out, pulled the filling out first, and cut down the filling, and pulled out the warp threads. I counted the ends and the picks with a pick glass and steel rule.
+The witness stated further that this was the customary method and accepted as an accurate test in determining the count of threads. Also that he has been 3 years with the United States Testing Co., which is the official testing laboratory for the silk and wool industries in Philadelphia, and that he has been counting threads in merchandise like that under consideration many times between 1930 and 1939. The report of his analysis, signed by Mr. Geo. W. Fiss, Jr., the manager, is in evidence as Exhibit 1, and shows an average thread count of 122 per square inch of the sample of linen canvas from bale 971.
+According to the testimony of Government examiner Flynn at Philadelphia, a sample of the cloth from bale 969 was submitted to the Government laboratory at Philadelphia for determination of the thread count, etc. William C. Beard, the Government chemist who made the test, and who has been in the customs laboratory for 16 years making chemical analyses of goods imported at Philadelphia, especially textiles, testified that a sample of cloth (Exhibit 4) came to him for analysis, and that he found the thread count and the weight thereof. He described his test as follows:
+For the thread count I took a glass, which is a one inch glass, and I counted both the warp and the filling. I did that about four or five times, and I found some of the pieces measured 119 threads and some 120. So therefore I took and measured out a piece 4 inches square of this cloth, unravelled it, and took the threads and counted them, and from that count I averaged up what the number of threads would be, and I got 118 threads per square inch. And then I took a piece 2 inches square, and unravelled it the same way and took the thread count, and I found some to be 120 threads per square inch. Then I averaged all my figures, and I returned the count as 119 threads per square inch.
+The report of said analysis with reference to said bale 969 is in evidence as Exhibit 5, designated thereon as Laboratory No. 2055, and also shows a weight of 6.776 ounces per square yard.
+The Government chemist admitted, however, that the count of threads may vary to some extent according to the part of the bale from which the sample was ta,ken.
+On the testimony herein we hardly think the accuracy of the test made by the Government chemist of bale 969, showing a thread count of 119, and the test made by the chemist of the United States Testing Co. of bale 971, showing an average thread count of 122, can be disputed. Under the circumstances the plaintiff’s claim for classification of the merchandise at 30 per centum ad valorem under paragraph 1010 of the Tariff Act of 1930 and the trade agreement with Belgium, can be sustained as to said bale 971, as woven flax fabrics exceeding 120 threads to the square inch. As to the remaining bales in the importation, namely, numbers other than bale 971 tested by the Government, there is nothing before us to refute the presumption of correctness attending the collector’s classification and assessment of duty thereon. The protest is therefore overruled as to all the merchandise except as to bale 971, which is sustained as aforesaid. Judgment will be rendered accordingly. Note Wm. Steck & Co., Inc., v. United States, C. D. 236.
