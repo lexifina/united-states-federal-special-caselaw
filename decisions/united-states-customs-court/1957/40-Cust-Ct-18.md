@@ -1,0 +1,42 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1951"
+decided: "1957-12-24"
+citations: ["40 Cust. Ct. 18"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Johnson and Donlon, Judges"]
+parties: ["E. Miltenberg, Inc., et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/40/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6578023
+cites_cases: ["115 U. S. 542", "130 U. S. 412", "40 Fed. Rep. 230", "66 Treas. Dec. 465"]
+---
+
+# E. Miltenberg, Inc. v. United States
+
+## Majority (Donlon, Judge:)
+
+Donlon, Judge:
+Three cases are consolidated, on defendant's motion for purposes of trial. The merchandise in all three cases is described as mung beans, imported either from Peru or from Thailand. The collector classified this merchandise in liquidation as beans, not specially provided for, dried, under paragraph 765 of the Tariff Act of 1930, with duty at the rate of 3 cents per pound.
+Plaintiffs protested the liquidation, claiming that the merchandise should have been liquidated as garden and field seeds, not specially provided for (except niger seed and sesbania seed), at 1% cents per pound under paragraph 764 of the Tariff Act of 1930, as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade, T. D. 52739.
+Protest 272069-K was amended on trial, and protests 279298-K and 276435-K after trial, to include an alternative claim that this merchandise is duty free under paragraph 1722, the provision for vegetable substances, crude or unmanufactured, not specially provided for.
+The controversy is as to tariff classification. There is no lack of agreement as to what the merchandise is.
+Botanically speaking, mung beans are beans. The testimony is that these mung beans were fertile beans. They were sold with a guaranty that they would germinate. Hence, in a botanical sense, they were seeds as well as beans. The question before us, obviously, is not how the merchandise is classified botanically. Our problem is how the merchandise is to be classified for tariff purposes.
+Beans are eo nomine provided for in paragraph 765. Beans aré not among the seeds enumerated in paragraph 764. There is no claim that they are.
+What plaintiffs do claim, is that these mung beans were included by Congress in the provision for garden and field seeds, not specially provided for. The argument, however, proceeds almost as if this not specially provided for seed provision did not include the words “garden and field.”
+In interpreting, as we do, the intention of Congress, we give weight to all the words Congress used to express its intention. Are these mung beans, for tariff purposes, either garden seeds or field seeds? We are of the opinion that they are not.
+The Supreme Court has, at least twice, interpreted tariff provision for garden seeds. Ferry et al. v. Livingston, 115 U. S. 542; Robertson v. Salomon, 130 U. S. 412. The Ferry case was relied on by the Circuit Court for the Southern District of New York, in Clay v. Magone, 40 Fed. Rep. 230. That was a jury trial. In his charge to the jury, the presiding judge outlined the applicable law as follows:
+* * * In the case at bar we have a word, or a phrase rather, which, as used, leaves it somewhat uncertain as to whether congress did or did not mean to apply the test of use. The phrase is “garden seeds.” This may mean either seeds intended for use in the garden, or the class of articles known commercially as “garden seeds.” There is testimony in the case that there was a distinct trade meaning of the phrase “garden seeds,” known in trade and commerce of this country, and that congress adopted the phrase and put it in the tariff act. With regard, however, to the determination of the question whether or not we should interpret that phrase here as meaning the same thing as “seeds used or to be used for the garden,” there is nothing left for this court to decide. That question has been considered by the supreme court in the case of Ferry v. Livingston, 115 U. S. 542, 6 Sup. Ct. Rep. 175, and the rule there laid down is,, of course, controlling here. There, this same section being before the court, and the question being whether certain seeds then under consideration were to be considered as “garden seeds” or as “agricultural seeds,” the court held, indeed, that it would not be sufficient, to show that they were not “garden seeds,” to show that they were used both in the garden and in the field, but they went further, and indicated that if it appeared that the seeds in question (the particular cabbage seed then before the court) belonged to a variety not intended to be used to raise cabbages to be consumed by man, then they could not be regarded as “garden seeds.” Now the same construction is to be applied here; and if we find (and that is the question which goes to you for your determination) that the celery seeds imported here were of a variety of celery seeds which was not intended to raise celery to be consumed by man, then it is not within the provision for “garden seeds,” and your verdict must be for the plaintiff. (P. 232.)
+The record here is clear that imported mung beans are not intended for planting, either in gardens or in fields. They are imported to be soaked in pans or cans of water. They are not intended to raise a crop of mung beans, but only to be sprouted.
+There is not a shred of evidence in the record as to a commercial designation of mung beans, either as garden seeds or field seeds.
+Whether the provision for garden and field seeds is a use provision or a commercial designation provision, we do not need to decide. In either view of the matter, plaintiffs have not made their case.
+The Summaries of Tariff Information (1948), prepared in response to a resolution of the Ways and Means Committee of the House of. Representatives, adopted July 25, 1947, mentions mung beans in comment on the beans provision of paragraph 765. In volume 7, part 6, at page 10, there is the following statement:
+* * * the mung bean, a small oriental bean used to produce bean sprouts for use in chow mein and similar dishes, has been grown commercially in Oklahoma in recent years. * * *
+By itself, this statement might not be conclusive of congressional intent as to classification of mung beans. At the least, however, it is an indication that mung beans were thought of as coming within the provision of paragraph 765. This is reinforced by a limiting comment as to seeds;
+In part 5 of the same volume, at page 183, there is the following statement relative to the paragraph 764 provision for other garden and field seeds, not specially provided for:
+This group covers the garden and field seeds which are not specifically pro" vided f or in the tariff act or covered by separate import classifications. [Emphasis supplie d.]
+It remains for us to consider the argument, advanced by plaintiffs, that it is immaterial that mung beans are not planted, in view of the proviso in paragraph 764 that “the provisions for seeds in this schedule shall include such seeds whether used for planting or for other purposes.” We do not read this proviso as taking away the meaning of the retained and long-construed words “garden and field” seeds. Rather, the proviso refers to “such” seeds and is a useful and expedient device to make uniform the tariff classification of such seeds, without requiring proofs of actual planting before entries may be liquidated.
+As to the alternative claim, for classification as a vegetable substance, crude or unmanufactured, not specially provided for, plai ntiffs introduced no evidence in support of this claim, other than the evidence introduced in support of their claim for the garden and field seed classification. Plaintiffs’ brief cites, in support of their alternative claim, J. P. Sauer & Co., Inc., et al. v. United States, 66 Treas. Dec. 465. On the record before the court in that case, the testimony of only one witness, parsley in its natural state was held to b e a garnish or flavoring, and not a vegetable. There is nothing analog ous as to mung beans in this record. Moreover, parsley is not eo nomine provided for, while beans are.
+Plaintiffs have not overcome the presumption that the collector’s classification was correct. The protests are overruled. Judgment will issue accordingly.
