@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "58638; protest 229445-K (New York)"
+decided: "1954-12-22"
+citations: ["33 Cust. Ct. 482"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alintex, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/33/cases/0482-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6641870
+---
+
+# Alintex, Inc. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+An examination of the record failing to disclose any evidence sufficient to overcome the presumption of correctness attaching to the collector’s action, the protest was overruled.
