@@ -1,0 +1,37 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2010"
+decided: "1920-03-24"
+citations: ["10 Ct. Cust. 83"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Carlin"]
+source_url: "https://static.case.law/ct-cust/10/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3876019
+cites_cases: ["38 Treas. Dec., 273"]
+---
+
+# United States v. Carlin
+
+## Majority (Montgomery, Presiding Judge,)
+
+Montgomery, Presiding Judge,
+delivered the opinion of the court:
+The facts in this case are in all substantial respects the same as those recited in the opinion by my brother Smith in the case of United States v. John Reid & Co., decided concurrently with the present case. It is therefore unnecessary to repeat the statement of facts or the arguments sustaining the conclusions in that case. As, however, the brief in the present case lays peculiar stress on the opinion of Attorney General Wickersham in Twenty-seventh Opinions Attorney General, page 228, it seems appropriate to make clear the distinction between the question there discussed and that presented by this record.
+The Attorney General dealt with section 17 of the act of June 26, 1884, and section 12 of the tariff act of 1897 (30 Stats. L., 207), which are here quoted, so far as material to any question involved:
+Section 17, act of June 26,1884 (23 Stat., 57): When a vessel is built in the United States for foreign account, wholly or partly of foreign materials on which import duties have been paid, there shall be allowed on such vessel, when exported, a drawback equal in amount to the duty paid on such materials, to be ascertained under such regu - lations as may be prescribed by the Secretary of the Treasury. Ten per centum of the amount of such drawback so allowed shall, however, be retained for the use of the United States by the collector paying the same.
+Section 12, customs act of 1897 (30 Stat., 207): That all materials of foreign production which may be necessary for the construction of vessels built in the United States for foreign account and ownership, or for the purpose of being employed in the foreign trade, including the trade between the Atlantic and Pacific ports of the United States, and all such materials necessary for the building of their machinery, and all articles necessary for their outfit and equipment, may be imported in bond under such regulations as the Secretary of the Treasury may prescribe; * * *.
+Two questions were discussed in. the opinion of the Attorney General: First, whether section 17 of the act of 1884 was still in force; secondly, whether the steam evaporator and the steam pump used in the construction of a dredge were material used in the construction of a vessel, within the meaning of the said section 17. Both of these questions were answered in the affirmative.
+The first question depended for its solution upon a decision as to whether the above-quoted section of the tariff act of 1897 effected a repeal of- the act of 1884.' This question having been determined in the negative, the question as to whether the evaporator and pump were materials used in the construction of the dredge, as the term “materials” was employed in the act of 1884, was discussed. That question in turn seemed to depend upon' whether the completed articles could be considered materials, and upon that question the Attorney General said:
+Nor do I think that the drawback should be disallowed because the materials which compose the pump and evaporator were not assembled after importation, but they were purchased as a whole abroad. The word “materials,” as used in section 12 of the tariff act of 1897, is defined to include “all imported merchandise which is adapted for use in the construction of a vessel and of her machinery” (Customs Regulations, 1908, art. 725), and it has the same meaning in section 17, act of June 26,1884.
+It is to be kept in mind that the Attorney General was considering the terms of section 17 of the act of 1884 when he held that the word “materials” was broad enough to include the completed articles, pump and evaporator, evidently because they were merchandise used in the construction of a vessel. True, he.adds that the word “materials” as used in section 12 of the tariff act of 1897, is defined to include “all imported merchandise which is adapted for use in the construction of a vessel and of her machinery,” citing Customs Regulations 1908, article 725. And also adds, “It has the same meaning in section 17, act of June 26,1884,” and further adds:
+There can be no doubt that this vessel was “built in the United States,” nor that the pump and evaporator were a part of the material that went into its construction. Of course, if the hull of a vessel, and the several fixtures thereto, be made separately elsewhere and nothing be done here but to put them together, such vessel would not be built in the United States, and this statute would not apply. But the statute requires only that the vessel be built here, and not that such separate attachment or appliance be manufactured in the United States. (Italics in the text.)
+The Customs Regulation, above cited reads as follows:
+Art. 725. “Materials” defined. — The word materials as used in section 12 may be understood as generally including all imported merchandise which is adapted for use in the construction of a vessel and of her machinery.
+Among the articles regarded as “materials” are the following: Lumber, timber, hemp, manila, copper, and composition metal in plates or bars, iron and steel plates, angles, bar's, tees, bulbs, channel beams, rivets, rods, bolts, nuts and screws, rolled or forged bars, plates, angles, and bars planed, punched, or shaped, oakum, and Portland cement.
+• It is obvious that the portion of the regulation referred to by the Attorney General is but a short statement of the statute (of 1897) in general terms and is to be interpreted by the succeeding recitals, which, while not necessarily excluding all materials e'xcept those enumerated, has a material bearing on the legislative intent, and the statute of 1897 itself must be referred to in determining the meaning of the word "materials” where employed in its connection in that section. When we turn to this, we find that the statute clearly provides for drawbacks (under regulations) on, first, all materials-necessary in the construction of vessels built in the United States- and all such material necessary for building of their machinery.
+The opinion of the Attorney General seems to indicate that in his'view the machinery here in question would be considered a part of the vessel. Now, under the terms of the act of 1884 it appeared not-to be required that the machinery be built in this country. It was-logical, therefore, to hold that it might be treated as material for the construction of a vessel, but the opinion itself notes the distinction in the paragraph above quoted, and, as we hold that the materials excepted from duty are materials for the building of a ship, and materials for the building of her machinery, the doctrine of the Attorney General’s opinion does not militate against the Government A contention, but supports it.
+The decision will be reversed.
