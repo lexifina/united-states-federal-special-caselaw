@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "59265; protests 192466-K, etc. (New York)"
+decided: "1955-08-25"
+citations: ["35 Cust. Ct. 232"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barclay Clover, Inc., and Taub, Hummel & Schnall, Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/35/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6593580
+cites_cases: ["42 C. C. P. A. 136"]
+---
+
+# Barclay Clover, Inc. v. United States
+
+## Majority (Ford, J.)
+
+Opinion by
+Ford, J.
+In accordance with stipulation of counsel that the merchandise consists of articles of wearing apparel the same in all material respects as those the subject of United States v. The Specialty House, Inc., Bryant & Heffernan, Inc., et al. (42 C. C. P. A. 136, C. A. D. 585), the claim of the plaintiffs was sustained.
