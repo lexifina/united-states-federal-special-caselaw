@@ -1,0 +1,31 @@
+---
+court: "United States Customs Court"
+decided: "1938-11-29"
+citations: ["1 Cust. Ct. 262"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before McClelland, Sullivan, and Bbown, Judges"]
+parties: ["Nozaki Brothers, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/1/cases/0262-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6630871
+cites_cases: ["22 C. C. P. A. 464"]
+---
+
+# Nozaki Bros., Inc. v. United States
+
+## Majority (MoClelland, Presiding Judge:)
+
+MoClelland, Presiding Judge:
+The merchandise the classification of which is the subject of this protest consists of wooden boxes in which canned mandarin oranges were imported into the United States. Following the decision of this court in Nozaki Bros. v. United States, reported in Abstract 32355, duty was assessed on the oranges at the rate of 1 cent per pound under the provision in paragraph 743 of the Tariff Act of 1930 for “oranges,” and on the boxes at the rate of 25 per centum ad valorem under paragraph 408 of the same act, which reads as follows:
+Pab. 408. Boxes, barrels, and other articles containing oranges, lemons, limes, grapefruit, shaddocks or pomelos, 25 per centum ad valorem: Provided, That the thin wood, so called, comprising the sides, tops, and bottoms of fruit boxes of the growth or manufacture of the United States, exported as fruit-box shoots, may be reimported in completed form, filled with fruit, by the payment of duty at one-half the rate imposed on similar boxes of entirely foreign growth and manufacture; but proof of the identity of such shoots shall be made under regulations to be prescribed by the Secretary of the Treasury.
+The protest claim is that the boxes are entitled to free entry as the usual, nonreusable containers of specific-duty merchandise.
+From the record as made in the case at bar it appears that the merchandise contained in the boxes in issue consisted of cans containing a syrup and pieces of fruit which resulted from the peeling, separation of the segments, and removal of the membrane from mandarin oranges. As an original proposition coming before this division of the court for determination for the first time, we would be inclined to hold that the language in paragraph 408, supra, “boxes, barrels, and other articles containing oranges, lemons, limes, grapefruit, shaddocks, or pomelos” covered only such fruits in the natural state, but notwithstanding this view we feel that the conclusion reached by the appellate court in Nootka Packing Co. et al. v. United States, 22 C. C. P. A. 464, T. D. 47464, which ultimately formed the basis for the decision of this court in the Nozaki case supra, is controlling on the question as to whether the item “oranges” as used in the tariff act is limited to fresh fruit.
+On the trial of the issue the record in protest 726851-G, Geo. S. Bush & Co., Inc. v. United States, decided December 3, 1937, and reported in Abstract 37168, which included the record in Nozaki Bros. v. United States, Abstract 32355, was incorporated as part of the record herein and the protest was submitted for decision. From an examination of the record in the incorporated case it appears that the merchandise involved therein was the same as that in issue, viz, canned oranges imported in wooden boxes, and although the issue there was limited to the dutiable status of the oranges, testimony was received bearing upon the question of the liability to duty under paragraph 408 of the boxes.
+From such testimony it appears that the boxes in issue are the usual containers of canned mandarin oranges and that they have no use after the cans have been taken out of them, and are usually discarded or destroyed. It also appears that the usual container in which fresh oranges are imported is a box consisting of two ends with wide slats for tops, sides, and bottoms, illustrated by Illustrative Exhibit C, as distinguished from the boxes in issue, represented by Illustrative Exhibit B, which have fully enclosed sides, tops, and bottoms, and in which the side, top, and bottom material is thicker than the slats used in Illustrative Exhibit C.
+After careful consideration of the facts in the case at bar and the law involved we are satisfied that the boxes in issue are not “boxes * * * containing oranges” within the meaning of that term as used in paragraph 408, supra. It is manifest from a reading of the language in that paragraph that it is the containers of the citrus fruits therein named which are subjected to duty at 25 per centum ad valorem. The boxes in issue as imported did not contain oranges; they contained cans which themselves contained oranges. Obviously, then, the cans, not the boxes, were the containers of the oranges, and it follows that the collector’s classification of the boxes under paragraph 408 was erroneous.
+The question then presents itself whether the cans are classifiable under paragraph 408, supra, as “articles containing oranges.” If they are it would follow that the boxes would be dutiable to the extent of the proportion of the value of the cans to the oranges as the usual containers of merchandise in part subject to an ad valorem rate of duty.
+It will be observed that paragraph 408, supra, is located in the wood schedule under the heading “Wood and Manufactures Of” and that all of the articles therein provided for are composed at least in part of wood or of what are commonly considered to be substances of a woody nature such as rattan, reed, bamboo, etc. It would seem, therefore, that metal cans are not articles of the kind intended to be provided for in paragraph 408. In this connection see the decision of the First Division of this court in Rice v. United States, Abstract 39389, wherein glass bells were held to be excluded from the eo nomine provision for “bells” in paragraph 364 of the metals schedule.
+Not being containers of the kind provided for in paragraph 408, supra, it must be held that the cans are the usual containers of specific-duty merchandise and entitled to free entry, as are also the boxes.
+The protest is therefore sustained, the decision of the collector being reversed. Judgment will issue accordingly.
