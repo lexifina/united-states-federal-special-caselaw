@@ -1,0 +1,91 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2989"
+decided: "1928-06-11"
+citations: ["16 Ct. Cust. 236"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["Albers Bros. Milling Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/16/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093819
+---
+
+# Albers Bros. Milling Co. v. United States
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The issue here is the right of the appellant to recover a drawback of 99 per centum of the duties paid on certain imported oats which were subsequently manufactured into oat groats and then exported. The oat groats upon which the drawback is claimed were exported in different shipments during the last part of 1917 and the first part of 1918. The claim for drawback, referred to as drawback entry No. 11, covered all these shipments, and was filed in December, 1920. Thereafter various investigations touching this claim were made by customs agents, detailed reference to which is unnecessary. On July 22, 1925, the collector, by letter, notified appellant of his refusal to pay the claim. That letter was incorporated in the papers forwarded by the collector to the Board of General Appraisers and is as follows:
+July 22, 1925.
+Albers Bros. Milling Co.,
+Beattie, Wash.
+Sir: Referring to drawback entry No. 11 heretofore filed in this office, covering certain oat groats manufactured by your company, and exported with benefit of drawback, you are advised that the bills of lading show that the merchandise was exported by the Wheat Export Company, Inc., and no evidence has been produced that the right to claim drawback was reserved to the manufacturer with the knowledge and consent of the exporter as required by article 961 of the Customs Regulations of 1923. Furthermore, it appears -from the investigation by Customs Agent Atkinson that the oats used in the manufacture of the oat groats do not agree with the certificate of manufacture.
+Under the, circumstances, the claim has been denied. If desired, the claimant may file a protest to the Board of General Appraisers in accordance with sections 514 and 515 of the Tariff Act of 1922.
+Respectfully,
+(Sgd.) Millard T. Hartson,
+Collector
+On August 17,1925, appellant protested this refusal of the collector, claiming therein “that the drawback regulations were sufficiently and properly accomplished, and proof'of such is offered to be furnished at a later date. Hearing is requested at Seattle, Washington.” Justice Brown presided at the hearing in Seattle. The evidence was later considered and the case decided by the first division of the United States Customs Court, of which Justice Brown was a member. A majority of the court, Justice Brown dissenting, sustained the collector’s action upon two grounds: (a) That the exported merchandise had not been identified, as required by the Customs Regu-tions; (&) that appellant had failed to establish its right to collect the drawback.
+Paragraph O of section 4 of the Tariff Act of 1913 contains, it is agreed by both parties, the drawback provision in force at the time the application therefor was made in this case. The pertinent part thereof is as follows:
+That upon the exportation of articles manufactured or produced in the United States by the use of imported merchandise or materials upon which customs duties have been paid, the full amount of such duties paid upon the quantity of materials used in the manufacture or production of the exported product shall be refunded as drawback, less 1 per centum of such duties: * * * Provided further, That the drawback on any article allowed under existing law shall be continued at the rate herein provided. That the imported materials used in the manufacture or production of articles entitled to drawback of customs duties when exported shall, in all cases where drawback of duties paid on such materials is claimed, be identified, the quantity of such materials used and the amount of duties paid, thereon shall be ascertained, the facts of the manufacture or production of such articles in the United States and their exportation therefrom shall be determined, and the drawback due thereon shall’be paid to the manufacturer, producer, or exporter, to the agent of either or to the person to whom such manufacturer, producer, exporter, or agent shall in writing order such drawback paid, under such regulations as' the Secretary of the Treasury shall prescribe.
+Pursuant to the authority thus vested in the Secretary of the Treasury, that official promulgated article 857 of the Customs Regulations of 1915, reading as follows:
+857. The drawback is payable to the manufacturer, producer, or exporter, his agent, or to the person to whom such -manufacturer, producer, exporter, or agent shall, in writing, direct such drawback to be 'paid.
+The party named as shipper or consignor in the bill of lading under which domestic merchandise is exported shall be held to be the exporter of such merchandise, provided, however, that whenever the manufacturer or producer of articles entitled on exportation to drawback shall, on the sale or consignment of such articles, have reserved to himself the right to claim drawback, he or his agent may make entry for such drawback, which shall be paid on satisfactory evidence that such reservation was made with the knowledge and consent of the exporter.
+Under said paragraph 0 and said article 857 the burden was upon appellant to prove, (a) the facts necessary to establish that the drawback was due and payable to someone, and (b) that it bad a right to receive the same.
+The court below has in effect found that the fair balance of the evidence does not establish any of such facts; therefore, we must hold that its findings are contrary to the weight of the evidence, or not supported thereby, or affirm its judgment.
+In order to prove that the drawback should be allowed., the exported groats must be identified as manufactured from imported oats; and the quantity of such oats so used, the amount of duties paid thereon, and the exportation of such groats ascertained, under such reasonable regulations as the Secretary of the Treasuiy may prescribe.
+It is not claimed that article 857 is unreasonable or invalid. In order to point out why the evidence of record does not establish the above-mentioned identification facts, it would be necessary to quote extensively from a record which is, at least, confusing. We think, as did the court, that the identification was not shown as required by the regulations. Passing that issue without further discussion, we are, however, of opinion that the judgment below was right, and we affirm it on the ground that appellant has failed to establish that the drawback is payable to it.
+Paragraph O, hereinbefore quoted, provides that when the necessary identification and other facts have been proven the drawback “shall be paid to the manufacturer, producer, or exporter, to the agent of either, or to the person to whom such manufacturer, producer, exporter, or agent shall in writing order such drawback paid” under the regulations of the Secretary of the Treasury. The quoted regulation provides that the party named as shipper or consignor in the bill of lading under which the domestic merchandise is exported, shall be held to be the exporter thereof, and if the manufacturer or producer of the articles entitled on exportation to the drawback, in the sale of such articles, reserves to itself the right to claim drawback, he may receive it “on satisfactory evidence that such reservation was made with the knowledge and consent of the exporter.”
+The evidence in the case clearly establishes that the exported oat groats were manufactured by Albers Bros. Milling Co., and were by them sold to Balfour, Guthrie & Co., acting as the agent for the Wheat Export Co. The fact of such agency, however, does not seem to have been brought to the attention of Albers Bros. Milling Co., at the time such contract of purchase and sale was made. The contract was in writing and as follows:
+May 11, 1917.
+Messrs. Albers Bros. Milling Co.,
+Seattle, Wash.
+Dear Sirs: We refer to negotiations that have passed between us during the last day or two regarding oat groats and we have now to''eonfirm our purchase from you to-day of 3,000 tons of the recognized standard quality of good sound kiln-dried oat groats, put up in good double grain sacks, at $4.60 per 100 lbs., delivered f. o. b. steamer at Seattle, delivery to be made at the rate of 600 long tons per month, commencing June, 1917, to November, 1917, inclusive.
+Terms are to be net cash against bill of lading documents on delivery.
+In connection with deliveries we are to have the option of taking the groats f. o. b. cars at your mill with the object of shipping them overland to the Atlantic seaboard or Gulf ports. In this event we are to declare by the first of the previous month what shipments during any one month are required that way. On all such shipments we will accept delivery f. o. b. car your mill, and make payment against the railroad bill of lading. We, of course, .will give you specific routing instructions on all such shipments.
+With regard to the June quota we will let you know as soon as possible as to delivery.
+It is quite understood that this contract is entered into subject to strikes, fires, or other causes beyond seller’s control.
+We have made this letter in duplicate so if in order please sign both copies and return one of them for our file.
+Please also let us have a 5 or 10 lb. sample approximately representative of the quality of the oats you will deliver.
+Yours faithfully,
+pp. Balfour, Guthrie & Co.
+L. A. Battullo.
+Confirmed:
+Albers Bros. Milling Co.,
+G. Albers,
+Sec. & Treas.
+P. S. — In regard to all the above-mentioned deliveries, it is distinctly the seller’s option to deliver the quantity sold for each month at any time during that month.
+pp. Balfour, Guthrie & Co.
+L. A. Battullo.
+Albers Bros. Milling Co.,
+G. Albers,
+Sec. & Treas.
+We think it is quite apparent that in the above contract of sale between Albers Bros. Milling Co. and Balfour, Guthrie & Co. there was no reservation of the right of drawback. That subject is not therein mentioned.
+The transactions carrying out the sale and purchase, according to the undisputed testimony of one of the employees of Balfour, Guthrie & Co., were substantially as follows:
+Payment was made by Balfour, Guthrie & Co. to the Albers Bros. Milling Co., and Balfour, Guthrie & Co. in turn received payment from the Wheat Export Co.
+In another connection he said:
+I do not remember whether we waited for a check or actually drew a draft on the bank, * * *. They were invoiced by Balfour, Guthrie & Co. on the Wheat Export Co., * * * which was the company that was importing them into Europe.
+When tbe groats were exported four bills of lading were issued to the Wheat Export Co., as hereinafter appears.- That company, under article 857 and paragraph O, would be considered the exporter thereof and entitled to the drawback, unless the manufacturer, Albers Bros. Milling Co., had reserved the right to receive the same, if it also appeared “by satisfactory evidence that such reservation was made with the knowledge and consent of the exporter.” There is no proof whatever that the Wheat Export Co. ever knew of any such reservation or consented thereto.
+It clearly appears that in the transactions, relating to the groats, between the Wheat Export Co. and Balfour, Guthrie & Co., no mention of the drawback was made. The Wheat Export Co. was an instrumentality of the British Government during the Great War. Just when or how it was created does not appear, and there is no evidence to show that it was out of existence when the drawback claim was filed, other than that it had ceased to do business with Balfour, Guthrie & Co., and apparently had ceased doing business in this country.
+On the back of the first three of these bills of lading appears a typewritten statement as follows: “Shippers Albers Bros. Milling Company.” This is followed by a typewritten memorandum relating to the delivering carrier, car number, number of sacks received, etc., followed by the indorsement in handwriting “Albers Bros. Milling Co. per John B. Hauson, Atty. in fact.” On the back of the fourth appears, typewritten, “Albers Brothers Milling Co.” followed by “J. M. Hubbell, Asst. Sec’y.” in handwriting.
+The Albers Bros. Milling Co. claims that those indorsements, in connection with the testimony of Mr. Albers, one of its officers, prove that it was in fact the shipper of the merchandise covered by these bills of lading, and for that reason entitled to the drawback. Mr. Albers was permitted to testify that the typewritten indorsements were put on the bills of lading at the time the shipments were made. When the others were made does not appear. He was asked to account for the discrepancy between the shipper as named on the face of the bills of lading and the said typewritten entries on the back thereof, concerning which he said:
+A. After the goods were sold to Balfour, Guthrie & Co., the British Government erected a corporation called the Wheat Export Co., and the Wheat Export Co. carried o'ut the contract as Balfour, Guthrie & Co., agents of the Wheat Export Co. This is the reason that the name of the Wheat Export Co. appears in the bill of lading instead of Balfour, Guthrie; and the notations on the back of the bills of lading verifies that.
+Q. Now, the notations verify that your company were the actual shippers, the physical shippers? — A. We were the shippers.
+There was no testimony tending to show that the Wheat Export Co. ever knew of, consented to, or authorized, these indorsements on the backs of the bills of lading, or knew that Albers Bros. Milling Co. claimed to be the shipper, or that anyone with authority to act as the agent of the Wheat Export Co. in the matter ever consented thereto or knew thereof.
+There is nothing to show that the carriers issuing the bills of lading knew of these indorsements, or knew that Albers Bros. Milling Co. was or claimed to be the shipper. •
+These indorsements, especially in view of the circumstances under which they were made, as hereinbefore set forth, can not be held to establish that the Albers Bros. Milling Co. was the shipper or exporter.
+Mr. Albers was asked, “Do you, or not, think it was possible to obtain indorsement on the backs of these various bills of lading, or, in other words, the relinquishment of rights, of the Wheat Export Co. at that date, January, 1921?” To this question he answered “No.” It is not claimed that there is any testimony tending to show such relinquishment or that any effort was made to procure the same.
+We do not overlook the fact that Mr. Albers was permitted to testify, over the objection of the Government, that the appellant reserved the right of drawback in its contract with Balfour, Guthrie & Co. Such testimony, however, can not be permitted to vary or change the terms of the written contract between the parties, in which no such right was reserved.
+It is of some significance that there is no testimony that the price at which the groats were sold was not large enough to include the drawback, and that apparently no effort whatever has been made to apprise the Wheat Export Co. of this attempt to recover the drawback.
+Article 857 was evidently made to protect the Government from the liability of paying drawback to anyone not entitled thereto, as well as to protect an exporter, entitled to drawback, from the possibility of its being paid to anyone else without his knowledge.
+On any aspect of the testimony, we are of opinion that appellant has completely failed to establish its right to receive the drawback, and the court- below was clearly justified in so finding.
+There is another issue in this case which- requires but passing notice. The Government in its brief avers that on or about July 6, 1927, it moved the United States Customs Court to dismiss the appeal on the ground that recovery of the drawback could not be had in this case under the provisions of the Tariff Act of 1922. The judgment in this case was entered below April 22, 1927, some months before the claimed motion was made. The record contains no suggestion that it was made. No such motion has been filed in this court, but in its brief the Government argues that issue, and asks for a decision thereon.
+In appellant’s brief it is said that—
+Presumably the appellee will renew its motion to dismiss the protest on the ground that the right of protest in drawback eases does not apply where entry was made prior to passage of the tariff act of 1922.
+Appellant, however, does not argue that question further than to refer to a dissenting opinion of Justice Brown in Abstract 48436, Treas. Dec. 47, p. 870.
+We dismiss this contention with the remark that it should appear, if consideration is to be given to the same here, that the motion was seasonably made in the court below. It also ought to be properly made or renewed here by motion filed for that purpose, accompanied by the reasons urged for the granting thereof.
+It may be noted that the denial of the drawback by the collector was based upon the provisions of article 961 of the Customs Regulations of 1923. That article is, in legal effect, like article 857 of the Customs Regulations of 1913, already quoted. The drawback provision in the Tariff Act of 1922 (see par. 313), so far as any issue here is concerned, is a reenactment of the provisions of paragraph O of the preceding tariff act, already quoted. We do not undertake to decide as matter of law whether in this case drawback was recoverable under the provisions of the Tariff Act of 1913 or of the Tariff Act of 1922, because, as already appears, whichever may be considered applicable, the appellant has faded to establish its right to the same.
+The judgment of the United States Customs Court is affirmed.
