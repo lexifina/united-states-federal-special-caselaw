@@ -1,0 +1,30 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1504"
+decided: "1953-02-26"
+citations: ["30 Cust. Ct. 101"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Ekwall, and Johnson, Judges; Cline, J., not participating"]
+parties: ["Pioneer Transfer Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/30/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6589660
+cites_cases: ["14 Ct. Cust. Appls. 1", "18 Cust. Ct. 128", "30 Cust. Ct. 58"]
+---
+
+# Pioneer Transfer Co. v. United States
+
+## Majority (JOHNSON, Judge:)
+
+JOHNSON, Judge:
+The merchandise in question consists of mixed feeds containing 60 per centum cottonseed meal, 10 per centum wheat 'bran, and 30 per centum milo maize. Duty was assessed thereon under the provisions of paragraph 730, Tariff Act of 1930, at the rate of three-tenths of 1 cent per pound, by virtue of the higher rate provision in paragraph 1569, as in chief value of vegetable oil-cake meal. The plaintiff claims that the merchandise is properly dutiable under the same paragraph as mixed feeds, consisting of an admixture of grains or grain products with oil cake, oil-cake meal, molasses, or other feedstuffs, at the rate, as modified by the trade agreement with Canada, T. D. 49752, of 5 per centum ad valorem.
+At the trial one of the witnesses for the plaintiff, Ray Silverthorn, testified that he had handled “a good deal of” a mixture of 60 per centum cottonseed meal, 10 per centum bran, and 30 per centum milo maize; that it was strictly a dairy feed used by dairymen to supplement their own feed. The witness explained this by stating that the dairymen feed a certain amount of hay or some other type of roughage, or their own barley which they had raised, with the mixed feed so as to make the dairy feed of the type they want to feed. However, such other feed is not physically combined with the mixed feed, but the cattle mix it by feeding on the hay or roughage, and then the mixed feed is placed in a trough or manger at milking time. The witness further testified that he had seen the feeding of such mixed feed when he had called on the class of trade to sell the feed. The witness stated -that a mixed feed is always fed as a supplement to some other feed and •that there was no mixed feed on the market which would be a complete ■feed for cattle by itself; that it would be mixed with other roughage; ’and that, whereas a beef man would feed the imported product by itself, a dairyman would not feed it without the roughage.
+Two other witnesses also testified on behalf of the plaintiff and a •commission was issued to a feed manufacturer in Baltñnore who testified by means of interrogatories. None of these witnesses indicated that they had any knowledge of the particular mixed feed here 'imported. Then testimony was introduced for the purpose of establishing a commercial designation for the term “mixed feeds” which was different from the judicial interpretation of the term as announced by the courts as the intention of Congress in making special provision therefor. See Walter Johnson v. United, States, 21 C. C. P. A. (Customs) 129, T. D. 46464. In the case of James Loudon & Co. for Taylor Milling Co. v. United States, 30 Cust. Ct. 58, C. D. 1497, this court held as follows:
+Evidence introduced for the purpose of establishing that, at the time of the passage of the act, in the trade and commerce throughout the United States, the tariff term“mixed feeds” definitely, uniformly, and generally pertained to articles which were not necessarily in a condition ready for use as mixed feeds at the time ■ of importation, is held immaterial in the absence of proof that the particular article imported was known to the witnesses and had been bought and sold by them under the tariff designation of mixed feeds at or prior to the passage of the tariff act. '[Quoted from syllabus.]
+All of the commercial witnesses testifying herein also testified in the Taylor case, supra. Witness Silverthorn, however, with local experience only, was the only witness who dealt in the imported merchandise and had seen it used. His testimony, however, establishes without •doubt that the merchandise came within the definition of mixed feeds as announced by the Court of Customs and Patent Appeals. The merchandise not having been shown to have a meaning in the trade and • commerce of the United States different from the common meaning, .as judicially determined, it must be presumed that the common and commercial meanings of the term “mixed feeds,” so far as the merchan- ' dise in question is concerned, coincide. United States v. Briggs Manufacturing Co., 14 Ct. Cust. Appls. 1, T. D. 41526.
+In the case of Southwestern Sugar & Molasses Co. v. United States, 18 Cust. Ct. 128, C. D. 1056, a commodity known as “Pasto Miel,” •consisting of 50 per centum oil cake,' 10 per centum turnips, 20 per •centum molasses, and' 20 per centum bran, was shown not to be a • complete feed without roughage; that it was used as a feed in combination with alfalfa hay or other roughage; and that roughages are used with all mixed feeds.
+The court, in holding the “Pasto Miel” to be a mixed feed stated that—
+“* * * While every mixture of grain and other ingredients may not be a mixed .feed, we think that a product which is suitable for feeding in its imported condition and which forms a proper part of an animal’s ration, if within the descriptive terms-of paragraph 730, is a mixed feed within the meaning of the tariff act.
+In view of the evidence in this case as to the composition and use of the imported merchandise, and following the cases of Walter Johnson, supra, and Southwestern Sugar & Molasses Co., supra, we hold that the merchandise is a mixed feed and, as such, properly dutiable at the rate of 5 per centum ad valorem under paragraph 730, as amended, as claimed. In all other respects the protest is overruled.
