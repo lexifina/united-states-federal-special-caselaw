@@ -1,0 +1,37 @@
+---
+court: "United States Customs Court"
+docket: "7611; Entry No. 715092"
+decided: "1948-07-21"
+citations: ["21 Cust. Ct. 277"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Ekwall, and Johnson, Judges"]
+parties: ["Oxford University Press, N. Y., Inc. (M. Farris & Co., Inc.) v. United States"]
+source_url: "https://static.case.law/cust-ct/21/cases/0277-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6652736
+---
+
+# Oxford University Press v. United States
+
+## Majority (Ekwall, Judge:)
+
+Ekwall, Judge:
+This is an appeal from a decision of a single judge reported in Eeap. Dec. 6284, in which he found the proper dutiable value of certain unbound books in sheets to be the appraised value thereof. The merchandise consisted of what is described on the invoice as “5000 Oxford Dictionary of Quotations. Folded and collated’,” which were exported from England on July 30, 1941. Each set was invoiced and entered at 6 shillings per copy plus cases, packing, and marking. Appraisement was made at £0/8/9 per copy plus packing and marking on the basis of cost of production, as defined in section 402 (f) of the Tariff Act of 1930. It was agreed that cost of production was the proper basis of value. Counsel further agreed that up to the time of exportation of this merchandise 20,000 copies of the book had been printed. The issue is therefore narrowed down to a determination of what constituted the cost of production as defined in the statute.
+The trial judge held that the value found by the appraiser is the proper cost of production. Plaintiff claims that in arriving at such value the cost of the plates should be allocated to 65,000 copies of the dictionary, instead of calculated on the basis of 20,000 copies, the number produced up to the time of exportation of the involved merchandise.
+The record discloses that in estimating production costs the publisher used as a basis its expectation of marketing at least 65,000 copies and that the cost of the plates was spread over that number of copies. The Government, apparently, does not dispute any of the costs as set forth in the record, and as found in the affidavits in evidence and the report of the American consul at London on the Government’s investigation of the cost of production of the books, but takes the position that the cost of said plates should be applied to only the 20,000 copies actually produced up to the time of exportation. :
+In relation to the costs involved, the following information was submitted to the American Embassy in London by the Oxford University Press, London, the exporter:
+The current costs (i. e. printing and paper) are based on an edition of 20,000 copies printed at one time. The non-recurring costs (i. e. composition, editorial, correction and proof-reading, plates, translations, indexing, permission fees and royalties) are spread over 65,000 copies, of which 47,320 copies have already been printed. This is, I believe, the usual course followed by publishers when dealing with the costs of reference books likely to be in demand for many years.
+Plaintiff in the brief filed contends:
+A reference book such as a dictionary is a work which must be compiled by persons having expert knowledge, with great care and extensive research and is expected to be a marketable article for many years. It follows that considerable outlay is encountered for composition, editorial work, corrections, proof reading, indexing, etc. together with manufacture of the printing plates.
+To undertake a work of this kind, the publishers must have had reasonably well founded expectations that it would be a marketable article for years to come.
+That the publisher’s expectation of marketing at least 65,000 copies was not overoptimistie is shown by the fact that over 47,000 copies were printed during three war years (Exhibit 3) involving the known paper shortage.
+In this instance these initial outlays, collectively called cost of plates, amount to a large sum of money.
+To charge this cost to the selling price of a first printing would be to make a price prohibitive to most users, depriving them of a necessary and instructive work.
+Plaintiff contends that the cost of these plates is a depreciable capital asset and that the treatment which they should receive in determining cost of production might very well be analogous to the manner in which capital assets are computed under the income tax laws.
+The single judge in deciding the case gave full consideration to this contention and in holding adversely thereto made use of the following language:
+The argument of plaintiff is of course quite a plausible one, as no doubt the publisher of almost every book hopes for a big enough sale and demand for same to warrant further editions or reprints. Such hopes or expectations however may or may not be realized, so that at best it -would seem to be a rather indefinite and uncertain manner of arriving at any ultimate quantity of production. In the present instance it appears from the report of the American consul (collective exhibit 3) that 47,320 copies of the book “have already been printed.” But that report is dated August 23, 1944, or just about 3 years after the exportation of the merchandise in question. At this time the ultimate production of 65,000 copies may now seem more probable than could with any certainty be determined when the books were exported. But we do not think that Congress intended that the dutiable cost of production value under said section 402 (f) should be made contingent or estimated on the basis of any ultimate quantity of production in the mind of a publisher or producer in determining the dutiable value of imported merchandise. Said section 402 (f) distinctly states in effect that the cost- of production of imported merchandise shall include “The cost of materials of, and of fabrication, manipulation, or other process employed in manufacturing or producing such or similar merchandise, at a time preceding the date of exportation Of the particular merchandise under consideration w'hich would ordinarily permit the manufacture or production of the particular merchandise under consideration in the usual course of business” [italics mine]. Such language is certainly very clear and positive, and as it appears that only 20,000 copies of the books in question were printed or produced up to the time of the exportation of the instant importation from England, it would appear that the cost of all labor and material expended in the printing of the books, such as the composition, editorial costs, and the plates, etc., must necessarily be applied to the cost of.production of said 20,000 copies in arriving at the dutiable value of the 5,000 copies involved in the present importation. .
+We are in accord with this reasoning and have been unable to find any authority which would enable this court to adopt a system of computation such as that adopted by the administrators of the income tax law.
+We therefore find that in the absence of a foreign, export, or United States value for identical or similar merchandise (section 402 (c), (d), and (e) of the Tariff Act of 1930), the cost of production, as defined in section 402 (f), is the proper basis for the determination of the dutiable value of this merchandise, and that such value is the appraised value.
+Judgment will be rendered accordingly.
