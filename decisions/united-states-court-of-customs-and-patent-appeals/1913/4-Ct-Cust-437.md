@@ -2,7 +2,7 @@
 court: "United States Court of Customs and Patent Appeals"
 docket: "1173"
 decided: "1913-10-31"
-citations: ["4 Ct. Cust. 437", "4 Ct. Cust. 528"]
+citations: ["4 Ct. Cust. 437"]
 reporter: "ct-cust"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
