@@ -1,0 +1,28 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 95-07000907"
+decided: "1997-09-15"
+citations: ["21 Ct. Int'l Trade 1052", "976 F. Supp. 1033"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thom S. Zani d/b/a Wholesale and Frame, Ltd., plaintiff v. United States of America, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/21/cases/1052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11504293
+---
+
+# Zani v. United States
+
+## Majority (Watson, Senior Judge:)
+
+Opinion and Order
+Watson, Senior Judge:
+Defendant has moved for summary judgment dismissing this action as it relates to two entries on which liquidated duties had not been paid at the time the summons was filed, and affirming the classification of the remaining merchandise as “other made up articles,” dutiable at 7% under HTSUS item 6307.90.99.
+The imported merchandise consists of paintings that were denied duty-free entry under subheading 9701.10.00, HTSUS as “paintings * * * executed entirely by hand” because the Customs Service found that stencils were used in their production. A copy of the customs laboratory opinion on that point was attached to the government’s motion as Exhibit A.
+The motion is unopposed with respect to the entries on which duties were not paid and will accordingly be granted as to them without comment. With respect to the remaining merchandise plaintiff claims that there are material issues of fact in dispute.
+Although plaintiff points out that the entry from which the samples were taken was not precisely identified, it does not deny that they were samples of the importation. Plaintiff does, however, argue that they were only 3 of 2,234 oil paintings, making a sample of 0.13 percent.
+The adequacy of the sample does not become a material issue of fact, unless there is some evidence that the sample was unrepresentative. But nothing offered by plaintiff gives facts about the remainder of the importation. Indeed, the affidavit of the plaintiff offers no firsthand knowledge whatsoever regarding the nature of the remainingpaintings. This lack of firsthand knowledge was confirmed in the deposition of plaintiff, attached as Exhibit E to the government’s reply brief. An affidavit from Mr. Fred W Scholle, identified as general manager of the supplier of the paintings, also fails to raise issues of material fact. It engages in a defense of the use of stencils in so-called “mixed media” paintings, it speaks of stencils as used to control over-spray from airbrushes, it confuses the issue by talking of mechanical reproduction as if that were the true alternative to painting entirely by hand, but it does not assert that the imported paintings were done without the aid of stencils.
+Finally, Professor Jorge L. Vallina gives a written opinion that the imported paintings are not executed by mechanical means even though stencils may have been used in the painting process. While this is an interesting opinion on the question of whether these works can be considered artistic products, it does not raise any issues of fact with respect to the manner in which the importations were actually painted.
+For the reasons given above there has been no issue raised as to the decisive fact that stencils were used in the production of these paintings. Classification as paintings executed entirely by hand was properly denied, and classification as other made up articles, dutiable at 7% was correct.
+Summary judgement is granted to defendant dismissing the action for lack of jurisdiction with respect to the entries numbered G76-0002265-9 and ATO-0004378-9, and affirming the classification as other made up articles, dutiable at 7% under HTSUS item 6307.90.99.
