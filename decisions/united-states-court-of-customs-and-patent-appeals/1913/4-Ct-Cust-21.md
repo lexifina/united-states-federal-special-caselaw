@@ -1,0 +1,42 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "925"
+decided: "1913-02-18"
+citations: ["4 Ct. Cust. 21"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. American Thermo-Ware Co."]
+source_url: "https://static.case.law/ct-cust/4/cases/0021-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092492
+cites_cases: ["1 Ct. Cust. Appls., 529", "174 U. S., 670", "2 Ct. Cust. Appls., 9", "24 Treas. Dec., 297"]
+---
+
+# United States v. American Thermo-Ware Co.
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+Certain disks or pieces of glass, bent, used in the manufacture of “auto goggles” were classified by the collector of customs at the port of New York as coquill glasses with ground edges and accordingly they were assessed for duty at 10 cents per dozen pairs and 45 per cent ad valorem under the provisions of paragraph 106 of the tariff act of August 5, 1909, which paragraph reads as follows:
+106. Lenses of glass or pebble, molded or pressed, or ground and polished to a spherical, cylindrical, or prismatic form, and ground and polished piano or coquill glasses, wholly or partly manufactured, with the edges unground, forty-five per centum ad valorem; if with their edges ground or beveled, ten cents per dozen pairs and forty-five per centum ad valorem.
+The importer objected to the classification of the goods and the duty assessed thereon by the collector and protested that under various paragraphs of the present tariff act the merchandise was dutiable at a less rate than that assessed. Among the several grounds of protest alleged was a claim that the merchandise was common window glass, bent, dutiable at If cents per pound under the provisions of paragraph 99, plus 5 per cent ad valorem under the provisions of paragraph 104 of said act, the parts of which paragraphs material to the case are as follows:
+99. Unpolished, cylinder, crown, and common window glass, not exceeding one hundred and fifty square inches, valued at not more than one and one-half cents per pound, one and one-fourth cents per pound; valued at more than one and one-half cents per pound, one and three-eights cents per pound; * * *.
+104. Cast polished plate glass, silvered or unsilvered, and cylinder, crown, or common window glass, silvered or nnsilvered, polished or unpolished, when bent, ground, obscured, frosted, sanded, enameled, beveled, etched, embossed, engraved, flashed, stained, colored, painted, ornamented, or decorated, shall be subject to a duty of five per centum ad valorem in addition to the rates otherwise chargeable thereon.
+Tbe Board, of General Appraisers sustained tbe protest on the ground that tbe merchandise was dutiable at If cents per pound and ñ per cent ad valorem additional as common window glass, bent.
+From this decision the- Government appeals and, conceding that tbe importation is not dutiable as assessed, urges that tbe glasses are dutiable as a manufacture of glass under paragraph 109, which is as follows, to wit:
+109. Stained or painted glass windows, or parts thereof, and all mirrors, not exceeding in size one hundred and forty-four square inches, with or without frames or casos, and all glass or manufactures of glass or paste or of which glass or paste is the component material of chief value, not specially provided for in this section, forty-five per centum ad valorem.
+No sample of the merchandise imported was retained by the collector of customs and no testimony was introduced on the hearing before the board. For the facts of the case this court is therefore remanded to the official documents transmitted with the protest by the collector to the Board of General Appraisers in accordance with the statute. From these documents it appears that the goods were originally returned by the appraiser as “coquill glasses, ground edges.” Subsequent to this return the deputy appraiser, making answer to the protest, reported that the merchandise returned as coquill glasses having ground edges was similar in character to that passed upon by the board in T. D. 30266, from the decision in which an appeal was ordered to the Circuit Court for the Southern District of New York by the Secretary of the Treasury on February 9, 1910.
+As the deputy appraiser officially reported that the importation now under consideration was similar to that involved in T. D. 30266, the decision in which was affiraied by this court on appeal — United States v. American Thermo-Ware Co. (2 Ct. Cust. Appls., 9; T. D. 31671) — and as the Government admits the correctness of the report we do not see just why we should be expected to give the present importation a different classification from that which we accorded to like merchandise in a prior case on admittedly the same state of facts.
+Whether the raising of a point not presented to us in the prior case justifies a return to the original record for the facts upon which to base a conclusion in the pending issue is open to some question. However, assuming, without deciding, that such a practice is correct, we are of opinion that the evidence in T. D. 30266 does not sustain the Government's contention that the merchandise under consideration was so far advanced by processes of manufacture that it acquired a name, character, and use different from that of common window glass. In the case referred to by the appraiser, a Mr. Wolfstein did testify as follows:
+Q. These glasses, Exhibit 1, are, in fact, finished and completed parts of auto goggles, are they not? — A. Well, they are used for that purpose at times.
+Q. In the form in which they appear in this Exhibit 1? — A. Those particular ones are.
+By General Appraiser Shakketts:
+Q. Are there any of them different from this? — A. Oh, yes, sir.
+Q. In this importation? — A. Well, some of them are not ground edges at all and then they have to be completed.
+That testimony, standing by itself, leaves the decided impression that the glasses are not always used for goggles and that they have to be completed. When that testimony is considered in conjunction with the further declaration of Wolfstein that the glasses were not ground or polished, and with the statement under oath of the witness Apffel that the unpolished and unground glasses presented objects to the eye in a distorted shape, it becomes very evident, indeed, that the merchandise has not taken on the character of a new article, completed, finished, and ready for use. Certainly pieces of glass which would present to the eye a distorted landscape and which would tend to increase rather than diminish the visual vagaries of the average chauffeur can hardly be considered as finished and completed constituent parts of automobile goggles.
+But apart from all that, there was in the case referred to uncon-tradicted evidence to the effect that the glasses might be and were used for other purposes than that of making goggles. From this it would seem that the merchandise has not been so manipulated or processed as to remove it from the class of manufactures specially provided for as window glass, bent, much less to put it in the category of manufactures of glass not specially provided for. From the testimony in T. D. 30266 we conclude that window glass, bent, such as that imported, may be used for lanterns, carriage lamps, and cameras, and possibly for many other purposes. These varied uses make it very evident that the merchandise under consideration has not been converted into any specific new article. Neither has it been so dealt with that it is limited to a definite, particular purpose, nor so processed that it is fitted to be used commercially in the manufacture of one thing only. The merchandise continues therefore to be window glass, bent — that is to say, material not yet advanced to the stage of a new manufacture. Fenton v. United States (1 Ct. Cust. Appls., 529; T. D. 31546); United States v. Dudley (174 U. S., 670).
+As the evidence before us establishes that the merchandise is window glass, bent, and as paragraphs 99 and 104 make special provision for window glass, bent, we think the importation is dutiable under those paragraphs rather than as manufactures of glass not specially provided for under parargaph 109.
+The decision of the Board of General Appraisers is affirmed.
