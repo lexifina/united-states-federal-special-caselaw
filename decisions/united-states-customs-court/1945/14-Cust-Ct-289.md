@@ -1,0 +1,34 @@
+---
+court: "United States Customs Court"
+docket: "6085; Entry No. 9, etc."
+decided: "1945-01-15"
+citations: ["14 Cust. Ct. 289"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Geo. S. Bush & Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/14/cases/0289-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6660242
+cites_cases: ["24 C. C. P. A. 35", "28 C. C. P. A. 80", "31 C. C. P. A. 75"]
+---
+
+# Geo. S. Bush & Co. v. United States
+
+## Majority (Cole, Judge:)
+
+ORDER
+Cole, Judge:
+This case, involving the dutiable value of Timber-hog gasoline and electric power saws and parts thereof, was decided by me on October 23, 1944 (Reap. Dec. 6061), sustaining the presumptively correct appraised values. On November 22, 1944, plaintiff filed a motion for rehearing contending, in its supporting memorandum, that “the testimony which the court may have considered to be conflicting is reconcilable by the explanation that during the first trial Stedham spoke in a speculative manner as to what his company would do if inquiries were received for the purchase of its products, and that during the second trial Stedham referred to actual transactions or events.” Plaintiff expected — as stated in its memorandum— to supply further information in the form of “copies of any relevant letters or agreements between Reed-Prentice Co. and its dealers,” which had been requested of the Canadian manufacturer. Under date of November 30, 1944, counsel sent to the court a letter (now ordered filed as part of the official record in the case) stating as follows:
+* * *. The Industrial Engineering Co. has forwarded to us a small portion of Reed-Prentiee & Co.’s file insofar as it pertained to agreements with the dealers. However, we consider the information shown by such correspondence to be wholly inadequate for the purpose referred to. Also, that company advises us that the balance of such correspondence has either been discarded or lost. Therefore we cannot, of course, submit to you any additional data upon this point.
+• In view of these circumstances we suggest that the motion should be acted' upon in its present form. However, if action is not taken on the motion prior to the week of December 11, the writer will appreciate opportunity to discuss it with you and the Assistant Attorney General at that time.,
+Action on the motion for rehearing was delayed and on December 14,. 1944, counsel appeared before the court in chambers and requested permission to file a supplemental memorandum. The request was granted after plaintiff’s counsel had stated that the court’s attention would be directed to parts of the record which would require reconsideration of the question of a controlled market.
+The memorandum was filed on December 19, 1944, and in this-latest paper, plaintiff’s counsel point out isolated statements which, when read alone, do not reflect the contradictory phase of the record, which precluded a definite conclusion on the question of a controlled foreign market when the case was originally before me. In this-connection, I said:
+The inconsistencies in plaintiff’s line of. proof do not permit a positive finding concerning applicability of the Heemsoth-Kerner Corp. case, supra, with consequent conclusion on the question of a controlled foreign market.
+The inconsistencies referred to are in the testimony of plaintiff’s, witness, Stedham, who appeared at the two hearings, in August 1943 and in February 1944, in Seattle. Plaintiff’s presentation in the' supplemental memorandum under consideration does not remove the-contradictory nature of its proof.
+The statement in the special agent’s report (exhibit 7) that the' dealers had “exclusive selling rights” cannot be accepted as truly representative of the relationship between the agents and their principal, in the fight of plaintiff’s testimony (set forth in my decision, Reap. Dec. 6061, Treas. Dec. Adv. Sheets of November 9, 1944, pi 22) to the effect that the manufacturer freely offered the merchandise to anyone who cared to buy, including purchasers in territories allotted to the agents or distributors.
+That sales to jobbers were limited to those in localities not assigned to dealers, does not create a controlled market. Jobbers were largely machinery houses, that purchased for resale, and whom the manufacturer allowed a discount of 10 per centum. So, like the dealers-who received a 20 per centum discount, they occupied a preferred status in their transactions with the manufacturer. They received special consideration not granted all those who wanted to buy. The condition does not destroy a market but merely prevents such prices from being adopted as a basis for appraisement. United States v. American Glanzstoff Corp., 24 C. C. P. A. 35, T. D. 48308; United States v. Mexican Products Co., 28 C. C. P. A. 80, C. A. D. 129.
+The conflicting testimony of plaintiff’s witness makes worthless-here any discussion of Bill & Caldwell v. United States, Reap. Dec. 5880, and its application to or distinction from the instant case. Suffice it to say, the cited case adhered to the well-established principle that it is the price at which merchandise is offered to all purchasers in wholesale quantities that controls.
+I presided over the trial of this case after it had been restored to the calendar on motion of plaintiff, filed November 19, 1943, and when the case was finally submitted for decision on February 7, 1944. At that hearing, plaintiff admitted a purpose to supply facts on the issue of a controlled market under authority of United States v. Heemsoth-Kerner Corp., 31 C. C. P. A. 75, C. A. D. 252, which extended the doctrine of controlled market for tariff appraisement purposes. To establish the factual foundation sought, plaintiff had to overcome unfavorable testimony already in the record, a result that might have been accomplished by the production of the agreements or contracts between the manufacturer and its dealers or distributors. But no mention was made at that time concerning any effort to supply such evidence, and the contradictory oral testimony cannot be accepted with equal effect.
+Every opportunity was afforded plaintiff to furnish the documentary proof which the court was-advised was available and which, if available in the stated form, would possibly overcome the inadequacy of the testimony offered at the original hearing. Failure to do so leaves the record in precisely the same condition existing at the time my decision, Reap. Dec. 6061, was rendered. Therefore, nothing is before me to warrant further consideration of the case.
+It is therefore Ordered that the motion for rehearing be and the same is hereby denied.
