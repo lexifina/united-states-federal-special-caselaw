@@ -2,7 +2,7 @@
 court: "United States Court of Veterans Appeals"
 docket: "92-561"
 decided: "1993-01-26"
-citations: ["4 Vet. App. 134", "4 Vet. App. 135"]
+citations: ["4 Vet. App. 134"]
 reporter: "vet-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Samuel A. ARONSON, Petitioner, v. Jesse BROWN, Secretary of Veterans 
 source_url: "https://static.case.law/vet-app/4/cases/0134-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6463102
-cites_cases: ["2 Vet.App. 580", "28 U.S.C. § 455"]
+cites_cases: ["28 U.S.C. § 455"]
 ---
 
 # Aronson v. Brown
