@@ -2,7 +2,7 @@
 court: "United States Court of Federal Claims"
 docket: "98-337L"
 decided: "2002-05-28"
-citations: ["53 Fed. Cl. 86", "53 Fed. Cl. 35", "53 Fed. Cl. 90", "54 Fed. Cl. 1"]
+citations: ["53 Fed. Cl. 86"]
 reporter: "fed-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["FALA CORPORATION and Kana Corporation, Plaintiffs, v. The UNITED STAT
 source_url: "https://static.case.law/fed-cl/53/cases/0086-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1085043
-cites_cases: ["182 F.3d 860", "198 S.E.2d 496", "2000 WL 33340689", "2001 WL 1819224", "209 Ct.Cl. 208", "21 Cl.Ct. 132", "214 Va. 201", "28 U.S.C. § 1738", "319 U.S. 266", "328 U.S. 575", "33 Fed.Cl. 778", "34 Fed.Cl. 187", "35 Fed.Cl. 406", "37 Fed.Cl. 545", "370 U.S. 626", "402 U.S. 313", "41 Fed.Cl. 468", "421 U.S. 240", "49 Fed.Cl. 188", "501 U.S. 32", "53 Va. Cir. 309", "531 F.2d 988", "6 F.3d 1573", "603 F.2d 590", "723 F.2d 1566"]
+cites_cases: ["2000 WL 33340689", "209 Ct.Cl. 208", "28 U.S.C. § 1738", "33 Fed.Cl. 778", "35 Fed.Cl. 406", "37 Fed.Cl. 545", "402 U.S. 313", "41 Fed.Cl. 468", "53 Va. Cir. 309", "531 F.2d 988", "6 F.3d 1573", "603 F.2d 590", "723 F.2d 1566"]
 ---
 
 # Fala Corp. v. United States
