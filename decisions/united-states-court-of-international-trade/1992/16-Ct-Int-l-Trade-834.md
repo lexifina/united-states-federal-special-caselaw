@@ -1,0 +1,35 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 91-07-00531"
+decided: "1992-09-23"
+citations: ["16 Ct. Int'l Trade 834"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Federal-Mogul Corp., plaintiff, and Torrington Co., plaintiff-intervenor v. United States, defendant, and SKF USA Inc., SKF France, S.A., SNR Roulements, SNR Bearings, USA, Inc., Eurocopter France and Aerospatiale Helicopter Corp., Societe Nationale d’Etude et de Construction de Moteurs d’Aviation, and Pratt & Whitney Canada Inc., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/16/cases/0834-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6134027
+cites_cases: ["10 CIT 268", "11 CIT 504", "13 CIT 253", "14 CIT 831", "15 CIT 124", "15 CIT 394", "56 Fed. Reg. 31,748", "633 F. Supp. 1382", "666 F. Supp. 1558", "710 F.2d 806", "712 F. Supp. 931", "755 F. Supp. 397", "760 F. Supp. 200", "770 F. Supp. 648", "875 F.2d 291"]
+---
+
+# Federal-Mogul Corp. v. United States
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+Defendant-Intervenor, Pratt & Whitney Canada Inc. (“P&WC”), moves this Court to modify the preliminary injunction issuedhy this Court in this case on August 9,1991 to allow liquidation of P&WC’s entries of antifriction bearings from France exported to the United States from November 9,1988 through April 30, 1990.
+Defendant and plaintiff, Federal-Mogul Corporation (“Federal Mogul”), oppose P&WC’s motion. Plaintiff-intervenor, The Torrington Company (“Torrington”), and defendant-intervenors SKF USA Inc. and SKF France, S.A., Eurocopter France and Aerospatiale Helicopter Corporation, SNR Roulements and SNR Bearings, USA, Inc. and Societe Nationale d’Etude et de Construction de Moteurs d’Aviation take no position in regard to P&WC’s motion.
+Background
+On July 25,1991 Federal-Mogul filed a summons and on July 29,1991 a complaint, challenging certain aspects of the Department of Commerce, International Trade Administration’s (“ITA”) final results in the first administrative review of the antidumping duty order covering ball bearings, cylindrical roller bearings and spherical plain bearings from France. Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From France; Final Results of Antidumping Duty Administrative Reviews, 56 Fed. Reg. 31,748 (1991).
+On August 5, 1991, Federal-Mogul filed a consent motion for a preliminary injunction enjoining liquidation of all entries of antifriction bearings from France subject to the first administrative review. On August 9,1991, this Court issued an order granting Federal-Mogul’s request for a preliminary injunction. Federal-Mogul Corp. v. United States, Court No. 91-07-00531 (August 9, 1991) (order granting preliminary injunction). This preliminary injunction enjoined liquidation of P&WC’s imports of antifriction bearings from France. P&WC was not a party to this action at the time the preliminary injunction was issued.
+On July 14,1992, P&WC filed a motion to intervene and to modify the preliminary injunction. On August 19, 1992, this Court granted P&WC’s motion to intervene. Federal-Mogul Corp., Court No. 91-07-00531 (August 19, 1992) (order granting P&WC’s motion to intervene). P&WC’s motion to modify the preliminary injunction was deemed as filed on August 19,1992.
+Discussion
+In order for a preliminary injunction to issue, plaintiff must clearly demonstrate: (1) the threat of immediate irreparable harm; (2) the likelihood of success on the merits; (3) that the public interest is better served by issuing rather than denying the injunction; and (4) that the balance of hardships to the parties favors the plaintiff. Zenith Radio Corp. v. United States, 710 F.2d 806, 809 (Fed. Cir. 1983); Timken Co. v. United States, 11 CIT 504, 506, 666 F. Supp. 1558, 1559 (1987).
+In Zenith, the Court of Appeals for the Federal Circuit found that failure to grant a request for a preliminary injunction enjoining the liquidation of entries subject to the results of a contested administrative review constituted irreparable harm to a plaintiff. Zenith, 710 F.2d at 810. The object of the Zenith Court’s concern was the maintenance of the reviewing court’s jurisdiction over the entries at issue. Id.
+Following Zenith, it is clear that if any of the allegations made by Federal-Mogul or Torrington in this case may result in an adjustment in P&WC’s dumping margin, then P&WC’s entries must be enjoined from liquidation.
+P&WC argues that “the allegations made by plaintiff and plaintiff-in-tervenor are either irrelevant to P&WC or, even if proven, would not materially increase the amount of antidumping duties to be assessed.” Memorandum in Support of Motion to Intervene and to Modify the Preliminary Injunction (“P&WC’s Memorandum”) at 6.
+P&WC alleges that only two of the issues raised by Federal-Mogul and Torrington in this case may apply to P&WC’s entries. P&WC’s Memorandum at 6-10. The two issues which P&WC admits may affect its margin are: (1) the failure to deduct all antidumping related legal expenses from exporter’s sales price, and (2) the failure to deduct estimated dumping duties from United States price. Id. at 8-9. P&WC argues that there is little likelihood of success on the merits regarding these issues based on prior decisions of this court, and that even if successful, any resulting change in P&WC’s margin would be de minimis. Id.
+Federal-Mogul argues that in addition to the two allegations which P&WC admits may affect P&WC’s margin, and which Federal-Mogul believes are likely to be successful on the merits, Federal-Mogul’s allegations regarding the ITA’s treatment of value added taxes also applies to P&WC. Federal-Mogul Corporation’s Opposition to Pratt Whitney Canada Inc. ’s Motion to Modify the Preliminary Injunction at 4-5. Federal-Mogul points out that it is likely to succeed on the merits of these value added tax allegations on the basis of prior decisions of this court. Id. at 6.
+This Court finds that the ITA’s treatment of value added taxes may affect P&WC’s dumping margin and that Federal-Mogul and Tor-rington may be successful on the merits in regard to these allegations. See Administrative Record France Confidential Doc. 90; see also Zenith Elecs. Corp. v. United States, 15 CIT 394, 395-97, 770 F. Supp. 648, 650-51 (1991); Daewoo Elecs. Co. v. United States, 15 CIT 124, 760 F. Supp. 200 (1991); Zenith Elecs. Corp. v. United States, 14 CIT 831, 833-44, 755 F. Supp. 397, 403-11 (1990), appeals pending, Fed. Cir. Nos. 92-1043 through 92-1046; Daewoo Elecs. Co. v. United States, 13 CIT 253, 280-82, 712 F. Supp. 931, 954-56 (1989); Zenith Elecs. Corp. v. United States, 10 CIT 268, 633 F. Supp. 1382 (1986), appeals dismissed, 875 F.2d 291 (Fed. Cir. 1989). As a result, P&WC’s motion to modify the preliminary injunction to allow for the liquidation of P&WC’s entries of antifriction bearings from France must be denied.
