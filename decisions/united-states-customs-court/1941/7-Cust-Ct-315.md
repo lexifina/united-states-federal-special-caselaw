@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "46561"
+decided: "1941-11-05"
+citations: ["7 Cust. Ct. 315"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 966436-G, etc., of Carpel Corp. et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/7/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6675266
+cites_cases: ["4 Cust. Ct. 343"]
+---
+
+# Protests 966436-G of Carpel Corp.
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+In accordance with stipulation of counsel and on the authority of Stokby v. United States (4 Cust. Ct. 343, C. D. 358) it was held that 10 percent allowance should have been made for the weight of the gelatinous material in question.
