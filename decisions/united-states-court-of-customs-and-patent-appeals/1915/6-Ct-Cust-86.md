@@ -1,0 +1,39 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1449; No. 1450"
+decided: "1915-04-14"
+citations: ["6 Ct. Cust. 86"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Saunders United States v. Bird"]
+source_url: "https://static.case.law/ct-cust/6/cases/0086-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6091874
+cites_cases: ["2 Ct. Cust. Appls., 537", "28 Treas. Dec., 669", "3 Ct. Cust. Appls., 146"]
+---
+
+# United States v. Saunders
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The merchandise here is certain pieces of tin plate, claimed to be free of duty under paragraph 500 of the tariff act of 1909, .which grants that favor to American goods returned without having been advanced in value or improved in condition, provided proof of the identity thereof is made under general regulations to be prescribed by the Secretary of the Treasury.
+The applicable regulations, it is conceded, are articles 570 and 571 of the Customs Regulations of 1908, which we quote.
+Art. 570. There shall be filed with the entry a declaration made by the foreign exporter of the goods before the United States consul, stating that the merchandise was imported from the United States, and that it was not advanced in value or improved in condition by any process of manufacture or other means while abroad, and also an oath or declaration of the owner, importer, consignee, or agent on form catar-logue No. 594. '
+Art. 571. 1 f it be impracticable to produce the declaration of the foreign exporter at the time of entry a bond may be given for its production. The collector, with the concurrence of the naval officer, if any, may waive this declaration where the value of the merchandise does not exceed $100.
+For the purposes of these cases we assume, without deciding, that if the regulations had been complied with the merchandise would havé been entitled to free entry and only consider whether compliance therewith has been had.
+It will be observed that article 570 provides for two things: First, that there shall be filed with the entry a declaration made by the foreign exporter stating that the merchandise was imported from the United States and had not been advanced in value or improved in condition while abroad; second, for the filing' of an oath or declaration of the owner, importer, consignee, or agent on form catalogue No. 594.
+Article 571 provides that if it is impracticable to produce a declaration of the foreign exporter a bond may be given for its production, or the collector and naval officer may waive such declaration where the value of the merchandise does not exceed $100, but-theré is no provision for the waiving of the oath or declaration of the owner, importer, consignee, or agent, nor that of the foreign exporter if the merchandise exceeds in value $100.
+It is stipulated that the declaration of the foreign exporter in these cases was filed with the entry; that the oath or declaration of the owner, importer, consignee, or agent was not so filed; that a bond was taken by the collector at the time of entry for the production thereof; and that in each case such oath or declaration was filed with the collector several days subsequent to the date when the entry was made.
+The Board of General Appraisers held that the regulations should not be so strictly construed as to require this oath or declaration to be filed at the time of entry; that if it was filed prior to the taking of any action by the collector upon the entry paper and within a reasonable time after the filing thereof it was a substantial compliance with article 570, and was sufficient; and that in the cases at bar no possible harm could come to the Government by the delay in filing.
+The importers argue in the line of this reasoning of the board and claim that the collector had power, as the general agent of the Secretary of the Treasury, under sections 249 and 251 of Revised Statutes, in connection with article 1431 of the Treasury regulations, to waive the exact compliance therewith, as was done in these cases. The statutes referred to authorize the Secretary of the Treasury to direct the collection of duties on imports and tonnage as he shall judge best, empower him to issue from time to time such instructions to collectors and other officers as he deems best calculated to promote the public convenience and security, and to protect the United States as well as individuals from fraud and loss; and also to prescribe forms of entries, oaths, bonds and other papers, and rules and regulations not inconsistent with law to be used in the execution and enforcement of the applicable statutes.
+Article 1431 sets forth certain powers and duties of the collector in general terms. We do not find either in these statutes or in this article any authority, expressed or implied, which authorizes the collector of customs to waive the provisions of the regulations under consideration here; neither do we find, nor is it claimed, that such regulations are unreasonable or beyond the power of the Secretary of the Treasury to make. We do not think it is a question in these cases of whether harm has or has not come to the Government. The adoption of such a rule might be difficult of application in some cases and would tend to result in great confusion in the administration of the customs.
+Article 570 requires the filing of the declaration by the foreign exporter with the entry, and it equally requires the filing therewith of the oath or declaration of the owner, importer, consignee, or agent. The purpose is obvious, as the form of the oath prescribed discloses— that is, to furnish the knowledge and belief of the owner, importer, consignee, or agent that the goods were exported and imported as-stated in the entry annexed thereto and returned without having been advanced in value or improved in condition, and that no drawback, bounty, or allowance has been paid or admitted thereon.
+No authority is given to the collector to waive the filing of such oath or declaration with the entry, and the fact that such authority is expressly given with reference to the filing of the foreign exporter’s declaration raises an inference that it was withheld as to the oath or declaration of the owner, importer, consignee, or agent.
+The reasoning in the case of United States v. Rettig et al. (2 Ct. Cust. Appls., 537; T. D. 32254) is opposed to the importers’ contention here. It was there held that under article 570 the declaration of the foreign exporter must, unless bond was given for its later production under paragraph 571, be filed at the time a pro forma entry was-made, and that a later filing was not a compliance with the regulations.
+See also United States v. Morris European & American Express Co. (3 Ct. Cust. Appls., 146; T. D. 32386), in which it was said at-page 148 that—
+Where, however, an exemption from or reduced rate of duty is claimed under a. specific provision of the statutes which, as in this case, is accorded under or subject, to such regulations as to proof or otherwise that may be prescribed by the Secretary of the Treasury, it has uniformly been held that such regulations became a condition-precedent to the right accorded by the statute and must'be complied with at the time of entry, or as otherwise specifically directed by the statute granting the same. In. such cases the right to an exemption from or to a reduced rate of duty is an exemption accorded in the specific instance only, and constitutes an exception horn the general rule, which must, in order to be enjoyed, be subject to compliance with the condition precedent prescribed by the Secretary.
+The judgment of the Board of General Appraisers is reversed
