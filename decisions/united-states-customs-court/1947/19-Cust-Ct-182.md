@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "52066; protest 52445-K (Boston)"
+decided: "1947-12-05"
+citations: ["19 Cust. Ct. 182"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Oxford University Press, N. Y., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/19/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6636177
+cites_cases: ["11 Cust. Ct. 88", "324 U. S. 83"]
+---
+
+# Oxford University Press, N. Y., Inc. v. United States
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+In accordance with stipulation of counsel the court found that the facts herein agreed upon were such as to bring the case within the holding in John Barr v. United States (11 Cust. Ct. 88, C. D. 801), which record was incorporated herein. (See John Barr v. United States, 324 U. S. 83.) In accordance therewith it was held that the currency of the invoices should be converted at the buying rate in the New York market at noon on the day of exportation (the “free” rate of exchange for pounds sterling), as certified by the Federal Beserve bank and set forth by the collector on entries 10843 and 11027. The protest, having been abandoned as to entry 11782, was overruled as to that merchandise.
