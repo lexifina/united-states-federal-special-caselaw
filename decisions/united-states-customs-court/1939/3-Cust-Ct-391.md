@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "42154"
+decided: "1939-09-14"
+citations: ["3 Cust. Ct. 391"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 985153-G, etc., of Cudahy Packing Co. (New York)."]
+source_url: "https://static.case.law/cust-ct/3/cases/0391-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672940
+---
+
+# Protests 985153-G of Cudahy Packing Co.
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+In accordance with stipulation of counsel and on the authority of Abstract 40880 the protests were sustained.
