@@ -1,0 +1,60 @@
+---
+court: "United States Customs Court"
+docket: "7523; Entry Nos. CE 1238; CE 81"
+decided: "1948-01-29"
+citations: ["20 Cust. Ct. 367"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. W. Holt & Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/20/cases/0367-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6648316
+cites_cases: ["15 Ct. Cust. Appls. 143", "18 Cust. Ct. 350", "24 C. C. P. A. 48", "25 C. C. P. A. 90", "28 C. C. P. A. 19", "29 C. C. P. A. 199", "29 C. C. P. A. 250"]
+---
+
+# T. W. Holt & Co. v. United States
+
+## Majority (Cline, Judge:)
+
+Cline, Judge:
+These are appeals for reappraisement of certain string brooms imported from Cuba on June 9- and July 26, 1945. The merchandise was invoiced, entered, and appraised as follows:
+Eeappraisemenl No. 161837-A (June 9,1945) Invoiced and entered per doz. Appraised per doz. net, packed
+4-string brooms_ $4. 75 $5. 80
+5-string brooms__ 5. 50 6. 80
+6-string brooms_ 6. 50 8. 00
+Reappraisement No. 161888-A (July 26,1945)
+4-string brooms_ 5. 00 5. 80
+5-string brooms_ 5. 75 7. 00
+6-string brooms_ 6. 75 8. 00
+The importer claims that the export value is the proper dutiable value and that the entered values represent the export values. The Government claims that foreign value is the proper dutiable value and that the appraised values represent the foreign values.
+At the trial, Thomas Wells Holt, the importer herein, testified that he had made inquiries in Cuba concerning the prices of 4, 5, and 6-string brooms; that the general market prices for brooms during May, June, and July 1945 were $5 for 4-string, $5.75 for 5-string, and $6.50 for 6-string brooms; that other importers paid the same prices as he did; that in reappraisement No. 161337-A, the seller failed to charge $0.25 per dozen for wrapping and that he (the importer) finally paid the duties on the $0.25 p'er dozen; that the shipment herein of 15 dozen brooms was a shipment of samples; that he generally bought in quantities of 200 to 2,000 dozen; that a purchase by a retailer is usually in 1, 2, or 3 dozen lots; that he understood the usual wholesale quantity in the foreign market to be 25 dozen; that he was told by one large wholesale firm in Pinar del Rio that it bought in 25 dozen lots; that he was offered painted handle brooms, called special brooms, at prices ranging from 50 cents to a dollar a dozen more than plain handle brooms.
+A number of exhibits were introduced into evidence. Plaintiff’s exhibit 1 is an affidavit of Antonio Rodriguez, general manager of the manufacturer herein, stating that he had sold brooms during 1944, 1945, and 1946 at the following prices:
+4-string brooms at $4.75 per doz. plus 25 cts. packing
+5-string brooms at $5.50 per doz. plus 25 cts. packing
+6-string brooms at $6.50 per doz. plus 25 cts. packing
+that these prices were “generally quoted in sales to known exporters and importers in the U. S. A.”; and that occasionally higher prices, up to $7.25 per dozen were quoted to local small merchants.
+Plaintiff’s exhibit 2 is an affidavit of Pedro Gutiérrez Coya, manager of Polux Trading Co., Inc., stating that his company is in the business of exporting Cuban merchandise; that during June, July, and August, 1945, 4-string brooms were freely offered in the Havana market at $4.75 per dozen, 5-string brooms at $5.75 per dozen, and 6-string brooms at $6.75 per dozen.
+Plaintiff’s exhibit 3 is a letter from the United States commercial attaché in Havana explaining the Cuban sales tax.
+Defendant’s collective exhibit 4 is a report by Treasury Representative Joseph H. Dillon, dated March 15, 1946, with exhibits attached thereto, and defendant’s exhibit 5 is another report of said Treasury representative, dated May 29, 1946. These reports are based on information received on visits to the office of Cía. Escobera Cubana, S. A. (the manufacturer of the merchandise herein). The first report states that the difference between the “regular” and the “special” brooms is that the “special” brooms are of superior workmanship, contain more broom corn, and the handles are better finished; that there is no difference between the brooms sold in Cuba and those sold to Puerto Rico and the United States, depending on whether the order is for “regular” or “special” brooms; that no price lists are issued by Cía. Escobera Cubana, S. A., for home consumption or for export, as all sales aré arrived at through bargaining; that identical merchandise to that sold in Cuba is freely offered and sold for export; that the 2 to 6-string brooms sold to Puerto Rico are identical to the “regular” type of brooms sold for home consumption; but that the brooms sold to the United States are of the “special” type. Attached to this report are tabulations of sales made in Cuba for home consumption and for export.
+The report marked “Defendant’s Exhibit 5” states that no brooms of the “regular” type have been exported to continental United States; that the “special” brooms sold to the United States are similar to the “special” brooms sold for home consumption; that the “special” brooms manufactured for export have a better grade wooden handle with a better finish, selected and dyed broom corn, and more careful workmanship; that the “special” brooms manufactured for export were sold at a lower price than those for home consumption, due to bargaining. The report also states:
+1. According to Mr. Rodriguez, at no time has the company sold the “regular” type of broom to the United States. He could offer no explanation with regard to the fact that some shipments to the United- States had been designated as “Especial” while others were not so designated, but claimed that all brooms shipped to the United States were of the “special” type.
+Exhibit A attached to the report marked “Defendant’s Collective Exhibit 4” is a fist of sales to the United States and Puerto Rico during the period May 3, 1944 to September 19, 1945. The sales between April and July of 1945, listed on pages 5 and 6 of this exhibit, are for the most part in quantities of several hundred dozen, the smallest amount being' 25 dozen and the largest 1,500 dozen. The prices range from $4.50 to $5.15 per dozen for 4-string brooms, from $5.50 to $6 per dozen for 5-string brooms, and from $6.50 to $7 per dozen for 6-string brooms. The variation does not appear to be dependent upon tbe quantity.
+Exbibit B attached to the report marked “Defendant’s Collective Exhibit 4” is a list of sales in Cuba from January 17, 1944 to September 21, 1945. The sales between April and July of 1945, listed on pages 10 and 11 of the tabulation are in quantities of 1, 2, and 3 dozen, the smallest amount being % dozen and the largest 5 dozen. The prices were $4.80 per dozen for the “regular” 4-string broom and $5.80 for the “special”; from $5:50 to $6 for the “regular” 5-string broom and from $6.40 to $7 for the “special”; from $6.50 to $7 for the “regular” 6-string broom and $8 for the “special.”
+In order to determine whether the foreign or the export value is the proper dutiable value herein, it is necessary to find that the brooms sold for export and those sold for home consumption were similar; whether the merchandise herein is of the “regular” or the “special” type, and at what prices the brooms were freely offered for sale to all purchasers in the principal markets of Cuba in the usual wholesale quantities and in the ordinary course of trade for home consumption and for export.
+The reports of Treasury Representative Dillon indicate that the merchandise sold for home consumption was similar to that sold for export and there is no evidence to the contrary.
+The reports of said Treasury representative state further that the brooms sold to the United States were of the “special” type. There is nothing in the invoices to indicate whether the brooms were of the “regular” or the “special” type. The only other evidence on this point is Mr. Holt’s testimony that he had been offered painted handle brooms called special brooms at prices ranging from 50 cents to a dollar a dozen more than plain handle brooms. According to the reports of Mr. Dillon, the “special” brooms wore of better workmanship, contained more broom corn, and had better finished handles. It may be that a broom with a painted handle was of still another grade. I find, therefore, that the merchandise herein is of the “special” type.
+The evidence as to the prices at which this merchandise was sold may be summarized as follows:
+4-string (per doz.) 6-string (per doz.) 6-string (per doz.)
+Holt_ $5. 00 $5. 75 $6. 50
+Rodriguez_ 4. 75+. 25 5. 50+. 25 6. 50+. 25
+Coya__4.75 5.75 6.75
+Ex. “A”_ 4. 50-5. 15 5. 50-6. 00 6. 50-7. 00
+Ex. “B”:
+“Regular”. 1. 4. 80 5. 50-6. 00 6. 50-7. 00
+“Special”... 5. 80 6. 40-7. 00 8. 00
+The prices given by Holt, Rodriguez, Coya, and exhibit A are all prices at which the merchandise was sold for export. Since it has been established that the brooms sold for export were of the “special” type, it is apparent that the foreign value is higher and must be held to be the proper dutiable value, if the merchandise were freely offered for sale to all purchasers in the ordinary course of trade in the usual wholesale quantities in the home market.
+The merchandise was appraised on the basis of foreign value and it is presumed that the appraiser found all of the elements necessary to establish that value. White Lamb Finlay, Inc. v. United States, 29 C. C. P. A. 199, 208, C. A. D. 192; Samuel S. Perry v. United States, 18 Cust. Ct. 350, Reap. Dec. 6820. Plaintiff has the burden of overcoming the presumption of correctness attaching to the appraiser's valuation and of proving the correct dutiable value of the merchandise. Harry Garbey v. United States, 24 C. C. P. A. 48, T. D. 48332; Transatlantic Shipping Co., Inc. v. United States, 28 C. C. P. A. 19, C. A. D. 118.
+The evidence indicates that the merchandise was sold for export in quantities of several hundred dozen. However, that does not establish the usual wholesale quantities in which the merchandise was sold in the home market. The .Tariff Act of 1930, section 402 (a) (1), requires that a foreign value and an export value be found and that the higher be taken as the dutiable value. In the instant case, therefore, a foreign value based on the usual wholesale quantities in which the merchandise is sold in the home market must be found. Mr. Holt testified that it was his understanding that the usual wholesale quantity in the foreign market was 25 dozen, but that statement is a mere conclusion of the witness in view of the evidence of specific sales contained in the tabulation (exhibit B) attached to defendant’s collective exhibit 4. Jenkins Brothers v. United States, 25 C. C. P. A. 90, T. D. 49093. This shows sales in the home market in quantities of 1, 2, and 3 dozen at prices corresponding to the appraised values. Plaintiff claims that these sales cannot be considered on the ground that they are sales to retailers. The statute does not provide, however, that the sales must be to wholesalers, but that they must be in the usual wholesale quantities. Sales to retailers may be considered in determining what are the usual wholesale quantities. United States v. Richard & Co., 15 Ct. Cust. Appls. 143, T. D. 42216; American Shipping Co. v. United States, 29 C. C. P. A. 250, C. A. D. 198; Jenkins Brothers v. United States, supra. Since there is no other evidence herein as to the usual wholesale quantities at which the merchandise was sold in the home market, it must be held that the appraiser’s finding of value based on foreign value has not been shown to be incorrect.
+On the record herein I find the foreign value as that value is defined in section 402 (c) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the merchandise here involved, and that such values are the appraised values.
+Judgment will be rendered accordingly.
