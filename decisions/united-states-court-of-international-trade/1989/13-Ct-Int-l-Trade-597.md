@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 86-07-00853"
+decided: "1989-07-20"
+citations: ["13 Ct. Int'l Trade 597"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ipsco, Inc. and Ipsco Steel, Inc., plaintiffs v. United States, defendant, and Lone Star Steel Co., defendant-intervenor"]
+source_url: "https://static.case.law/ct-intl-trade/13/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6134583
+cites_cases: ["12 CIT 676", "12 CIT 685", "12 CIT 802", "51 Fed. Reg. 21783", "692 F. Supp. 1368", "696 F. Supp. 656", "710 F.2d 806"]
+---
+
+# Ipsco, Inc. v. United States
+
+## Majority (Restani, Judge:)
+
+Opinion and OrdeR
+Restani, Judge:
+This matter is before the court on plaintiffs’ motion for an injunction of liquidation pending appeal of the judgment of this court affirming the Revised Final Determination of the Department of Commerce, International Trade Administration (ITA). Plaintiffs have requested the Appellate Court to review three issues: 1) the 21 year period used to allocate the bounty or grant received by IPSCO, calculated by the ITA and accepted by the trial court; 2) the exclusion of a majority of Canadian producers and production prior to determination of whether there should be an affirmative finding of a bounty or grant, and 3) the method of allocation of the value of grants between OCTG and other products not subject to the underlying administration proceeding. Defendant for its part asserts that the court lacks jurisdiction over plaintiffs request for injunctive relief. In the alternative defendant argues that even if the court finds it has jurisdiction over this matter, plaintiffs’ have not demonstrated their entitlement to injunction relief. Lastly, defendant argues that if the court decides to grant plaintiffs’ request for an injunction it should do so on a basis more narrowly tailored than that requested by plaintiffs. Specifically, defendant requests that the court exclude from any order entries after May 31, 1988, because the time period in which parties may request an administrative review has not yet expired for those entries.
+On July 21, 1988, the court in Ipsco Inc. and Ipsco Steel, Inc. v. United States, 12 CIT 685, Slip Op. 88-098 (July 21, 1988), granted plaintiffs’ request for a preliminary injunction enjoining liquidation of certain entries of oil country tubular goods covered by ITA’s Countervailing Duty Order of June 16, 1986. See 51 Fed. Reg. 21783 (June 16, 1986). The reasons for the court’s decision were set forth in the companion case Ipsco, Inc. and Ipsco Steel, Inc. v. United States, 12 CIT 676, 692 F. Supp. 1368 (1988). At that time the court found that plaintiffs had satisfied the four-part test for injunctive relief set forth in numerous cases, including Zenith Radio Corp. v. United States, 710 F.2d 806, 810-811 (Fed. Cir. 1983). Ipsco. 692 F. Supp at 1375-6.
+Although the relevant facts of concern to the court concerning plaintiffs motion for injunction have changed somewhat since the court’s order granting a preliminary injunction, namely a final judgment has been entered in this case, the court nevertheless finds that some type of injunctive relief is appropriate. As stated in Algoma Steel v. United States, 12 CIT 802, 696 F. Supp. 656 (1988) the "court believes it has equitable power to fashion a stay pending appeal which is narrower than that specified in section 1516a(c) and that has fewer repercussions.” Id. at 661. As in Algoma, and for the essentially same reasons stated therein, given that appeal is now pending the court will grant the narrowest relief necessary to preserve the status quo. The court has determined that plaintiffs’ relief should not exceed that which they received as a result of the preliminary injunction previously granted in this case as any additional relief would be beyond that necessary to preserve the status quo. In light of this it is hereby
+Ordered that defendant, United States, is enjoined during the pendency of this litigation in the Court of Appeals for the Federal Circuit from the liquidation of any and all entries of OCTG from Canada manufactured by IPSCO, Inc. which are covered by the above mentioned Federal Register Notice which entries were entered on or after December 30, 1985 through April 30, 1986 and were entered on or after July 16, 1986 through May 31, 1988 and remain unliquidated at the close of business on the day following the date on which a copy of this order is received by plaintiffs. This order shall expire upon resolution of plaintiffs’ appeal of the final judgment herein by the Court of Appeals for the Federal Circuit.
+Although the defendant’s brief discusses preliminary injunctive relief, the court assumes it would make the same arguments as to a stay pending appeal.
+The court finds little significant difference between this case and that of Algoma. Although this court disagrees with its position, Ipsco should have the opportunity to convince the court that its goods should not be subjected to any countervailing duties and that the order should be revoked. Plaintiff also claims some smaller degree of relief in the event that it is unsuccessful at achieving revocation, that is, reduction in duties. In addition, this is a slightly better case for a stay, because one of the plaintiffs is the entity which will actually forfeit duties if, after liquidation, it is found not to owe them.
