@@ -1,0 +1,40 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2252"
+decided: "1923-11-17"
+citations: ["12 Ct. Cust. 15"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Martin, Presiding Judge, and Smith, Barber, and Bland, Associate Judges."]
+parties: ["Meyer & Lange v. United States"]
+source_url: "https://static.case.law/ct-cust/12/cases/0015-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092802
+cites_cases: ["4 Ct. Cust. Appls. 122"]
+---
+
+# Meyer v. United States
+
+## Majority (Babber, Judge,)
+
+Babber, Judge,
+delivered the opinion of the court:
+The sole question here is as to the dutiability of containers filled with mustard when imported. The appellants refer to these containers as jugs, and their witness so characterized them. The Government refers to them as jugs or mugs.
+The Board of General Appraisers, and we think aptly, considering their size and shape, refers to them as mugs, and they will be so regarded in this opinion. -
+The mustard contained therein was assessed for duty under paragraph 235 of the act of 1913, concerning which no question arises here.
+The mugs, however, were •classified .under paragraph 79 of the same act as decorated 'earthenware. If dutiable, no question is raised as to the correctness of such classification.
+Two protests are in issue] one claiming the mugs to be dutiable at the same rate as their contents; the other makes the same claim and in the alternative claims that they are free of duty as containers of merchandise bearing a specific rate of duty. The mustard was so dutiable. These mugs were all assessed for duty by the collector on the theory that they were unusual coverings or containers within the provisions of Section III, paragraph R, of the act, and hence dutiable under said paragraph 79, which specifically provides for such merchandise.
+Among other things, paragraph R provides that “if there be used for covering or holding imported merchandise, whether dutiable or free, any unusual article or form designed for use otherwise than in the bona fide transportation of such merchandise to the United States, duty shall be levied and collected thereon at the rate to which' it would he subjected if separately imported.”
+Upon hearing of the protests before the Board of General Appraisers, importers called as their only witness their manager. He' testified in' substance that three shipments were covered by the protests here; that he was familiar with the merchandise; that he had been handling mustard at wholesale for 16 years; that during all that time it had been imported in earthenware jugs; that it went into the hands of the consumer in the containers in which it was imported; that the mugs (jugs he called them) in question were in two sizes; that the larger contained one and a half or twice as much as the smaller, and he produced a typical sample of the latter, which was introduced in evidence, marked Exhibit 1, and is before the court. lie further testified that the earthenware jugs in which he had imported mustard other than the shipments in question had been passed as usual containers and he produced a typical sample of such jugs, which was offered and received in evidence, marked “Illustrative Exhibit A,” and is also before us. He gave no further testimony tending to show that the mugs were the usual containers of mustard as imported or that they were not designed for use other than in the bona fide transportation of the mustard to the United States, and did not testify that any of the plain jars in which mustard had been imported were so large as the larger-sized mugs involved in this' case.
+There is a marked difference between illustrative Exhibit A and Exhibit 1. The former is a plain'undecorated stoneware jar without a handle, of larger circumference at the bottom than at the top. Exhibit 1 is about the same size with its exposed surface, excepting the bottom, colored and decorated with figures in relief of children and trees, with a plain handle like an ordinary mug. Each of the exhibits, we judge, will hold a little less than a gill and is covered with a metallic cap.
+The Board of General Appraisers on this evidence said, “From the testimony and an examination of the sample we think it is clear that the mug in which the mustard is packed is an unusual covering within the meaning of paragraph R, of Section III of the act of 1913,” and overruled the protests.
+The recited evidence and an inspection of the exhibits leads us to the same conclusion.
+Discussing a similar question it was said by this court in substance in United States v. Hohner (4 Ct. Cust. Appls. 122; T. D. 32760), that if the coverings or containers of imported merchandise were unusual and were designed for some substantial, material, or valuable use other than that of holding or containing the merchandise while being therein transported, they were subject to additional duty.
+It is quite apparent that these mugs have not been the ordinary and usual containers of mustard if it be assumed, as testified by the witness, that illustrative Exhibit A has been the ordinary and usual container thereof. Especially is this true of the larger-sized mugs. The coloring and decoration on both sizes, which, as stated, is absent from illustrative Exhibit A, suggests at once a purpose of imparting such attractive features to the mugs that they become an important inducement to the consumer to purchase the same with the contents. The size of the mugs, especially the larger ones, also suggests that they have a greater adaptibility for other uses after the mustard has been taken therefrom than have the jars. It is obvious that the handles of the mugs, when contrasted with jars that have no handles, suggest that they are designed for use otherwise than in the bona fide transportation of mustard to this country, because in packing the same for transportation the handles would apparently be a detriment rather than a benefit.
+The importers’ witness when upon the stand was asked, “What is the object of putting up mustard in containers like Exhibit 1?” Government counsel objected to the question as irrelevant. One of the three general appraisers constituting the board, hearing the protest, remarked, “What difference does it make as to whether they are or are not used for any specific purpose? The objection is sustained. ” To which ruling importers’ counsel took an exception.
+It is argued in substance here that this question was erroneously excluded and that if admitted evidence would have been elicited tending to show that these mugs were not used for anything but the bona fide containers of mustard and after being so used had no commercial or practical purpose or value, and because of this exclusion importers ask that the decision of the board be reversed and the case remanded for further testimony along the line of the propounded question.
+We think that the question as asked hardly suggested to the board that the importer expected thereby to elicit from the witness the evidence that it is now contended would have been given had the answer been taken.
+An ordinary rule of practice in putting in testimony is, that a question addressed to a party’s own witness, if objected to, must be followed by an offer of what is expected to be proved by the answer of the witness, if it is desired to complain of the exclusion of the question, when the purpose of a question is not apparent and it does not indicate whether the answer of the witness would be material, or relevant, or competent. (38 Cyc. p. 1329.) Manifestly the object of this rule is to enable the court to pass understandingly upon the admissibility of a propounded question.
+No such, offer was made before the board, and, as the record stands, we think there was no error in its refusal to let the witness answer the question.
+The judgment of the Board of General Appraisers is affirmed.
