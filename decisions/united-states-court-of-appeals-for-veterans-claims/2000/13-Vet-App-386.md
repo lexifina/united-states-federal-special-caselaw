@@ -1,0 +1,41 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "98-459, 98-1428"
+decided: "2000-03-13"
+citations: ["13 Vet. App. 386"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HOLDAWAY, STEINBERG, and GREENE, Judges."]
+parties: ["John A. ROZMUS, Appellant, and Gertrude L. Gray, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/13/cases/0386-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11205687
+cites_cases: ["11 Vet.App. 115", "279 N.E.2d 640", "28 U.S.C. § 2412", "29 Ohio App.2d 163", "58 O.O.2d 233"]
+---
+
+# Rozmus v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+On March 23, 1999, appellant John A. Rozmus filed an application under the Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412(d), for costs and attorney fees incurred in the prosecution of his claim on appeal from the Board of Veterans’ Appeals (BVA or Board). On April 6, 1999, appellant Gertrude L. Gray filed a similar EAJA application for costs and attorney fees related to her appeal. In both cases, this Court had remanded the appellants’ respective appeals to the Board for readjudication. The Secretary has conceded that both appellants meet the jurisdictional requirements and are entitled to EAJA fees, but contests the amounts sought. The appellants have moved to consolidate their applications. In addition, on February 10, 2000, the Secretary filed with the Court a Notice of Supplemental Authority, which the appellants have opposed. Since these cases present a common issue, the Court will grant the appellants’ motions and consolidate these EAJA applications.
+Specifically, the issue before the Court is whether or not EAJA fees may be granted for work performed prior to the signing of a formal attorney fee agreement. Both parties agree that EAJA fees may be granted for any work performed after the formation of an attorney-client relationship. See Similes v. West, 11 Vet.App. 115, 120 (1998). The Secretary contends that an attorney-client relationship commences with the signing of a fee agreement. However, the Secretary has not provided the Court with any precedent that holds that a formalized fee agreement is necessary for the formation of an attorney-client relationship.
+On the contrary, both appellants have provided ample authority to support their position that the attorney-client relationship may exist prior to the signing of a fee agreement. The issue of whether an attorney-client relationship exists is generally governed by the applicable state law. Appellant Gray contends that under Ohio law, the state where the attorney services were performed, an attorney-client relationship may exist with or -without a formal fee agreement. See Warm v. Greenberg, 58 O.O.2d 233, 29 Ohio App.2d 163, 279 N.E.2d 640 (1971). In the same manner, appellant Rozmus contends that the District of Columbia, the place where her legal services were performed, also recognizes that an attorney-client relationship may exist in the absence of a fee agreement.
+The Court agrees with the appellants’ position. It is well-established that a formal fee agreement is not necessary for an attorney-client relationship to commence.
+The authority of an attorney begins with his or her retainer, but the relation of attorney and client is not dependent on the payment of a fee, nor is a formal contract necessary to create the relationship. The contract may be implied from conduct of the parties. The employment is sufficiently established when it is shown that the advice and assistance of the attorney are sought and received in matters pertinent to the attorney’s profession.
+7 Am.Jur.2d Attorneys at Law § 136 (1997) (footnotes and citations omitted).
+In these cases, the evidence proffered by the appellants shows that they sought and received advice and assistance from their respective attorneys in matters pertinent to their appeals to the Court prior to the signing of a formal fee agreement. The Secretary has not contested the validity of the evidence provided. The Court finds this evidence sufficient to establish an attorney-client relationship and to render the appellants eligible for costs and fees under EAJA for the services performed prior to the execution of the formal fee agreement.
+Upon consideration of the foregoing analysis, appellant John A. Rozmus’ application for fees and expenses under EAJA is GRANTED in the amount of $4,299.46. Appellant Gertrude L. Gray’s application for fees and expenses under EAJA is GRANTED in the amount of $8,075.18. The issue regarding the Secretary’s Notice of Supplemental Authority and the appellant’s opposition to that filing is thereby moot.
+
+## Concurrence (STEINBERG, Judge,)
+
+STEINBERG, Judge,
+concurring:
+I agree with the result (award of fees and expenses under the Equal Access to Justice Act, 28 U.S.C. § 2412(d)(EAJA), for the pre-fee-agreement periods in question) but believe that the rationale for that result is incomplete and requires some explanation in terms of the facts of the two cases.
+First, Similes v. West suggests that the question of whether and when an attorney-client relationship has been established may be a matter of federal law, for purposes of the EAJA, and that evidence that the client consented to the initiation of representation by the attorney, such as exists in each of the cases before us, is sufficient for that purpose even though there may be no written representation agreement. Similes, 11 Vet.App. 115 (1998).
+Alternatively, if that question is to be determined under applicable state law, the result would be the same. As to appellant Rozmus, the Secretary contests attorney fees for time spent from January 9 through February 11, 1998. In August 1996, the Vietnam Veterans of America, Inc., contracted with the attorney to provide pro bono representation for the appellant as to his claims then currently before VA. Appellant Rozmus’ July 16, 1999, Reply, Exhibit A. There is no indication that the contract was limited to representation before the Board, and the attorney certainly did not view it as so limited because he began to consider an appeal to this Court two days after the BVA decision was issued on January 7,1998.
+As to appellant Gray, the Secretary contests attorney fees for time spent from October 14, 1997, through July 6, 1998. On October 12, appellant Gray sent a letter to the attorney. Appellant Gray’s July 16, 1999, Reply, Exhibit B. The attorney received that letter on October 14, reviewed that letter, and on October 17 telephoned the appellant to discuss her case. Appellant Gray’s July 16, 1999, Reply, Exhibit A. On October 17, the attorney agreed to “obtain a copy of [the appellant’s] claim file for purposes of reviewing it and making a recommendation about whether to proceed with an appeal to the Court.” Ibid. On October 20, the appellant signed a VA authorization form in order to allow the attorney to receive a copy of her claims file.
+Accordingly, I agree with the Court that, by virtue of the appellant’s consent to the initiation of representation activity by the attorney in each case, an attorney-client relationship was established that rendered each appellant eligible for EAJA fees and expenses for the services performed by the attorney prior to the execution of the formal fee agreements. See Similes, supra (holding that work done by attorney after client had consented to representation was compensable under EAJA but that work done before that consent had been granted was not compensable); see also Warm v. Greenberg, 58 O.O.2d 233, 29 Ohio App.2d 163, 279 N.E.2d 640, 641 (1971) (as soon as attorney spends any time on request for assistance, potential client is obligated to compensate attorney for that time).
+Finally, there is presently pending before the Court in Rozmus an August 10, 1999, unopposed motion by the Secretary to file a reply to the appellant’s July 16, 1999, reply to the Secretary’s response to the appellant’s EAJA application. I would have preferred to have granted this motion and received the Secretary’s reply before the Court ruled in this matter.
