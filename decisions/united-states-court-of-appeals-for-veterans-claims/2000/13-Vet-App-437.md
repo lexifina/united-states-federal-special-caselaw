@@ -1,0 +1,28 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "99-1919"
+decided: "2000-04-14"
+citations: ["13 Vet. App. 437"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, FARLEY, and HOLDAWAY, Judges."]
+parties: ["DeeAnna M. KELSEY, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/13/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11206901
+cites_cases: ["10 Vet.App. 330", "102 F.3d 1236", "11 Vet.App. 361", "117 S.Ct. 2478", "12 Vet.App. 548", "13 Vet.App. 197", "138 L.Ed.2d 988", "203 F.3d 1743", "38 C.F.R. §§ 3.151", "38 U.S.C. § 5112", "38 U.S.C. § 5121", "38 U.S.C. § 7266", "521 U.S. 1103", "7 Vet.App. 42"]
+---
+
+# Kelsey v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+The pro se appellant, DeeAnna M. Kelsey, is the surviving spouse of veteran Keith J. Kelsey, who served in the military from January 1960 to January 1973. On November 1, 1999, the appellant filed with the Court a Notice of Appeal (NOA) “for [her] late husband,” stating that Mr. Kelsey died on August 20, 1999, one week after the Board of Veterans’ Appeals (Board) issued its August 13, 1999, decision denying Mr. Kelsey’s claims, and contesting that decision with respect to the denial of claims for Agent Orange exposure, digestive disorder with hiatal hernia and hepatitis, and respiratory disorder. NOA. On February 4, 2000, prior to the filing of the record on appeal, the Secretary filed a motion to dismiss the appeal for lack of jurisdiction, citing as authority the Court’s opinion in Swanson v. West, 13 Vet.App. 197 (1999). The Court has jurisdiction to determine its, jurisdiction over this appeal. See Smith v. Brown, 10 Vet.App. 330, 332 (1997). The Court has not previously addressed a situation where a veteran dies subsequent to a Board decision, but prior to filing an NOA. For the reason set forth below, we will dismiss this appeal for lack of jurisdiction.
+In Smith, we held that when a veteran dies while his or her appeal is pending before the Board, the Board lacks jurisdiction to issue a decision on the merits after the death, a subsequently issued Board decision is not a final decision subject to appeal, and the Court accordingly lacks jurisdiction over an appeal from that decision that is filed by the surviving spouse. See Smith, 10 Vet.App. at 334; see also 38 U.S.C. § 7266(a)(1) (Court may review “a final decision of the Board of Veterans’ Appeals”); Anglin v. West, 11 Vet.App. 361, 363 (1998) (Court has jurisdiction only over final Board decisions) aff'd, 203 F.3d 1743 (Fed.Cir.2000). We have also dismissed for lack of jurisdiction an appeal where a party attempted to substitute for a veteran who died during the pendency of his or her appeal to this Court. See Zevalkink v. Brown, 102 F.3d 1236, 1243-44 (Fed.Cir.1996), cert. denied, 521 U.S. 1103, 117 S.Ct. 2478, 138 L.Ed.2d 988 (1997) (discussing with approval Court’s unpublished order dismissing earlier appeal on basis that surviving spouse lacks standing because not “adversely affected” by underlying Board decision within meaning of 38 U.S.C. § 7266(a)); see also 38 U.S.C. § 5112(b)(1) (payment on veterans’ disability compensation claims terminates on last day of month before death); Landicho v. Brown, 7 Vet.App. 42, 54 (1994) (where veteran appellants died while appeals pending before Court, substitution by surviving spouses claiming entitlement to accrued benefits under 38 U.S.C. § 5121(a) not permissible; appeals became moot and Court must dismiss and vacate underlying Board decision). Moreover, in Swanson, supra, where a veteran died one day before the Court issued its decision on his appeal, subsequent to which judgment and mandate issued, the Court recalled its judgment and mandate and dismissed the appeal, holding that the surviving spouse could not be substituted as an appellant, and stating that “the case was moot [when the decision was issued], although the Court was not then aware of it.” See Swanson, 13 Vet.App. at 199 (dismissal ensured that Board decision and underlying regional office decision would have no preclusive effect in adjudication of any subsequent accrued-benefits claim derived from veteran’s entitlement).
+Because the time frame in this case falls between the time frames in Smith, supra, and Zevalkink, Landicho, and Swanson, all supra, “[t]he inevitable conclusion” is that there is no discernable basis for a different outcome here. Swanson, 13 Vet.App. at 199. Therefore, the veteran’s surviving spouse, the appellant here, lacks standing to pursue, and the Court lacks jurisdiction over, an appeal of the Board’s denial of her late husband’s VA benefits claims. Cf. Marlow v. West, 12 Vet.App. 548, 550 (1999) (discussing unpublished dismissal for lack of jurisdiction of earlier appeal on veteran’s retroactive benefits claim brought after death of veteran by surviving child). We note, however, that the NOA filed by the appellant and containing notice of her husband’s death constitutes an informal, derivative, claim for accrued benefits, which she is entitled to have adjudicated. See Landicho, 7 Vet.App. at 50 (notice of death filed with Court and delivered to Secretary in Court’s routine pleading process constituted informal claim by surviving spouse for accrued benefits); 38 C.F.R. §§ 3.151(a), 3.155(a) (1999).
+Upon consideration of the above, it is
+ORDERED that the August 13, 1999, decision of the Board is VACATED. It is further
+ORDERED that this appeal is DISMISSED for lack of jurisdiction.
