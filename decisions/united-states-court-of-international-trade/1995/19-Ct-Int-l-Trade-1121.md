@@ -1,0 +1,60 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 93-08-00503"
+decided: "1995-08-18"
+citations: ["19 Ct. Int'l Trade 1121", "898 F. Supp. 923"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NTN Bearing Corp. of America and NTN Kugellagerfabrik (Deutschland) GmbH, plaintiffs v. United States, U.S. Department of Commerce, and Ronald H. Brown, Secretary, U.S. Department of Commerce, defendants, and Federal-Mogul Corp. and Torrington Co., defendants-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/19/cases/1121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11904132
+cites_cases: ["12 CIT 343", "19 U.S.C. § 1677", "28 U.S.C. § 1581", "305 U.S. 197", "36 F.3d 1565", "465 U.S. 1022", "54 Fed. Reg. 20,900", "58 Fed. Reg. 25,610", "58 Fed. Reg. 39,729", "58 Fed. Reg. 42,288", "58 Fed. Reg. 51,055", "59 Fed. Reg. 9,469", "685 F. Supp. 1252", "713 F.2d 1568"]
+---
+
+# NTN Bearing Corp. of America v. United States
+
+## Majority (TSOUCALAS, Judge:)
+
+Opinion
+TSOUCALAS, Judge:
+Plaintiffs, NTN Bearing Corporation of America and NTN Kugellagerfabrik (Deutschland) GmbH (“NTN”), move pursuant to Rule 56.2 of the Rules of this Court for judgment on the agency record claiming that the Department of Commerce, International Trade Administration (“Commerce”), erred in: (1) deducting direct selling expenses from exporter’s sales price (“ESP”) rather than adding such expenses to foreign market value (“FMV”), and (2) calculating the difference in merchandise (“difmer”) on the basis of total cost of manufacturing (“COM”) rather than variable cost of manufacturing (“VCOM”).
+The administrative determination under review is Commerce’s final results in Final Results of Antidumping Duty Administrative Reviews and Revocation in Part of an Antidumping Duty Order (“Final Results”), 58 Fed. Reg. 39,729 (July 26, 1993).
+Background
+On May 15, 1989, Commerce published antidumping duty orders which covered the subject merchandise. Antidumping Duty Orders: Ball Bearings, Cylindrical Roller Bearings, and Spherical Plain Bearings and Parts Thereof From the Federal Republic of Germany, 54 Fed. Reg. 20,900 (May 15, 1989).
+On April 27, 1993, Commerce published its preliminary determinations of the administrative reviews of the antidumping duty orders on antifriction bearings and parts thereof from Germany. Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From Germany; Preliminary Results of Antidumping Duty Administrative Reviews and Partial Termination of Administrative Reviews, 58 Fed. Reg. 25,610 (April27,1993). Included in these reviews was NTN Kugellagerfabrik (Deutschland) GmbH. Id.
+On July 26, 1993, Commerce published its final results in this proceeding. Final Results of Antidumping Duty Administrative Reviews and Revocation in Part of an Antidumping Duty Order, 58 Fed. Reg. 39,729 (July 26,1993), as amended, Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From France and the United Kingdom; Amendment to Final Results of Antidumping Duty Administrative Reviews, 58 Fed. Reg. 51,055 (September 30, 1993); Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From France, Germany, Italy, Japan, Romania, Singapore, Sweden, Thailand, and the United Kingdom; Amendment to Final Results of Antidumping Duty Administrative Reviews, 58 Fed. Reg. 42,288 (August 9, 1993); Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From Japan; Amendment to Final Results of Antidumping Duty Administrative Reviews, 59 Fed. Reg. 9,469 (February 28, 1994).
+Discussion
+The Court’s jurisdiction over this matter is derived from 19 U.S.C. § 1516a(a)(2) (1988) and 28 U.S.C. § 1581(c) (1988).
+A final determination by Commerce in an administrative proceeding will be sustained unless that determination is “unsupported by substantial evidence on the record, or otherwise not in accordance with law.” 19 U.S.C. § 1516a(b)(l)(B) (1988). Substantial evidence is “relevant evidence as a reasonable mind might accept as adequate to support a conclusion.” Consolidated Edison Co. v. NLRB, 305 U.S. 197, 229 (1938); Alhambra Foundry Co. v. United States, 12 CIT 343, 345, 685 F. Supp. 1252, 1255 (1988).
+1. U.S. Direct Selling Expenses:
+NTN argues that Commerce’s deduction of direct selling expenses incurred in the United States from USP is contrary to numerous decisions of this Court and, therefore, is not in accordance with law. Plaintiffs’Motion and Memorandum in Support Thereof for Judgment on the Agency Record (“NTN’s Brief”) at 3.
+NTN subsequently abandoned this issue in light of Koyo Seiko Co., Ltd. and Koyo Corp. of U.S.A. v. United States, 36 F.3d 1565 (Fed. Cir. 1994), where Commerce’s policy has been vindicated. Plaintiffs’ Reply to the Responses of Defendants and Defendant-Intervenors to Plaintiffs’ Motion for Judgment on the Agency Record at 1. Accordingly, this Court will not further consider this issue.
+2. Difference in Merchandise Test:
+Citing previous determinations, NTN challenges Commerce’s difmer calculation because in its calculation of the difmer test it used COM in the denominator of its equation, rather than VCOM, contrary to Commerce’s previous practice. NTN argues that the use of COM in the denominator is an arbitrary shift in policy that will result in a higher denominator, thus reducing the difmer ratio and making it more likely that dissimilar merchandise will be compared. Plaintiffs’ Brief at 4-7.
+Commerce asserts its use of total cost of manufacture as the denominator for its difmer test was reasonable and within its discretion. Commerce contends its methodology will result in a greater number of “matches” of U.S. and home market merchandise, thereby furthering the statutory preference for comparisons based on prices rather than constructed value. Defendants’ Memorandum in Opposition to the Motion of NTN Bearing Corporation of America and NTN Kugellager-fabrik (Deutschland) GmbH For Judgment Upon the Agency Record at 6-14.
+Defendant-intervenor Federal-Mogul Corporation argues that Commerce’s methodology in the twenty percent difmer cap is reasonable since it relies on consistent values and calculates the relevant cost ratio. Response of Defendant-intervenor Federal-Mogul Corporation to Plaintiffs’ Motion for Judgment on the Agency Record at 2-5.
+Defendant-intervenor The Torrington Company asserts that Commerce’s application of COM, rather than VCOM, is reasonable given the broad nature of the statutory requirement. Opposition of Defendant-intervenor The Torrington'Company to the Motion of the Plaintiffs for Judgment Upon the Administrative Record at 6-8.
+When identical merchandise is not available in the home market for comparison with the merchandise sold to the United States, Commerce must select “similar” comparison merchandise based upon the physical characteristics of the merchandise being compared. 19 U.S.C. § 1677(16). No guidance is provided in the Act or the regulations as to what method of calculation should be selected for considering “similar” merchandise. In addition, neither the statute nor the regulations limit the difmer test to VCOM as the denominator. Accordingly, Commerce has been granted broad discretion to devise a methodology for determining what constitutes “similar” merchandise. E.g., Smith-Corona Group v. United States, 713 F.2d 1568, 1571 (Fed. Cir. 1983), cert. denied, 465 U.S. 1022 (1984).
+In this review, Commerce implemented its twenty percent difmer cap to determine whether nonidentical products in the U.S. and home markets are similar enough that they may be reasonably compared. Commerce divided the difmer adjustment by the total manufacturing costs of the U.S. product and used a twenty percent cap as a benchmark for determining comparability. Final Results, 58 Fed. at Reg. 39,766.
+Commerce explained its methodology in this review:
+The total COM is an appropriate point of reference for the 20-per-cent difmer test. We are measuring the physical differences in merchandise * * *. Since differences in VCOM are primarily attributable to physical differences in merchandise, it is appropriate to use VCOM in the numerator.
+The purpose of choosing the total COM as the point of reference is to provide a stable benchmark against which the absolute size of the physical difference in merchandise can be compared in order to determine if the difference is so large that the two products being compared cannot be considered similar for the purposes of the model match. We are not using the price of the U.S. model as this benchmark because the price of the model may be distorted if the model is sold at less than foreign market value in the United States. Total COM is preferable to VCOM as a point of reference because it more closely approximates the value of the model.
+Id. Commerce’s calculation formula for performing the twenty percent difmer cap has varied over the years. Commerce released a policy bulletin in July 1992 that established a consistent policy:
+While the numerator has always been the difference in variable production cost, different denominators have been used * * *. Because variable manufacturing costs change as a share of total manufacturing costs from product to product, the size of a 20% difference would consequently vary as well in relation to both the price and total manufacturing costs. Therefore, a more stable basis for the denominator is the total manufacturing costs, and it has been chosen for uniform use.
+Import Administration Policy Bulletin 92.2 at 3 (July 29, 1992).
+Upon review, this Court finds that Commerce’s model matching methodology was reasonable and in accordance with law and that Commerce acted within its discretion in its choice of methodology. See Smith-Corona, 713 F.2d at 1571. Accordingly, Commerce is hereby affirmed on this issue.
+Conclusion
+In accordance with the foregoing opinion, this Court, after due deliberation and a review of all papers in this action, finds that Commerce’s actions were in accordance with law and supported by substantial evidence. For the reasons stated above, NTN’s motion for judgment upon the agency record is denied in all respects and the Final Results are affirmed. This case is hereby dismissed.
+19 U.S.C. § 1677(16) (1988) provides:
+The terra “such or similar merchandise” means merchandise in the first of the following categories in respect of which a determination for the purpose of part II of this subtitle can be satisfactorily made:
+(A) The merchandise which is the subject of an investigation and other merchandise which is identical in physical characteristics with, and was produced in the same country by the same person as, that merchandise.
+(B) Merchandise—
+(i) produced in the same country and by the same person as the merchandise which is the subject of the investigation,
+(ii) like that merchandise in component material or materials and in the purposes for which used, and
+(iii) approximately equal in commercial value to that merchandise.
+(C) Merchandise—
+(i) produced in the same country and by the same person and of the same general class or kind as the merchandise which is the subject of the investigation,
+(ii) like that merchandise in the purposes for which used, and
+(iii) which the administering authority determines may reasonably be compared with that merchandise.
