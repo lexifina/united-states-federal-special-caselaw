@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "65929; protests 163169-K, etc. (New York)"
+decided: "1961-07-18"
+citations: ["47 Cust. Ct. 267"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. Tobert Co., Inc., and American Shipping Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/47/cases/0267-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6583392
+---
+
+# L. Tobert Co. v. United States
+
+## Majority (Ford, J.)
+
+Opinion by
+Ford, J.
+In accordance with stipulation of counsel that the items marked “A” consist of candlesticks and candelabras similar in all material respects to those the subject of Abstract 62036, except that they are not plated with platinum, gold, or silver, nor colored with gold lacquer, the claim at 22% percent under the provision in paragraph 397, as modified by the General Agreement on Tariffs and Trade (T.D. 51802), for other metal articles, not specially provided for, was sustained. The items marked “C,” stipulated to be the same as those involved in said Abstract 62036, were held dutiable at 25 percent under the provision in said paragraph 397, as modified, supra, for articles, not specially provided for, plated with silver on nickel silver or copper, but not in chief value of silver, as claimed. The items marked “E,” stipulated to be the same as those the subject of said Abstract 62036, except that they are plated with gold, were held dutiable at 32% percent under the provision in said paragraph 397, as modified, supra, supplemented by Presidential proclamation (T.D. 51909), for articles, not specially provided for, plated with gold, or colored with gold lacquer, as claimed;
