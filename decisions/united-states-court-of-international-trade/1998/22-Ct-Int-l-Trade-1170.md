@@ -1,0 +1,24 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 93-06-00322"
+decided: "1998-12-30"
+citations: ["22 Ct. Int'l Trade 1170", "31 F. Supp. 2d 1002"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Aimcor, Alabama Silicon, Inc., and American Alloys, Inc., plaintiffs v. United States, defendant, and CVG-Venezolana de Ferrosilicio, C.A., defendant-intervenor"]
+source_url: "https://static.case.law/ct-intl-trade/22/cases/1170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11120245
+cites_cases: ["154 F.3d 1375", "18 CIT 1117", "19 CIT 1497", "20 CIT 1481", "871 F. Supp. 447", "912 F. Supp. 549", "957 F. Supp 289"]
+---
+
+# Aimcor, Alabama Silicon, Inc. v. United States
+
+## Majority (DiCarlo, Senior Judge:)
+
+ORDER
+DiCarlo, Senior Judge:
+In accordance with the decision (September 9,1998) and mandate (November 2,1998) of the United States Court of Appeals for the Federal Circuit in Aimcor v. United States, 154 F.3d 1375 (Fed. Cir. 1998) affirming-in-partand reversing-in-partthis Court’s decisions in Aimcor v. United States, 18 CIT 1117, 871 F. Supp. 447 (1994) (“Aimcor I”); Aimcor v. United States, 19 CIT 1497, 912 F. Supp. 549 (1995) (Aimcor II); Aimcor v. United States, 20 CIT 1481, 957 F. Supp 289 (1996) (Aimcor III); and Aimcor v. United States, No. 93-06-00322 (Apr. 9,1996 Order), and remanding to this Court for further proceedings, it is hereby
+Ordered that Commerce shall reconsider whether or not the Government of Venezuela’s purchase of Class E shares of CVG-Venezolana de Ferrosilicio, C.A. stock was consistent with commercial considerations. Specifically, Commerce shall reconsider this issue in light of the Court of Appeals’ conclusions that (1) Commerce’s determination that Class E shares were entitled to dividends and liquidation proceeds was not supported by substantial evidence, (2) Commerce’s determination that Class E stock bore no legal restrictions on its sales price was supported by substantial evidence, and (3) Commerce’s determination that Class E shareholders could enjoy capital appreciation was supported by substantial evidence. Commerce must determine whether this potential for capital appreciation was sufficient to make the purchase of Class E shares consistent with commercial considerations. It is further Ordered, that, in the event that a subsidy is determined to have existed, Commerce shall determine the countervailing duty applying the method it deems appropriate.
+Remand results are due within thirty days of the date this order is entered. Any party contesting the results shall file comments or responses within thirty days of the remand results, after which Commerce will have fifteen days in which to file a reply.
