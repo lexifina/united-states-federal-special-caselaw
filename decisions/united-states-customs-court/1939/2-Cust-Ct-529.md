@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "40351"
+decided: "1939-01-09"
+citations: ["2 Cust. Ct. 529"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 712973-G, etc., of Alfred Kohlberg, Inc., et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/2/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656248
+---
+
+# Protests 712973-G of Alfred Kohlberg, Inc.
+
+## Majority (Tilson, J.)
+
+Opinion by
+Tilson, J.
+In accordance with stipulation of counsel it was held that the invoices were consulated at Swatow, China, and should have been converted at the federal reserve rate quoted for the yuan Swatow dollar on the dates of exportation therefrom.
