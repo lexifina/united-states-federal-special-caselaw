@@ -1,0 +1,28 @@
+---
+court: "United States Customs Court"
+docket: "6231; Entry No. 3805"
+decided: "1945-11-15"
+citations: ["15 Cust. Ct. 450"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. W. Woolworth Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/15/cases/0450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6674125
+cites_cases: ["26 C. C. P. A. 349"]
+---
+
+# F. W. Woolworth Co. v. United States
+
+## Majority (Oliver, Presiding Judge:)
+
+Oliver, Presiding Judge:
+This appeal for reappraisement has been submitted for decision upon the following stipulation of counsel for the parties hereto:
+It is hereby stipulated by and between counsel for the respective parties, subject to the approval of the court, that the facts and circumstances relating to the item of 10 per centum commission included in the appraisement of the items identified on the invoices with XX and initials CK of Examiner Carlisle King, are in all material respects the same as the facts and circumstances relating to the item of 10 per centum commission specified in the invoices relating to glass ornaments, novelties, and figures covered by reappraisements 113038-A, 113040-A, and 113468-A of the F. W. Woolworth Co. and "passed upon by the United States Court of Customs and Patent Appeals in United States v. S. S. Kresge Co. et al., 26 C. C. P. A. 349, wherein the court held that “A purchasing commission, charged for the handling of merchandise, is not a proper part of dutiable value.”
+It is further stipulated and agreed that on the date of exportation of the merchandise involved in the instant appeal identified on the invoice with XX and the initials CK of Examiner Carlisle King, articles such and similar thereto were freely offered for sale and sold to all purchasers in the principal markets of the country of exportation in the usual wholesale quantities and in the ordinary course of trade for exportation to the United States at the entered values, and that there was no higher foreign value.
+It is further stipulated and agreed that the record in United States v. S. S. Kresge Co. et al., 26 C. C. P. A. 349, be incorporated as part of the record in the instant appeal to reappraisement.
+.The instant appeal is abandoned as to all merchandise other than the aforementioned items marked and initialed by the Examiner Carlisle King, and the said reappraisement appeal is submitted for decision on this stipulation.
+On the agreed facts I find the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the items of merchandise identified on the invoices with XX and the initials CK of Examiner Carlisle King, and that such values are the entered values.
+The appeal having been abandoned insofar as it relates to all other merchandise, to that extent the appeal is hereby dismissed.
+Judgment will be rendered accordingly.
