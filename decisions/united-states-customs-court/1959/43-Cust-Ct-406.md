@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "63512; protest 59/4477 (New York)"
+decided: "1959-11-13"
+citations: ["43 Cust. Ct. 406"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Max Eckardt & Sons Ornament Corp. v. United States,"]
+source_url: "https://static.case.law/cust-ct/43/cases/0406-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6609435
+---
+
+# Max Eckardt & Sons Ornament Corp. v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+In accordance with stipulation of counsel that the merchandise in cases 14735/14777 are glass Christmas tree ornaments, valued at $7,626 per gross, the claim of the plaintiff was sustained.
