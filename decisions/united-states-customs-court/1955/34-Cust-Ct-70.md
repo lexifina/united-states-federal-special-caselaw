@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1680"
+decided: "1955-02-10"
+citations: ["34 Cust. Ct. 70"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["The B. F. Goodrich Company v. United States"]
+source_url: "https://static.case.law/cust-ct/34/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6585462
+cites_cases: ["29 Cust. Ct. 56"]
+---
+
+# B. F. Goodrich Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+When this case originally came before us for decision, a review of the record convinced a majority of this division that certain evidence offered on behalf of the defendant, which had been denied admission, was properly admissible, and the submission for decision was, consequently, set aside and the case restored to the New Orleans calendar. The order issued by this court is reported in The B. F. Goodrich Company v. United States, 29 Cust. Ct. 56, C. D. 1444, and contains a complete account of the proceedings had to that point. The factual account there given is incorporated herein by reference and will not be repeated here, except where necessary.
+When the case was called for trial in New Orleans pursuant to the order, it developed that the witness, William H. Perez, part of whose testimony had been denied admission at the previous trial, was then confined to a hospital and was in such condition that he was unable to testify. Counsel for the defendant proceeded, however, and sought to show (1) that even if the disputed notice of intent had been refused when offered at the customhouse, nevertheless, the plaintiff or its agent faffed to deliver a copy of the said notice to the customs officer at the place of lading, and (2) that it was the office practice of the drawback division, headed by Mr. Perez, to accept notices of intent, regardless of whether they contained an export declaration number.
+It seems to be contended by the defendant that had the plaintiff or its agent delivered a so-called “shipper’s” copy of the notice of intent to the customs officer in charge at the place of lading at the time the merchandise was delivered to the exporting carrier, it might have thereby preserved the right to drawback, notwithstanding the fact that the collector’s office had refused to accept the copies of the notice of intent there tendered for filing.
+The applicable customs regulations in force and effect at the time here pertinent read as follows:
+22.7 Notice of intent to export; local or direct shipments from a seaboard or frontier port.- — (a) At least 6 hours, but not more than 90 days, before the lading of merchandise which is to be exported from a seaboard or frontier port as a local or direct shipment therefrom, the drawback claimant or his agent shall file with the collector of customs at such port a notice of intent to export on customs Form 7511 iñ duplicate. A copy of the notice of intent shall also be delivered to the customs officer in charge at the place of lading at the time the merchandise is delivered to the exporting carrier. * * *
+* ***** *
+(d) A failure to file a notice of intent with the collector, or a failure to deliver a copy to the customs officer at the place of lading shall not bar the allowance of drawback if either of such requirements of paragraph (a) was complied with and no other act or omission of the exporter, carrier, or agent of either resulted in a failure to obtain customs inspection. * * *
+We think a reading of the foregoing regulations makes it clear that if the collector of customs or his office employees refused to accept copies of a notice of intent tendered for filing, it would be a futile, nugatory act on the part of the shipper to deliver a copy of the rejected notice of intent to the customs officer at the place of lading. The status of the notice of intent, so far as the customs officers are concerned, was characterized by its treatment in the office of the collector, and the shipper could expect no other treatment from the customs officer in charge at the place of lading' — -who is, after all, an agent or employee of the collector — than was received at the office of the collector. We, therefore, do not regard the failure to deliver a copy of the rejected notice of intent to the customs officer at the place of lading in this case as a failure on the part of the drawback claimant to pursue any valid alternative course open to it.
+It is perhaps unfortunate that Mr. Perez was not available to give testimony at the second hearing at New Orleans, for while the defendant was able to establish through other witnesses that it was the general practice, instituted by Mr. Perez, to accept notices of intent, regardless of whether they contained an export declaration number on them, it was, in our opinion, unable to tie the general practice thus established with (1) the exercise thereof by Mr. Perez, and (2) the particular action which took place on the occasion in question.
+At the original hearing in the matter, plaintiff’s witness Carriere testified that on several occasions, besides the one here in question, Mr. Perez had refused to accept notices of intent because they did not have an export declaration number upon them, thus indicating a possible departure, on Mr. Perez’ part, from the general practice. Obviously, no one but Mr. Perez could rebut such testimony, and we are of the opinion on the entire record here made it must be held that the preponderance in weight of the evidence supports the plaintiff’s version of the facts.
+We do not wish or mean to be understood as holding that if Mr. Perez had been available to testify the result would necessarily have. been different. We are deciding the issue of fact solely upon the record before us, and, on that record, we find that the timely tender of notice of intent for filing with the collector was refused by that officer or his employee on the sole ground that it did not have thereon an export declaration number.
+There does not seem to be any question but that no requirement of law or of regulations existed at the time here pertinent that notices of intent to export, offered for filing in accordance with the provisions of section 22.7 (a) of the Customs Regulations of 1943, have thereon an export declaration number. It, therefore, follows that a refusal for that reason to accept a notice of intent, otherwise regular in form and content, was improper and without warrant in law.
+As the issues raised by the protest have been limited to the question of compliance with section 22.7 (a) of the Customs Regulations of 1943, and as we have determined that the tender made by the agent of the plaintiff of timely notice of intent was improperly and illegally refused by the employee of the defendant, we hold that the said tender was in law sufficient compliance with the requirements of the statute and regulations to perfect the right of the claimant to drawback.
+Judgment will, therefore, issue sustaining the protest claim.
