@@ -1,0 +1,64 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3691"
+decided: "1969-02-05"
+citations: ["62 Cust. Ct. 110"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kao and Foed, Judges"]
+parties: ["N. Erlanger Blumgart Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0110-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573057
+cites_cases: ["15 Ct. Cust. Appls. 172", "19 CCPA 232", "2 Ct. Cust. Appls. 143", "32 CCPA 142", "44 CCPA 35", "7 Ct. Cust. Appls. 332", "7 Ct. Cust. Appls. 489"]
+---
+
+# N. Erlanger Blumgart Co. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+This protest involves an importation from Italy of woven fabrics composed of yams which contain linen, nylon, and wool fibers. The merchandise was classified under item 336.50 of the Tariff Schedules of the United States as woven fabrics of wool, other than serges, weighing over 4 ounces per square yard, and valued not over $1.26% per pound, and was assessed with duty at the rate of 37.5 cents per pound, plus 60 per centum ad valorem.
+Plaintiff claims that the imported merchandise is properly dutiable under item 335.90 of said tariff schedules as woven fabrics of vegetable fibers, other than jute, weighing over 4 ounces per square yard, at the rate of 10 per centum ad valorem.
+The pertinent provisions of said tariff schedules are as follows:
+Woven fabrics, of wool:
+$$$$$$$
+Other:
+Weighing not over 4 ounces per square yard with warp wholly of vegetable fibers:
+Other:
+336.50 Valued not over $1.26% per pound- 37.50 per lb. + 60% ad val.
+Woven fabrics, of vegetable fibers (except cotton) : Wholly of jute:
+‡ H* $ H* $ $ $
+Other:
+$ $ $ $ ‡ ‡ $
+335.90 Weighing over 4 ounces per square yard_ 10% ad val.
+This case has been submitted upon briefs and on a stipulation of fact reading as follows:
+IT IS STIPULATED AND AGEEED by and between counsel for tlie plaintiff and the Assistant Attorney General for the United States:
+That the fabric involved herein is composed of a combination of linen, nylon and reprocessed wool fibers which are spun together to create a yarn composed of linen, nylon and wool.
+That this combination single yarn is then woven into a fabric, weighing over 4 ounces per square yard.
+That the percentage by weight and the value for each of the components prior to the point of spinning is as follows:
+Fiber Percentage by weight Yalue/lbs. in lires
+linen 20 per cent 82. 12
+nylon 9 nor cent 9. 36
+wool 57. 98
+That the cost of spinning the three materials into a yarn is 95.13 lires.
+If the spinning costs should be added in determining the component material in chief value and are attributed to the components on the basis of per cent by weight, the fabric is in chief value of wool.
+If the determination of component material is made prior to spinning, then said fabric is in chief value of linen.
+If spinning costs are attributable to the materials on other than a weight basis, the component material in chief value would be linen.
+The question presented is whether the imported merchandise consists of woven fabrics in chief value of wool or woven fabrics in chief value of vegetable fibers, other than cotton, and this in turn depends upon whether the cost of spinning the linen, nvlori, and wool fibers into yarn is to be included in computing their respective values in the fabric.
+The General Interpretative Eules in General Headnote 10 of the Tariff Schedules provide:
+(f) an article is in chief value of a material if such material exceeds in value each other single component material of the article.
+This rule, according to the Tariff Classification Study, Submitting Eeport, November 15, 1960 (p. 18), “reflects the chief value concept and is based on the provisions of existing paragraph 1559 (b).” Thus, the language of said paragraph and its judicial interpretation are to be considered in determining the method by which chief value is to be found in the instant case.
+Paragraph 1559(b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1954, provides:
+(b) The words “component of chief value”, wherever used in this Act, shall be held to mean that component material which shall exceed in value any other single component material of the article involved; and the value of each component material shall be determined by the ascertained value of such material in its condition as found in the article.
+This section and its predecessors have been judicially interpreted to mean that the proper method of determining component material of chief value is to ascertain the costs of the separate parts or component materials to the manufacturer at the time they are in such condition that nothing remains to be done to them except to combine them to make the completed articles. United States v. Bernard, Judae & Co., 15 Ct. Cust. Appls. 172, T.D. 42231; United States v. Rice-Stix Dry Goods Co., 19 CCPA 232, T.D. 45337; United States v. H. A. Caesar & Co., 32 CCPA 142, C.A.D. 299; United States v. Jovita Perez et al., 44 CCPA 35, C.A.D, 633. At that stage their condition generally will be their condition as found in the article. United States v. Meadows, 2 Ct. Cust. Appls. 143, T.D. 31665. If they are not, the rule is not applicable. United States v. Jovita Perez et al., supra.
+In the case last cited, the merchandise consisted of flavoring syrup made by mixing granulated refined cane sugar, testing by the polari-scope above 75 sugar degrees with water, acid, and flavoring and coloring material. The refined cane sugar was the component material of chief value before the sugar was mixed with the other materials. However, at the time of importation the syrup contained as its component material of chief value invert sugar, which was produced by the action of the acid on the refined sugar after mixing. The court held that the general rule was inapplicable, since to hold that the component material of chief value was sugar, testing by the polariseope over 75 sugar degrees, would render meaningless the words “in its condition as found in the article.” It pointed out that the rule is but a means of implementing the statute and that its use was limited to situations in which the condition of a component as found in the article was not essentially different from the component before mixing.
+Plaintiff claims in the instant case that the imported article was manufactured from three single component materials — linen fibers, nylon fibers, and wool fibers; that prior to the time when they were spun into yarn, each material had been processed from its original state to the point where, as a material, it was to be combined with other materials; that that was the only point of joinder of the component materials, and that, therefore, the costs of spinning the yarn should not be attributed to the value of these materials. The Government, on the other hand, contends that the point of joinder is the time when the yarn was used to make up the finished article and the materials must be valued in their condition at that time.
+The method of determining the component material in chief value in woven fabrics was pointed out in Field & Co. v. United States, 7 Ct. Cust. Appls. 332, T.D. 36876. In that case the goods consisted of woven fabrics in which the warp yam was composed exclusively of wool and the weft yarn of mixed wool and Angora goat hair. The court held that the component materials were the wool and the Angora goat hair and that the value of the wool in the warp yarn was to be added to the value of the wool in the weft yarn and the total compared to the value of the Angora goat hair. The court stated further (pp. 336-337):
+* * * It is true that the value of such material is to be ascertained in its condition as found in the cloth, hence the cost of bringing the wool to that condition should be added in with the value of the wool as a component material thereof, and the cost of bringing the mohair to the same condition should be similarly treated. In the case of the mixed yarn such cost as thereby accrued upon the two materials in common should, in the absence of any specific showing to the contrary, be divided between the respective materials in proportion to their relative quantities as constituents thereof, since the common cost would have accrued upon the several materials in that proportion. In this manner the legislative purpose of comparing the value of the wool content of the cloth with the value of the Angora goat hair content thereof, for the purpose of classification under paragraph 288 and 308, supra, would be complied with. * * *
+In True Fit Waterproof Co. v. United States, 7 Ct. Cust. Appls. 489, T.D. 37107, the merchandise consisted of goods made by cementing with rubber a cotton cloth to a cotton and wool cloth and goods made by cementing with rubber a cotton and silk cloth to a cotton and wool cloth, the rubber in each case being negligible in value. The court 'held that the cost of the weaving was to be apportioned to the yarns before determining which was the component material in chief value. It stated (pp. 492-493) :
+* * * The waterproof garments are not composed of silk, wool, and cotton yarns and rubber, but of cloth and rubber, and from that it follows that the value of the silk, wool, or cotton content in the garments is not the value of the unwoven silk, wool, or cotton yarns, but their value 'as found in the cloth, that is to say, their value as yarns plus their proportion of the cost of weaving and other expenses incurred in making the cloth and bringing it to the condition it had immediately prior to its combination with the other materials in order to form the goods in question. In accordance with the decision rendered by this court in Field & Co. v. United States (7 Ct. Cust. Appls. 332, T.D. 36876), such cost of weaving and other common expense occasioned by the bringing of the yarns to the status they have in the cloth should in such a case as that here presented be proportioned among the different yarns of the mixed fabrics on the basis of quantity. * * *
+Plaintiff seeks to distinguish the Field case from the instant case on the ground that it involved a warp yarn of wool and a weft yarn of wool and goat -hair and that the point at which all the materials were joined was at the weaving stage, whereas in the instant case the point of joinder of all the materials was at the spinning stage. At that point, however, the fibers were not in the condition .in which they were found in the article. The materials in the article are not merely wool fibers, linen fibers, and nylon fibers, but such fibers processed into yarn. 'In that condition their value includes the cost of that processing.
+According to the Field case, the cost of spinning is to be allocated among the fibers making up the yarn in proportion to their relative quantities, in the absence of any specific showing to the contrary. In the instant case the allocation was made on the basis of weight. While the stipulation states that if spinning costs are attributable on other than a weight basis, the component material in chief value would be linen, no facts have been presented tending to establish that some other basis should be used.
+We conclude that the spinning costs must be added proportionately to the value of the materials found in the fabric and that when such costs are allocated to the components on the basis of weight, the component material in chief value is wool. The protest is overruled and judgment will be entered for the defendant.
