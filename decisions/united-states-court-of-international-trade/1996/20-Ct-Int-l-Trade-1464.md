@@ -1,0 +1,37 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 95-06-00789"
+decided: "1996-12-23"
+citations: ["20 Ct. Int'l Trade 1464", "949 F. Supp. 870"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Magnesium Corp. of America, et al., plaintiffs v. United States, defendant, and JSC Avisma Titanium-Magnesium Works, et al. defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/20/cases/1464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11642700
+cites_cases: ["16 CIT 606", "43 F.3d 1442", "6 F.3d 1511", "60 Fed. Reg. 16,440", "798 F.Supp. 716", "88 F.3d 1034", "938 F.Supp. 885"]
+---
+
+# Magnesium Corp. of America v. United States
+
+## Majority (Pogue, Judge:)
+
+Opinion
+Pogue, Judge:
+This matter is before the court following a remand determination. The remand was ordered on August 27,1996 to allow Commerce to recalculate the surrogate value for the Russian producers’ selling, general and administrative expenses (“SG&A”) and to consider whether the export taxes paid by a nonmarket economy (NME) producer should be deducted from United States price. See Magnesium Corp. of America v. United States, 938 F.Supp. 885 (1996). Familiarity with that decision is presumed.
+Discussion
+1. Valuation of SG&A Expenses:
+In its Final Determination, Commerce calculated a surrogate value for the Russian producers’ SG&A using the general expenses line item of a Brazilian silicomanganese producer’s submission from an earlier antidumping investigation. Remand Determination at 1. In that calculation, Commerce failed to include general selling expenses. That omission has been corrected on remand.
+Defendant-intervenors initially object to the remand determination, claiming that there is better information available on the record — data from two Brazilian aluminum producers — which should be utilized rather than the data Commerce used to correct the earlier omission. Defendant-intervenors claim that Commerce selected Brazil as a surrogate country because “Brazil is a significant producer of the product most comparable to magnesium, aluminum.” (Def.-Int.’s Cmts. at 3.) Defendant-intervenors therefore contend that their aluminum data, rather than the silicomanganese data, is “the most appropriate surrogate data.” Id.
+In response, Commerce argues that “The respondents did not bring challenge to our use of the public SG&A data from the Silicomanganese from Brazil case” and that respondents’ proposal was outside the scope of the remand. The respondents, however, did in fact argue during the administrative proceeding that Commerce should use their data to calculate SG&A for the Russian producers. See 60 Fed. Reg. 16,440, at 16,447. Respondents also argued in the litigation prior to the remand decision, that if the Court agreed with plaintiffs, and concluded that Commerce’s calculation of SG&A expenses was unsupported by substantial evidence or otherwise not in accordance with law, Commerce should use the data supplied by respondents as the best alternative. See Magnesium, 938 F.Supp. 885, 898.
+In remanding this issue, the Court directed Commerce to recalculate the surrogate value for Russian producers’ SG&A expenses “because Commerce has admitted that its valuation is not supported by substantial evidence on the record.” Id. The Court did not specify how Commerce should recalculate the SG&A expenses. Therefore, respondents’ proposed basis for the SG&A expenses is not outside the scope of the remand.
+Nowhere in the record did Commerce explain its decision to use the silicomanganese data rather than the respondents’ aluminum data. For the reviewing court to ascertain whether an agency acted arbitrarily, it is necessary that the administrative agency cite the reasons for its decision on the record. See Nachi-Fujikoshi Corp. v. United States, 16 CIT 606, 609, 798 F.Supp. 716, 719 (1992). However, in their reply, defendant-intervenors’ abandon this claim as “not significant enough to contest.” p.2 (Def-Int.’s Reply to Pl.’s Cmts. on Rem. Deter.) Consequently, the Court cannot address the issue further.
+2. Export Taxes:
+In its Final Determination, Commerce did not deduct export taxes paid by the Russian producers to the Russian government. Final Determination, 60 Fed. Reg. at 16,442. Upon remand, Commerce concluded that, in the context of a nonmarket economy, Commerce cannot presume that “a producer subject to a government-imposed export tax can be expected to actually incur the tax liability and to incorporate the tax amount into its cost and pricing structure.” Remand Determination at 6.
+Plaintiff argues that the export tax provision of the statute is mandatory, and that Commerce is required to reduce United States price by “the amount, if included in such price, of any export tax * * * imposed by the country of exportation on the exportation of the merchandise to the United States.” 19 U.S.C. § 1677a(d)(2)(B)(1988). (Pl.’s Cmts. at 8).
+In its remand determination, Commerce states that the requirement that export taxes be subtracted from United States price is not absolute. The statute requires the subtraction of the export taxes only if they are paid on exports to the United States and included in the export price of the merchandise under investigation. When dealing with export taxes in a nonmarket economy, Commerce argues that widespread governmental intervention and influence in NME enterprises prevent the Department from “determining whether and to what extent a tax might be reflected in a price.” Remand Determination at 6.
+Plaintiffs claim that the record establishes that the Russian Government imposes the export tax and that the Russian producers reported that the tax was paid. (Pl.’s Cmts. at 7.) Plaintiffs note that Commerce “routinely presumes that certain expenses that are incurred within an NME are included in the price charged by NME exporters.” Id. at 8.
+Despite plaintiffs’ claim, the statute does not specify how Commerce is to determine whether an export tax is included in United States price for goods produced in a nonmarket economy. The treatment of market and nonmarket economies differs significantly under the statute. See 19 U.S.C. § 1677b(c)(1988)(provision for calculating foreign market value in nonmarket economy); see also Lasko Metal Products, Inc. v. United States, 43 F.3d 1442 (Fed. Cir. 1994). See generally Carbon Steel Wire Rod from Czechoslovakia, 49 F.R. 19370 (Dep’t Comm. 1984) (final neg. countervail, duty determ.)(discussing differences between market and nonmarket economies).
+In a nonmarket economy, the possibility of governmental intervention and influence over enterprises and industries precludes Commerce from presuming that the export tax is actually reflected in the price of the merchandise. Moreover, there is no market to determine price. In such a situation, the Court cannot second-guess Commerce’s reasonable interpretation of the statute that the requirements for an export tax adjustment on the U.S. price side of the equation are not fulfilled in a nonmarket economy; thus the Court must defer to Commerce’s interpretation. See Daewoo Electronics Co., Ltd. v. Int’l Union of Electronic Elec., Technical, Salaried and Mach. Workers, 6 F.3d 1511, 1516 (Fed. Cir. 1993); see also Fujitsu General Ltd. v. United States, 88 F.3d 1034, 1039 (1996).
+Accordingly, the remand results are sustained.
