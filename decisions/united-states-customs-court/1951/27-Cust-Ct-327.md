@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "55916; protests 149405-K and 154740-K (New York)"
+decided: "1951-10-09"
+citations: ["27 Cust. Ct. 327"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. Westergaard & Co. v. United States,"]
+source_url: "https://static.case.law/cust-ct/27/cases/0327-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6625237
+cites_cases: ["26 Cust. Ct. 77"]
+---
+
+# B. Westergaard & Co. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that the merchandise consists of cheese knives without handles, with blades less than 6 inches in length, similar in all material respects to those the subject of B. Westergaard & Co. v. United States (26 Cust. Ct. 77, C. D. 1302), except that the instant merchandise was imported without handles, whereas the merchandise involved in C. D. 1302 had handles of a material similar to celluloid, pyroxylin, or casein, the claim of the plaintiff was sustained.
