@@ -1,0 +1,38 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1654"
+decided: "1916-05-23"
+citations: ["7 Ct. Cust. 135"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges"]
+parties: ["United States v. Fondeville & Von Iderstine"]
+source_url: "https://static.case.law/ct-cust/7/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092854
+cites_cases: ["150 U. S., 420", "5 Ct. Cust. Appls., 298"]
+---
+
+# United States v. Fondeville
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+Plain stemmed glassware, some of which was entered under the tariff act of 1909 and some under the act of 1913, was classified by the collector of customs at the port of New York as glassware composed wholly or in chief value of blown glass. As required by the date of importation, some of the goods were assessed for duty under paragraph 98 of the act of 1909 and some under paragraph 84 of the act of 1913. The parts of paragraph 98 of the act of 1909 and paragraph 84 of the act of 1913 which are pertinent to the case are as follows:
+98. ⅝ ⅜ * All articles of every description, including-bottles and bottle glassware, composed wholly or in chief value of glass blown either in a mold or otherwise; all of the foregoing, not specially provided for in this section, filled or unfilled, and whether their contents be dutiable or free, 60 per centum ad valorem: * * ⅜.
+84. * ⅜ * All articles of every description, including bottles and bottle glassware, composed wholly or in chief value of glass blown either in a mold or otherwise; all of the foregoing, not specially provided for in this section, filled or unfilled, and whether their contents be dutiable or free, 45 per centum ad valorem: * * *.
+The importers protested that the merchandise was not composed in chief value of blown glass and claimed that it was dutiable either at 45 per cent ad valorem under paragraph 109 of the act of 1909 or at 30 per cent ad valorem under paragraph 95 of the act of 1913. The parts of said paragraphs relied upon by the importers are as follows:
+109. ⅜ * * All glass or manufactures of glass or paste or of which, glass or paste is the component material'of chief value, not specially provided for in this section, 45 per centum ad valorem.
+gg. ⅜ ⅜ » ^11 glass or manufactures of glass or paste or of which glass or paste is the component material of chief value, not specially provided for in this section, 30 per centum ad valorem.
+The Board of General Appraisers sustained the protest and the Government appealed.
+The merchandise seems to be identical with that which was passed upon by this court in the case of United States v. Gredelue (5 Ct. Cust. Appls., 298; T. D. 34476), and the method of manufacturing the glassware there involved appears to be exactly the same as that employed in producing the goods now under consideration. In1 this case as in that two men are employed to make the bowl, one of whom carries a drop of molten glass to the blower, who blows the same in a mold into the form of a bowl with a boss-shaped top. After the blowing of the bowl a small quantity of the molten glass is brought by a third workman to a fourth, who shapes it into the stem. Another drop of molten glass is then attached to the stem, which is shaped into the foot. . Both stem and foot are made by the same workmen. In the Gredelue case the glassware was composed of blown glass and of molded glass, but whether the merchandise should be classified as blown glass rather than as a manufacture of glass depended wholly on which’of the materials was the component of chief value. In order to determine the component' of chief value it became necessary to ascertain the value of each of the constituents, and to do that only those expenses incurred in producing the constituents and not those assignable to the article itself could be taken into consideration. Accordingly, we laid down the rule that the value of the blown glass must be taken as of the time it became blown glass and the value of the molded glass as of the time that it became molded glass. The ruling, we think, was not dictum, but was necessary to the decision of the issues raised, inasmuch as the conclusion to be drawn -from the testimony adduced as to the relative values of the component materials depended entirely upon the stage of manufacture to which such testimony was addressed.
+In support of its appeal the Government contends, first, that in ascertaining the value of the stem no item of cost can be considered after the fused glass has been attached to the bowl, and that the value of the foot must be determined by the cost of the material and the expense incurred in attaching a drop of melted glass to the stem; second, that the witnesses for the 'importers failed to take into account the cost of removing the boss-shaped top which was blown as a part of the bowl and that therefore the value of the blown glass as fixed by them was less than the true value; and, third, that the testimony submitted by the importers established the value of the stem and the foot in their finished condition in the completed article, and that such value was greater than the true value inasmuch as it included costs incurred subsequent to the time when the stem and the foot became molded glass.
+In answer to the first point, we think it is sufficient to say that the glassware is composed of blown glass and molded glass, and that the material in two drops of molten glass and the cost of attaching them to the bowl and the stem respectively does not represent the value of the molded glass, but that of molten glass in place for molding. Component material of chief value is defined by paragraph 481 of the tariff act of 1909 and by paragraph 385 of the act of 1913 as follows:
+* ⅝ ⅞ ¶⅛ wor(jg -“component material of chief value,” wherever used in this section, shall be held to mean that component material which shall exceed in value any other single component material of the article; and the value of each component material shall be determined by the ascertained value of such material in its condition as found in the article. [Italics ours.]
+See Seeberger v. Hardy (150 U. S., 420, 424).
+From these provisions it is apparent that Congress did not contemplate the taking of the value of the material put into the article (here molten glass), but the value of the component materials (here blown glass and molded glass).
+As to the second point, we are of the opinion that the cost of removing the boss from the top of the bowl was not an expense incurred in blowing the glass or in making the blown glass of the bowl. In other words, the cost of removing the top was an expense incurred after the bowl had become blown glass, and could not be considered as a factor in determining the value of the blown glass in the bowl, which is the only blown glass in the completed article.
+The claim made in the third point that the cost of finishing the stem and foot was included in fixing the value thereof wo do not think' is sustained by the evidence introduced by the importers. The record, as we read it, shows that the importers’ witnesses included in the cost of producing the stem and the foot nothing more than the value of the molten material used, the expense of putting such material in place, and the labor cost of fashioning, but not of finishing, the stem and foot.
+The decision of the Board of General Appraisers is affirmed.
