@@ -1,0 +1,40 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 141"
+decided: "1939-04-10"
+citations: ["2 Cust. Ct. 272"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kinchbloe, and Dallinger, Judges"]
+parties: ["D. Landreth Seed Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/2/cases/0272-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6630423
+cites_cases: ["34 Treas. Dec. 465", "36 Treas. Dec. 283", "38 Treas. Dec. 728", "40 Treas. Dec. 441", "6 Ct. Cust. Appls. 243", "9 Ct. Cust. Appls. 307"]
+---
+
+# D. Landreth Seed Co. v. United States
+
+## Majority (Dallingee, Judge:)
+
+Dallingee, Judge:
+This is a suit against the United States, arising at the port of New York, brought to recover certain customs duties alleged to have been improperly exacted on a particular importation of a so-called pea or bean sorting machine. Duty was levied thereon at the rate of 27 ½ per centum ad valorem under paragraph 372 of the Tariff Act of 1930 as a machine not specially provided for. It is claimed that said machine is properly entitled to free entry under paragraph 1604 of said act as an agricultural implement.
+Photographs of said machine were admitted in evidence as Illustrative Exhibits A and B, and samples of good seed beans and of defective seed beans were admitted in evidence as Illustrative Exhibits C and D, respectively.
+In addition to said exhibits the plaintiff offered in evidence the testimony of Burnet Landreth, Jr., president of the plaintiff corporation. After identifying the exhibits and stating that the machine is from 8 to 10 feet long and about 4 feet in diameter, and is equipped with 7,000 needles, the witness described its operation as follows:
+It revolves from an electric motor, and it has rather a slow motion, so that, by letting it go for 24 hours, we get about 3,500 pounds of peas or beans through it in the 24 hours. It runs night and day, and these needles-It goes around slowly this way, and a pea that goes into this cylinder has nine thousand chances of being caught, and peas or beans we want to get out, have holes in them, and the needles go into these holes, and it goes around and when it gets around to the top, if there is a bean in the hole, there is a big brush that sweeps it off, and those with the holes go into one channel, and the good ones through another channel.
+The plaintiff then testified that the business of the plaintiff corporation was the growing of seed peas, beans, and corn; that said business was conducted on farms belonging to the plaintiff located in the States of Montana, Idaho, and Michigan; that all of these machines are used on farms in cleaning out or sorting the good from the bad seeds for the plaintiff corporation and for other farmers in the vicinity; and that the machine in question is similar in its operation to a threshing machine.
+Paragraph 1604 of the Tariff Act of 1930 under which the plaintiff claims, reads as follows:
+Par. 1604. Agricultural implements: Plows, tooth or disk harrows, headers, harvesters, reapers, agricultural drills and planters, mowers, horserakes, cultivators, thrashing machines, cotton gins, machinery for use in the manufacture of sugar, wagons and carts, cream separators valued at not more than $50 each, and all other agricultural implements of any kind or description, not specially provided for, whether in whole or in parts, including repair parts: Provided, That no article specified by name in Title I shall be free of duty under this paragraph.
+The general rule for determining what constitutes an agricultural implement in the tariff sense of the term was laid down in United States v. Boker & Co., 6 Ct. Cust. Appls. 243, T. D. 35472. The court there said:
+While, therefore, “agriculture” in its broad application may extend into and include elements of horticulture, viticulture, arbor culture, and other allied industries and pursuits, in its primary significance it extends to and embraces only those parts of all such as pertain to human and incidental animal subsistence— the substantial requirements of life (food) and possibly man’s comfort (raiment), and not the merely pleasurable pursuits; the necessities and not the essentially pleasurable or ornamental.
+*******
+Much stress is laid upon the words “all other agricultural implements of any kind and description.” While the words “of any kind and description” are broad and most comprehensive, we must bear in mind that they are predicated' of and limited to “agricultural implements” and therefore can not include more than those terms embrace, though of course their effect and office is to exhaust everything within that literal confinement. We are accordingly relegated to those words as above defined for the scope of this phrase and paragraph.
+All these considerations imply and necessitate that the use of the implement must determine its classification whether or not an agricultural implement within the paragraph, and that that use, and the determinative fact, is chief use.
+It is manifest that the application, of this rule does not confine-agricultural operations to those performed before the harvesting, but includes operations preparatory to marketing agricultural products. For instance, in J. C. Findlay v. United States, T. D. 37964-G. A. 8246, 36 Treas. Dec. 283, this court held certain wool presses used exclusively on a sheep ranch to press the wool cut from sheep into bales preparatory to transporting it to market, were agricultural implements and as such entitled to free entry under paragraph 391 of the Tariff Act of 1913.
+Also in Hog Motor Co. v. United States, T. D. 38545-G. A. 8392, 38 Treas. Dec. 728, this court held that certain parts of a machine for grinding hog feed were entitled to free entry under said paragraph 391 as parts of agricultural implements, citing and following the-decision of the Court of Customs Appeals in Tower & Sons v. United States, 9 Ct. Cust. Appls. 307, T. D. 38239.
+It is true that in the case of Ohio Butterine Co. v. United States,. T. D. 37656-G. A. 8171, 34 Treas. Dec. 465, an oleomargarine churn was held by this court not to be an agricultural implement. But there-the testimony was uncontradicted that the involved churn was-installed in a manufacturing establishment in no way connected with a. farm or farming operations.
+Similarly, this court in Mangelsdorf Seed Co. v. United States, Abstract 44461, 40 Treas. Dec. 441, and in Eddey Bellefleur v. United States, Abstract 44462, 40 Treas. Dec. 441, held certain seed cleaning machines and certain oat crushing machines not to be free as agricultural implements. But according to the uncontradicted evidence in both of such cases the machines were employed in factories or mills and not upon farms.
+However, in the instant case it is conclusively established that the machine in question is exclusively used on farms by the plaintiff corporation in its business of raising peas and beans for seed purposes. 'The fact that the plaintiff, in. addition to sorting his own seeds, also sorts seeds for use by other farmers in the vicinity is entirely immaterial the operation in one instance being no less an agricultural one than in the other. Incidentally, it is a well-known fact that farmers ■owning threshing machines frequently thresh the grain of other farmers as well as their own grain.
+Inasmuch as a sorting machine of the kind at bar is not eo nomine provided for in title I of the Tariff Act of 1930, in our opinion it is plainly covered by the general classification in said paragraph 1604 for other agricultural implements, and as such is free of duty thereimder.
+On the established facts and the law applicable thereto we hold said pea and bean sorting machine to be properly entitled to free entry under said paragraph 1604 as an agricultural implement, as alleged by the plaintiff. That claim is therefore sustained, but as to all other merchandise the claims are overruled. Judgment will be rendered accordingly.
