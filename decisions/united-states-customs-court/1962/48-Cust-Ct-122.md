@@ -1,0 +1,41 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2322"
+decided: "1962-03-19"
+citations: ["48 Cust. Ct. 122"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["Williams Clark Co., a/c American Agar & Chemical Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/48/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6576169
+cites_cases: ["153 U.S. 32", "223 U.S. 501"]
+---
+
+# Williams Clark Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+The plaintiff in the case- at bar imported from Japan merchandise which is described on the invoice as “Agar Agar Scraps.” It was assessed with duty by the collector at the rate of 25 per centum ad valorem under the provision in paragraph 41 of the Tariff Act of 1930 for agar agar.
+As originally drawn, the protest claims were for free entry under the provision in paragraph 1722 of the said act for “seaweeds * * * crude or unmanufactured, not specially provided for,” or, alternatively, for duty at the rates applicable to nonenumerated manufactured or unmanufactured articles in paragraph 1558 of the said act, as modified by T.D. 51802. By timely amendment, a further alternative claim for duty at the rate of per centum ad valorem under the provision in paragraph 1555 of the said act, as modified by T.D. 51802, for “Waste, not specially provided for,” was added, and is apparently the claim upon which plaintiff, relies, although none of the protest claims was abandoned.
+As the issue was presented by the parties, it is whether, in its imported condition, the merchandise was only a waste product from the manufacture of agar agar, as plaintiff claims, or whether it was agar agar of a poor quality, as defendant contends.
+There is no serious dispute as to the facts. Agar agar, or agar, as it also seems to be called, is an extract of certain species of seaweeds. There are different processes of manufacture of agar from such seaweeds, but, generally, as in the case of the merchandise at bar, the seaweeds are boiled to extract the agar. Impurities are removed from the seaweed along with the agar, and the water containing the agar and the impurities is then frozen.
+The record indicates that the freezing separates the agar from the impurities, the latter being frozen into the water and the agar remaining apart from the ice which is formed. While agar may be in liquid or solid form, apparently the solid form is what results when the agar obtained as described is dried, and that is the form in which the merchandise at bar was imported.
+It is clear from the record that the possibility of contamination of the agar exists at every stage of the process of its production, and this appears to be particularly true in the case of the production of such merchandise abroad, where manufacture is in the hands of individual farmers as household industry. While agar apparently is chiefly used in fields in which purity is an important consideration, such as in bacterial culture, food production, etc., the record does not establish that agar, containing impurities, or which has been contaminated during or after manufacture, is, for that reason alone, not commonly or commercially regarded as agar.
+The record shows that, in Japan, where the merchandise at bar was produced, the result of the process of manufacturing agar from seaweeds is separated into at least four classes of products, denominated A, B, C, and scrap, depending upon the amount of impurities or contamination contained therein, and that the price is governed by the degree of contamination contained therein. It appears that the lowest grade product, that containing tbe greatest amount of contamination, is tbe scrap agar.
+The plaintiff purchased the merchandise at bar as scrap agar after a sample was examined by the chief chemist and general manager of the company. His testimony indicates that the material offered was “of too low quality in many respects to be salable,” meaning, presumably, by his company as agar, “but it showed some promise to be usable as a low-grade raw material,” again, presumably, for production of agar by his company.
+The record indicates that the imported merchandise, shipped in response to the order, was not in accordance with the sample, in that it contained more contamination than was apparent in the sample, was partially decomposed, and did not meet either the chemical or bacteriological standards necessary for use as agar.
+According to the witness, about 20 per centum of the shipment was completely useless and had to be separated and discarded. The remaining 80 per centum was ground and used as a raw material to be mixed with the raw material, seaweeds, which his company used to make agar.
+We are of the opinion that the record establishes that the merchandise involved was scrap, resulting from the manufacture of seaweeds into agar, and was not any grade of agar. Its character and use were shown not to be those of agar, and, while it was known and dealt in as scrap agar agar, or agar agar scrap, we think that the term “agar agar,” in those denominations, describes the source of the material rather than its basic nature, which is that of scrap or refuse which does not have the attributes or use of merchandise that is commonly or commercially known as agar agar.
+On the other hand, it is not waste, as that term appears in the tariff act. In Latimer v. United States, 223 U.S. 501, 56 L. ed. 526, the Supreme Court of the United States said that the word “waste,” as used in the provision therefor in paragraph 463 of the Tariff Act of 1897 (which is substantially the form in which the provision for waste appears in paragraph 1555 of the present act) —
+* * * generally refers to remnants and by-products of small value that have not the quality or utility either of the finished product or of the raw material.
+While it is clear that the scrap at bar does not have the quality or utility of the finished product, agar agar, it is also clear that it does have the utility, at least, of the raw material, seaweeds, of which it was made. Consequently, under the definition of the Latimer case, it is not waste in a tariff sense.
+In the Latimer case, the merchandise involved was tobacco sweepings, being small pieces of tobacco which were broken from the tobacco leaves and fell to the floor of the warehouse or factory. In other words, it was tbe scrap or refuse from, among other things, the manufacture of tobacco. It was swept up and, when cleaned, was used in the manufacture of cigarettes and stogies.
+There is a definite analogy between the facts in that case and the facts in this case, in that, in both cases, the imported merchandise consisted of the scrap or refuse of a manufacturing operation which, when cleaned or processed, could be used in the manufacture of the things sought in the original manufacturing operation — manufactured tobacco, such as cigarettes and stogies in the Latimer case, and agar agar in this case.
+However, in the Latimer case, upon holding that the merchandise was not waste in the tariff sense, it was held that it was unmanufac-tured tobacco under the tariff enumeration therefor. In the present case, it can scarcely be considered that the merchandise is seaweeds, unmanufactured, for the reasons that, except in point of use, it is not in the form or condition of seaweeds and does not respond at all to that designation. Nor can it be considered to be seaweeds, manufactured, for the reason that the processes to which it has been subjected did not advance its condition toward the manufacture of anything. From the standpoint of its imported condition, it was a crude article. See Seeburger v. Castro, 153 U.S. 32, 38 L. ed. 624, for an analogous situation.
+It is our view, therefore, that the correct classification of the agar agar scrap at bar is under the provision in paragraph 1558, Tariff Act of 1930, as modified by T.D. 51802, for—
+All raw or unmanufactured articles not enumerated or provided for (except frogs and frog legs)
+at 5 per centum ad valorem. That claim in the protest is sustained, and judgment will issue accordingly.
