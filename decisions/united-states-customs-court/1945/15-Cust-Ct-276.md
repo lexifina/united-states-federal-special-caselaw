@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "50519"
+decided: "1945-09-26"
+citations: ["15 Cust. Ct. 276"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 50217-K, etc., of Alexander & Baldwin, Ltd., et al. (Honolulu) ."]
+source_url: "https://static.case.law/cust-ct/15/cases/0276-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6638848
+cites_cases: ["32 C. C. P. A. 164"]
+---
+
+# Protests 50217-K of Alexander & Baldwin, Ltd.
+
+## Majority (Cline, J.)
+
+Opinion by
+Cline, J.
+It was stipulated that the merchandise is similar in all material respects to that the subject of United States v. Nippon Co. (32 C. C. P. A. 164, C. A. D. 303), which record was admitted in evidence herein. In accordance therewith certain items of the merchandise were held entitled to free entry under paragraph 1705 as kelp and other items were held dutiable at 10 percent under paragraph 1540 as seaweeds, manufactured.
