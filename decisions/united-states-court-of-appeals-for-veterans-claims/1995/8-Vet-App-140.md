@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-661"
+decided: "1995-08-15"
+citations: ["8 Vet. App. 140"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, HOLDAWAY, and STEINBERG, Judges."]
+parties: ["George C. JENSEN, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/8/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6455327
+cites_cases: ["28 U.S.C. § 2412", "35 F.3d 1516", "38 U.S.C. § 7291", "499 U.S. 83", "7 Vet.App. 100", "707 F.Supp. 1078", "724 F.2d 211", "775 F.2d 99", "941 F.2d 674"]
+---
+
+# Jensen v. Brown
+
+## Majority (PER CURIAM.)
+
+ORDER
+PER CURIAM.
+The instant proceedings involve the appellant’s application for reasonable attorney fees and expenses under the Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412(d). Judgment on the merits of this ease was entered on December 6, 1994, and became final on January 5, 1995. See 38 U.S.C. § 7291(b)(2). The appellant timely filed his EAJA application on February 3, 1995, but the application did not show that he was a party eligible for an EAJA award under 28 U.S.C. § 2412(d)(2)(B). After expiration of the 30-day filing period for filing an EAJA application, the appellant, on February 8, 1995, filed a motion to amend his EAJA application to add a statement, supported by an attached affidavit, that his net worth was less than the EAJA statutory maximum.
+On March 9, 1995, the Court ordered the parties to file memoranda of law addressing whether an applicant may amend a timely-filed EAJA application after expiration of the period for filing an EAJA application. The appellant filed a memorandum of law on April 7, 1995, and the Secretary, on May 10, 1995, filed a memorandum of law and a motion to dismiss.
+In his motion to dismiss, the Secretary argues that the appellant’s application should be dismissed because he failed to meet all the jurisdictional requirements within the 30-day statutory filing period. The EAJA is a waiver of sovereign immunity, and its provisions must be strictly construed in favor of the government. See Grivois v. Brown, 7 Vet.App. 100, 101 (1994). Courts generally have held that the 30-day filing requirement is jurisdictional and must be strictly enforced. See Welter v. Sullivan, 941 F.2d 674, 675 (8th Cir.1991); Action on Smoking & Health v. Civil Aeronautics Bd., 724 F.2d 211, 225 (D.C.Cir.1984). Indeed, this Court so held in Grivois, supra.
+The EAJA statutory language indicates that Congress intended the EAJA filing requirements to be strictly enforced. The EAJA provides in pertinent part:
+A party seeking an award of fees and other expenses shall, within thirty days of final judgment in the action, submit to the court an application for fees and other expenses which shows that the party is a prevailing party and is eligible to receive an award under this subsection, and the amount sought_ The party shall also allege that the position of the United States was not substantially justified.
+28 U.S.C. § 2412(d)(1)(B) (emphasis added). In this case, at the time that the appellant filed the civil action in this Court he paid the statutory $50 filing fee, and did not seek a waiver of that fee based on “financial hardship.” U.S.Vet.App.R. 3(e).
+The appellant attempted to file a timely application, but the application was defective because it failed to show that the appellant was a “party ... eligible to receive an award under ... subsection [d].” 28 U.S.C. § 2412(d)(1)(B). The statute specifically defines “party” as “an individual whose net worth did not exceed $2,000,000 at the time the civil action was filed.” 28 U.S.C. § 2412(d)(2)(B)®. The requirement that such eligibility be shown is contained in the same sentence as the requirement that an application be filed within 30 days. Thus, the statute plainly states that a showing of such eligibility is an integral part of the application which must be filed within 30 days, and thus is a jurisdictional requirement.
+The legislative history also supports this conclusion. In adopting the Senate version of the 30-day filing requirement, the conference report joint explanatory statement described the Senate version as follows: “The Senate bill also requires a party seeking an award of fees and other expenses to submit an application for them within thirty days of final judgment, including a showing of eligibility and an itemized statement of the amount claimed.” H.R.Rep. No. 1434, 96th Cong., 2d Sess. 26 (1980), reprinted in 1980 U.S.C.C.A.N. pp. 4953, 5003, 5015 (emphasis added). Based on the statutory language and the legislative history, the Court concludes that “the showing of eligibility ... is jurisdictional and a prerequisite to government liability.” United States v. Hopkins Dodge Sales, Inc., 707 F.Supp. 1078, 1081 (D.Minn.1989). But cf. Dunn v. United States, 775 F.2d 99, 104 (3d Cir.1985) (permitting post>-30-day amendment of application to provide itemization specificity, reasoning that as long as “a fee petition is filed within the thirty-day period which puts the court, and eventually the government, on notice that the petitioner seeks fees under the [EAJA], the court may consider the petition, and may, absent prejudice to the government or noncompliance with court orders for timely completion of the fee determination, permit supplementation”); compare id. at 105-06 (Adams, J., dissenting).
+The Court has considered whether the appellant’s assertion in the EAJA application that he was a “prevailing party” carried with it the “party” definition in the EAJA. 28 U.S.C. § 2412(d)(2)(B)®. The Court rejects such an inference because such a construction of the term “prevailing party” in subsection (d)(1)(B) would render superfluous the language immediately following requiring an applicant also to show eligibility “to receive an [EAJA] award”. In construing a statute, a court must strive to give all portions meaning and not read one part in isolation from another “ ‘because it is our role to make sense rather than nonsense out of the corpus juris.’ ” Smith v. Brown, 35 F.3d 1516, 1523 (Fed.Cir.1994) (quoting West Va. Univ. Hosp. v. Casey, 499 U.S. 83, 100-01, 111 S.Ct. 1138, 1148, 113 L.Ed.2d 68 (1991)).
+Since the appellant failed to show, before the 30-day filing period had expired, that he was a party eligible for an EAJA award or that he met the net-worth criteria for showing that eligibility, this Court does not have jurisdiction over his EAJA application.
+On consideration of the foregoing, it is
+ORDERED that the Secretary’s May 10, 1995, motion is granted and the appellant’s application for reasonable attorney fees and expenses is DISMISSED.
