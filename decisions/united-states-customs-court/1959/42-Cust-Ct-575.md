@@ -1,0 +1,41 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 9362; Entry No. H-223"
+decided: "1959-03-25"
+citations: ["42 Cust. Ct. 575"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kurt Orban Company, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/42/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656230
+cites_cases: ["19 U.S.C. § 1402"]
+---
+
+# Kurt Orban Co. v. United States
+
+## Majority (Lawrence, Judge:)
+
+Lawrence, Judge:
+The merchandise which forms the subject of this controversy consists of 200 rolls of galvanized welded wire mesh which was produced in Western Germany by Baustahl-Gewebe G.m.b.H. and sold by Stahlunion-Export G.m.b.H. of Dusseldorf, Germany. The importation was exported to the United States via Antwerp, Belgium, and entry was made on the basis of $18.60 per roll, with deductions of 2 per centum for noninsurance, freight charges from point of shipment in Dusseldorf to Antwerp, and ocean freight from Antwerp to Port Everglades, Fla., the port of entry. On ap-praisement, all of the foregoing deductions were allowed, with the exception of freight from point of origin to Antwerp, amounting to $94.56, which item is the only one in dispute, the importer contending that it is deductible and the Government asserting to the contrary.
+There is agreement between the parties that export value, as that value is defined in section 402(d) of the Tariff Act of 1930 (19 U.S.C. § 1402 (d)), represents the correct basis for appraisement.
+When this case was called for hearing, there was no oral evidence presented by either party. On behalf of plaintiff, an affidavit of Ferdinand Breimeier, second manager of the wire department of Stahl-union-Export G.m.b.H. of Dusseldorf, Germany, was offered and received in evidence as plaintiff’s collective exhibit 1. As defendant’s exhibits A and B, the commercial and consular invoices, respectively, accompanying the entry papers covered by the instant appeal for a reappraisement represent the evidence offered by the Government.
+It was the testimony of Ferdinand Breimeier, as contained in his affidavit, collective exhibit 1, that he had been associated with the Stahlunion-Export G.m.b.H. of Dusseldorf, Germany, for 18 years. The business of the company was the sale of various steel products, including galvanized wire mesh, plates, bars, cooperage hoops, and so forth, for exportation to the United States and to other countries as agents for various steel mills located in the Western Zone of Germany. Breimeier was directly concerned with the sale of products handled by his company and kept himself abreast of the prices at which producers and sellers of identical or commercially interchangeable products have offered merchandise for sale for exportation to the United States and to other countries. He stated that identical or commercially interchangeable galvanized wire mesh in rolls was offered for sale, without any restrictions, for exportation to the United States at the time of exportation of the instant merchandise and that the price did not vary with the quantity purchased as long as minimum carloads of 200 rolls or more were ordered. He stated, further, that the merchandise was freely offered for sale and sold at the factory of the producer thereof, and the factory was the only market in Germany for the purchase and sale of such merchandise. He explained that the purchaser or his agent accepted delivery of the merchandise at the factory, and all charges arising thereafter are for the account of and are paid for by the purchaser. He added that, at times, for the convenience of the purchaser, the merchandise was offered and sold on an f.o.b. seaport basis and that such prices were determined by adding the inland freight and other charges, if any, to the ex-factory packed price.
+Breimeier stated that, on or about the date of the instant importation, such merchandise was freely offered for sale and sold without any restrictions whatsoever for exportation to the United States at $16.07 per roll, ex-factory, prepared for export, all charges included. The price of $18.60 per roll c.i.f., Port Everglades, Fla., at which price the merchandise in issue was entered, was determined by adding to the ex-factory price of $16.07 the cost of inland freight of $0.4728 per roll, the cost of ocean freight of $2.02 per roll, and the cost of insurance of $0.0372, with the result that the amount actually received by the manufacturer was $16.07 per roll.
+Affiant also stated that galvanized wire mesh in rolls was not sold or offered for sale in Germany for home consumption for the reason that there is no market for such material. Galvanized wire mesh in the form of mats is offered for sale and sold in Germany only to selected purchasers and is not freely offered to anyone who wishes to purchase.
+Attached to Breimeier’s affidavit, in support of the statements contained therein, were two offers of sale to concerns in the United States at or about the date of the importation in issue.
+It would appear from the evidence offered on behalf of plaintiff that galvanized welded wire mesh in rolls was freely offered for sale and sold in the country of exportation at ex-factory prices and that costs which, accrued thereafter were for the account of and paid for by the purchaser.
+The case of United States v. Paul A. Straub & Co., Inc., 41 C.C.P.A. (Customs) 209, C.A.D. 553, relied upon by defendant in support of its position that freight charges from point of origin to Antwerp, port of exportation, should be included as part of the export value of the instant merchandise, appears to be distinguishable. In the Straub case, the court stated—
+It is entirely clear from the terms of the stipulation that all sales or offers for sale were made at Selb-Stadt, the factory and principal market, on an f.o.b. Bremen basis. It is equally clear that no sales or offers for sale were ever made on an ex factory basis so that the freely offered price for such or similar merchandise in the principal market was the f.o.b. Bremen price and that price only. In other words, all sales or offers for sale were made for delivery at the port of exportation and no sales or offers for sale were made for delivery in Selb-Stadt. Availability of the merchandise to all purchasers was thus predicated on a single price and that price included freight costs between Selb-Stadt and the port of exportation, Bremen.
+It was the conclusion of the court in that case that—
+In the case before us it is a fact that the freely offered price to all purchasers for the merchandise was on an f.o.b. Bremen basis. There is no showing that the goods could be purchased at the invoice price less freight. * * *
+In the case presently in issue, there is evidence that the galvanized welded wire mesh in rolls could be and was purchased at the invoiced and entered price less, in addition to the deductible charges allowed on appraisement, the cost of inland freight.
+The court, therefore, makes the following findings of fact—
+1. That the merchandise consists of 200 rolls of galvanized welded wire mesh produced in Western Germany by Baustahl-Gewebe G.m.b.H. and sold by Stahlunion-Export G.m.b.H. of Dusseldorf, Germany.
+2. That, at the time of exportation of said merchandise, the price at which such merchandise was freely offered for sale to all purchasers in the principal market of the country from which exported, in the usual wholesale quantity and in the ordinary course of trade, for exportation to the United States, was the appraised value, less the amount shown on the invoice for cost of inland freight.
+3. That, at or about the date of exportation, such or similar merchandise was not freely offered for home consumption in the country of exportation.
+As conclusions of law, the court holds—
+1. That export value, as that value is defined in section 402(d) of the Tariff Act of 1930, is the proper basis of value for the instant merchandise; and
+2. That such value is the appraised value, less the amount shown on the invoice for cost of inland freight.
+Judgment will be entered accordingly.
