@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-350"
+decided: "1991-07-11"
+citations: ["1 Vet. App. 365"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and MANKIN and STEINBERG, Associate Judges."]
+parties: ["Neil O’HARE, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/1/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6470646
+cites_cases: ["1 Vet.App. 111", "1 Vet.App. 147", "1 Vet.App. 164", "1 Vet.App. 23", "1 Vet.App. 235", "1 Vet.App. 49", "38 U.S.C. § 3007", "38 U.S.C. § 4004"]
+---
+
+# O'Hare v. Derwinski
+
+## Majority (STEINBERG, Associate Judge:)
+
+STEINBERG, Associate Judge:
+This case involves an appeal by veteran Neil O’Hare from a Board of Veterans’ Appeals (BVA or Board) decision which concluded that his “chronic right knee disability was not incurred in or aggravated by wartime service.” Neil O’Hare, loc. no. 013697, at 3 (BVA Apr. 10, 1990) (Neil O’Hare). We vacate the decision and remand the matter “to the BVA to [readjudi-cate] the case and to comply promptly with the requirements of 38 U.S.C. § 4004(d)(1) (1988) that its decisions include reasons or bases adequate to explain to both the veteran and the Court its findings of fact and conclusions of law.” Ohland v. Derwinski, 1 Vet.App. 147, 148 (1991).
+Mr. O’Hare claims that he suffered an injury to his right knee during a hike in the snow while on active duty at Fort Sheridan, Illinois, between November 1944 and February 1945. He maintains that he sought medical care for this injury at the base hospital and that he has been treated for this impairment throughout the past 45 years. In support of his claim, the veteran submitted letters from his private physician and his two sisters. His physician described “persistent problems with pain in the right hip and knee ... [that] required local physical therapy, anti-inflammatories and joint injections ... [and bother the appellant] on a fairly regular basis.” R. at 14. His sisters stated that when the veteran “went to the army ... he had no leg problems and when he came out ... he had hurt his leg and thigh, ... went to doctors the last 45 years ... [, and] takes pain pills”. R. at 16. The appellant’s service records are missing and assumed destroyed in the 1973 St. Louis Federal Records Center fire.
+The BVA decision dismissed the appellant’s evidence with the conclusory statement that it was “insufficient” to demonstrate service connection in the face of “a search of the January and February 1945 morning reports for that military base [that] was apparently negative for any reference to the claimant or the injury he asserts having sustained while stationed there.” Neil O’Hare, at 3.
+In response to appellant’s informal brief, filed on October 18, 1990, the Secretary of Veterans Affairs, on November 19, 1990, filed a motion for summary affirmance. On consideration of these pleadings, the Secretary’s motion is denied. This case on appeal does not fit the criteria for summary affirmance announced by the Court in Frankel v. Derwinski, 1 Vet.App. 23 (1990). The case is not one of “relative simplicity” and involves an issue of adherence by the Department of Veterans Affairs (VA) to 38 U.S.C. § 4004(d)(1) and Gilbert v. Derwinski, 1 Vet.App. 49 (1990). See Frankel, at 25-26.
+The BVA decision here does not meet the prescription of 38 U.S.C. § 4004(d)(1) (1988) that the BVA’s findings and conclusions be accompanied by ‘reasons or bases’ adequate to explain both to the veteran and this Court its factual findings and its conclusions. See Gilbert, at 56-57; Hatlestad v. Derwinski, 1 Vet.App. 164, 170 (1991). This includes “identifying] those findings it deems crucial to its decision and accounting] for the evidence which it finds to be persuasive or unpersuasive.” Gilbert, at 57. The BVA decision here fails to meet this prescription in two important respects.
+First, the decision fails to include “an analysis of the credibility or probative value of the evidence submitted by or on behalf of the veteran in support of his claim”, as required by Gilbert, at 58. More specifically, the Board made no express credibility determinations regarding the statements of either the veteran or his sisters, or the letter from his physician. Such determinations are required. See Ohland, at 150; Hatlestad, at 170; Brady Smith v. Derwinski, 1 Vet.App. 235, 237 (1991).
+Second, the “reasons or bases” requirement of 38 U.S.C. § 4004(d)(1) applies to the Board’s “conclusion that the veteran is not entitled to the ‘benefit of the doubt’ under 38 U.S.C. § 3007(b).” Gilbert, at 59. The benefit-of-the-doubt standard was described in Hatlestad as follows:
+This unique standard of proof applicable to claims before VA provides that when ‘there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant.’ 38 U.S.C. § 3007(b) (1988). Therefore, ‘when a veteran seeks benefits and the evidence is in relative equipoise, the law dictates that [the] veteran prevails.... By tradition and by statute, the benefit of the doubt belongs to the veteran.’ Gilbert, 1 Vet.App. at 54.
+Hatlestad, at 170. Here the BVA decision treats the benefit-of-the-doubt standard in only the most conclusory terms — “[t]he doctrine of reasonable doubt has been considered, but the evidence is not found to be so evenly balanced as to warrant allowance of the claim.” Neil O’Hare, at 3. That is not enough. This is especially so in a case where the service medical records are presumed destroyed; in such a case, the BVA’s obligation to explain its findings and conclusions and to consider carefully the benefit-of-the-doubt rule is heightened.
+We hold again, as we held in Sammarco v. Derwinski, 1 Vet.App. 111, 113 (1991), Ohland, at 150 and Hatlestad, at 170: “Whether the BVA’s ultimate conclusions are correct or not, we hold that the incomplete nature of the decision below does not permit proper review by this Court.” Accordingly, pursuant to 38 U.S.C. 4052(a) (1988) and in light of Gilbert and its progeny, the April 10, 1990, BVA decision is vacated and the matter is remanded to the BVA for disposition in accordance with this opinion.
+VACATED AND REMANDED.
