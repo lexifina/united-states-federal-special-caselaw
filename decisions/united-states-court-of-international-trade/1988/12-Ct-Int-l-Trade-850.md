@@ -1,0 +1,43 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 83-07-00995"
+decided: "1988-09-20"
+citations: ["12 Ct. Int'l Trade 850", "697 F. Supp. 505"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Air Parcel Forwarding Co., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/12/cases/0850-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6112095
+cites_cases: ["108 S. Ct. 2541", "108 S.Ct. 2541", "15 Cust.B. & Dec. 876", "28 U.S.C. § 2412", "28 U.S.C. § 2421", "28 U.S.C. § 2639", "553 F. Supp. 1154", "553 F.Supp. 1154", "754 F.2d 1262", "801 F.2d 387", "842 F.2d 1420", "842 F.2d 314"]
+---
+
+# American Air Parcel Forwarding Co. v. United States
+
+## Majority (DiCarlo, Judge:)
+
+DiCarlo, Judge:
+American Air Parcel Forwarding Co. (AAP) has applied for attorneys fees and other expenses for the services of S. David Harrison, Mark J. Reidy, and Lawrence B. Schlang under the Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412(d) (Supp. IV 1986). The Court denies the application because AAP has not shown that it is a party within the meaning of the EAJA; the position of the government was "substantially justified”; and special circumstances exist which would make an award of fees and expenses unjust.
+Discussion
+The EAJA provides a mechanism by which parties can collect attorneys’ fees and expenses against the United States. The EAJA provides in pertinent part that:
+a court shall award to a prevailing party other than the United States fees and other expenses * * *, incurred by that party in any civil action * * * brought by or against the United States * * *, unless the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.
+28 U.S.C. § 2421(d)(1)(A) (Supp. IV 1986).
+I. AAP’s Party Status
+The threshold inquiry in deciding whether to award attorneys’ fees and expenses is to determine whether the claimant is a "prevailing party” within the meaning of the statue. Dunn v. United States, 842 F.2d 1420, 1433 (3d Cir. 1988). The EAJA defines "party” in relevant part as:
+any owner of an unincorporated business, or any partnership, corporation, association, unit of local government, or organization, the net worth of which did not exceed $7,000,000 at the time the civil action was filed, * * *
+28 U.S.C. § 2412(d)(2)(b)(ii) (Supp. IV 1986) (emphasis added). As claimant, the burden of proof is on AAP to establish that its net worth did not exceed $7,000,000 "at the time the civil action was filed.” Dunn, 842 F.2d at 1433.
+The only evidence AAP supplied to prove its net worth was below this ceiling is a balance sheet for the fiscal year ending December 31, 1987. This date is four years after the action was filed in July of 1983. While this balance sheet shows AAP’s net assets to be substantially below the $7 million limit, a corporation’s financial position may change radically in the space of four years. The Court finds AAP has failed to make a prima facie showing that it is a party within the meaning of the EAJA.
+II. Substantial Justification
+Even if AAP had shown it is a party, fees and expenses may still be denied if the government can show that its position was "substantially justified or that special circumstances make an award unjust.” 28 U.S.C. § 2412(d)(1)(A) (Supp. IV 1986); Martin v. Heckler, 754 F.2d 1262, 1264 (5th Cir. 1985). On the issue of substantial justification, the test is one of reasonableness. There is no presumption of unreasonableness merely because the government lost its case. Grand Blvd. Improvement Co. v. City of Chicago, 553 F. Supp. 1154, 1162 (N.D. Ill. 1982). Rather, the government’s position can be substantially justified "if a reasonable person could think it correct, that is, if it has a reasonable basis in law and fact.” Pierce v. Underwood, 108 S. Ct. 2541, 2550 n.2 (1988).
+Pierce established that it is within the discretion of the trial court to determine according to this reasonability test whether the government’s position is substantially justified. The Court stated that discretionary power should repose in the trial court both in the interests of the sound administration of justice and due to the non-amenability of such a multifarious inquiry to a generalized rule of decision. Id. at 2547-48. Moreover, such discretion is consistent with the text of the EAJA. The Court stated that the statutory language "unless the court finds” "emphasizes the fact that the determination is for the [trial] court to make.” Id. at 2547.
+The Court finds four factors provide a sufficiently reasonable basis in law and fact to conclude that the government’s position was substantially justified. First, no prior reported decisions have construed the term "assembled merchandise” under "transaction value” provision in 19 U.S.C. § 1401a (1982), which the court of appeals found to be a crucial question. E.C. McAfee Co., 842 F.2d at 317. Nor were there any prior value decisions of this court under Title II of the Trade Agreements Act of 1979.
+Second, the court of appeals found that the issue in this case — ’’whether the merchandise being assembled by the tailors was for exportation to the United States” — was a question of fact. Id. at 318. In overturning this Court’s factual determination, the court of appeals nowhere intimated that the government’s position ran afoul of any reasonableness standard on the facts presented.
+Third, the facts underlying the initial decision of this court were stipulated to by the parties including AAP. Thus, AAP could only assert that the legal rather than factual position of the government was not substantially justified. According to the government, its legal position was based upon its reasonable interpretation of the statute, legislative history, and relevant case law. See Grand Blvd. Improvement Co., 553 F. Supp. at 1163.
+Finally, the court of appeals did not reverse this Court’s finding for the government on the key question of the allegedly illegal retroactive revocation of a Customs Service ruling on valuation under the Trade Agreements Act of 1979 (identified as TAA # 10). See 15 Gust. B. & Dec. 876 (Oct. 17, 1980). Rather, it merely vacated the finding without reaching the question of the merits. E.C. McAfee Co., 842 F.2d at 319. Thus, the Custom’s Service decision in that regard was and remains presumptively correct according to 28 U.S.C. § 2639(a)(1) (1982). Response to American Air Parcel Forwarding Co. Ltd. ’s Application for Fees and Costs, at 9-10.
+The Court denies AAP’s application for attorney’s fees and other costs on the grounds that the government’s position was substantially justified.
+III. Special Circumstances
+Special circumstances also exist which would make unjust an award of fees and expenses. Special circumstances have been recognized where the government unsuccessfully advanced novel and credible legal theories in good faith. Congress provided "[t]his 'safety valve’ * * * to insure that the Government is hot deterred from advancing in good faith the novel but credible extensions and interpretation of the law that often underlie vigorous enforcement efforts.” S. Rep. No. 253, 96th Cong., 1st Sess. 7 (1979); H.R. Rep. No. 1418, 96th Cong., 2d Sess. 11, reprinted in 1980 U.S. Code Cong. & Admin. News 4984, 4990. See also L.G. Lefler, Inc. v. United States, 801 F.2d 387, 388-90 (Fed. Cir. 1986).
+As discussed above, this case was one of first impression. To award attorneys’ fees in such a case could have a chilling effect on the Customs Service from appraising any merchandise adversely to an importer if there has been no previous judicial construction of the particular terms of the value statute to the type of transaction in issue. Approval of AAP’s application could thus diminish vigorous defense by the government in such cases of first impression. The overall effect of such a posture would be adverse to the revenue and public interest and not within the intent of Congress under the EAJA. Thus, the Court finds that special circumstances in this case would make unjust an award of attorneys’ fees to AAP.
+IV. Conclusion
+The Court finds that AAP has failed to establish that it is a party within the meaning of the EAJA, that the position of the Government was substantially justified, and that special circumstances exist which make unjust an award of attorneys’ fees. Therefore, the Court denies the application of AAP for attorneys’ fees and other expenses under the EAJA.
