@@ -1,0 +1,74 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "764"
+decided: "1912-03-20"
+citations: ["3 Ct. Cust. 77"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Motor Car Equipment Co."]
+source_url: "https://static.case.law/ct-cust/3/cases/0077-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3880260
+cites_cases: ["22 Treas. Dec., 500"]
+---
+
+# United States v. Motor Car Equipment Co.
+
+## Majority (Martin, Judge,)
+
+Martin, Judge,
+delivered the opinion of the court:
+The merchandise involved in this case consists of certain metal articles much used in mechanical construction; they are sometimes called lock washers, and sometimes called nut locks. They resemble common metal washers, except that they have a cross section split through them, and are not flat, but have a distinct spiral twist. They slip over bolts and when the nuts are screwed down upon them they exert a constant upward pressure and thereby prevent the nuts from backing off the bolts.
+The importers invoiced the importation as steel washers, claiming duty at three-fourths of 1 cent per pound under paragraph 162 of the present act. The collector however held them to be manufactures of steel not specially provided for, and accordingly assessed them at 45 per cent ad valorem, under the provisions of paragraph 199 of the act.
+The importers duly filed their protest and the same was sustained by the board. The Government now prays for a reversal of the board’s decision.
+The following are the two competing paragraphs thus called into question:
+162. Spikes, nuts, and washers, and horse, mule, or ox shoes, of wrought iron or steel, tnree-fourths of one cent per pound.
+199. Articles or wares not specially provided for in this section, composed wholly or in part of iron, steel, lead, copper, nickel, pewter, zinc, gold, silver, platinum, aluminum, or other metal, and whether partly or wholly manufactured, forty-five per centum ad valorem.
+It is certain that the best known and most common type of metal washer is the familiar perforated metal disk which is used under a nut as a bearing surface. Such an article does not lock the nut fast upon the bolt, but simply protects the material covered by it from wear by the nut, or gives a smooth and even bed to the nut.
+The article at bar serves a different, or at least an additional purpose, in that it holds the nut fast upon the bolt by means of the upward pressure resulting from its spiral formation. This quality makes the article very serviceable in use upon such machinery as is in constant vibration, where nuts would be shaken from their bolts if not locked upon them by some such means. And because of this function such articles are largely used in the manufacture of automobiles. On the one hand the importer contends that the imported article just described is simply an improved washer; on the other hand the Government contends that it is a different article, and not a washer at all.
+A review of the definitions given by the authorities tends to show that, while there is some confusion upon the subject, the term “washer” has been adopted as the genus within which are included a great many species, and that these are composed of different materials and perform various functions. The following are among the definitions thus referred to:
+Standard Dictionary :
+Washer. — A small flat perforated disk, as of metal or leather, used for placing beneath a nut or pivot head, or at an axle bearing or joint, to serve as a cushion or packing.
+Blind washer, an unperforated metal washer, used in pipe-lines.
+Triangular washer, a washer thicker on one side than the other, and thus having triangular cross section; for holding a tie-rod inclined at an angle.
+Washer-hoop, a large washer resembling a hoop.
+Century Dictionary and Encyclopaedia:
+Washer. — An. annular piece of leather, rubber, metal or other material placed at a joint in a water pipe or faucet to make the joint tight and prevent leakage, or over a bolt, or a similar piece upon which a nut may be screwed. Washers serve as cushions or packing between many parts of machines, rails, vehicles, and iron structures. When used in buildings at the ends of tie-rods, they are often of large size and diverse shapes and are called specifically wall washers. Some forms are used in locks, to prevent a nut from shaking loose, as in a railroad fishplate. Such washers are made in the shape of a spring, to allow a certain amount of vibration without disturbing the nut. See Lock nut, and cuts under Bolt, Packing, and Plug cock.
+Henley’s Encyclopaedia of Engineering (1909):
+Washer. — A flat disk of metal or other material with a central hole. It is used either to receive a nut on top, or is used as a packing. Spring washers are used for locking •nuts. (See Lock nut.)
+*******
+Loch nut. — When machinery is subject to vibration, it is necessary to provide means of locking the nuts on bolts and studs to prevent them torn working loose. There are numerous ways of accomplishing this end, and new devices are constantly being brought out, but there are a few well-tried methods that find general favor. * * * The Grover spring washer is one of the most successful devices, and consists of a ring, split through and bent into the form shown in J. On placing it under the nut and screwing down the latter, the washer exerts a constant pressure upward * * *. A Bomewhat similar washer is the Thackery, K, in which the turns are increased.
+Knight’s Mechanical Dictionary (1877):
+Washer. — An annular disk of metal or wood which slips over a bolt, and upon which the nut is screwed fast. Washers are also placed between bolt heads; between contacting surfaces which are screwed together, when it forms a packing.
+Many locking washers have been invented for preventing nuts from jarring loose. (See Nut lock, figure 3350.)
+* * * • * * * *
+Nut lock. — (Machinery.) A means for fastening a bolt nut in place, preventing its becoming loose by the jarring or tremulous motion of the machinery. Such are used upon fish bars of railways, upon harvesters, and in many other places. In railways especially there has been a great demand to hold the nuts from being loosened by the shock of the passing trains.
+Forty-five cuts are fiere shown of lock nuts, figure 3350, several of which are very similar to this device; and all such are called washers; some of the descriptions are given below; the letters refer to the figures in the cut:
+(а) Has a washer cut obliquely so as to present cutting edges which sink into the nut and bar respectively.
+(б) Has a ratchet washer and a click; the nut is partially imbedded in the washer.
+(m) Has an unequal-sided washer, which causes one side to jam against the object and partially imbed itself.
+(oo) Shows a bifurcated washer, the legs of which are bent up against the nut.
+(pp) Has a split washer, one part of which springs up against the side of the nut.
+(r) Has a washer with wings which spring up against the sides of the nut.
+(if) Has spring wings on the washer to hold the nut.
+(z) Is a nut which jams down upon a yielding washer.
+The American Cyclopedia of the Automobile, vol. 5, pp. 1754, 1755 (1909). Russell and Root:
+Washer. — Flat rings or perforated disks of metal or other material placed under a nut or pivot head to prevent the metal underneath being damaged. Sometimes they take the form of a helical spring, which prevents the nut becoming loose. The following are some of the principal washers used in motor-car work:
+Asbestos washers * * *.
+Leather washers
+Mica washers * * *.
+Split washers: A form of spring washer.
+Spring washers: Washers which take the form of a helical spring and are used to lock a nut on bolt or stud, the nut being screwed down on the top of the washer. Where right-handed nuts are used the helix of the washer is left-handed.
+1909 Year Book (Motor Cyclopaedia):
+Washer. — A perforated disk which is slipped over the end of a bolt and serves as a bed for the nut which is screwed down upon it. Washers are usually of iron, but rubber, leather, mica, etc., are also used for special purposes, say, in cocks and valves to make tight joints. Sometimes they have the form of a helical spring, in which case they are called ‘spring washers.” Figure 1 gives a plan and lateral view of a common washer, and figure 2 of a lock washer.
+A study of the foregoing definitions leads to the conclusion that the article in question is regarded by the authorities as an evolution of the common washer and as still properly covered by that name. This probably results from the fact that the two articles resemble each other in form and because they serve certain similar purposes. When in use, the present article is designed to be held flat between the nut and the underlying material upon which it rests. In that position it not only fastens the nut, which is its peculiar function, but it also serves as a cushion or packing and furnishes a bearing surface for the nut, which are the functions of a common washer. It is therefore plain that the articles at bar are not called washers because of a merely fanciful resemblance to the common washer in such manner as clotheshorses and sawhorses are named, but rather because of essential resemblances in form and use such as seriously make the name appropriate.
+If should be remembered that the present competition is not between.'‘lock washers” and “nut locks,” but between “washers” and “manufactures of steel, not specially provided for.” There can be no doubt that the articles.in question are frequently called nut locks. The definitions above quoted virtually treat that classification, however, as a subdivision of washers; and in the descriptions given under the title the different articles are named as washers which possess certain improvements or peculiarities. For example, in Knight's Dictionary, under the caption “nut lock,” figure z is described as a nut which jams down on a yielding “washer.” In the definition quoted from Henley’s Encyclopedia, under the head of “lock nut,” the identical article now in controversy, or one at least essentially similar to it, is denominated the Grover “spring washer;” a somewhat different article, designed, however, for the same use and having several complete turns of the spiral, is referred to as the “Thaclcery washer.”
+The articles at bar are imported for use upon automobiles; therefore the definitions above copied from the Standard Cyclopedia of Russell and Root and from the Motor Yearbook are especially authoritative. In both of these the article now in question is described as a washer. It is of course true that the mechanical engineers who developed and used the article were more intent upon the thing itself than upon its name, but manifestly they assumed that the article was a kind of washer and so described it; and in the automobile trade the same practice has prevailed.
+The present case was heard by the board upon testimony, and there was a strong protest entered by most' of the witnesses against the application to this article of the name washer' or lock washer. However, it appeared that each of the two domestic companies named in the testimony as manufacturers of similar articles is named a Lock Washer Cp.; and the attempted explanation of this fact, to make it consistent with the testimony of. the witnesses, is not convincing. The witnesses claimed that the only proper name for the articlé is “nut lock,” yet they admitted that they had at times heard the articles named as washers of one kind or another.
+The’ second question raised in the case relates to the course taken by the board at the hearing of the testimony. The importers’ counsel asked the board to incorporate in the present record the testimony taken in a former case. The Government counsel objected to the admission of the greater part of the testimony referred to in the application. Thereupon the board announced that it would reserve its decision upon the application until it could read the record in order to learn whether there was a basis for counsel’s objection. Immediately following this there appears in the printed record the statement, “Testimony admitted in evidence.” It is stated by counsel for the Government that this order was entered in his absence and without further notice to him, and that he was thereby effectually deprived of the right to cross-examine the witnesses whose testimony was thus added to the record.
+There are, however, several considerations which lead the court to conclude that this contention does not require a reversal in this case. The board did not directly refuse counsel a right to cross-examine the witnesses, for no such request was distinctly made by counsel. The board evidently understood that no such request was intended, and this because its attention was not called to the matter at the time it took the question under advisement. This presents quite a different question from a case wherein a demand for an opportunity to cross-examine the witnesses is specifically made by counsel and refused by the board, or where the testimony is admitted under such, circumstances as plainly evidence that counsel had no opportunity to prefer such a request. It may fairly be concluded from this record that the board understood that counsel did not wish to cross-examine the witnesses. This understanding was, of course, entertained in good faith, and resulted from the circumstances attending the trial in the board’s presence. It may furthermore be observed that this question is hardly presented with sufficient particularity by the assignments of error appended to appellant’s petition as filed in this court. The seventh assignment of error is the only one which relates at all to the question in hand. It reads as follows:
+7. In applying to the case at bar over the objection of the attorney for the United States testimony taken in another case that involved dissimilar merchandise.
+This assignment does undoubtedly challenge the competency of the testimony in question, but it may well be doubted whether it covers a complaint that appellant was denied the right to cross-examine the witnesses whose testimony was thus added by the board to the present record. But whatever view may be taken of the foregoing considerations, this court is not of the opinion that the testimony to which this objection applies worked a substantial prejudice to the appellant; for it seems clear that the conclusion reached by the board and by this court is sustained by the record if the testimony in question were entirely eliminated.
+The court therefore finds that the decision of the board should be, and the same is, affirmed.
