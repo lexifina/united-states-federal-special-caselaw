@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "58129; protests 190632-K, etc. (New York)"
+decided: "1954-05-26"
+citations: ["32 Cust. Ct. 512"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bingham & Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/32/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643619
+---
+
+# Bingham v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+It was stipulated that the merchandise is composed of rush and is not of grass nor of rice straw; that merchandise of like character is now being assessed at 20 percent under said paragraph 1021, as modified, supra; and that the termination of the said General Agreement on Tariffs and Trade with respect to concessions therein initially negotiated with China (T. D. 52587), insofar as said paragraph 1021 is concerned, related only to floor coverings of grass or of rice straw. Upon the agreed statement of facts, the claim of the plaintiffs was sustained.
