@@ -1,0 +1,64 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "4839"
+decided: "1955-11-04"
+citations: ["43 C.C.P.A. 4"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before O’Connell, Acting Chief Judge, and Johnson, Wobley, and Cole, Associate Judges"]
+parties: ["United States v. C. M. Gourdon, Inc."]
+source_url: "https://static.case.law/ccpa/43/cases/0004-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6077124
+cites_cases: ["69 Treas. Dec. 853"]
+---
+
+# United States v. C. M. Gourdon, Inc.
+
+## Majority (Worley, Judge,)
+
+Worley, Judge,
+delivered tbe opinion of the court:
+This is an appeal from the judgment of the United States Customs Court, Second Division, rendered pursuant to its decision, C. D. 1662, sustaining the protest of the importer and holding certain merchandise dutiable under paragraph 1205 of the Tariff Act of 1930, as modified by the Trade Agreement with France, 69 Treas. Dec. 853, 865, T. D. 48316, as bleached silk fabric at 45% ad valorem.
+The collector classified the merchandise under paragraph 1205 of the Tariff Act of 1930 which, so far as pertinent, reads:
+Par. 1205. Woven fabrics in the piece, wholly or in chief value of silk, not specially provided for, 55 per centum ad valorem; * * *
+Paragraph 1205 of the Tariff Act of 1930, as modified by the French Trade Agreement, supra, reads:
+Wooven fabrics in the piece, with fibers wholly of silk, bleached, dyed, colored, or printed, whether or not exceeding 30 inches in width, whether woven with fast or split edges, and whether or not Jacquard-figured, valued at more than $5.50 per pound_ 45% ad val.
+The sole issue presented here is whether the fabric is “bleached” within the meaning of the paragraph in question.
+The fabric and the method by which it is treated are sufficiently described in the following portions of a stipulation entered into by counsel for the parties:
+‡ ‡ H: ;{c ' H? Jfc ^
+4. That the merchandise herein was boiled-off or degummed by the following process:
+It was submerged in a solution of water and neutral soap. The amount of such neutral soap was approximately 30 per centum of the weight of the fabric. The solution of water and soap was brought to a temperature just below the boiling point before the fabric was submerged and was maintained at that temperature during the period of submersion which was between one and two hours. After this first submersion the fabric was taken out and rinsed in clear water. After rinsing the fabric was again submerged in a new solution of soap and water having the same proportionate amount of soap as the first solution and maintained at the same temperature. After the second submersion, which again was for a period between one and two hours, the fabric was removed and rinsed in a solution of water containing one gramme of sodium carbonate per liter. The fabric was then dried and was ready for shipment.
+5. That as a result of said process the sericin or gum was removed, the merchandise became softer and less harsh, stains and oil, if any, from the weaving were removed, the merchandise became lighter in color, was fit for use in its imported condition without further processing except where an end fabric lighter in color was desired, and was ready for printing in all colors except the lighter or pastel shades in which case further preparatory processing would be necessary.
+7. That the raw silk used in weaving the imported merchandise was composed of filaments or fibres from five or more cocoons reeled together into a continuous uniform and regular strand, each of which said filament or fibre consists essentially of two cores of fibroin cemented together and covered with sericin, the sericin containing more of the coloring matter of the raw silk than the fibroin.
+It is not contended that the word “bleach” has any special commercial meaning; and the decision therefore turns upon the common meaning of the word. The testimony offered as to such common meaning is advisory only.
+As indicated by the stipulation above quoted, the process to which, the involved silk is subjected does not render it pure white, but-lightens its color to such an extent that it is fit for use without further processing, except in certain special cases. It is clear that the term “bleached” does not require the removal of all color but that, as was-held in Armand Schwab & Co., Inc. v. United States, 32 C. C. P. A. (Customs) 129, C. A. D. 296, “the removal of color to any substantial degree must be considered as coming within the common meaning of the term ‘bleached'.” Accordingly, so far as the actual change in. color is concerned, the fabric here involved satisfies the requirement as to being bleached. It is contended by the Government, however,, that bleaching requires not only that coloring be removed, but that-it be removed in a particular way.
+Various definitions of the word- “bleached” have been cited by the-parties,-and they are not entirely consistent. Without quoting them in detail, it is noted that in some cases the term is used to include a. lightening of color by any means whatever, while in a few instances it is indicated that bleaching, at least in a technical sense, requires-the use of chemicals or sunlight. The two views are both included in the following from Webster’s New International Dictionary, 2nd Edition, unabridged, 1949:
+bleach, v. * * * Transitive: 1. To make white, or whiter; as: a To remove-the color or stains from; blanch. The bleaching of natural fibers to remove coloring matter, resin, wax, etc., includes washing, or scouring, and bleaching proper, or chemical treatment. * * * .
+It is contended by the Government in the instant case that bleaching, as referred to in the paragraph of the Tariff Act under consideration, as modified, supra, corresponds to what is called “bleaching-proper” in the above .definition; that is, that it requires the use of bleaching chemicals to effect' a change in the color structure of the silk fiber or fibroin, as distinguished from a color change incident to the removal of the sericin or guni.
+. The testimony offered. is conflicting and reflects the differences found in the definitions. -Thus, with respect to the importer’s Exhibit 1, which is a piece of-fabric treated by the process described in the stipulations, the Government’s witness Chariere ■ testified as follows:
+XQ. When you were asked if Exhibit 1 bad been bleached or was bleached you were in some doubt and you thought it was not white enough. Was that the substance of your answer? A. That’s right; it was not white enough and in my ■opinion it was not bleached.
+On the other hand, the importer’s witness Marx testified:
+XQ. Looking at Exhibit 1, Mr. Marx, you say that that has been bleached in your opinion? A. In my opinion it’s been boiled off and bleached.
+XQ. Listen, let’s get it straight. Is it a boil-off or a bleach? A. It’s a combination of both, sir.
+XQ. Is it a bleach? A. Yes.
+Ofi ‡ %¡ * J{: # j(c
+BQ. Is it your testimony that frequently, and I think you said in the most number of cases, the boiling off process itself is sufficient bleaching to get it to the whiteness that the customer wants? A. That's right.
+On the whole, the testimony is not particularly helpful in determining the meaning of the word “bleached.” The witnesses are not in agreement as to whether it requires the use of chemicals, or whether the degree of whitening is the determining factor. Their testimony serves merely to show that the meaning of the word is uncertain and that it conveys different impressions to different people.
+We are of the opinion that the term “bleaching” requires something more than the mere removal of dirt or other foreign substances which give a dark color to textile materials. The washing of such materials with water alone or with water and conventional soaps not including chemical bleaching agents may result in a substantial lightening of color, or may even render them pure white, if that was their color before they became dirty, but such washing would not necessarily be bleaching in the ordinarily accepted meaning of the word. In the case of United States v. Armand Schwab & Co., Inc., et al., 30 C. C. P. A. (Customs) 72, C. A. D. 218, it was held that a washing of hats made of manila hemp which merely removed a considerable portion of the dirt from them was not bleaching.
+The present case, however, does not involve the mere removal of a foreign substance. Thorpe’s Dictionary of Applied Chemistry, volume II, pages 17 and 18, cited and relied on below, contains the following statements:
+Composition of Raw Silk. — Raw silk consists of a double filament of fibroin covered with a layer of silk gum; the gum surrounds each of the filaments of fibroin and cements the two together. Silk gum consists chiefly of sericin, but contains also small amounts of fats, of mineral substances, and of yellow colouring matters, chiefly xanthophyll. * * *
+Silk degumming. — Raw silk is harsh, stiff and lustreless, but when the external layer of gum is removed it becomes soft and lustrous and the dyeing properties are improved. The substances to be removed include not only sericin, but also the natural fats and colouring matters contained in the gum and any fats and tinting colours that may have been added by the throwster in preceding operations. Care must be taken that the fibroin filaments are not attacked, or the lustre and strength of the silk will be impaired.
+****** *
+Silk bleaching. — The colouring matters of raw silk are chiefly in the gum, and after complete degumming the fibre is nearly white. Further bleaching is, however, necessary if the silk is to be marketed white or is to be dyed in pale shades.
+It will be noted that the matter just quoted refers to further bleaching after degumming, so that the degumming operation must be considered as the initial bleaching.
+The quoted matter also shows that the gum or sericin is not a foreign substance but a part of the raw silk itself, and the following statement in the Encyclopedia Britannica, (1942), volume 20, page-666, also considered below, is to the same effect:
+The raw silk fibre consists essentially of two cores of fibroin cemented together and covered with sericin or silk albumen, besides small quantities of waxy and colouring matters.
+It is clear, therefore, that the degumming process to which the-silk here involved was subjected was not merely a washing but served to remove a substantial part of the raw silk itself, which part included. the greater portion of the coloring matter. In our opinion such a. removal of color properly responds to the term “bleaching.”
+It is true that the process in question did not remove a substantial amount of color from the fibroin itself but, as pointed out by the-court below, the section of the Tariff Act here under consideration relates to bleached silk and not bleached fibroin. It is therefore immaterial that practically all of the coloring matter removed was-in the sericin portion of the silk rather than the fibroin. There was-a substantial removal of color from the silk as a whole.
+The Government calls attention to the fact that paragraph 1201 of the Tariff Act of 1930 refers to “Silk partially manufactured including total or partial degumming other than in the reeling process,” while paragraph 1202 refers to “Spun silk or schappe silk yarn, or yarn of silk and rayon or other synthetic textile, and roving, not. bleached, dyed, colored or plied, 40 per centum ad valorem; bleached, dyed, colored or plied, 50 per centum ad valorem.” From this it is argued that the terms “bleached” and “degummed” are to be considered mutually exclusive.
+That argument is not convincing. The record amply establishes that there are various methods of bleaching silk other than degum-ming, and on the other hand, so far as the evidence shows, there may be methods of degumming or at least of partial degumming which would not produce such a substantial change of color as to constitute-a bleaching. All that has been shown here is that the particular process to which the silk fabric under consideration has been subjected constitutes both a degumming and a bleaching. Under such circumstances, tbe use of the words “degumming” and “bleached” in the Tariff Act of 1930, as modified, supra, is not inconsistent with the holding of the lower court in the present case. The mere fact that a single process may both bleach and degum affords no reason why bleaching and degumming should not be separately referred to in the Act.
+We are of the opinion that the instant fabric has been bleached within the meaning of paragraph 1205 of the Tariff Act of 1930, as modified by the Trade Agreement with France, supra.
+The judgment appealed from is accordingly affirmed.
+Johnson, J., dissents.
