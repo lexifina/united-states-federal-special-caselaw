@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "59329; protest 249447-K (New York)"
+decided: "1955-10-06"
+citations: ["35 Cust. Ct. 264"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bergen Trading Company v. United States,"]
+source_url: "https://static.case.law/cust-ct/35/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6600240
+---
+
+# Bergen Trading Co. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+Since the protest was filed more than 60 days after liquidation, it was dismissed as untimely, by virtue of section 514, Tariff Act of 1930.
