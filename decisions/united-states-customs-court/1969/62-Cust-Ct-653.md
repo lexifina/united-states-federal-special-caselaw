@@ -1,0 +1,76 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3843"
+decided: "1969-06-04"
+citations: ["62 Cust. Ct. 653"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao, Roed, and Newman, Judges"]
+parties: ["International Customs Service, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6578887
+cites_cases: ["14 Cust. Ct. 171", "17 CCPA 194", "18 Cust. Ct. 37", "23 CCPA 146", "25 Cust. Ct. 126", "33 Treas. Dec. 210", "36 CCPA 1", "45 CCPA 48", "48 CCPA 70", "6 Ct. Cust. Appls. 9"]
+---
+
+# International Customs Service, Inc. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+The merchandise involved in these cases, consolidated at the trial, was manufactured in Switzerland and is described on the invoices as wire Heatsink tools. It was assessed with duty at 37 per centum ad valorem under item 649.91 of the Tariff Schedules of the United States, as tweezers. It is claimed that the merchandise is dutiable either under item 651.47 at 17 per centum ad valorem, as other hand tools of iron or steel, or under item 648.85 at 3I/3 cents each and 20 per centum ad valorem, as other pliers, nippers, pincers, and hinged tools, for holding and splicing wire.
+The pertinent provisions of the tariff schedules are as follows:
+649.91 Cuticle or corn knives, cuticle pushers, nail files, nail cleaners, nail nippers and clippers, all the foregoing used for manicure or pedicure purposes, and parts thereof; tweezers-37% ad val.
+Hand tools (including * * *) not specially provided for, and metal parts thereof:
+* i]i * H; Hi Hi Hi
+Other hand tools:
+^ Hi Hi Hi Hi Hi Hi
+Other:
+Of iron or steel:
+Hi Hi Hi Hi ❖ Hi Hi
+651.47 Other-17% ad val.
+Pliers, nippers, and pincers, and hinged tools for holding and splicing wire; * * * all the foregoing which are hand tools, and metal parts thereof:
+Pliers, nippers, pincers, and hinged tools for holding and splicing wire, and parts of the foregoing:
+Hi Hi Hi Hi Hi * *
+648.85 Other (except parts)3each+20% ad val.
+At the trial, plaintiff called tAvo witnesses, Price B. Jones and Sidney Ploeckelmann. Mr. Jones testified that he had been a tool maker for 20 years, has been employed by Swiss American Precision Imports, Inc., the importer herein, for 5 years, and was previously shop foreman for International Bectifier. Mr. Ploeckelmann is a factory representative of Swiss American, has been with that firm for '8 years, and had previously worked in semiconductors with International Bectifier. His duties include calling on customers and distributors to introduce new tools, designing new tools, and determining whether it is feasible for his company to make a tool requested. It is part of his job to know the use of the tools his firm deals in. According to the witnesses, the business of Swiss American is the importation of small hand tools for the aircraft, aerospace, and semiconductor industries, such as North American, Hughes, and Autonetice.
+Mr. Jones testified that he was familiar with the merchandise described on the invoice as Heatsink tools, had designed them originally, and had seen them used. Mr. Ploeckelmann had seen them used many times in California and New York by the rocket and space industries, firms that deal with the National Aeronautics and Space Administration.
+A group of Heatsink tools was received in evidence as plaintiff’s exhibit 1. Each consists of two strips of metal about 2% inches long, bent over and overlapping at the top where they are joined by a screw and a nut. A spring near one end keeps the two pieces in tension. At the other end, each piece has a semicylindrical tip. Together the tips form a small cylinder with a hollow center. The two pieces are kept closed by the spring and may be opened by pressing the ends opposite the nose. Each is marked AWG (American Wire Gauge) with a number indicating a wire gauge size. The diameter of the tip fits a particular wire gauge size. It was stipulated that the tools are of iron or steel.
+Mr. Jones called the articles Heatsink tools and testified that they are used to clamp around a wire while the wire is being soldered to some form of terminal or connector. It creates a cold spot on the wire and keeps the solder from flowing or “wicking up” under the insulation. He explained that because of the presence of the tool, it takes a greater amount of heat to saturate the wire at that point than below so the solder does not travel up. According to the witness the only function of these tools is to trap heat during the soldering process and prevent solder from flowing up. They are, therefore, called anti-wicking tools. When being used, the tool is slipped or clamped around a wire, where it maintains itself without being held by hand. The operator connects the wire to the terminal and applies solder, the tool preventing the solder from flowing up the wire. The tool is not used to hold the wire in place or to grasp or extract small objects.
+Mr. Jones stated that many production workers call the tools anti-wicking tweezers but that that is just shop terminology. He had designed tweezers and did not consider these tools to be tweezers.
+There were then received in evidence three articles, exhibits 3, 4, and 5 which the witness testified were tweezers. He said that tweezers are nearly all alike and they are normally two strips that are spot-welded together at one end and create a spring tension when squeezed together. Both witnesses agreed that the definition of tweezer as “A small pincer like implement for grasping or extracting” would not apply to exhibit 1 but would apply to exhibits 3,4, and 5. They stated on the other hand that the following definition applied to exhibit 1 and not to exhibits 3, 4, and 5: “A device or system that absorbs or transfers heat away from a critical part or parts.”
+Mr. Ploeckelmann stated that exhibits 3, 4, and '5 could not be used for the same purpose as the tools in plaintiff’s exhibit 1 because they would not surround the wire, and, as they are normally open tools, the operator would have to hang on ,to them or maintain pressure on them to keep them on the wire.
+He had heard the tools in plaintiff’s exhibit 1 called anti-wicking tweezers on occasion and said that it was a matter of ease of communication to call them tweezers. In fact, they have no function other than as Heatsink tools and are strictly a holding tool to collect the heat with ease. They could not be used to pick up or extract small objects. They are made with greater precision (than exhibits 3, 4, and 5, and' are approximately twice the price of those articles.
+There were received in evidence as defendant’s exhibit A pages from a catalogue issued by 'Swiss American Precision Imports, Inc. The merchandise involved herein is depicted on page 32 and is designated as an anti-wicking tweezer. Anti-wicking tweezers are listed in /the table of contents under the general heading “Tweezers”. The descriptive material on page 32 includes the following:
+1. Maximum heat dissipating action.
+2. Grips firmly in confined areas.
+On page 33, under another model, it is stated :
+* * * * * * *
+3. Holds lead wires during soldering.
+# # & Jji
+Mr. Ploeckelmann admitted that his firm offers the articles comprising exhibit 1 as anti-wicking tweezers and that they are so listed in the catalogue. He stated that that was just for ease of communication and that he had used the terms “Heatsink tools” and “tweezers” interchangeably in talking with workers on the production line. He said that the articles are, in fact, Heatsink tools and not tweezers.
+The first question to be determined is whether these Heatsink tools are tweezers within the meaning of item 649.91. That item is derived principally from paragraph 354 of the Tariff Act of 1930 which also covered tweezers. Under a predecessor to that paragraph it was held that the provision was not limited to tweezers used for manicuring or pedicuring, but included jewelers’ tweezers. United States v. R. F. Downing & Co., 17 CCPA 194, T.D. 43645. The court stated that the language used was plain >and unambiguous quoting a definition of tweezers as “A small pincerlike implement for grasping or extracting” from Webster’s New International Dictionary (1925).
+In an earlier case, Sears, Roebuck & Co. v. United States, 33 Treas. Dec. 210, T.D. 37357, under the Tariff Act of 1913 which had no provision for tweezers, it was held that jewelers’ tweezers were not nippers or pliers within the common understanding of those terms. The court pointed out (p. 212) :
+* * * The particular samples here in evidence are composed of two small narrow strips or pieces of steel of equal dimensions which have been permanently welded together at one end and which are curved outward and taper to a point at the other end. They are used for grasping articles which are too small to be conveniently held or manipulated by the fingers of the hand. In fact, in general appearance and principle of operation they are not unlike the ordinary tongs which are commonly employed for holding bonbons or sugar lumps. Neither in appearance nor in their use do they possess any of the characteristics which are common to the well-known class of articles generally recognized as being within the category of nippers and pliers.
+In the 1968 Summaries of Trade and Tariff Information Prepared in Terms of the Tariff Schedules of the United States, it is stated (schedule 6, vol. 6, p. 199) :
+* * * Tweezers ordinarily are small implements of two-pronged, pinching action used for such purposes as plucking out hair or handling small objects such as watch parts. * * *
+See also the following definitions:
+Audel’s Mechanical Dictionary (1942):
+Tweezers. A spring gripping instrument or small tongs wherewith small and delicate pieces may be lifted or manipulated, as in microscopical work, or watch making; also in surgery.
+Funk & Wagnalls New Standard Dictionary (1956 edition):
+tweezers n. pi. 1. Small pincers for taking hold of tiny objects : often called a fair of tweezers; also, something likened to them.
+Britannica World Language Dictionary:
+tweezers n. pi. 1. A small pincerlike implement for grasping or extracting.
+Webster’s Third New International Dictionary (1968) :
+tweezers 1: any of various small pincer-shaped tools used for plucking, holding, or manipulating (as for removing superfluous hair or handling watch parts)
+The illustration next to the definition in Webster’s Third New International Dictionary depicts an article resembling exhibits 3, 4. and 5.
+The merchandise involved herein is constructed and operated in a manner different from that of the articles described by the above authorities. It consists of prongs or strips which are hinged, are held in tension by a spring and in a closed position, except when pressure is applied. When used, the article will maintain itself on a piece of wire. Tweezers are constructed of two prongs which are welded together at one end and remain in an open position except when pressure is applied. They are used to grasp and hold small articles or pluck out hair but will not maintain themselves on wire. The instant merchandise is not used to hold wire in place or to manipulate it. It provides a cooling area and prevents solder from flowing up the wire. It cannot be used for the purposes for which tweezers are used and tweezers cannot be used for the purpose for which the present tool is used.
+Since the imported articles are entirely different from tweezers in their construction and use, we are of opinion that they are not tweezers as that term is commonly understood. We are not deterred from this view by the importer’s catalogue (exhibit A) which designates these tools as “anti-wicking tweezers” and lists them under the heading “Tweezers”. The witnesses testified that those terms are used in the shop and when talking to workers for ease of communication. The term “Heatsink tool” is used as well. The catalogue itself also employs the term “anti-wicking tool”.
+It has been held that descriptions in entries and other documents are admissions against interest but that the importer is not precluded from disproving the correctness of such descriptions. Swift & Co. v. United States, 14 Cust. Ct. 171, C.D. 930; United States v. F. W. Myers & Co., Inc., 45 CCPA 48, C.A.D. 671, and cases cited.
+Trade catalogues have been held to be competent evidence, but they are not conclusive proof of what merchandise is for tariff purposes. Great Western Mercantile Co. et al. v. United States, 25 Cust. Ct. 126, C.D. 1275; O. Brager-Larsen v. United States, 18 Cust. Ct. 37, C.D. 1042, affirmed sub nom. United States v. O. Brager-Larsen, 36 CCPA 1, C.A.D. 388; Austin, Nichols & Co. et al. v. United States, 6 Ct. Cust. Appls. 9, T.D. 35249.
+In United States v. Sheep Shearers Mdse. & Comm. Co., 23 CCPA 146, T.D. 48009, the court said (p. 150) :
+We are of the opinion that if this catalogue, and other cata-logues introduced, referred to the articles at bar 'as “combs” and “cutters”, on and prior to the enactment of the Tariff Act of 1922, and that these catalogues were thoroughly circulated throughout the United States, this fact, though competent, could not constitute satisfactory proof of commercial designation, because, for one reason, it appears in this record that the trade did not uniformly accept such terms and continued to designate the articles by other names. It surely cannot be logically contended that a dealer in a given kind of merchandise can successfully control a tariff classification of imported merchandise by using certain language in cataloguing the same. Of course, proper catalogue designations ofttimes are helpful in arriving at the trade understanding, but they are never conclusive proof of the facts asserted.
+The common meaning of a statutory term is a matter of law to be determined by the court. In making its decision, the court may rely upon its own understanding, may consult standard works of reference, and may receive the testimony of witnesses, but such testimony is advisory only. United States v. National Carloading Corp. et al., 48 CCPA 70, C.A.D. 767, and cases cited. In our view, the common meaning of the word “tweezers” does not embrace the instant merchandise. The trade catalogue, exhibit A, does not establish that merchandise not within the common meaning of the term “tweezers” is classifiable as such.
+The record establishes that the imported tools are clamped to wire and maintain themselves there during a soldering operation, but not that they hold wire in the usual sense of that term. They do not splice wire, nor are they pliers, nippers, or pincers. Therefore, they are not classifiable under item 648.85 as pliers, nippers, and pincers and hinged tools for holding and splicing wire.
+We hold that the imported tools are properly dutiable at 17 per centum ad valorem under item 651.47 as hand tools of iron or steel, not specially provided for, other. To that extent the protests are sustained. As to all other claims, they are overruled. Judgment will be entered accordingly.
