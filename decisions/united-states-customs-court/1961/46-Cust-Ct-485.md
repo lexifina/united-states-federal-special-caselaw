@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "65638; protests 60/23320, etc. (New York)"
+decided: "1961-05-17"
+citations: ["46 Cust. Ct. 485"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frazar & Co., Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/46/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6648566
+cites_cases: ["43 Cust. Ct. 26"]
+---
+
+# Frazar & Co. v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+In accordance with stipulation of counsel that the merchandise consists of valances similar in all material respects to those the subject of D. N. & E. Walter & Co. et al. v. United States (43 Cust. Ct. 26, C.D. 2098), the claim of the plaintiffs was sustained.
