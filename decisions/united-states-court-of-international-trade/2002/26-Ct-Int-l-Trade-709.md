@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 00-09-00477"
 decided: "2002-07-12"
-citations: ["26 Ct. Int'l Trade 709", "26 Ct. Int'l Trade 735", "211 F. Supp. 2d 1378"]
+citations: ["26 Ct. Int'l Trade 709"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Altx, Inc., American Extruded Products, Corp., DMV Stainless USA, Inc
 source_url: "https://static.case.law/ct-intl-trade/26/cases/0709-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8475383
-cites_cases: ["11 CIT 82", "15 F. Supp. 2d 918", "167 F. Supp. 2d 1353", "17 CIT 1061", "182 F. Supp. 2d 1330", "19 C.F.R. § 159.61", "19 CIT 1051", "19 U.S.C. § 1677", "2 CIT 18", "20 CIT 473", "2001 CIT 154", "28 U.S.C. § 1581", "519 F. Supp. 916", "646 F.2d 522", "65 Fed. Reg. 25,305", "65 Fed. Reg. 52,784", "655 F. Supp. 487", "710 F.2d 806", "744 F. Supp. 1177"]
+cites_cases: ["11 CIT 82", "15 F. Supp. 2d 918", "167 F. Supp. 2d 1353", "182 F. Supp. 2d 1330", "19 CIT 1051", "19 U.S.C. § 1677", "2 CIT 18", "20 CIT 473", "2001 CIT 154", "28 U.S.C. § 1581", "519 F. Supp. 916", "655 F. Supp. 487"]
 ---
 
 # Altx, Inc. v. United States
