@@ -1,0 +1,37 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 85-1-00046"
+decided: "1985-10-25"
+citations: ["9 Ct. Int'l Trade 543"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before DiCarlo, Judge."]
+parties: ["Dan Stipe, et al., plaintiffs v. U.S. Department of Labor, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/9/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6108851
+cites_cases: ["19 U.S.C. § 2272", "19 U.S.C. § 2273", "19 U.S.C. § 2395", "305 U.S. 197", "49 Fed. Reg. 21,577", "49 Fed. Reg. 37,677", "49 Fed. Reg. 47,129", "50 Fed. Reg. 10,875", "584 F.2d 398", "585 F. Supp. 1427", "592 F. Supp. 673", "594 F. Supp. 744", "595 F.2d 860", "643 F.2d 26", "7 CIT 237", "8 CIT 13", "8 CIT 156"]
+---
+
+# Stipe v. U.S. Department of Labor
+
+## Majority (DiCarlo, Judge:)
+
+Memorandum Opinion and Order
+DiCarlo, Judge:
+Plaintiffs, current or former employees at Republic Steel Corporation’s (Republic) Fairhope plant in Canton, Ohio, challenge the determination of the Department of Labor, Office of Trade Adjustment Assistance (Labor) that workers at that plant are ineligible for adjustment assistance under section 223 of the Trade Act of 1974 (the Act), 19 U.S.C. § 2273 (1982).
+After reviewing the administrative record and the arguments of the parties, the Court holds that Labor’s denial of certification is supported by substantial evidence and in accordance with law. Labor’s determination is affirmed.
+On April 23, 1984, plaintiffs filed a petition for certification of eligibility to apply for trade adjustment assistance benefits on behalf of workers at the Fairhope plant. Labor published a notice in the Federal Register stating that it had received a petition and instituted an investigation. 49 Fed. Reg. 21,577 (1984).
+Labor denied the petition on September 11, 1984, on the ground that an increase in imports did not contribute importantly to decreased production at the Fairhope plant and to the workers’ separation from employment, as required by section 222(3) of the Act, 19 U.S.C. § 2272(3) (1982), for certification of eligibility to apply for trade adjustment assistance. 49 Fed. Reg. 37,677 (1984).
+On October 4, 1984, plaintiffs asked Labor to reconsider its determination. On November 8, 1984, the application for reconsideration was denied. 49 Fed. Reg. 47,129 (1984).
+Plaintiffs then filed this action pro se, appealing from the negative determination. While this action was pending, Labor reopened the investigation on its own initiative. With plaintiffs’ consent, Labor was permitted to supplement the administrative record. Labor affirmed its negative determination on March 14, 1985. 50 Fed. Reg. 10,875 (1985).
+Plaintiffs have not responded to defendant’s brief or addressed the supplemented administrative record. In their petition, letter seeking reconsideration of the initial administrative determination, and complaint, plaintiffs make two arguments: (1) that production of tunnel liner and sectional plate at the Fairhope plant was adversely affected by imports, and (2) that the Fairhope plant workers’ separation was caused by imports of raw steel used by Republic’s competitors to make products competitive with those produced at the Fairhope plant.
+The question before the Court is whether Labor’s determination that imports like or directly competitive with articles produced by the Fairhope plant did not contribute importantly to the separation of plaintiffs is supported by substantial evidence of the record. Section 284(b) of the Act, 19 U.S.C. § 2395(b) (1982), provides that "[t]he findings of fact by the Secretary * * * if supported by substantial evidence, shall be conclusive” on the Court. "Substantial evidence is more than a mere scintilla. It means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.” Consolidated Edison Co. v. NLRB, 305 U.S. 197, 229 (1938). The Court must show "substantial deference” to the methods chosen by Labor to execute its statutory responsibilities, "only remanding a case if [the method] is so marred that [Labor’s] finding is arbitrary or of such a nature that it could not be based on substantial evidence.’ ” United Glass & Ceramic Workers of North America v. Marshall, 584 F.2d 398, 405 (D.C. Cir. 1978).
+The record shows that Labor surveyed twenty-three Fairhope customers which accounted for 94.9% of the sales decline in tunnel liners and 82.4% of the sales decline in sectional plates during 1983, the year prior to plaintiffs’ separation. Republic’s customers reduced their purchases of products produced at the Fairhope plant during this period either because they reduced their purchases of such articles in absolute terms or because they purchased the articles at better prices from other domestic producers. Not one of these firms said they imported either of these products during this period.
+It is well established that Labor may use representative customer surveys to determine whether there has been a causal link between imports and worker separations, Id. at 405-06; Local 167, Int’l Molders and Allied Workers’ Union v. Marshall, 643 F.2d 26, 29-31 (1st Cir. 1981), and that Labor may limit the period of investigation to the year of the separations and the immediately preceding year, United Glass and Ceramic Workers, 584 F.2d at 406-07; Katunich v. Donovan, 8 CIT 156, 594 F. Supp. 744, 751-52 (1984).
+The Court holds that Labor’s determination that imports of sectional plate and tunnel liner did not "contribute importantly” to the separation of plaintiffs from their employment is supported by substantial evidence and in accordance with law.
+Plaintiffs’ second contention is that their separation was caused by imports of raw steel used by Republic’s competitors to make products competitive with those produced at the Fairhope plant. Fairhope produces its own raw steel, and plaintiffs say Republic charges more for Fairhope products than competing domestic firms partly because it costs Republic more to produce its own raw steel than for competitors to import raw steel. The Court holds that Labor’s determination that raw steel imports did not contribute importantly to plaintiffs’ separation is in accordance with law.
+Section 222(3) of the Act, 19 U.S.C. § 2272(3), requires that imports must be "of articles like or directly competitive with articles produced” by the affected workers to permit certification for eligibility for trade adjustment assistance. For an end product to be like or directly competitive with a component part, the imported article "must be found to be interchangeable with or substitutable for’ the article under investigation.” Holloway v. Donovan, 7 CIT 237, 585 F. Supp. 1427 (1984), quoting Machine Printers and Engravers Ass’n v. Marshall, 595 F.2d 860, 862 (D.C. Cir. 1979) (per curiam); see International Union, United Auto, Aerospace and Agricultural Implement Workers of America v. Donovan, 8 CIT 13, 592 F. Supp. 673 (1984).
+Clearly, raw steel is not interchangeable with or substitutable for the finished products produced at the Fairhope plant, and increased imports of raw steel cannot serve as a basis for certifying plaintiffs as eligible for trade adjustment assistance.
+The denial of certification to apply for adjustment assistance is affirmed. So ordered.
