@@ -1,0 +1,70 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3809"
+decided: "1969-04-29"
+citations: ["62 Cust. Ct. 492"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Foed, Judges, and Donlon, Senior Judge"]
+parties: ["J. M. Evans & Company v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577069
+cites_cases: ["1 Ct. Cust. Appls. 513", "107 Fed. 261", "113 Fed. 1020", "113 Fed. 243", "15 Cust. Ct. 303", "186 U.S. 483", "27 CCPA 324", "32 CCPA 99", "39 Cust. Ct. 287", "4 Ct. Cust. Appls. 47", "46 CCPA 21", "57 Cust. Ct. 202", "61 Cust. Ct. 311"]
+---
+
+# Evans v. United States
+
+## Majority (Donlon, Judge:)
+
+Donlon, Judge:
+These two protests, consolidated for purposes of trial, litigate once again the issue, previously litigated several times, as to whether used wool dryer felts are or are not dutiable as wool rags. The new factor here is that the issue arises now under the tariff schedules, whereas earlier cases were decided under the Tariff Act of 1930. The new provision for wool rags in the tariff schedules is different. It also is more precisely worded.
+Following earlier decisions under the 1930 Act, used wool dryer felts in lai’ge rolls, such as those at bar, were classified in liquidation as waste or scrap, not specially provided for. The merchandise at bar was so entered, under item 793.00 of TSUS, at a duty rate of 4 percent ad valorem.
+The appraiser of merchandise at Pittsburgh made no change in the value as it was entered, but notified plaintiff that he was advisorily classifying the entered merchandise under item 390.40 of TSUS, with specific duty at the rate of 9 cents per pound. Thereafter these entries were so liquidated.
+Plaintiff protested the liquidation and now seeks judgment for the alleged overcharge resulting from classification under item 390.40.
+Item 390.40 is a part of schedule 3, part 7, subpart C, TSUS, and in relevant part is as follows:
+Subpart C headnotes:
+1. The term “rags”, as used in this subpart, covers new fabric clippings, ancl fabrics, wearing apparel, furnishings, and other textile articles which are worn out, soiled, torn, or otherwise damaged, all the foregoing, whether or not carbonized, fit only—
+(i) for the recovery of their constituent fibers or materials,
+(ii) for use in paper making,
+(iii) for manufacture into polishing wheels and similar articles,
+(iv) for use as wiping rags of any size, or
+(v) for similar uses.
+Hags:
+Other:
+890.40 Of wool_,_90 per lb.
+Earlier decisions construing the dutiable classification of used wool dryer felts under the Tariff Act of 1930 include P. Silverman Son v. United States, 27 CCPA 324, C.A.D. 107; P. Silverman & Son v. United States, 32 CCPA 99, C.A.D. 292; P. Silverman & Son v. United States, 15 Cust. Ct. 303, Abs. 50611; and Hoyt, Shepston & Sciaroni, Imperial Rug Mills, Inc. v. United States, 57 Cust. Ct. 202, C.D. 2762.
+Examination of those cases and of the record at bar suggests that the merchandise here is essentially similar to the merchandise of those cases, especially to that of the Sil/oerman cases. What is different, as above noted, is the law.
+There was in the Tariff Act of 1930 no definition of the term “rags”. Absent statutory definition and, as well, commercial designation, the court found that the common meaning of the tariff term “rags” did not include used wool dryer felt hi large rolls.
+Defendant urges, as authority for the protested change in classification to “rags”, that the language of TSTTS specifically eliminates size as a deterrent to classification as wiping rags, because the TSUS provision covers rags which, when fit only for use as wiping rags, may be “of any size.”
+That these used dryer felts are rags within the TSUS definition of rags and that wool is the component material of chief value, seems to be conceded. The issue is whether they meet the statutory test of fitness. The litigation revolves around conflicting testimony as to use.
+Mr. Joseph M. Evans testified that he is proprietor of plaintiff, a concern that handles wiping rags and waste and has been doing so for approximately thirty years.
+On trial defendant produced Jive samples, taken from three of the four entries in litigation. While the samples were admitted into evidence as specimens taken from entry shipments (exhibits 1 to 5 inclusive) , Mr. Evans cast doubt as to whether these particular small pieces were adequately representative of the merchandise at bar. Replying to a question as to whether these samples are “indicative” of the merchandise he imports, he replied: “It is material of this nature here. To tell you the truth, I have never seen such nice samples as this in my shipments, but it is this type of material.” (R. 13.) Pressed, he would go no further than to say that the exhibits produced by defendant “are beautiful samples, but it isn’t true this merchandise is bought on the basis of a beautiful looking samples [sio] like these two or three.” (R. 15,16.)
+However, as to exhibits 6 to 14 inclusive Mr. Evans testified that, although they were not taken from the shipments at bar, they are representative of the merchandise of those shipments. In response to defense questions on voir dire, Mr. Evans reiterated that they are all representative of the entry merchandise.
+Exhibits 15 and 16 are rolls of used wool dryer felt, representative of the merchandise at bar in rolls, as imported.
+The evidence adduced by defendant supports the conclusion, confirmed by visual inspection of the exhibits, that the so-called representative samples are inferior in quality to the samples which the Government produced. It seems probable, viewing the record as a whole, that the large rolls in which this used dryer felt was imported exhibited unevenness in quality. This tends to reduce the probative value of selected small pieces taken from the large rolls. Defendant’s witnesses admitted that, for the uses which they described in their testimony, they would not buy materials such as several of the exhibits.
+Mr. Evans said that he examines the imported merchandise which he buys, and that some of it “comes in full of grease, and some full of oil, and some is absolutely rotten” (R. 49) so that he is not able to sell all of it. ITe repeated that he does not get merchandise like the Government samples (exhibits 1 to 5 inclusive) ; that they are “beautiful samples”.
+Mr. Evans further said that he sells this merchandise to steel mills and that they use it, as he himself has personally observed, for “a catwalk, any place where there is grease or oil, and drums of oil, where they walk, and I am taking for granted they don’t want the employees to slip or fall.” (R. 36.) He has also seen the material used in steel mills for protection purposes on steel rolls. (R. 51.) He knows of no other use for the material he imports, except these described uses in steel mills.
+Mr. Daniel L. Gilchrist also testified for plaintiff. He identified himself as mill plant assistant superintendent of Banner Fibreboard Company, of Wellsburg, West Virginia, manufacturers of “linerboard” for corrugated boxes. Linerboard, be said, is the outside ply of the corrugated box. Banner also manufactures fire-retardant papers.
+Mr. Gilchrist’s testimony had to do with the paper making process, in the course of which felts are used until they become expended, that is, used up. Thereafter, Mr. Gilchrist has used the expended felts to cover cylinder molds, nearly 96 inches wide and 48 inches in diameter, in order to keep the molds from getting damaged, and for other uses which he said are not of any great commercial value. The other disposition Banner makes of its used felts is to sell them as junk to scrap dealers.
+Defendant argues that it is chief use that determines classification under TSUS item 390.40; and that by failing to rebut each and every one of the uses there described, plaintiff has failed to overcome the presumption of correctness that attaches to the liquidation classification.
+In this the defendant errs, in our opinion. The item 390.40 prescription is not chief use. The statutory language is “fit only”. This is not altogether new language in tariff legislation, although it seems not to have been used recently until TSUS. There are, however, cases construing the term “fit only”.
+In Train et al. v. United States, 107 Fed. 261 (affirmed without opinion, 113 Fed. 1020; writ of certiorari denied, 186 U.S. 483), the litigation concerned customs duties on old gunny cloth. The circuit court for the southern district of New York had the case on appeal from a decision of the board of general appraisers. The claim was for classification as waste “fit only for paper stock”.
+The evidence showed that “in addition to the use for patching cotton bales and for conversion into yarns to adulterate goods or make shoddy, — uses which perhaps need not be here considered, — the merchandise is also used for making mattresses and sweat pads for horses, for lining cheap coats, and for reconversion into bagging for covering cotton, and that the longer pieces are used for covering cotton bales, and the shorter pieces for making what is known as ‘plumbers’ oakum,’ a commercial article employed in stopping leaks in water pipes. Over 1,500 tons of this bagging is annually used for this latter purpose. If, therefore, there be excluded from consideration the use of great quantities of this merchandise for patching cotton bales, for conversion into yarn to make cheap horse blankets and cheap carpets, and for making jute shoddy and mattresses, the fact still remains that this waste is fit for, and is substantially commerically used in, making new bagging, plumbers’ oakum, sweat pads, horse collars, and other articles.” (P. 262.) The court concluded that since the imported waste was shown to be fit for other uses, it could not be said to be fit only for the use described in the tariff provision.
+In Swan & Finch Co. v. United States, 113 Fed. 243, the provision construed was for grease and oils “such as are commonly used in soap-making or in wire-drawing, or for stuffing or dressing leather, and which are fit only for such uses* * *”. The court said, with respect to the use provision:
+The record abundantly sustains the contention of the importers that cod oil is commonly used for stuffing or dressing leather. Indeed, but a small fraction of it is used in the arts for any other purposes. But “common use” or “predominant use” is not the only qualification. The oil must also be one “fit only” for the enumerated uses.* * * [P. 244.]
+See also Stone & Downer Co. v. United States, 1 Ct. Cust. Appls. 513, T.D. 31533, idem, 4 Ct. Cust. Appls. 47, T.D. 33266.
+Here the record shows that used wool felts of inferior quality, such as those at bar, are regularly used by steel mills to whom plaintiff sells them, as protective floor covering, i.e., on catwalks, and to a lesser degree to cover machinery. Even if the latter should be held to be a fugitive use, the record is clear that there is a commercial use for which the merchandise at bar is fit and which is not one of the uses enumerated in item 390.40. The merchandise, therefore, is not fit only for the described uses.
+Plaintiff has met the first part of its burden of proof, refuting the correctness of the liquidation classification.
+We next turn to the claim to classification under item 793.00, which is as follows:
+Schedule 3, part 7, subpart D:
+Subpart D.-Waste and Scrap
+793.00 Waste and scrap not specially provided for_4% ad val.
+If merchandise is fairly described in one of the enumerated tariff clauses, then one may not resort to classification under the nonenumer-ated provisions. As Judge Eao aptly stated in Floral Arts Studio et al. v. United States, 39 Cust. Ct. 287, C.D. 1943, affirmed 46 CCPA 21, C.A.D. 690:
+* * * By explicit language, paragraph 1558, supra, is limited to articles not elsewhere enumerated in the tariff act. It must, therefore, be subordinated to any other provision of the act whose eo nomine or descriptive terminology encompasses merchandise in dispute. * * * [P. 291.]
+See also Davies, Turner & Co. v. United States, 61 Cust. Ct. 311, C.D. 3621, and cases cited therein.
+The language of TSUS item 799.00, the nonenumerated provision which is the successor of paragraph 1558, Tariff Act of 1930, likewise is explicitly limited to articles not elsewhere enumerated.
+It is unnecessary to elaborate here on the tariff definition of waste and scrap. These are just such worn out used dryer felts as, in the Silverman cases, were held to be waste.
+On the record before us and following the Silverman decisions, we hold that the inferior quality used wool dryer felts at bar are waste or scrap which is not specially provided for.
+The protest claim to classification under item 793.00 ds sustained. All other protest claims are dismissed. Judgment will be entered accordingly.
