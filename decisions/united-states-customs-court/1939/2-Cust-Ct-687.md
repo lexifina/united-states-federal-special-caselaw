@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "41205"
+decided: "1939-05-03"
+citations: ["2 Cust. Ct. 687"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 963822-G of Andes Fruit & Produce Corp. (New York)."]
+source_url: "https://static.case.law/cust-ct/2/cases/0687-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6696411
+---
+
+# Protest 963822-G of Andes Fruit & Produce Corp.
+
+## Majority (Cline, J.)
+
+Opinion by
+Cline, J.
+On the record presented the protest was overruled.
