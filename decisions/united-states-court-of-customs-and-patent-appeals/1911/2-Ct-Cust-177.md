@@ -1,0 +1,49 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "610"
+decided: "1911-05-31"
+citations: ["2 Ct. Cust. 177"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Burkhardt"]
+source_url: "https://static.case.law/ct-cust/2/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8285742
+cites_cases: ["20 Treas. Dec., 1277"]
+---
+
+# United States v. Burkhardt
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+■ The issue involved here is whether sealskin in its natural shape, but. dressed and repaired, is dutiable under either of the first two clauses of paragraph 439, or under paragraph 480 of the tariff act of August 5, 1909. We quote the first two clauses of paragraph 439 and the entire paragraph 480.
+439. Furs dressed on the skin, not advanced further than dyeing, but not repaired, twenty per centum ad valorem; manufactures of furs, further advanced than dressing and dyeing, when prepared for use as material, including plates, linings, and crosses, thirty-five per centum ad valorem; * * *
+480. That there shall be levied, collected, and paid on thb importation of all raw or unmanufactured articles, not enumerated or provided for in this section, a duty of ten per centum ad valorem, and on all articles manufactured, in whole or in part, not provided for in this section, a duty of twenty per centum ad valorem.
+The sealskins were by the collector held dutiable under the second clause of paragraph 439.
+The importer protested, claiming the merchandise was entitled to free entry under appropriate paragraphs of the tariff act, and also that it was dutiable at 20 per cent ad valorem under the first clause of paragraph 439, or, alternatively, at 20 per cent ad valorem under paragraph 480.
+The questions raised by the protest were submitted to the Board of General Appraisers upon the papers in the case and a sample sealskin.. Thereupon the board found as follows:
+Examination of the sample shows it to be a complete sealskin, dressed and repaired. There is no evidence whatever of any special preparation of it for use as material. In fact, it is more accurately described under the second clause of the appraiser’s report as “furs dressed on the skin, repaired.”
+and sustained the protest and held the goods dutiable at 20 per cent ad valorem under the first clause of paragraph 439.
+We are unable to agree with the conclusion of the board, that these sealskins are dutiable under the first clause of the paragraph.
+Both parties assume and the board found that the skins had been repaired. Having been repaired, they are expressly excluded from the first clause of paragraph 439, which, by the words “but not repaired,” limits the application of that clause to skins that have not been repaired.
+From the construction and phraseology of paragraph 439 it might perhaps naturally be expected that the tariff law would contain some provision explicitly referring to furs dressed on the skin not advanced further than dressing and dyeing that had been repaired, but it is conceded that no specific provision therefor is made, and it is also agreed that there is no eo nomine provision for manufactures of furs other than what is found in paragraph 439.
+We advance to the inquiry as to whether the importation, as represented by the official sample, is dutiable under the second clause of that paragraph.
+This relates to “manufactures of furs further advanced than dressing and dyeing, when prepared for use as material.” There is no evidence and no finding that these furs have been dyed; they are in their natural shape; nothing has been done to prepare them for use as material other than dressing and repairing the same unless, as is claimed by the United States, they have been stretched. The only evidence as to the stretching is the appearance of the official sample, and whatever that may import may well relate to the dressing process to which the skin has been subjected.
+When analyzed, we think the second clause of paragraph 439, so far as applicable to the merchandise in this case, means that, to be dutiable thereunder, the furs must be prepared for use as material and must have been so far advanced tbat they have been subjected to such manufacturing processes as to have passed the stage at which dressing and dyeing are ordinarily applied. That Congress assumed dressed and dyeing, as applied to raw fur skins, to be manufactur ing processes in themselves, is evidenced by the words "manufactures of furs further advanced than dressing and dyeing,” in which expression the words further advanced are evidently used in the sense of further advanced in manufacture.
+Now, the official sample here has not been dressed and dyed, but has been dressed and repaired, and it is claimed by the appellant that repairing is a manufacturing process, so that the second clause is applicable.
+It is not claimed that the word "repaired,” as used in the paragraph, has other than the ordinary meaning. The definition of the word "repair,” as given in the Standard Dictionary, is “to mend, add to, or to make over; to restore to a sound or good state,” and without doubt it is so commonly understood.
+The official exhibit shows certain sewing has been done thereon in various places and it is claimed in argument by the appellee that it is done to close slits in the skin and to strengthen weak places therein. We can only conjecture the purpose of this sewing, but it is assumed by both sides that it constitutes the repairs that have been made to the skin.
+In Ullmann’s case (T. D. 30764), decided July 11, 1910, the Board of General Appraisers had before it skins similarly sewed, although it was there found the sewing was of a temporary nature. So far as we are able to judge from the official exhibit, the sewing here is of a permanent character. The board in the Ullmann case, however, held that whether temporary or permanent, such repairs were not of themselves a manufacturing process within the meaning of the clause here under consideration.
+No appeal appears to have been taken from their decision, and the board held that the Ullmann case was "res judicata of the question at issue” in the case at bar.
+In view of what has been said, we think, when the record and exhibit here are considered and regard had to the fact that we have no warrant to assume that the word "repaired” can be given other than its ordinary meaning, that is must be held that the repairs made to the skins under consideration and the dressing thereof have not resulted in a “manufacture of furs” and that these skins have not been prepared for use as material within the scope of the second clause of paragraph 439 and are not classifiable thereunder.
+The importer having by his protest claimed in the alternative that the merchandise was dutiable as a nonenumerated, partly or wholly manufactured article, under paragraph 480, which imposes the same rate as the first clause of paragraph 439, and no suggestion being made that if this paragraph be found applicable it may not be in-yoked, we proceed to examine that claim.
+The appellee in his brief expressly states that the skins are furs manufactured; the United States, by its contention that they are manufactures of furs within the meaning of the second clause impliedly, of course, admits that they have been partly if not wholly manufactured; and both agree that no paragraph of the tariff act eo nomine subjects them to duty.
+The manifest purpose of the tariff act is to levy a duty upon all articles imported from a foreign country, 'except such as may be specifically exempted therefrom by the act itself. To secure this result, the act, in addition to those paragraphs which tax articles eo nomine, contains what are commonly called “catch-all” paragraphs, of which paragraph 480 is one.
+Paragraph 573 providing for free entry of “furs, undressed,” and paragraph 574 providing lor free entry of “fur skin of all kinds not • dressed in any manner and not specially provided for” appear bo be the only paragraphs admitting fur-bearing skins to free entry.
+These provisions we think clearly indicate that Congress intended to subject furs partly or wholly manufactured that were not dutiable under the provisions of paragraph 439 to the'payment of some duty. It being claimed by both sides in this case that the merchandise is partly or wholly manufactured it follows that it is dutiable at 20 per cent ad valorem under the provisions of paragraph 480.
+It is true that it appears somewhat inconsistent to hold that dressed fur skins, excluded from the first clause of paragraph 439 because they have been subjected to additional treatment than those dutiable thereunder, namely, have been repaired, should nevertheless be held under another paragraph to pay the same rate of duty as that specified in the clause from which they are excluded. This, inconsistency, however, arises from the fact that the tariff act neglects to make provision for dressed and dyed 1'urs that by repairing or otherwise have been advanced beyond the condition prescribed in the first clause of the paragraph and yet have not reached the stage of manufacture which is necessary to include them within the second clause thereof. For this legislative lapse, if such it be, we can afford no remedy.
+We hold, therefore, that the merchandise involved in this case is dutiable at the rate of 20 per cent ad valorem under paragraph 480 of the tariff act of August 5,1909; and not under paragraph 439 thereof, as held by the board, but the rate under either paragraph being the same it results that the judgment of the Board of General Appraisers in respect to the rate of duty is affirmed:
