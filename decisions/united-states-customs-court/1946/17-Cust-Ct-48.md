@@ -1,0 +1,36 @@
+---
+court: "United States Customs Court"
+docket: "(C. D. 1018)"
+decided: "1946-07-24"
+citations: ["17 Cust. Ct. 48"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Keefe, and Ekwall, Judges"]
+parties: ["General Commodity Corp. v. United States"]
+source_url: "https://static.case.law/cust-ct/17/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6598917
+---
+
+# General Commodity Corp. v. United States
+
+## Majority (Cline, Judge:)
+
+Cline, Judge:
+This'is a suit against the United States arising at the port of Buffalo by protest against the collector’s assessment of duty on dried buttermilk at the rate of 6X2 cents per pound under paragraph 708 (b) of the Tariff Act of 1930. It is claimed that the merchandise is properly dutiable at IX cents per pound under said paragraph as modified by the Canadian Trade Agreement, T. D. 49752.
+The pertinent provisions of the tariff act and of the Canadian Trade Agreement are as follows:
+Par. 708 (b) Dried whole milk, 6X2 cents per pound; dried cream, 12X cents per pound; dried skimmed milk and dried buttermilk, 3 cents per pound: Provided, That dried skimmed milk containing more than 3 per centum of butterfat, and dried buttermilk containing more than 6 per centum of butterfat, shall be dutiable as dried whole milk * * *
+Canadian Trade Agreement, T. D. 49752:
+708 (b)_Dried buttermilk_1J4(Í per lb.
+The only issue therefore is whether the dried buttermilk herein contained more than 6 per centum of butterfat in which case it is dutiable as dried whole milk.
+At the trial Henry S. Johnston, vice president of the Lindsay Creamery, Ltd., the shipper of the merchandise, testified that buttermilk is a byproduct obtained in churning butter from cream; that as much butterfat as possible is extracted from the milk; that every' churning is checked to determine the butterfat content of the liquid buttermilk; and that the average butterfat content of the liquid buttermilk is from .38 to .42 per centum. The witness also stated that since 7X pounds of buttermilk powder is obtained from 100 pounds of liquid buttermilk, tbe percentage of butterfat in dried buttermilk ranges from 5.06 to 5.6 per centum. These figures were determined from analyses made by the company’s chemist. No analysis was made to determine the butterfat content of the merchandise involved in the instant case.
+The merchandise herein was purchased by General Commodity Corp. and was shipped in car #511467 arriving at the port of Buffalo on October 18, 1939. The merchandise had been resold to Allied Mills, Inc., and was shipped directly to them.
+John H. Bruscia, an employee at Allied Mills, Inc., testified that he took a sample from 30 to 40 of the 360 bags in car #511467 by using a probe which he inserted into the center of the bags and that he delivered the sample, which weighed 2 or 3 pounds, to Mr. Schrader in the laboratory.
+Robert P. Schrader, a chemist at Allied Mills, Inc., testified that in May 1940 he made a test of a sample weighing about 4 ounces from car #511467, and the analysis showed 5.6 per centum butterfat.
+Plaintiff then offered the testimony of Albert W. Reiser, a chemist connected with the Hallenbeck Inspection and Testing Laboratory. However, plaintiff was unable to connect the sample tested with the merchandise in issue. The sample was traced back from Mr. Reiser to Mr. Hallenbeck to Mr. Embleton of General Commodity Corp. to-Mr. England of Allied Mills, Inc. Mr. England testified that samples taken by the sampleboy come to his desk in green boxes on the afternoon of the day on which they are taken. Mr. England further stated that in the usual course of business, Mr. Bruscia would deliver the sample to the laboratory and then deliver it to him, but that all of the information written on the green box in the instant cáse (exhibit 1 for identification) was not on it when it was taken into the laboratory.
+A motion was made by the Government to strike out the testimony of both Robert P. Schrader and Albert W. Reiser on the ground that there was a gap from the time the sample was taken to the laboratory to the time when a portion was brought in a green box to Mr. England’s desk and that the physical aspects of the official sample (exhibit 3) and plaintiff’s exhibit 2 for identification are different, indicating that the sample analyzed may have been commingled with other merchandise in the laboratory. Plaintiff consented that any unconnected testimony be stricken from the record. It is clear that Mr. Reiser’s analysis was made from the sample in the green box and his testimony in that regard is stricken out. Nor is the sample analyzed by Mr. Schrader clearly identified. Although the sample boy delivered to Mr. Schrader a sample taken from the carload (which must have arrived in October 1939), the test was not made until May 1940. Since, according to Mr. England, samples in green boxes of all shipments of dried milk are kept in a cabinet in the laboratory, it is probable tbat such a sample was used for Mr. Schrader’s test. Therefore, his analysis must also be stricken out as not sufficiently connected with the merchandise in issue.
+At a subsequent hearing plaintiff offered the testimony of Carleton James Austin, chemist for the laboratories of the Supplee-Wills-Jones Milk Co. He supervised a test of a sample obtained from C. J. Tower & Son, the customs brokers herein. Mr. Austin testified, however, that he did not personally make the analysis but saw only a part of the work and the results. He was not interrogated as to the results.
+Mr. Wacker, an examiner at the port of Buffalo, testified that he took a sample from the four bags of the merchandise which had been designated for examination. Defendant offered in evidence the official sample and a stipulation permitting the Government to withdraw one-third for analysis. Isidore Schnopper, assistant chief chemist of the New York Laboratory, Bureau of Customs, testified that he made two analyses of the buttermilk powder contained in the official sample, one in November 1939 and the other in February 1945, and that the first test showed 7.6 per centum butterfat and the second showed 7.4 per centum, the difference being due to a slight increase in the moisture of the sample.
+Since the chemical analyses offered by plaintiff have been stricken from the record, there remain only the testimony of Mr. Johnston of the shipping company and the analyses made by Mr. Schnopper .for the defendant. Mr. Johnston’s testimony indicates the general amount of butterfat found in his product but does not refer specifically to the merchandise in this case. Moreover, the figures given by him were obtained from the company’s chemist .and not from his own work. Mr. Schnopper’s analyses must therefore be accepted as establishing that the butterfat content of the imported merchandise is 7.6 or 7.4 per centum.
+We hold therefore that the collector’s classification of the merchandise as dried buttermilk containing more than 6 per centum of butterfat dutiable at 6K2 cents per pound under paragraph 708 (b) of the Tariff Act of 1930 is correct. The protest is overruled and judgment will be rendered accordingly.
