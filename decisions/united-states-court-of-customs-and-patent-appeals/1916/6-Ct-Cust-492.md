@@ -1,0 +1,29 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1547"
+decided: "1916-01-22"
+citations: ["6 Ct. Cust. 492"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Conkey & Co."]
+source_url: "https://static.case.law/ct-cust/6/cases/0492-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092351
+cites_cases: ["30 Treas. Dec., 159"]
+---
+
+# United States v. Conkey
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+In this case the importing company claims that marine-glue pitch imported by it was used by the Navy in the construction and repair of American-built vessels, and that it is therefore entitled to free entry under section 5 of the Panama Canal act, passed August 24, 1912. The Government contends, first, that the Treasury regulation promulgated under section 5 of said act and requiring the production to the collector of an affidavit of the master builder, general storekeeper, or superintendent showing the use to which the goods were put was valid, and that inasmuch as that regulation was not complied with the goods must, on that ground alone, be denied free entry; second, that there was no evidence of any kind introduced by the importers showing or tending to show that the merchandise which was made the subject of protest was necessary for or was used in the construction or repair of American-built vessels, and that consequently it was error for the board to find that the merchandise' was so used.
+We decided in suit No. 1545 that the Treasury regulation relied upon by the Government was unreasonable inasmuch as it made the affidavit of the master builder, general storekeeper, or superintendent, over whom the importers had no control, exclusive evidence of the fact that the importation was actually used in the construction or repair of American-built vessels. We must therefore hold in this case that the point made in the first contention is not well taken.
+The unreasonableness of the regulation and the fact that the importers could not comply with it did not, however, relieve them from the obligation of overcoming the presumption of correctness attaching to the collector’s decision, and consequently at the hearing before the board they were bound to establish by a preponderance of credible evidence that the merchandise claimed by them to be free of duty was necessary for the construction or repair of American-built vessels. That brings us to a review of the evidence in the case and to a consideration of the Government’s claim that the importers failed to show that the merchandise in question was used for the purposes prescribed by the statute.
+The record discloses that on the 22d day of November, 1912, the Navy Department directed L. W. Ferdinand & Co. to deliver at the Portsmouth Navy Yard, for the use of the United States ship Washington, 5,040 pounds of the marine-glue pitch contracted for with the company. The marine-glue pitch so ordered by the Navy Department was delivered at the Portsmouth Navy Yard, and in due course the contract price was paid therefor. On June 25, 1913, the Navy Department required L. W. Ferdinand & Co. to furnish an additional quantity of the merchandise contracted for, and in compliance with that order 12 casks of marine-glue pitch, containing 336 pounds each, were delivered by the company at the Charleston Navy Yard. The certificate of the general storekeeper of the Charleston Navy Yard, which was admitted in evidence subject to the objection that it was not in conformity with the Treasury regulations, shows that this delivery was made on July 29, 1913, and that out of it 292 pounds were issued to the United States ships Rhode Island, Vestal, and Celtic.
+None of flie testimony or evidence introduced in suit No. 1545 was introduced at the hearing of this case, and so far as we can find there is nothing in the record which would justify us in finding that any of the material delivered to the Navy Department and which is the subject of controversy was either necessary for or actually used in the construction or repair of American-built vessels. Under the acts of Congress which prescribe the rule for the naming of vessels in the United States Navy it is possible that we might take judicial notice of the fact that the Washington and the Rhode Island are battleships of the Amei’ican Navy, and therefore American vessels in the sense that they are American owned. That rule, however, aifords no clue to the status of the Vestal and Geltio, and whether they are American owned or not does not appear. But even if we could assume that all four vessels were American owned, we would still be in the dark as to whether they were American built, unless we were prepared to conclude that they were American built because they were American owned and constituted a part of the American Naval Establishment. Any such conclusion as that would, of course, be unwarranted in the absence of a law prescribing that naval vessels must be American built, and in the light of the. well-known fact that war vessels and naval transports built abroad and acquired by purchase or capture became a part of the American Navy during the Spanish-American War and Philippine insurrection.
+As the record does not disclose that the merchandise under discussion was necessary for the construction or repair of American-built vessels or that it was employed for that purpose, the importation does not fall within the terms of section 5 of the Panama Canal act, and it was therefore not entitled to free entry.
+The decision of the Board of General Appraisers is reversed.
