@@ -1,0 +1,50 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "5527, C.A.D. 1108"
+decided: "1973-11-01"
+citations: ["61 C.C.P.A. 2", "486 F.2d 1385"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Market, Chief Judge, Rich, Baldwin, Lane & Miller, Associate-Judges"]
+parties: ["S. Y. Rhee Importers v. The United States"]
+source_url: "https://static.case.law/ccpa/61/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6077118
+cites_cases: ["353 F. Supp. 880", "37 CCPA 32", "37 CCPA 48", "440 F. 2d. 1384", "53 Cust. Ct. 274", "58 CCPA 157", "69 Cust. Ct. 177"]
+---
+
+# S. Y. Rhee Importers v. United States
+
+## Majority (Miller, Judge.)
+
+Miller, Judge.
+This appeal is from decision and judgment of the United States Customs Court, 69 Cust. Ct. 177, C.D. 4391, 353 F. Supp. 880 (1972), overruling appellant’s protest against the classification as toys, not specifically provided for under TSUS (Tariff Schedules of the United States) item 737.90 of imported plastic inflatable articles having humorous sayings or greetings thereon. We affirm.
+Appellant contends that the articles in question should have been classified under TSIJS item 790.39 which reads:
+790.39 Pneumatic mattresses and other inflatable articles not specially provided for_ 10% ad val.
+An alternate contention in the court below that the articles are dutiable as greeting cards under item 274.05 of the Tariff Schedules is not pursued here. '■
+The articles are of various colors and shapes and are imported in a deflated condition, each in a small plastic outer wrapping. The sayings or greetings on the articles vary according to the appearance of an article when it is inflated and, as noted by appellant, express sentiments keyed to a holiday or event in a recipient’s life. For example, one article is in the shape of a ladybug with the various colors necessary to create the image of a ladybug. The underside of the article has the following saying: “Don’t worry about a thing! They’ve found the BUG that bit you!!”
+After importation, the articles are packaged for sale at retail in a specially designed retail envelope which includes the inflatable article and a separate mailing envelope. The retail envelope conveys information that the contents are “A GREETING PLUS A GIFT FOR ALL AGES.”
+Concerning the tariff classification of toys, the Customs Court in its opinion referred to United States v. Toffs Chewing Gum, Inc., 58 CCPA 157, C.A.D. 1022 (1971), where this court declared:
+The term “toy” is defined in the tariff schedules as “any article chiefly used for the amusement of children or adults.” In interpreting and applying this provision, the courts are precluded from entertaining any considerations of relative specificity with regard to any provisions outside schedule 7, part 5, subpart J3, in which the “toys” item appears.
+The Customs Court then said:
+In view of the customs classification, presumptively the chief purpose of the in'flatable articles is to amuse a child or adult. That purpose is not refuted by the evidence' adduced at trial. The drawings on the 'articles indicating what the articles are intended to represent and the “gag” or humorous sayings on the articles, furthermore, support the presumption that these inflatables are articles chiefly used for the amusement of children or adults. . . . “Greetings” and “amusement” are not mutually exclusive, and the fact that the inflatables have-■a “gag” or humorous “greeting” of sorts is not inconsistent with their classification as articles chiefly used for the amusement of children or adults.
+In reaching its decision, the Customs Court followed General Interpretative Rule 10(e) (i), which .states that “[T]he controlling use iff the chief use, i.e., the use which exceeds all other uses (if any) combined . . . .”
+Although we agree with the Customs Court that greetings anct amusement are not mutually exclusive, we emphasize that chief use .as amusement would be inconsistent with chief use as a greeting card, for example, under General Interpretative Rule 10(e) (i). Therefore, for appellant to prevail, it must first carry the burden of proving that the protested classification was in error or, in other words, that the chief use of the articles in question is not amusement.
+This leads to appellant’s primary argument that the lower court found chief use as a greeting card. Great emphasis is placed on a ■statement by the Customs Court that “[t]he evidence preponder - •ently establishes that the imported inflatable articles are sold and purchased in the same manner that ordinary greeting cards are sold and purchased.” (Emphasis supplied.) Appellant then argues that the Customs Court was, therefore, inconsistent in finding chief use :as a greeting card and then classifying the imported items as toys. Such an inconsistency would, of course, be erroneous. However, as ■quoted above, the Customs Court clearly stated that the chief purpose of amusement “is not refuted by the evidence adduced at trial.” Moreover, it said:
+'It is relatively of little probative value that the articles are sold at counters ■that feature “greeting cards” consisting essentially of printed matter, and •not by retail stores that sell toys exclusively. There are few stores that any longer have a corner on the toy market.
+This court has had occasion to point out that the manner in which an article is bought and sold is not necessarily determinative ■of its classification. United States v. Ignaz Strauss and Company, Inc., 37 CCPA 32, C.A.D. 415 (1949) ; United States v. Ignaz Strauss and Company, Inc., 37 CCPA 48, C.A.D. 418 (1949). Novelty Import Company, Inc. v. United States, 53 Cust. Ct. 274, Abstract No. 68780 (1964) is also in point. There certain imitation poodle dogs were ■classified as manufactures of rayon and other synthetic textiles. The importer protested that they were properly classifiable as toys not ■specially provided for and presented testimony concerning their ■display in toy sections of stores and their sale to toy jobbers. In •overruling the protest, the Customs Court declared:
+The mere fact that three of the witnesses sold the imported items to toy .■jobbers and the other witnesses observed them displayed in the toy section • of large stores, does not ipso facto make the involved merchandise toys since the merchandising medium through which articles may be sold is not always •a proper criterion through which to judge the classification of an article. United States v. Ignaz Strauss and Company, Inc., 37 CCPA 32, C.A.D. 415.
+Accordingly, we do not agree with appellant that the Customs ■■Court found chief use as a greeting card and reached a result in•consistent with such finding.
+The question then becomes one of whether appellant’s evidence below was sufficient to sustain its burden of proving that the chief use of the articles in question was not amusement of children or adults. In holding that such evidence was not sufficient, we note that, almost all of the testimony of appellant’s witnesses related to use-in the hands of the retail purchaser (the sender). Only very-briefly-did two of these witnesses refer to use in the hands of the recipients— the ultimate users, and that testimony was not inconsistent with the concept of chief use for amusement of the recipients. In contrast, appellee’s witnesses concentrated on use in the hands of the-recipients. We hold this to be the decisive point of emphasis here,, for the purchaser merely served as a conduit in enabling the articles, to achieve their chief use — use in the hands of the recipient. And appellee’s witnesses left no doubt that this was amusement. Indeed,, it appears that such use was the. very reason why the articles were purchased instead of ordinary greeting cards and that the “greeting”' use was merely incidental to the chief use of amusement rather than, the other way around, as appellant suggests.
+We note further that three of appellant’s four witnesses considered the articles to be toys or not to be toys upon the basis of whether they were or were not used as playthings — a factor considered irrelevant by this court upon enactment of the Tariff Schedules off the United States. United States v. Topps Chewing Gum, Inc., 58 CCPA 157, C.A.D. 1022, 440 F. 2d. 1384 (1971).
+Appellant argues that its motion to strike certain opinion testimony of appellee’s expert witness should have been granted below.. However, appellant admits that this witness was a qualified psychologist having past experience with greeting cards. The record also-shows that he had experience with modes of communication and greetings relating to the giving and receiving of gifts and that he-had observed the articles in question both before and during the trial. Accordingly, we do not find the Customs Court’s denial of the motion to have been in error. Wigmore on Evidence, Sections-557 and 678, Vol. II (1940); Rule 703, Buies of Evidence for United' States Courts and Magistrates, July 1,1973.
+The judgment of the Customs Court is, therefore, affirmed.
+The relevant provisions relating to TSUS item 737.90 are as follows:
+Schedule 7. — Specified Products : Miscellaneous and Non-ENUMKRATED PRODUCTS
+Part 5. — Arms and Ammunition ; Fishing Tackle; Wheel Goods; Sporting Goods, Games and Toys
+■ Subpart E. — Models ; Dolls, Toys, Tricks, Party Favors Sulpart S. Head-notes:
+2. For the purposes of the tariff schedules, a “toy” Is any article chiefly used for the amusement of children or adults.
+Toys, and parts of toys, not specifically provided for:
+737.80 Toys having a spring mechanism_ *■ * *
+737.90 Other- 28% ad val.
