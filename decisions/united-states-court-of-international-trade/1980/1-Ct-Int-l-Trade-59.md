@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 80-5-00861"
 decided: "1980-12-12"
-citations: ["1 Ct. Int'l Trade 59", "1 Ct. Int'l Trade 60"]
+citations: ["1 Ct. Int'l Trade 59"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
