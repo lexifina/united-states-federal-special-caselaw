@@ -1,0 +1,34 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1379"
+decided: "1914-11-18"
+citations: ["5 Ct. Cust. 410"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Durbrow & Hearne Manufacturing Co."]
+source_url: "https://static.case.law/ct-cust/5/cases/0410-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3878388
+cites_cases: ["1 Ct. Cust. Appls., 29", "153 Fed., 596", "156 Fed., 958", "27 Treas. Dec., 529", "4 Ct. Cust. Appls., 304"]
+---
+
+# United States v. Durbrow & Hearne Manufacturing Co.
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+Eccentrics for the Star sewing machine imported into the country from Germany by parcels post were, classified by the collector of customs at the port of New York as manufactures of metal and assessed for duty at 45 per cent ad valorem under the provisions of paragraph 199 of the tariff act of 1909, which paragraph is as follows:
+199. Articles or wares not specially provided for in this section, composed wholly or in part of iron, Steel, lead, copper, nickel, pewter, zinc, gold, silver, platinum, aluminum, or other metal, and whether partly or wholly manufactured, forty-five per centum ad valorem.
+The importer protested that the goods so classified and assessed were not manufactures of metal, but were in fact finished iron castings, dutiable at 1 cent per pound under the provisions of paragraph 147 of said act, which paragraph is as follows:
+147. Cast-iron andirons, plates, stove plates, sadirons, tailor’s irons, hatter’s irons, and castings and vessels wholly of cast iron, eight-tenths of one cent per pound. All castings of iron or cast-iron plates which have been chiseled, drilled, machined, or otherwise advanced in condition by processes or operations subsequent to the ■casting process but not made up into articles, shall pay two-tenths of one cent per pound more than the rate imposed upon the castings of iron and- cast-iron plates hereinbefore provided for.
+The Board of General Appraisers sustained the protest, and the Government appealed.
+The merchandis.e was returned by the appraiser as "cast-iron niclded and steel-nickled finished parts of sewing machines.” At the hearing before the board the evidence established that the articles in question were eccentrics for the Star sewing machine, and that such eccentrics were made of cast iron, drilled, reamed, and nickel-plated.
+We are of the opinion that the operation of paragraph 147 is limited to castings made wholly of cast iron, and that the terms of the paragraph are not broad enough to cover articles which are made of cast iron and some other metal. This view we think is fully supported by the circumstances which led to the passage of paragraph 147 and to the change which that paragraph accomplished in the laws which preceded it. In the tariff acts of 1883, 1890, 1894, and 1897, castings made of iron were either provided for by name or were covered by the general designation "castings of iron.” There was, however, no specific enumeration of castings of iron or cast-iron plates advanced in condition by processes or operations subsequent to casting, and, by reason of that fact, the board and the courts uniformly held that castings of iron and cast-iron plates advanced in condition by machining, polishing, drilling, cutting, planing, boring, and. like operations were not dutiable as castings, but as manufactures of metal at 45 per cent ad valorem. T. D. 24604, T. D. 26478, T. D. 28276, Lehigh Manufacturing Co. v. United States (153 Fed., 596), Bromley v. United States (156 Fed., 958), Prosser v. United States (1 Ct. Cust. Appls., 29, 30; T. D. 30856).
+Paragraph 147 of the tariff act of 1909 changed the provision covering iron castings in prior acts, first, by adding to the enumeration castings of iron and cast-iron plates advanced in condition; second, by imposing upon such advanced castings an additional duty of two-tenths of 1 cent per pound; and, third, by providing that castings of iron, cast-iron plates, and other specifically enumerated articles should be wholly of cast iron. That amendment, in the fight of the law in force and the decisions rendered at the time of its passage, removed castings of iron and cast-iron plates advanced from the category of "manufactures of metal,” gave them the status of castings of iron with a duty slightly greater than that imposed on ordinary castings, and limited the operation of the paragraph to manufactures which were composed wholly of cast iron.
+True, the limitation "wholly of cast iron” was placed in the'first clause of the paragraph and not in the second, but as that limitation affected castings of iron and cast-iron plates in general, and as castings of iron and cast-iron plates advanced in condition were, under the amendment, none the less castings of iron and cast-iron plates, the words "wholly of cast iron” became as much applicable to the enumeration of the second clause as to the enumeration of the first. Even if the words "wholly of cast iron” had been entirely omitted from the paragraph, we incline to the belief that the designation, " all castings of iron or cast-iron plates which have been chiseled, drilled, machined, or otherwise advanced in condition by processes or operations subsequent to the casting process,” 'covered at best only such castings as were improved after casting by the expenditure of labor, and not those which were presumably bettered by the addition of material other than cast iron. But however that may be, Congress, in our opinion, especially confined the operation of the paragraph under consideration to manufactures wholly of cast iron, and from that it follows that goods made up of cast iron and some other metal are not dutiable as castings of iron advanced in condition.
+The goods involved in this appeal were undoubtedly originally wholly of cast iron, but subsequent to the casting they were plated with nickel, and must therefore be considered as manufactures composed of cast iron and nickel. Consequently they are not covered by paragraph 147 and are strictly within the terms of paragraph 199, which lays a duty of 45 per cent ad valorem on articles or wares partly or wholly manufactured, not specially provided for and composed wholly or in part of metal.
+The decision of the board seems to have been based on the decision of this court in the case of United States v. Leigh & Butler (4 Ct. Cust. Appls., 304; T. D. 33517). That case, as we see it, is not applicable to the facts of this case, for the reason that the merchandise there involved was composed wholly of iron and not of iron and nickel.
+The decision of the Board of General Appraisers is reversed.
