@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "63052; protests 192632-K, etc. (Seattle)"
+decided: "1959-05-13"
+citations: ["42 Cust. Ct. 377"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wm. A. Hausman Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/42/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6622323
+---
+
+# Wm. A. Hausman Co. v. United States
+
+## Majority (Donlon, J.)
+
+Opinion by
+Donlon, J.
+In accordance with stipulation of counsel that the merchandise consists of fresh or frozen boneless pork similar in all material respects to that the subject of Abstract 59714, the claim of the plaintiffs was sustained.
