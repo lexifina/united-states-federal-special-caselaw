@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 87-03-00560"
 decided: "1991"
-citations: ["15 Ct. Int'l Trade 173", "15 Ct. Int'l Trade 174"]
+decided_precision: "year"
+citations: ["15 Ct. Int'l Trade 173"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
