@@ -1,0 +1,28 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 99-03-00178"
+decided: "1999-10-14"
+citations: ["23 Ct. Int'l Trade 752", "74 F. Supp. 2d 1323"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daimler Chrysler Corp., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/23/cases/0752-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9457854
+cites_cases: ["119 S. Ct. 1392", "15 CIT 32", "19 CIT 353", "28 U.S.C. § 1581", "519 U.S. 823", "86 F.3d 1173", "976 F.2d 716"]
+---
+
+# Daimler Chrysler Corp. v. United States
+
+## Majority (Watson, Senior Judge:)
+
+Memorandum Opinion and Order
+Watson, Senior Judge:
+In this civil action, plaintiffs contest the denial by the United States Customs Service of American Goods Returned treatment pursuant to subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States (“HTSUS”) for certain sheet metal components exported to Mexico from the United States and used in the assembly of motor vehicles. The action is before the court under 28 U.S.C. § 1581(a).
+Currently before the court is plaintiffs motion to stay discovery by defendant pending defendant’s answer to the complaint and the resolution of an anticipated motion for summary judgment.
+From the papers before the court, it appears that plaintiff filed a complaint on July 30,1999, which has not yet been answered by defendant, as required by the court’s rules. It further appears that on August 25, 1999 defendant served plaintiff with extensive discovery interrogatories and request for production of documents.
+Plaintiff by its current motion seeks to stay responding to defendant’s discovery (for various periods depending upon several possible scenarios), because without defendant’s answer, plaintiff may not file a motion for summary judgment and cannot assess the relevance of certain facts sought to be discovered by defendant’s interrogatories, and because at this juncture the factual issues to be litigated in this case are not defined by an answer to the complaint. Plaintiff further alleges that while the precise issue in this case was previously resolved in two cases, both decided against plaintiff (Chrysler Corp. v. United States, 19 CIT 353 (1995), aff’d 86 F.3d 1173 (1996), cert. denied 519 U.S. 823 (1996); and General Motors Corp. v. United States, 976 F.2d 716 (Fed. Cir. 1992)), its motion for summary judgment will rely on the more recent decision of the Supreme Court in United States v. Haggar Apparel Co., 119 S. Ct. 1392 (1999). Plaintiff posits that Haggar “has clarified the law with respect to the proper interpretation of tariff item [sic] 9802.00.80 to such a degree that this case may be resolved on a motion for summary judgment.”
+Defendant states that it served pre-answer discovery on plaintiff because, while it recognized that the issues appeared identical to those previously litigated in the above-cited Chrysler case, defendant wished to determine whether there were any distinguishing material facts in this case. However, defendant admits that it now knows those counts and contentions of the complaint that its does not dispute and those contained in the complaint that are in dispute, for which it now wishes to seek discovery before filing an answer. Significantly, however, defendant, neither states that it would be unable file an answer to the complaint without first engaging in the discovery now sought with regard to the disputed matters, nor shows how a delay in discovery until after the case is at issue would be prejudicial in any manner.
+While defendant clearly has a right to conduct discovery with regard to the matters raised in the complaint that it disputes, defendant has not' established any need for the discovery now sought in order to file its answer to the complaint. An answer by defendant may significantly help to clarify what material and relevant facts, if any, are still in dispute with respect to the application of subheading 9802.00.80, HTSUS, to the subject merchandise, and the extent to which the discovery presently sought by defendant is relevant to the legal issues or any factual issues. Fundamentally, stays of proceedings are within the sound discretion of the court. See Eastalco Aluminum Co. v. United States, 15 CIT 32, 33, 757 F. Sup. 1422, 1423-24 (1991).
+Under all the facts and circumstances, particularly the prior litigation of virtually identical issues now before the court and no showing of prejudice to defendant by a delay in discovery, the court concludes that a stay of discovery is warranted pending an answer to the complaint, issuance of a post-assignment scheduling order pursuant to USCIT Rule 16(b), and/or a discovery conference and order pursuant to USCIT Rule 26(f), after which discovery by the parties would proceed in accordance with such orders as the court may enter.
