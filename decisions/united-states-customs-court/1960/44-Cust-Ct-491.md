@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "64251; protests 322437-K, 328282-K, and 58/15314 (New York)"
+decided: "1960-05-31"
+citations: ["44 Cust. Ct. 491"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles R. Gracie & Sons, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6644718
+cites_cases: ["41 Cust. Ct. 73"]
+---
+
+# Charles R. Gracie & Sons, Inc. v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+In accordance with stipulation of counsel that the merchandise consists of Shoji panels similar in all material respects to those the subject of United Enterprises et al. v. United States (41 Cust. Ct. 73, C.D. 2023), the claim of the plaintiff was sustained.
