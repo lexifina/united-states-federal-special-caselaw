@@ -1,0 +1,60 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 92-09-00595"
+decided: "1995-03-09"
+citations: ["19 Ct. Int'l Trade 348", "879 F. Supp. 1338"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Intercargo Insurance Co. f/k/a International Cargo & Surety Co., (Surety for M. Genauer), plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/19/cases/0348-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11898395
+cites_cases: ["107 Stat. 2204", "19 C.F.R. § 159.12", "19 U.S.C. § 1504", "28 U.S.C. § 2643", "28 U.S.C. § 2644", "6 F.3d 763"]
+---
+
+# Intercargo Insurance v. United States
+
+## Majority (Musgrave, Judge:)
+
+Opinion
+Musgrave, Judge:
+This matter came before the Court on cross-motions for summary judgment. The parties stipulated to the following: From September through November of 1989, importer M. Genauer entered through the Port of Seattle, Washington, the eight separate entries of merchandise which are the subject matter of this litigation. In mid-July of 1990, Intercargo, surety for Genauer, received individual notices of extension of liquidation of the eight entries. Each of the notices contained the following language:
+THIS IS A COURTESY NOTICE
+THE LIQUIDATION OF THIS ENTRY HAS BEEN EXTENDED: ADDITIONAL TIME IS REQUIRED BY CUSTOMS TO PROCESS THIS TRANSACTION. NO ACTION IS NECESSARY ON YOUR PART UNLESS INFORMATION IS SPECIFICALLY REQUESTED BY CUSTOMS.
+On July 12,1991, after the statutory one-year period for liquidation had passed, Customs liquidated the entries at a higher duty than that claimed by the importer upon entry. Intercargo paid the liquidated duties for the entries involved and protested to Customs that the notice was not effective as it did not comply with the statute and regulations governing extensions of the liquidation period. Therefore, argued Inter-cargo, the duty claimed by the importer upon entry is the duty at which the entries should have been liquidated by operation of law. Customs denied the protest and this action ensued.
+The statute governing notices of extension, 19 U.S.C. § 1504, as it existed at the time of the entries set out as follows:
+§ 1504 Limitation on liquidation.
+(a) Liquidation
+Except as provided in subsection (b) of this section, an entry of merchandise not liquidated within one year from:
+(1) the date of entry of such merchandise;
+(2) the date of the final withdrawal of all such merchandise covered by a warehouse entry; or
+(3) the date of withdrawal from warehouse of such merchandise for consumption where, pursuant to regulations issued under section 1505(a) of this title, duties may be deposited after the filing of an entry or withdrawal from warehouse;
+shall be deemed liquidated at the rate of duty, value, quantity and amount of duties asserted at the time of entry by the importer of record. Notwithstanding section 1500(e) of this title, notice of liquidation need not be given of an entry deemed liquidated.
+(b) Extension
+The Secretary may extend the period in which to liquidate an entry by giving notice of such extension to the importer of record in such form and manner as the Secretary shall prescribe in regulations, if—
+(1) information needed for the proper appraisement or classification of the merchandise is not available to the appropriate customs officer;
+(2) liquidation is suspended as required by statute or court order; or
+(3) the importer of record requests such extension and shows good cause therefor.
+19 U.S.C. § 1504 (1988), amended by Act of Dec. 8, 1993, Pub. L. 103-182, title VI, § 641, 107 Stat. 2204 (current version at 19 U.S.C. § 1504 (Supp. V 1993)).
+The appropriate Customs Regulation as it existed at the time of the alleged extension is set out as follows:
+§ 159.12 Extension of time for liquidation.
+(a) Reasons — (1) Extension. The district director may extend the 1-year statutory period for liquidation for an additional period not to exceed 1 year if:
+(i) Information needed by Customs. Information needed by Customs for the proper appraisement or classification of the merchandise is not available, or
+í¡í íJí íJí i'fi %
+(b) Notice of extension. If the district director extends the time for liquidation, as provided in paragraph (a)(1) of this section, he promptly shall notify the importer or the consignee and his agent and surety on Customs Form 4333-A, appropriately modified, that the time has been extended and the reasons for doing so.
+19 C.F.R. § 159.12 (1990).
+Customs argued, in its memoranda and at oral argument, that (1) the liquidation of the entries was validly extended because the notice of extension of the liquidation complied with the applicable statute, and the pertinent Customs regulation; (2) to the extent that the Customs regulation is deemed to specifically require that the statutory reason for the extension be stated in the notice, the regulation is merely directory — Customs regulations may not alter the statutory requirements for effecting a valid extension; (3) alternatively, any irregularity in the notices of extension of liquidation here is a mere procedural matter which caused no material prejudice to Intercargo, and the validity of the notices should be sustained. Hence, the entries were not liquidated by operation of law on the one year anniversary dates.
+For its part Intercargo argued that (1) Customs did not validly extend the liquidation because each notice of extension failed to state a statutory reason specified in 19. U.S.C. § 1504(b); (2) even if Customs can establish that a proper statutory reason for extending the liquidation exists, the failure to state this reason on the notices invalidated the extension; (3) the government is not entitled to summary judgment because it failed to establish a proper statutory basis for extending liquidation; (4) the government failed to demonstrate that the notices of extension were lawful; and (5) that the requirement to provide notice is not “merely directory,” as claimed by the government, or “procedural,” but did cause a material prejudice to Intercargo.
+Thus, the issue that came before this Court was whether the notice issued to Intercargo complied with 19 U.S.C. § 1504 and 19 C.F.R. § 159.12, and validly extended the liquidation period when the notice did not explicitly contain one of the three statutory reasons set forth in 19 U.S.C. § 1504(b). The Court of Appeals for the Federal Circuit (“CAFC”), has spoken clearly on the subject of notices of extension in St. Paul Fire & Marine Ins. Co. v. United States, 6 F.3d 763 (Fed. Cir. 1993). In that case, the CAFC interpreted 19 U.S.C. 1504 de novo in reviewing a Court of International Trade decision that Customs had not lawfully extended the liquidation period for contested entries. The CAFC ruled that “[t]he time period may be extended* * * provided that Customs notifies the importer of the extension and articulates one of the three statutory reasons for the extension. 19 U.S.C. § 1504(b), (c).” Id., 6 F.3d at 767.
+This Court found that the reason given to Intercargo in the present case, that “ADDITIONAL TIME IS REQUIRED * * *,” was not a clearly articulated statutory reason for extending liquidation. This Court therefore held the extension not to be valid under the law. Accordingly, plaintiffs motion for summary judgment was granted, and defendant’s motion for summary judgment was denied.
+JUDGMENT
+This cause coming on to be heard on the cross-motions for summary judgment of plaintiff, Intercargo Insurance Company and defendant, The United States, and upon respective opposition and replies, and the Court, having heard the arguments of counsel and being otherwise fully advised in the premises, now therefore,
+It is hereby ordered that:
+(1) Plaintiffs motion be and the same is hereby granted;
+(2) Defendant’s motion be and the same is hereby denied;
+(3) The Notices of Extension of liquidation in this case were and are invalid, and are hereby set aside, and that the July 12,1991 liquidations of the subject entries were and are null and void;
+(4) The subject entries were and are deemed liquidated at the duty, value, quantity, and amount of duties asserted at the time of entry by the importer;
+(5) A monetary judgment shall be and is hereby entered in favor of plaintiff and against defendant pursuant to 28 U.S.C. § 2643(a), in an amount equal to the duties Plaintiff paid on the subject entries, together with interest thereon pursuant to 28 U.S.C. § 2644, calculated from August 31, 1992;
+(6) Defendant shall satifsfy the foregoing judgment within sixty (60) days folliwng the entry of this Order.
+Whereas plaintiffs first cause of action has been abandoned as set forth in this Court’s order of February 7, 1994, there being no further matters before this Court, this case is accordingly dismissed.
