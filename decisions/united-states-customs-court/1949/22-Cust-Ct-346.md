@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "53279; protests 109908-K, etc. (San Francisco)"
+decided: "1949-06-15"
+citations: ["22 Cust. Ct. 346"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Canada Dry Ginger Ale, Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/22/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6666092
+cites_cases: ["22 Cust. Ct. 33"]
+---
+
+# Canada Dry Ginger Ale, Inc. v. United States
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+For the reasons stated in Austin, Nichols & Co., Inc. v. United States (22 Cust. Ct. 33, C. D. 1155), the claim of the plaintiffs was sustained. The protests were overruled in all other respects.
