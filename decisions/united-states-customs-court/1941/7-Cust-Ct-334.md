@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "46671"
+decided: "1941-12-10"
+citations: ["7 Cust. Ct. 334"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 12342-K, etc., of J. F. Starkey & Co. (Boston)."]
+source_url: "https://static.case.law/cust-ct/7/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6680245
+cites_cases: ["6 Cust. Ct. 118"]
+---
+
+# Protests 12342-K of Starkey
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+It was stipulated that the merchandise consists of amorphous graphite or plumbago of the same character as that involved in Starkey v. United States (6 Cust. Ct. 118, C. D. 444). It was therefore held dutiable at 10 percent under paragraph 213 as claimed.
