@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4761; Court Nos. 70/55539"
+decided: "1978-08-17"
+citations: ["81 Cust. Ct. 29"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hambro Automotive Corporation v. United States"]
+source_url: "https://static.case.law/cust-ct/81/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6756049
+cites_cases: ["160 F. 280", "19 U.S.C. § 1402", "19 U.S.C. § 1514", "19 U.S.C. § 1520", "26 CCPA 89", "66 Cust. Ct. 207"]
+---
+
+# Hambro Automotive Corp. v. United States
+
+## Majority (Watson, Judge:)
+
+Memorandum Opinion and Order
+Watson, Judge:
+Defendant has moved to dismiss this consolidated action for lack of jurisdiction. The action challenges the denial of protests which plaintiff filed when its requests for reliquidation of the involved entries under section 520(c)(1) of the Tariff Act of 1930, -as amended, 19 U.S.C. § 1520(c)(1) (1964), were refused by the •appropriate customs officials. Plaintiff made the requests for reliqui-dation in order to correct alleged errors in the appraised values of automobiles which it imported in 1959, 1960 and 1961, which errors assertedly arose from mistaken value information supplied to customs by the manufacturer.
+Defendant advances a number of grounds for dismissal, all of which the court finds to be meritorious. They are the finality of an earlier customs refusal to reliquidate in a majority of the cases, the inappropriateness of section 520(c)(1) to correct the errors made and,- in any event, plaintiff’s failure to comply with the procedural requirements of ■ section 520(c)(1).
+Fifty-two of the entries involved in this action were the subjects of earlier unprotested refusals to reliquidate. Thus, prior to the filing of the 1970 protests here involved against refusals to reliquidate, which are the asserted bases for the protests, the decisions of the appropriate customs officials in 1964, 1965 and 1968, refusing to reliquidate 18 San Francisco entries, 5 • Chicago entries and 29 Houston entries, became final and unassailable as provided in 19 U.S.C. § 1514 (1964). Consequently the treatment of those entries cannot be further challenged and the action must be dismissed as to them for that reason.
+Of the remaining entries virtually all are subject to a dual defect: the asserted errors sought to be corrected were not the type subject to correction under section 520(c)(1) and the plaintiff did not, in any event, bring the errors to the attention of customs in the manner and within the time required;
+The errors sought to be corrected consisted of the use by the manufacturer of general expenses and profits in the home market rather than those of the export market in the cost of production figures it supplied to customs. This mistake is now expressed more diffusely as a misunderstanding of American accounting terms and expressions.
+However it is expressed the mistakes which were made must be considered as being, in essence, misunderstandings of the law, namely, the law governing cost of production, section 402a(f) of tbe Tariff Act of 1930, as amended, 19 U.S.C. § 1402(f). The mistakes were interpretational and decisional. They were not the careless mistakes in routine office tasks, the consequences of which section 520(c)(1) was intended to alleviate. See Morimura, Bros. v. United States, 160 F. 280 (1908). See also S. Yamada v. United States, 26 CCPA 89, T.D. 49628 (1938).
+Aside from the fundamental inapplicability of section 520(c)(1), in only three of these entries did plaintiff bring the alleged errors to the attention of customs in the required manner, that is to say, within the proper time and with sufficient particularity to allow remedial action. United China & Glass Co. v. United States, 66 Cust. Ct. 207, C.D. 4191 (1971).
+Plaintiff raises a number of issues of fact and law which, though they may represent disputes between the parties, are not relevant to the decision of this motion. The circumstances which give rise to the necessity of dismiásal, that is to say, the prior unprotested refusals to reliquidate, the mistakes sought to be corrected and the failure to timely identify the specific entries containing mistakes, are not in dispute. They require a finding that the protests underlying this action were brought to protest decisions regarding matters which could not be protested, either because of the passage of time, the inappropriateness of section 520(c)(1) to the accomplishment of the change in value sought by plaintiff or the failure of plaintiff to comply with the notice requirements of that section. Not being valid protests, their denial is not a matter within the jurisdiction of the court.
+Consequently the court cannot reach plaintiff’s ultimate claim that it is entitled to a refund of duties. Nor can the court consider plaintiff’s related arguments that customs officials acted illegally or in contravention of a ruling or administrative practice in not withholding appraisements or in appraising the importations based on incorrect information or in allowing some 520(c)(1) corrections to be made and not others.
+In actuality this action represents a valiant attempt to salvage claims which had been allowed to atrophy because of a lack of close attention by plaintiff, a lack of coordination between it and the manufacturer, and a general confusion surrounding the appraisement of these importations, to which defendant contributed.
+None of this however can obviate the fact that the jurisdiction of this court can be invoked only by certain very specific and narrowly constructed procedures, one of which is the existence of a properly made protest against a decision which is protestable within the meaning of 19 U.S.C. § 1514. Such protests were lacking in this action, and the action must be dismissed.
+It is therefore
+Ordered that this action be, and the same hereby is, dismissed.
+Section 520(c) (1), as amended, 19 U.S.C. 1520(c) (1) (1964), reads as follows:
+§ 1520. Refunds and errors.
+***»»*»
+(e) Notwithstanding a valid protest was not filed, the Secretary.of the Treasury may authorize a collector to reliquidate an entry to correct—
+(1) a clerical error, mistake of fact, or other inadvertence not amounting to an error in the construction of a law, adverse to the importer and manifest from the record or established by documentary evidence, in ány entry, liquidation, appraisement, or other customs transaction, when the error, mistake, or inadvertence is brought to the attention of the customs service within one year after the date of entry, appraisement, or transaction, or within sixty days after liquidation ór exaction when the liquidation or exaction is made more than ten months after the date of the entry, appraisement, or transaction;
+Entry Nos. 16137, 16138, 17566, 17651,18785, 18786, 18787, 18788, 19223, 19979, 19980, 21999, 24642, 25041, 28307, 30711, 31972, and 33730.
+Entry Nos. 4556, 6152, 6179, 6881, and 6892.
+Entry Nos. 130-H, 698-H, 1756-H, 1761-H, 1806-H, 1807-H, 2026-H, 2384-H, 2385-H, 2765-H, 2808-H, 2809-H, 2882-H, 3090-H, 3266-H, 3449-H, 3637-H, 3667-H, 3673-H, 4177-H, 4178-H, 4609-H, 5107-H, 5542-H, 5648-H, 5702-H, 5954-H, 6569-H, and 2801-H.
+19 U.S.C. § 1514 (1964) reads in relevant: part: as follows:
+§ 1514. Protest against collector's decisions.
+[A)ll decisions of the collector ... or his refusal to relicpiidate any entry for a clerical error . . . shall, upon the expiration of sixty days after the date of such . . . refusal, he final and conclusive upon all persons . . . unless the importer . . . shall, within sixty days after . . . such . . . refusal ... file a protest in writing with the collector setting forth distinctly and specifically, and in respect to each . . . refusal, the reasons for the objection thereto.
+Section 402a(i), as amended, 19 U.S.C. § 1402(f)» provides:
+(f) Cost of Production. — For the purpose of this title the cost of production of imported merchant .dise shall he the sum of-— -
+(1) The cost of materials .of, and of fabrication, manipulation, or other process employed in manufacturing or producing such or similar merchandise, at a time preceding the date of exportation of the particular merchandise under consideration which would ordinarily permit the manufacture or production of the particular merchandise under consideration in the usual course of business;
+(2) The usual general expenses (not less than 10 per centum of such cost) in the case of such or •similar merchandise;
+(3) The cost of all containers and coverings of whatever nature, and all other costs, charges, and expenses incident to placing the particular merchandise under consideration in condition, packed •ready for shipment to the United States; and
+(4) An addition for profit (not less than 8 per centum of the sum of the amounts found under paragraphs (1) and (2) of this subdivision) equal to the profit which ordinarily is added, in the case of merchandise of the same general character as the particular merchandise under consideration, by manufacturers or producers in the country of manufacture or production who are engaged in the production or manufacture of merchandise of the same class or kind.
+San Francisco entry Nos. 16020, 16023, and 17118 were on a list attached to a letter dated July 17, 1962¿ 'sent by counsel for plaintiff to the collector of customs at San Francisco.
