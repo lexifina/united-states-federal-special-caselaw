@@ -1,0 +1,29 @@
+---
+court: "United States Court of Veterans Appeals"
+docket: "92-348"
+decided: "1993-05-10"
+citations: ["5 Vet. App. 93"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and HOLDAWAY and IVERS, Associate Judges."]
+parties: ["Harry B. KATES, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/5/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6437927
+cites_cases: ["1 Vet.App. 140", "1 Vet.App. 171", "2 Vet.App. 492", "2 Vet.App. 609", "3 Vet.App. 510", "38 U.S.C.A. §§ 5108", "5 Vet.App. 91"]
+---
+
+# Kates v. Brown
+
+## Majority (HOLDAWAY, Associate Judge:)
+
+HOLDAWAY, Associate Judge:
+This is an appeal from a January 1992 decision of the Board of Veterans’ Appeals (Board or BVA) that found appellant had failed to produce “new and material” evidence in his attempt to reopen a claim for a fungal infection of his feet that he alleges he contracted during military service. The BVA previously denied this claim in 1989. The Court will affirm the decision of the Board.
+BACKGROUND
+Appellant served with the United States Army from April 1943 until November 1945. In his personal testimony he contends that during the time he was in Italy, France, and Germany, in 1944-45 as a member of the Signal Corps, he was in the field under damp conditions and, as a result, contracted foot fungus. He admits there is no medical evidence from the time he was in the service of treatment for his feet, but he does aver that he received advice from medical field station personnel that he should keep his feet dry and change his socks often. His induction physical is negative for a fungal infection as is his separation physical. Both examinations specifically note, in the “box” for skin conditions, that there were appendectomy and hernial scars. Appellant also received a reemployment examination from the telephone company in 1945 that was negative for fungal infections. He apparently filed a claim in 1949 for a fungal infection of his right hand but was denied for lack of corroborating evidence from his service medical records. In September 1988, he again filed a claim, this time for his feet. This claim was essentially based on his own personal testimony; no medical evidence was presented. According to appellant, he had been treated for the fungal condition at some time after the war by a dermatologist in New Jersey, but could not remember his name. The Board, in November 1989, denied this claim for lack of evidence. Appellant then obtained a statement from a fellow serviceman in an attempt to reopen his claim. It is the issue of whether this evidence is “new and material” that is before the Court.
+The “new” evidence is a statement executed in October 1989 by Mr. C.D. Ezell, averring that he noted a “fungus infection” of the appellant’s feet in 1944 during the time he and the claimant served together in the Army. The Board found this evidence to be “new” but not “material” and accordingly refused to reopen the claim. Before deciding not to reopen the claim, however, the Board thoroughly and carefully reviewed this new evidence in the context of all the evidence, both new and old.. Citing this Court’s decision in Colvin v. Derwinski, 1 Vet.App. 171, 174 (1991), the Board found that there was no reasonable possibility that this statement, based as it was on recall of some 45 years, would change the result. This evidence, in the Board’s view, was “not as convincing as the veteran’s service medical records and discharge examinations which show no skin condition of the feet. Similarly, no skin condition of the feet was shown during a reemployment examination in November 1945 ...” Harry B. Kates, BVA 92-_, at 5 (Jan. 10, 1992). Accordingly, the Board found the “new” evidence not “material” and denied “the benefit sought on appeal.”
+ANALYSIS
+The Board’s 1989 decision, which denied appellant’s claim for fungal infection of his feet, was final and could be reopened only upon the presentment of “new and material” evidence. If “new and material” evidence is presented or secured, the claim must be reopened and readjudicated. See 38 U.S.C.A. §§ 5108, 7104 (West 1991). Of course, if there is “new and material” evidence, that does not necessarily mean that the claimant “wins”; its presentment only compels the reopening and readjudication of the claim. See Manio v. Derwinski, 1 Vet.App. 140, 145-46 (1991); Justus v. Principi, 3 Vet.App. 510, 512-13 (1992). “New” evidence is that which is relevant to and probative of the issue at hand which to be material must be of sufficient weight or significance (assuming its credibility) that there is a reasonable possibility that the new evidence, when viewed in context of all the evidence, both new and old, would change the outcome. Colvin, 1 Vet.App. at 174.
+In finding no “reasonable possibility” that the new evidence would change the outcome in this case, the Board determined the new evidence not to be material and refused to reopen the case. The Court agrees. The evidence of Mr. Ezell is not material. This statement by a lay witness as to the medical condition of the feet of a fellow soldier some 45 years before is simply not of sufficient weight to establish a reasonable possibility that the outcome of the case would change, given the negative physical examinations noted above. See Espiritu v. Derwinski, 2 Vet.App. 492, 494-95 (1992); cf. Tirpak v. Derwinski, 2 Vet.App. 609 (1992); cf. Grottveit v. Brown, 5 Vet.App. 91, 93 (1993). This is not to imply that Mr. Ezell is not being truthful. However, even after according full credibility to Mr. Ezell’s statement, it is nonetheless not of sufficient weight or significance to qualify as “material” evidence.
+The Board’s January 10, 1992, decision is AFFIRMED.
