@@ -1,0 +1,37 @@
+---
+court: "United States Customs Court"
+docket: "62986; protest 321832-K/ 9374 (Chicago)"
+decided: "1959-04-23"
+citations: ["42 Cust. Ct. 357"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. E. Bernard & Company, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/42/cases/0357-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6614225
+cites_cases: ["14 Ct. Cust. Appls. 17", "19 U.S.C. § 1001", "8 Ct. Cust. Appls. 351", "82 Treas. Dec. 305", "91 Treas. Dec. 150"]
+---
+
+# J. E. Bernard & Co. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+The merchandise before us consisting of four handmade wool tapestries was assessed with duty at the rate of 45 per centum ad valorem under paragraph 1529(a) of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T.D. 51802, as “Fringes and articles wholly or in part of fringes (except wearing apparel).”
+It is contended by plaintiff that said merchandise is properly dutiable at 23% per centum ad valorem under paragraph 1117(a) of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108, as “carpets, rugs, and mats.” By timely amendment, it is alternatively claimed to be properly dutiable at 22% per centum ad valorem, the higher rate provided for under paragraph 1116(a) of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T.D. 51802, as “other carpets, rugs, and mats, not made on a power-driven loom.” The claim made by this amendment is the one relied upon by plaintiff.
+The pertinent portions of the provisions relied upon are as follows:
+Paragraph 1529(a), Tariff Act of 1930, as modified by T.D. 51802, supra:
+* * * fringes * * * all the foregoing and articles wholly or in part thereof but not in part of lace and not ornamented: Fringes and articles wholly or in part of fringes (except wearing apparel)- 45% ad val.
+Paragraph 1116(a), Tariff Act of 1930, as modified by T.D. 51802, supra:
+Oriental, Axminster, Savonnerie, Aubusson, and other carpets, rugs, and mats, not made on a power-driven loom, plain or figured, whether woven as separate carpets, rugs, or mats, or in rolls of any width_15^ per sq. ft., but not less than 22% % ad val.
+Also pertinent is the provision contained in Public Law 721, 75th Congress, T.D. 49646, which amends paragraph 1529(a) of the Tariff Act of 1930 (19 U.S.C. § 1001, par. 1529(a)) by inserting “1116(a)” after the figure “1111.” By this amendment, merchandise dutiable under paragraph 1116(a) is excepted from classification under the provision for fringes, or any of the other articles provided for in paragraph 1529(a), supra.
+From the record, it would appear that at least three of the involved articles had fringe, which was made as part of the manufacturing process, while one had no fringe at all. As to the latter one, the classification is, of course, incorrect. In classification cases, it is the burden of the plaintiff not only to establish the incorrectness of the classification but to prove the correctness of the classification sought. United States v. Gardel Industries, 33 C.C.P.A. (Customs) 118, C.A.D. 325; United States v. Cody Manufacturing Co., Inc., Rohner Gehrig & Co., Inc., 44 C.C.P.A. (Customs) 67, C.A.D. 639.
+In an effort to overcome this presumption of correctness attaching to the collector’s classification, counsel for plaintiff called upon the importer to testify. No evidence was offered by the defendant.
+The witness testified that he is a partner in the firm of Stedman-Harris, the ultimate consignee herein, whose business is interior decorating. Mr. Harris has been in this business for approximately 30 years. He personally ordered the involved merchandise, which is described on the invoice as “tapestries” from Lisbon, Portugal. The witness stated that they were rugs which are copies of old documents, made by hand, without a loom, of wool, by women in what was described as “more or less of a charitable institution.” The rugs are made on a backing, using a needlework process, with as many as 20 women working on one item. The rugs measured 12 feet in width and ran from 9 to 20 feet in length.
+Mr. Harris has seen items such as those involved herein used as rugs on a floor. An Aubusson rug is a needlework type of rug with no pile. The involved merchandise has no pile either, but is not an Aubusson, Axminster, Oriental, or Savonnarie. A sample of material illustrative of the type of merchandise was received as plaintiff’s illustrative exhibit 1.
+The record herein establishes, without contradiction, that the imported articles described as tapestries on the invoice are in fact rugs. Paragraph 1529(a), supra, under which the classification herein was made, has been held to invade every paragraph of the tariff schedules, by virtue of containing the following language: “* * * by whatever name known, and to whatever use applied, * United States v. Snow’s United States Sample Express Co., 8 Ct. Cust. Appls. 351, T.D. 37611; Blumenthal & Co. v. United States, 14 Ct. Cust. Appls. 17, T.D. 41531; Madame Adele v. United States, 23 C.C.P.A. (Customs) 305, T.D. 48176; United States v. C. I. Penn, 27 C.C.P.A. (Customs) 242, C.A.D. 93; A. Stein & Co. v. United States, 28 C.C.P.A. (Customs) 280, C.A.D. 155.
+In order for plaintiff to prevail, it must be satisfactorily established that the involved rugs fall within one of the paragraphs of the tariff act excepted from this provision. The claim relied upon by plaintiff under paragraph 1116(a), supra, is one of the paragraphs so excepted.
+It is clearly established that the involved rugs are made of wool and not made on a power-driven loom. It has been repeatedly held that paragraph 1116 of the Tariff Act of 1930 and its predecessor, paragraph 1116 of the Tariff Act of 1922, do not embrace all wool rugs not made on power-driven looms, but only rugs which are of the same class or kind as those provided for eo nomine therein. United States v. Marshall Field & Co., 18 C.C.P.A. (Customs) 228, T.D. 44404; United States v. Marshall Field & Co., 18 C.C.P.A. (Customs) 403, T.D. 44642; New England Guild v. United States, 26 C.C.P.A. (Customs) 42, T.D. 49577; D. N. & E. Walter & Co. et al. v. United States, 43 C.C.P.A. (Customs) 100, C.A.D. 615. The instant record establishes that the involved rugs and the Aubusson rug provided for eo nomine in said paragraph are both of the needletype construction, having no pile. Accordingly, it would appear that the imported rugs are of the same class or kind of at least one of the rugs enumerated. In the Walter case, supra, the additional factor of weaving was considered. This does not appear to affect the merchandise involved herein, since Webster’s New International Dictionary, second edition, unabridged (1949), defines “tapestry” as “A heavy hand-woven textile of cloth weave, or sometimes twill, commonly figured and used as a wall hanging, carpet, or furniture cover.”
+Based on the record here presented, we are of the opinion and hold that the imported rugs should have been classified under paragraph 1116(a) of the Tariff Act of 1930, as modified, supra, as claimed.
+Judgment will be entered accordingly.
