@@ -1,0 +1,35 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1434"
+decided: "1914-12-14"
+citations: ["5 Ct. Cust. 474"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. American Railroad Co. of Porto Rico"]
+source_url: "https://static.case.law/ct-cust/5/cases/0474-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3881204
+cites_cases: ["1 Ct. Cust. Appls., 400", "2 Ct. Cust. Appls., 167", "27 Treas. Dec., 672", "39 Fed., 384", "5 Ct. Cust. Appls. 175"]
+---
+
+# United States v. American Railroad
+
+## Majority (MONTGOMERY, Presiding Judge,)
+
+MONTGOMERY, Presiding Judge,
+delivered the opinion of the court:
+This case involves two importations of like character. The importations consist of pile protectors, each protector being composed of eight sections, each section of two semicircular iron plates one-fourth of an inch thick, which when riveted together make a drum about 5 feet in diameter and 5 feet in height. Duty was assessed upon each importation at the rate of 45 per cent ad valorem under paragraph 199 of the tariff act of 1909 as. manufactures of iron not specially provided for. The protest claims that the merchandise is dutiable at four-tenths of a cent per pound under paragraph 121 of the act of 1909. For convenience, those two paragraphs are here quoted:
+199. Articles or wares not specially provided for in this section, composed wholly or in part of iron, steel, lead, copper, nickel, pewter, zinc, gold, silver, platinum, aluminum, or other metal, and whether partly or wholly manufactured, forty-five per centum ad valorem.
+121. Beams, girders, joists, angles, channels, car-truck channels, T T, columns and posts or parts or sections of columns and posts, deck and bulb beams, and building forms, together with all other structural shapes of iron or steel, not assembled, or manufactured, or advanced beyond hammering, rolling, or casting, valued at nine-tenths of one cent per pound or less, three-tenths of one cent per pound; valued above nine-tenths of one cent per pound, four-tenths of one cent per pound.
+The testimony as to the method of manufacture of these pile protectors was taken by deposition and consists of the testimony of a single witness, Leon Brulé. He testified that the firm with which he is connected manufactured the goods in question. When asked to state -the processes of manufacture, he said that the plates were traced exactly to dimensions given, then' sheared; the stretching irons -were then used after the plates were heated, the plates were then laid out for the purpose of marking the rivet holes, these holes were then punched, and then the plates were rolled by the machine. After these different operations, the plates forming the cylindrical sections were assembled together to assure the agreement of these holes. On cross-examination he was asked:
+Q. Were tbe rivet boles punched or were they drilled? — A. They were punched.
+Q. Were the rivet holes produced after the plates or other pieces had been formed by hammering, rolling, or casting? — A. The holes were punched after rolling.
+Q. Is it not true that every article or piece of metal in the importations was treated before importation with some operation other than that of hammering, rolling, or casting? — A. Yes, the work of punching the holes was as indicated in the fifth question and then the plates were rolled by the machine.
+This testimony is seemingly self-contradictory, but this contradiction may be owing to an error in translation, as it appears that the testimony was taken and answers were given in French, and translation afterwards furnished by the importers. It might well be that .there was error in translating the statement, as to the sequence with which the work was done, in the answer to the direct interrogatory, and in answer to the later cross-interrogatory. But the fact remains that when the question was put directly to the witness as to whether the holes were produced after the plates had been formed by hammering, rolling, or casting, the answer is distinct that they were punched after rolling.
+The case then presents the single question as to whether the punching of these holes'is an advancement in the course of manufacture beyond hammering, rolling, or casting. We think it must be said that it is a further process of manufacture after the rolling process. It results in making out of a crude article the form ready for actual use. Nothing remained to be done except to put the parts together at the place of destination, they having been in fact assembled, according to the testimony of the witness, at the place of manufacture to assure the agreement of the holes. It is true that they must then be riveted to complete the article, but to say that they are not advanced beyond the hammering process is to ignore the important fact of the punching of the rivet holes.
+We held in the recent case of Kuyper v. United States (5 Ct. Cust. Appls. 175; T. D. 34253) that paragraph 121 was intended to cover a class of merchandise of a cruder form and ordinarily advanced to a less degree of manufacture and completeness than paragraph 131, and that paragraph 121 enumerates as dutiable articles which have been subjected to the more common processes of hammering, rolling, or casting. It is true the precise question here involved was not there discussed, but the case is authority to the point that paragraph 121 was intended to define only crude articles and the distinct restriction that such articles should not be advanced in condition beyond hammering, rolling, or casting would seem to place a limitation, which has been exceeded in this case by the process of punching rivet holes.
+A similar question was before the board in T. D. 31180. There the merchandise consisted of railroad ties of steel cut the proper length, with bolt holes punched in each end. They were claimed to be dutiable under paragraph 131 of the act, which covers a variety of articles, including steel “pressed, sheared, or stamped shapes not advanced in value or condition by any process or operation subsequent to tbe process of stamping,” and concluding with a provision for steel not specially provided for. The board held, in effect, that this provision for steel not specially provided for had relation to the unfinished forms of steel of like character as those previously mentioned as “material,” and that the articles there in question were completed articles to be bolted together and that they were advanced beyond the condition provided for by paragraph 131.
+As to what amounts to an advance in condition of an article beyond the crude state, see United States v. Richter (2 Ct. Cust. Appls., 167; T. D. 31680), United States v. Westrumite Co. (1 Ct. Cust. Appls., 400; T. D. 31480), and Birtwell v. Saltonstall (39 Fed., 384).
+The board in the present case sustained the protest. We think this was error. The decision is reversed and the assessment sustained.
