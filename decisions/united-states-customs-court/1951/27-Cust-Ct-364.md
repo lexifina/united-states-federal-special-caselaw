@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "56085; protests 108010-K, etc. (San Francisco)"
+decided: "1951-11-28"
+citations: ["27 Cust. Ct. 364"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alpha Distributing Company et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/27/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6648876
+cites_cases: ["22 Cust. Ct. 33"]
+---
+
+# Alpha Distributing Co. v. United States
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+For the reasons stated in Austin, Nichols & Co., Inc. v. United States (22 Cust. Ct. 33, C. D. 1155), the claim of the plaintiffs was sustained.
