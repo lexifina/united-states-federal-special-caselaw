@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 92-04-00302 (BN)"
 decided: "1993-08-05"
-citations: ["17 Ct. Int'l Trade 778", "829 F. Supp. 1343", "17 Ct. Int'l Trade 786", "829 F. Supp. 1349"]
+citations: ["17 Ct. Int'l Trade 778", "829 F. Supp. 1343"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Win-Tex Products, Inc., plaintiff v. United States, defendant, and Mi
 source_url: "https://static.case.law/ct-intl-trade/17/cases/0778-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6134064
-cites_cases: ["19 C.F.R. § 353.29", "19 C.F.R. § 353.2900", "28 U.S.C. § 1581", "454 F. Supp. 835", "467 U.S. 837", "47 Fed. Reg. 41,149", "474 U.S. 1055", "48 Fed. Reg. 12,764", "48 Fed. Reg. 37,055", "48 Fed. Reg. 45,277", "507 F. Supp. 1007", "572 F. Supp. 883", "582 F. Supp. 887", "583 F.2d 942", "593 F. Supp. 420", "669 F. 2d 692", "692 F. Supp. 1382", "715 F. Supp. 1104", "716 F. Supp. 1031", "716 F. Supp. 1580", "718 F. Supp. 41", "739 F. Supp. 1555", "744 F. Supp. 1168", "761 F. 2d 1552", "762 F. Supp. 344", "772 F. Supp. 1284", "785 F. 2d 994", "797 F. Supp. 1025", "802 F. Supp. 455", "811 F. Supp. 692", "873 F. 2d 1422", "898 F. 2d 1577", "913 F. 2d 933", "915 F.2d 683", "966 F. 2d 660", "988 F. 2d 1573"]
+cites_cases: ["19 C.F.R. § 353.29", "19 C.F.R. § 353.2900", "28 U.S.C. § 1581", "467 U.S. 837", "47 Fed. Reg. 41,149", "48 Fed. Reg. 12,764", "48 Fed. Reg. 37,055", "48 Fed. Reg. 45,277", "507 F. Supp. 1007", "572 F. Supp. 883", "582 F. Supp. 887", "669 F. 2d 692", "692 F. Supp. 1382", "715 F. Supp. 1104", "716 F. Supp. 1580", "739 F. Supp. 1555", "744 F. Supp. 1168", "762 F. Supp. 344", "785 F. 2d 994", "802 F. Supp. 455", "811 F. Supp. 692", "873 F. 2d 1422", "898 F. 2d 1577", "915 F.2d 683", "966 F. 2d 660", "988 F. 2d 1573"]
 ---
 
 # Win-Tex Products, Inc. v. United States
