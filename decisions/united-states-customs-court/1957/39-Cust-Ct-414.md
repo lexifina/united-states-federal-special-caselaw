@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "61180; protest 291349-K (New York)"
+decided: "1957-08-27"
+citations: ["39 Cust. Ct. 414"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. Boyd v. United States,"]
+source_url: "https://static.case.law/cust-ct/39/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6605413
+---
+
+# Boyd v. United States
+
+## Majority (Ford, J.)
+
+Opinion by
+Ford, J.
+The protest was dismissed for lack of prosecution.
