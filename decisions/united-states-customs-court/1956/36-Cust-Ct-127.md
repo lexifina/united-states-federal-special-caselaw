@@ -1,0 +1,47 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1763"
+decided: "1956-02-23"
+citations: ["36 Cust. Ct. 127"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["L. E. McCullough & Company v. United States"]
+source_url: "https://static.case.law/cust-ct/36/cases/0127-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6579807
+cites_cases: ["22 Cust. Ct. 266"]
+---
+
+# L. E. McCullough & Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+The merchandise the subject of this protest is described on the invoice as “Fiberglas” and is imported in the form of batts or sheets of specified density, thickness, length, and width. It is used by the ultimate consignee as an insulating material in the manufacture of commercial refrigerators.
+There does not appear to be any dispute but that the imported product is made up of 96 per centum glass and 4 per centum synthetic resin. The collector of customs classified the merchandise as—
+Manufactures wholly or in chief value of any product of which any synthetic resin * * * is the chief binding agent * * *
+and took duty at the rate of 35 cents per pound and 30 per centum ad valorem under the provision therefor in paragraph 1539 (b) of the Tariff Act of 1930, as modified by the Presidential proclamation relating to the General Agreement on Tariffs and Trade, T. D. 51802.
+Plaintiff denies that synthetic resin is the chief binding agent of the imported merchandise and makes alternative claims for classification under the following tariff provisions:
+(1) As articles, not specially provided for, composed wholly or in chief value of glass, blown otherwise than in the mold, at the rate of 50 cents per article, but not less than 30 per centum nor more than 50 per centum ad valorem, under paragraph 218 (f), Tariff Act of 1930, as modified by the Presidential proclamation relating to the said general agreement, T. D. 51898;
+(2) As articles, wares, and materials, composed wholly or in chief value of earthy or mineral substances, not specially provided for, not decorated, at the rate of 15 per centum ad valorem under paragraph 214 of said act, as modified by said Presidential proclamation, T. D. 51802;
+(3) As nonenumerated manufactured articles, at the rate of 20 per centum ad valorem under paragraph 1558 of the said act, or
+(4) As manufactures of which glass is the component material of chief value, not specially provided for, at the rate of 40 per centum ad valorem under paragraph 230 (d) of said act, as modified by said Presidential proclamation reported in T. D. 51898.
+The record shows that the glass portion of the imported merchandise is composed of silica, lime, and soda ash, the silica being river sand. The ingredients are melted into a liquid mass which is subjected to a pressure of several hundred pounds and forced through a bank of nozzles, each of which has 8 or 10 small perforations in it. The exudate is in the form of glass fibers which solidify as they emerge into the air and drop onto a moving belt. In so doing the fibers interlace with each other and form a mat. To make 1-inch-thick material, a mat approximately 8 inches high is formed, and this is compressed under a roller on the moving belt to the 1-inch thickness. The height of the roller above the moving belt determines the thickness, and the speed of the belt determines the density. The material is then cut into the required length and width.
+Material formed by the above-described process alone, although satisfactory for its insulating qualities, was found to be difficult to cut into the sizes required for the ultimate consignee’s business. As the material was soft, it would not cut properly and had to be pulled apart, this itself being a difficult operation. Consequently, some method of stiffening the material was sought. For this purpose, starch was originally used, but proved to be objectionable in refrigerator applications where moisture might be expected to be present.
+The material finally used to accomplish the desired result, and that present in the imported merchandise, was synthetic resin in the form of Bakelite. A small amount of Bakelite in liquid form is sprayed into the glass material as it is being formed into the batt or mat, and, according to the uncontradicted evidence, coats some of the glass fibers and adds the quality of stiffness to the product when it solidifies.
+On behalf of the plaintiff, the vice president in charge of manufacturing and engineering of the ultimate consignee, a man of considerable training and experience in the manufacture of refrigerators and in the nature and applications of glass, including Fiberglas, testified that it is the intertwining of the fibers in the Fiberglas which is the chief reason for the imported product to hold together, and that while the Bakelite spray might add some element of binding the material together, such material is already bound by the intertwining of the fibers and the additional binding effect is only incidental.
+On behalf of the defendant, a Government chemist, whose qualifications were conceded by the plaintiff, identified synthetic resin when mixed with other materials as “generally used as a binding agent,” but went no further than to say that in an analysis he conducted the synthetic resin was removed from a sample of the imported material and he found that the Fiberglas material “adhered better” before the synthetic resin was removed than after it was removed. This evidence is consistent with that offered on behalf of the plaintiff.
+We are of the opinion that the plaintiff established that the synthetic resin found in the imported product was not the chief binding agent thereof and that the defendant did not successfully controvert this fact. It follows, therefore, that the collector’s classification was in error, and we proceed to a determination of whether the evidence offered establishes the correct classification of the merchandise.
+Of the tariff provisions under which claim is made by the plaintiff, two seem to describe the imported merchandise more specifically than the others. These are (1) the claim under paragraph 218 (f), as modified, providing for—
+* * * all articles of every description not specially provided for, composed wholly or in chief value of glass, blown or partly blown in the mold or otherwise * * *,
+and (2) the claim under paragraph 230 (d), as modified, for—
+All glass, and manufactures of glass, or of which glass is the component material of chief value, except broken glass or glass waste fit only for remanufacture * * *.
+At first glance, it would seem that the Fiberglas batts at bar would literally be within the above-quoted provision in paragraph 218 (f), in view of the fact that it is an article, not specially provided for, composed in chief value of glass, which was formed by blowing in the sense that air pressure was used to force the molten glass through the nozzle perforations. However, a careful reading of the language of the provision and an examination of the judicial and legislative treatment thereof and of its predecessors would indicate that the provision has reference to glassware formed by blowing in the sense of inflating a gob of glass either in a mold or by other means. Such is not the case of the Fiberglas at bar, each strand or fiber of which is solid, although flexible, glass. Note Marks & Rosenfeld, Inc. v. United States, 22 Cust. Ct. 266, Abstract 62952, and the 7th definition of the verb “to blow” in its transitive form, as given in Webster’s New International Dictionary, 2d edition 1945, as follows:
+7. To form by inflation; to swell by injecting air; as, to blow bubbles; to blow glass.
+We are, therefore, of the opinion that the provisions of paragraph 218 (f), supra, are not applicable to the merchandise at bar. This leaves for consideration the provisions of paragraph 230 (d), quoted above. Counsel for the plaintiff, although not abandoning that claim, calls attention to the exception of “broken glass” from the purview of the provision and points out the following testimony given by its witness at the trial:
+Q. Would you say that the whole of that material is composed of broken threads? — A, Yes, sir.
+Q. Broken glass threads? — A. Yes, sir. (Trans, p. 25.)
+We think, however, that, when this testimony is read together with the witness’ description of the process of producing the Fiberglas material, it becomes clear that he was using the term “broken” in the sense that the fibers, as they are extruded from the nozzles, are continuously being pulled, so that at some point each fiber is terminated and a new one formed, instead of each nozzle supplying one continuous fiber for the full length of the material. We do not think, therefore, that the term “broken glass” can be said to aptly describe the merchandise, and, as there is no question but that it is not within the term “glass waste fit only for remanufacture,” it is our view that the exceptions to the provision for manufactures of glass in paragraph 230 (d), supra, do not apply to this situation.
+For the foregoing reasons judgment will issue sustaining the protest claim for duty at the rate of 40 per centum ad valorem under paragraph 230 (d), as modified, accordingly.
