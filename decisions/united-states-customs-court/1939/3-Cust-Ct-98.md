@@ -1,0 +1,49 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 211"
+decided: "1939-09-13"
+citations: ["3 Cust. Ct. 98"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Evans, and Keefe, Judges"]
+parties: ["Chas. T. Wilson Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/3/cases/0098-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6620755
+cites_cases: ["18 C. C. P. A. 332", "19 C. C. P. A. 79"]
+---
+
+# Chas. T. Wilson Co. v. United States
+
+## Majority (Evans, Judge:)
+
+Evans, Judge:
+This is an action against the United States to recover a sum of money claimed to have been illegally assessed at the port of New York as customs duties on importations of ginger root. Two protests are involved, having been consolidated for trial. One importation is designated as African ginger and the other, according to the declaration of the shipper, as ginger grown in Cochin, British India. The collector of customs at the port of entry classified both importations for duty under paragraph 778 of the Tariff Act of 1930-as ginger root “otherwise prepared or preserved” than candied, and assessed duty thereon at the rate of 20 per centum ad valorem. The plaintiff, herein, the importer of the merchandise, claims that it is. entitled to free entry under the provisions of paragraph 1768 of tha same law as “ginger root, not preserved or candied.”
+We quote the respective paragraphs of the act as follows;
+Pak. 778. Ginger root, candied, or otherwise prepared or preserved, 2Ó pet ■centum ad valorem.
+Pak. 1768. Spices and spice seeds:
+■(1) Cassia, cassia buds, and cassia vera; cloves; clove stems; cinnamon and cbmamon chips; ginger root, not preserved or candied; mace; nutmegs; black •or white pepper; and pimento (allspice); all the foregoing, if unground.
+The plaintiff called seven witnesses in support of his case, one of whom was a qualified chemist who for 6 years was in the Government service. He examined the imported commodities and pronounced them to be the dried natural ginger root without preservatives. He further added that ginger root could not be shipped from its place of production in Africa to the United States in a green state because—
+In the state in which it is taken from the ground, with its normal moisture content, it would decay and mould. It couldn’t be shipped for any length of time, such as would elapse from Africa to the United States, without decomposing.
+This witness also said parts of the cortex of the imported samples had been removed. During the course of his cross-examination he was asked the following question:
+But the effect is that you have a peeled ginger root there, haven’t you?
+To this he answered:
+No, it isn’t a peeled ginger root. There is considerable cortex on this root
+The witness, Trafford, secretary and treasurer of the importing company, stated that Exhibits 1 and 2, the samples in evidence, had not been peeled but some of it might be rubbed off in shipping. He further stated that if the ginger had been peeled it would be white.
+A notation in red ink on the invoice in protest 890749-G states:
+Ginger root partly peeled and dried.
+It is clear that the examining officers were under the impression that this commodity had been thus treated; hence the classification.
+The plaintiff urges at length that long-establisbed practice should control and cites authority for his claim of classification. On the question of long-continued customs practice we make this observation. The provision relating to ginger root as it appeared in paragraph 235 of the Tariff Act of 1913, the only paragraph of that act relating to ginger root, did not specify “prepared” ginger root, whereas in the 1922 act ginger root was provided for under paragraph 776 as “ginger root, candied, or otherwise prepared or preserved,” while under the spice paragraph, 779, it was provided for as “ginger root not preserved or candied,” unground and ground. Practically the same language appears in the 1930 act in the paragraph here involved, so that the practice of classification could not have been very long continued. However, our decision will not rest on that proposition.
+As stated above the papers indicate that the collector thought the merchandise had been prepared. The Government attorney in his argument does not stress that feature of the evidence but insists that this ginger root has been preserved by drying. His statement in that respect as it appears in point I of his brief is as follows:
+The facts in this case are simple and undisputed. The imported ginger root has been thoroughly dried to remove all excess moisture. This process is necessary in order to insure its preservation and make it an article of commerce. In its natural state, it is green, soft, and moist and cannot be shipped or handled. Therefore, it can be accepted as an undisputed conclusion that this ginger root is dried, and by this drying process is preserved.
+The plaintiff cites and quotes from the Encyclopaedia Britannica to the effect that ginger root prepared for food as preserved ginger is described therein as follows:
+The rhizomes, collected in a young green state, washed, scraped, and preserved in syrup, form a delicious preserve, which is largely exported both from the West Indies and from China. Cut up into pieces like lozenges and preserved in sugar, ginger also forms a very agreeable sweetmeat.
+He also quoted from certain circulars of the U. S. Department of Agriculture. He logically argues:
+The candied, prepared or preserved ginger root is obviously the ginger root prepared or preserved for use as a food. It is not reasonable to assume that the ■Congress intended by the provision for “ginger root, candied or otherwise prepared or preserved” to invade the spice provisions and remove therefrom the ■dried ginger root which had always been classified as a spice and is evidently the ■only form in which ginger root has ever existed as a spice. In other words, the Congress did not intended (sic) to nullify the spice provision for ginger root. There is an obvious distinction between ginger root dried for use as a spice and ginger root which has been prepared or preserved for use as a food. The hard resinous root here in question is a spice in its crudest form as a spice. It has not been prepared or preserved for use as a food.
+Upon the record as made it might seem that the presumption of correctness attaching to the collector’s action has been overcome by the oral testimony of the witness to the effect that the merchandise has not been peeled and by the admissions of the defendant that the ginger root had been sun dried. However, it was held in the case of Keonig & Schuster, T. D. 39676, G. A. 8660, with reference to sun-dried cherries-under a paragraph which provided for “cherries in a raw state, preserved in brine or otherwise,” that they must be preserved by some extraneous means and that it was not sufficient to say that they were preserved by drying.
+The witnesses undoubtedly were qualified to testify as to whether the cortex of this ginger root had been removed, although they had no knowledge as to how it might have been removed. The importer admitted that some of the cortex had been removed, but indicated that in the shipping some of the cortex is always removed. An examination of the samples introduced in evidence persuades one that there had been an intentional removal of a greater portion of the cortex. We reach this conclusion because of the appearance of the root in this, that on the edges or sides of the roots, the roots being more or less flat, the cortex is almost entirely intact, but elsewhere it appears to have been removed. If, as the witness Trafford would have the court believe, this cortex was removed by abrasion in handling or shipping, why would it not have been removed from all surfaces instead of on those that would have been easy to 'peel or scrape? None of the witnesses have displayed any personal knowledge of the method of harvesting and preparing the merchandise for shipment, and all of them having admitted that some of the cortex has been removed, we conclude from the appearance of the samples that this removal of the cortex was done as a method of preparation of the ginger root for market.
+In this connection the following definition of ginger is found in Webster’s New International Dictionary:
+2. The hot and pungent aromatic root stalk of Z. officinale which when dried and unseraped is known as black ginger (also as coated, unpeeled, or unscraped ginger), and when scraped, as white ginger (also as African ginger, Cochin ginger).
+On the question of whether or not the ginger root has been preserved, we have heretofore noted -the change made in the statute. This change might indicate that paragraph 1768 was intended to care for this type of ginger root since it is tibe spice paragraph. Nevertheless, this court, following the declaration of the Court of Customs and Patent Appeals in Shallus v. United States, 18 C. C. P. A. 332, T. D. 44585, and United States v. Enbun, 19 C. C. P. A. 79, T. D. 45224, is bound to hold that drying is a process of preservation and preparation even though the drying be sun drying. There is nothing in the record to show as to how this merchandise was dried, but it seems to have been conceded that it was dried in the sun. From the evidence before us in this case and under the line of decisions above cited, we are compelled to hold that this merchandise is prepared and preserved, and therefore is provided for under paragraph 778, supra, as ginger root otherwise prepared or preserved, as assessed by the collector.
+The protest is therefore overruled. Judgment for defendant. It is so ordered.
