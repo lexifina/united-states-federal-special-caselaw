@@ -1,0 +1,88 @@
+---
+court: "United States Customs Court"
+docket: "R.D. 11291; Entry No. 986078, etc."
+decided: "1967-04-26"
+citations: ["58 Cust. Ct. 675"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Omni Products Corp. et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/58/cases/0675-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6581458
+cites_cases: ["28 U.S.C. § 2633", "29 Cust. Ct. 517", "32 Cust. Ct. 657", "40 CCPA 38", "40 CCPA 85", "45 CCPA 16", "46 CCPA 132", "54 Cust. Ct. 773"]
+---
+
+# Omni Products Corp. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+The appeals for reappraisement here involved, which have been consolidated for purposes of trial, are concerned with the question of the proper value for duty purposes of several importations of men’s cotton shirts from Taiwan. This merchandise was appraised upon the basis of constructed value, as that basis is defined in section 402(d) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, at the following amounts:
+Style No.
+9901
+9902
+9902B
+Y9622
+Y9624
+9702
+9704
+9707
+Appraised value (U.S. dollars)
+$10,087 per Doz. net packed
+$10.90 per Doz. net packed
+$9.20 per Doz. net packed
+It is the claim of plaintiffs that the proper basis of appraisement is United States value, as defined in section 402(c) of said tariff act, as amended, and that such values should be the following:
+For style No.
+9901
+9902
+9902B
+V9622
+V9624
+o bo
+o
+o
+$15.75 per doz., less 25%, less ocean freight and insurance of $1.50 per doz., less duty of 25%
+$15.75 per doz., less 25%, less ocean freight and insurance of $1.50 per doz., less duty of 25%
+$13.50 per doz., less 25%, less ocean freight and insurance of $1.50 per doz., less duty of 25%
+The pertinent statutory definitions of value appear as follows:
+Section 402(c), supra:
+(c) United States Value. — For the purposes of this section, the United States value of imported merchandise shall be the price, at the time of exportation to the United States of the merchandise undergoing appraisement, at which such or similar merchandise is freely sold or, in the absence of sales, offered for sale in the principal market of the United States for domestic consumption, packed ready for delivery, in the usual wholesale quantities and in the ordinary course of trade, with allowances made for—
+(1) any commission usually paid or agreed to be paid, or the addition for profit and general expenses usually made, in connection with sales in such market of imported merchandise of the same class or kind as the merchandise undergoing appraisement;
+(2) the usual costs of transportation and insurance and other usual expenses incurred with respect to such or similar merchandise from the place of shipment to the place of delivery, not including any expense provided for in subdivision (1) of this subsection; and
+(3) the ordinary customs duties and other Federal taxes currently payable on such or similar merchandise by reason of its importation, and any Federal excise taxes on, or measured by the value of, such or similar merchandise, for which vendors at wholesale in the United States are ordinarily liable.
+If such or similar merchandise was not so sold or offered at the time of exportation of the merchandise undergoing appraisement, the United States value shall be determined, subject to the foregoing specifications of this subsection, from the price at which such or similar merchandise is so sold or offered at the earliest date after such time of exportation but before the expiration of ninety days after the importation of the merchandise undergoing appraisement.
+(d). GonstRucted Value. — For the purposes of this section, the constructed value of imported merchandise shall be the sum of—
+(1) the cost of materials (exclusive of any internal tax applicable in the country of exportation directly to such materials or their disposition, but remitted or refunded upon the exportation of the article in the production of which such materials are used) and of fabrication or other processing of any kind employed in producing such or similar merchandise, at a time preceding the date of exportation of the merchandise undergoing appraisement which would ordinarily permit the production of that particular merchandise in the ordinary course of business;
+(2) an amount for general expenses and profit equal to that usually reflected in sales of merchandise of the same general class or kind as the merchandise undergoing appraisement which are made by producers in the country of exportation, in the usual wholesale quantities and in the ordinary course of trade, for shipment to the United States; and
+(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the merchandise undergoing appraisement in condition, packed ready for shipment to the United States.
+At the trial, one witness testified on behalf of plaintiffs. He was Nicholas B. Badami, executive vice president of the Janville Manufacturing Co., which firm had been engaged, with plaintiff, Omni Products Corp., in the joint operation of styling, purchasing, importing, and marketing sport shirts manufactured in Taiwan, including the shipments here involved. As such officer, it was Mr. Badami’s function to participate in all phases of the business including styling, merchandising, and selling, and in connection with the subject merchandise, he and his company were involved “in actually costing and pricing out the entire operation.”
+During the period between 1961 and 1963, Mr. Badami made several trips to Taiwan, to check the market there, and arrange for the manufacture of sport shirts. It was his opinion that no similar merchandise, that is to say, no merchandise similar in fabric, styling, quality, and make, was manufactured in Taiwan and, to the best of his knowledge, there were no other United States importers of similar merchandise during the period-here involved.
+At this point, cotinsel for plaintiffs advised the court that she had obtained from the importer of record herein a list of some 12 other domestic manufacturers and importers with whom she had communicated to ascertain if they had imported like or similar men’s sport shirts from Taiwan in order to determine their usual percentages of profit and general expenses. She stated that she was unable to discover any other importer of similar or like merchandise.
+Shirts of the kind here in issue were sold in the United States at the following prices:' Style numbers 9622, 9624, 9901, 9902, and 9902-B at $15.75 per dozen, and style numbers 9702, 9704, and 9707 at $13.50 per dozen, as is indicated on invoices to various purchasers, received in evidence as plaintiffs’ collective exhibit 4.
+According to the witness, the foregoing were prices at which such merchandise was freely offered to all purchasers; sales were made in New York which was the principal market; the usual wholesale quantity was about 6 dozen or more; the majority of such merchandise was sold in such 'quantities but the prices did not vary by reason of quantity; and the prices included the cost of packing for delivery in the United States. Sales were made from sample swatches and collar styles for delivery 6 to 8 weeks after the shirts were due to arrive in this country and offerings at the respective prices of $15.75 and $13.50 continued to be made after the merchandise was shipped into the United States.
+Mr. Badami stated that he was familiar with the usual cost of transportation and insurance for this merchandise and that he computed such charges, per dozen shirts, by dividing the total cost by the number of dozens involved. His calculations indicated a usual cost of about $1.50 per dozen for transportation and insurance. He further stated that 25 percent of the selling price represented the addition for general overhead and profit which included all expenses of administration, factoring, financing, warehousing, handling, insurance, and profit although, in the case of the merchandise at bar, there actually was no profit; that this was the usual addition in the apparel soft goods industry for profit and overhead and was also the amount usually added by his company in connection with sales of similar or like merchandise manufactured domestically. He predicated his familiarity with the pricing policies of other soft goods manufacturers upon the fact that he has been in the apparel business for a long time and that his company is affiliated with several other apparel firms including Fordham-Bardell Shirt Co., The B.Y.D. Co., the Alligator Raincoat Co., and the Livingston Shirt Co., in three of which he is an officer who personally participates in pricing operations.
+On cross-examination, this witness admitted that, when he surveyed the market in Taiwan in 1960, there were other manufacturers and exporters of shirts than Phoenix Textile, Ltd., the company from which he bought, and which he helped to set in business.
+It is the contention of plaintiffs, in this case, that the evidence adduced by them, as hereinabove summarized, suffices to establish, at least prima facie, that there were United States values for the merchandise at bar and that, therefore, appraisement on the basis of constructed value was improper. In so claiming, plaintiffs rely upon the presumption of correctness inherent in the appraisement on the basis of constructed value to negative the existence of export value and to obviate the necessity of proof to that effect.
+There is, of course, a statutory presumption that the value returned by the appraiser is correct (28 U.S.C. § 2633), and as a necessary corollary it follows that presumptively he has found the existence of all facts necessary to support his action. Mary G. Ricks et al. v. United States, 29 Cust. Ct. 517, Reap. Dec. 8187, and United States v. John A. Steer Co., 46 CCPA 132, C.A.D. 715. Since, under the valuation statutes (section 402(a), as amended), the appraiser may not find a constructed value unless neither export value nor United States value can be satisfactorily determined, it may be presumed that his return in this case presupposes the nonexistence of export value, and plaintiff is entitled to rely upon this implied finding. United States v. Nicholas Gal (Globe Shifting Co., Inc.), 32 Cust. Ct. 657, A.R.D. 39, and cases cited therein.
+It is also to be presumed that the appraiser has found that there was. no United States value for such or similar merchandise, and the burden rests with the plaintiffs to overcome that presumption, by establishing the contrary and by showing that the claimed value is supported by affirmative evidence of every material element in the statutory definition. Brooks Paper Company v. United States, 40 CCPA 38, C.A.D. 495. A successful showing in these respects ipso facto negates an appraisement computed upon the basis of constructed value.
+Among the elements essential to a finding of United States value for imported merchandise is “the addition for profit and general expenses, usually made, in connection with sales in such market of imported merchandise of the same class or kind as the merchandise undergoing* appraisement.” In the absence of evidence that there were no sales of imported merchandise of the same class or kind, the plain intendment of this portion of the statutory definition of United States value requires proof of the general expenses and profit which are usual in the trade which deals in merchandise of the same class or kind or, alternatively, proof that diligent effort to obtain information of this nature from others in the trade had been unavailing. Judson Sheldon International Corporation v. United States, 54 Cust. Ct. 773, A.R.D. 183.
+The record in the instant case does not support a conclusion that there was no other imported merchandise of the same class or kind as that here involved sold or offered for sale in the principal market of the United States at or about the time here pertinent. Questioning* of the witness in this general area elicited statements to the effect that there was no “similar merchandise” manufactured in Taiwan or imported therefrom by any United States importer, and the expression “similar” was defined by the witness as follows:
+I mean similar as to fabric, styling, quality and make. I am sure we are all familiar with the fact that we can buy shirts at $1.98 or we can buy them at $15.98, and there is a substantial difference between the two.
+The witness did not deny that there were other manufacturers of shirts in Taiwan in 1960 and other American importers of shirts manufactured in Taiwan.
+The statutory phrase which relates the item of general expenses and profit to that usually extant in the trade is “merchandise of the same class or kind,” not “merchandise, similar to,” and without exploring at length the distinction in meaning thus intended, it seems clear that the former is broader and more inclusive than the latter. Star-Kist Foods, Inc. v. United States (Bruno Scheidt, Inc., Party in Interest), 45 CCPA 16, C.A.D. 666. It does not exhaust the scope of “class or kind” to show that “similar merchandise” was neither produced nor sold.
+Moreover, in view of the fact that the statute adverts to imported merchandise of the same class or kind, it is of no probative significance that 25 percent of the selling price represents the usual addition for profit and general expenses in the domestic “soft goods industry.” If this alone did not suffice to render irrelevant testimony of what was customary in connection with the sale of domestically produced merchandise, references to practices obtaining in the “soft goods industry” must surely preclude any consideration of this species of evidence. Though the phrase “class or kind” operates to envelope a more inclusive category of merchandise than that embraced by the term “similar,” it falls short of describing the full gamut of products which must be encompassed by the term “soft goods industry.”
+Were it, nevertheless, to be reasonably assumed from the present record that other sales of imported merchandise of the same class or kind as that here involved had been made, the record is barren of proof of diligent effort to obtain information concerning the usual additions for general expenses and profit in this trade.
+Gratuitous statements of counsel during the course of trial, unsupported by competent proof, to the effect that unrewarded efforts had been made to contact others in the trade for the purposes of ascertaining their usual additions for profit and expenses are not a substitute for relevant evidence in this respect. There must be some proof to show that the companies solicited comprise all who might have been engaged in this class of trade. And it was not incumbent upon the defendant to furnish the evidence in this respect which plaintiff failed to present. Unless and until the importer has affirmatively established its claimed value and negatived the correctness of the appraised value, the burden does not shift to defendant to sustain the appraised value. Kenneth Kittleson v. United States, 40 CCPA 85, C.A.D. 502.
+At best, there has been an attempt in this case to create a climate for inference from unsupported conclusions that there were no other importers of merchandise of the same class or kind as that here involved but that 25 percent of the selling price would not be an unusual amotmt to be added for general expenses and profit if such merchandise were available in the principal markets of this country.
+Under all the circumstances of this case, it would not be proper to consider the general expenses and profit, if any, of the importer alone as proof of the amount which should be deducted from the selling prices to compute United States value. There is neither sufficient proof to establish that there were no other dealers in imported merchandise of the same class or kind, nor adequate evidence to show that satisfactory efforts, to obtain the usual general expenses and profits of those who were, proved unavailing. And since this proof is lacking, the claimed value has not been sustained, and the presumption of correctness of the appraised value has not been overcome.
+The court, therefore, finds:
+1. That the merchandise here involved consists of men’s sport shirts exported from Taiwan during the years 1961, 1962, and 1963.
+2. That said merchandise was appraised on the basis of constructed value, as that value is defined in section 402(d) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956.
+3. That it is claimed that the proper basis of value for said merchandise is United States value, as defined in section 402(c) of said act, as amended, and that such values are equal to the invoice unit values, less statutory deductions.
+4. That there is no evidence to establish the addition of profit and general expenses usually made in connection with sales in the principal market of the United States of imported merchandise of the same class or kind as the merchandise here involved.
+The court, therefore, concludes:
+1. That the presumption of correctness of the appraised value has not been overcome.
+2. That constructed value, as that value is defined in section 402(d) of the Tariff Act of 1930, as amended, is the proper basis for the determination of the values of the merchandise here involved.
+3. That such values are the appraised values.
+Judgment will be entered accordingly.
