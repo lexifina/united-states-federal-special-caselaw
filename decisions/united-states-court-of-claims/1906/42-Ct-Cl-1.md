@@ -1,0 +1,49 @@
+---
+court: "United States Court of Claims"
+docket: "8984"
+decided: "1906-12-03"
+citations: ["42 Ct. Cl. 1"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH RYMARKIEWICZ v. THE UNITED STATES."]
+source_url: "https://static.case.law/us-ct-cl/42/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1591735
+cites_cases: ["10 Johns., 23", "101 U. S., 688", "11 Wall., 488", "2 C. Cls., 450", "22 Wall., 641", "3 Metc., 520", "31 N. H., 448", "39 C. Cls., 484", "45 Wis., 306", "48 Cal., 339", "6 Wheat., 109", "64 Am. Dec., 342", "66 N. Y., 385", "9 Wall., 788"]
+---
+
+# Rymarkiewicz v. United States
+
+## Majority (BaRNey, J.,)
+
+BaRNey, J.,
+delivered the opinion of the court:
+The claimant files a motion herein for a new trial on the ground, (1) error of fact, in that the decision of the court is contrary to the evidence, and (2) that it is the claimant’s desire to place before the court newly discovered evidence in support of loyalty.
+The claim is for stores and supplies alleged to have been taken in or near Nashville, Tenn., by the United States Army during the war for the suppression of the rebellion. The claim was ref err eel to the court by the Committee on War Claims of the House of Representatives, June 19, 1886, under the provisions of the act of March 3, 1883, commonly known as the Bowman Act.
+On a preliminary inquiry the court, pursuant to section 4 of said act, did not find the claimant loyal to the Government of the United States throughout said war, and his petition was for that reason dismissed. The question of loyalty being-jurisdictional under said section, the court had no authority to proceed further under said reference, and as no motion for a new trial questioning the justice of the ruling was filed, the case was reported to Congress on the 4th day of September, 1888. Thereafter, on April 20, 1892, the claim was again referred to the court by said committee under said act, and by a decision filed February 20, 1899, the court adhered to its former decision.
+The issue of loyalty having been decided adversely to the claimant under the first reference under the Bowman Act, and the jurisdiction of the court being thereby taken away, •we do not believe that jurisdiction can be given by any subsequent reference under the same act. It is elementary that the same court can only render judgment once between the same parties upon the same issue unless the judgment has been reversed or set aside, or for some other reason a new trial has been granted.
+When a matter has once properly passed to judgment, without fraud or collusion, in a court of competent or concurrent jurisdiction, it has become res judicata, and the same matter between the same parties can not be reoj)ened or subsequently considered. Spicer's case (5 C. Cls. R., 34) ; Hollister v. Abbott (31 N. H., 448; 64 Am. Dec., 342); Case v. Beauregard (101 U. S., 688) ; Lawrence v. Milwaukee (45 Wis., 306); Hopkins v. Lee (6 Wheat., 109). It is hardly necessary to say -that this rule does not apply to void judgments or to cases where judgments have been reversed or new trials granted b}^ the trial court.
+While the jurisdiction and proceedings in this court are sui generis, and particularly so in Congressional cases, there is no reason why its final conclusions upon the trial of a case, in whatever form these conclusions may be rendered, should not have the force and stability of the final decisions of any other court. Whether a formal judgment is entered under its general jurisdiction, or a finding of facts is made in a Congressional case, in either case it is the final decision of this court and res judicata subject only to the limitations mentioned. ■
+“ Judgments are the judicial sentences of courts, rendered in causes within their jurisdiction, and coming legally before them.” (Pierce v. City of Boston, 3 Metc., 520.)
+“A judgment is the authenticated decision of the court, obtained in a suit, upon the relative claims of the parties.” (Abbott’s Law Dictionary.)
+The first clause of section 4 of the Bowman Act makes the loyalty, of the claimant for supplies or stores taken by or furnished to any part of the military or naval forces of the United States during the late civil war “ a jurisdictional fact,” and then the second clause thereof j)rovicles:
+“And unless the said court shall, on a preliminary inquiry, find that the person, who furnished such supplies or stores, or from whom the same were taken as aforesaid, was loyal to the Government of the United States throughout said war, the court shall not have jurisdiction of such cause, and the same shall, without further proceedings, be dismissed.”
+Whatever may be the form of the order of dismissal, if such order'is made, it is the judgment of this court upon the issue of loyalty, just as final and just as conclusive as an}r judgment it may render in any case coming under its general jurisdiction.
+We. might here add that the rule of res judieata is not alone applicable to what are generally considered by the profession as judgments, but judgments in the broader sense of the word, as embracing determinations and conclusions of other bodies than courts when the matter is within their-jurisdiction.
+As was said by Earle, J., in the case of Brown v. Mayor (66 N. Y., 385) :
+“ When a matter in controversy between parties has been submitted to a competent judicial tribunal, its decision thereon is final between the parties until it has been reversed, set aside, or vacated; and the rule of res judieata applies not only to the judgments of courts, but to all judicial determinations, whether made by courts in ordinary actions or in summary or special proceedings, or by judicial officers in matters properly submitted for their determination.” (Id., 390.)
+The following cases and authorities are cited as illustrating the same principle as applied to a variety of cases.
+21 Am. & Eng. Encyc., 240; Jackson v. Lawton (10 Johns., 23) ; Bigelow on Estoppel, 13-17; Cassidy v. Carr (48 Cal., 339) ; Rubber Co. v. Goodyear (9 Wall., 788, 796) ; and Eureka Co. v. Bailey Co. (11 Wall., 488).
+We do not think it can be successfully contended that a second reference by a committee of Congress under the Bowman Act constitutes the granting of a new trial, because the reversal of a judgment or the granting of a new trial is the exercise of judicial power, which it is not believed Congress intended such committee should exercise. It has long been held that Avhile “ The Constitution vests no judicial power in Congress and Congress can not award a new trial judicially or reverse the judgment of a court of justice, Congress, as defendants, may consent to’a second action and may waive a technical defense.” Noclds case (2 C. Cls., 450). But this consent and waiver must be given by statute.
+The ruling in this case is in entire harmony with the decisions of the Supreme Court and the former decisions of this court.
+In United States v. O'Grady (22 Wall., 641, 647), the Supreme Court in commenting upon the stability of the judgments of this court said:
+“ It is clear that the judgments of this court, rendered on appeal from the Court of Claims * * * are beyond all doubt the final determination of this matter in controversy, and it is equally clear that the judgments of the Court of Claims, where no apjoeal is taken to this court, are, under existing laws, absolutely conclusive of the rights of the parties, unless a new trial is granted by that court as provided in the before-mentioned act of Congress.”
+In the Spicer case (supra), heretofore cited, it was in effect held that the final judgments of this court have the same conclusiveness as the judgments of all courts of competent jurisdiction.
+In the Le More & Co. case (35 C. Cls. R., 9, 13) this court, speaking through the present Chief Justice, said:
+“ For the reasons stated we must hold that the doctrine of res judicata is applicable to cases referred to the court under the act of March 3, 1887 (Tucker Act), or the Bowman Act, for the reason, among others, that the court in the ascertainment of facts in cases so referred is governed by the well-established elementary rules of the law of evidence, and, being so governed, the facts in such cases can be found only by judicial means and methods.”
+While the facts which were found to be res judicata in the latter case had been tried and decided in another Federal court, the reasoning in the opinion from which the quotation just given is taken would certainly make the same rule of law applicable to cases which have heretofore been tried and decided in this court.
+In that same case in a later opinion (39 C. Cls., 484), the court, while adhering to the rules of law there announced, said:
+“ We do not believe it was the purpose of Congress by section 14 of the act of March 3, 1887 (supra), that where cases had been adjudicated and become res judicata they should again be the subject of judicial investigation by this court under that act, unless it should be clearly shown that there was such mistake in the judicial proceedings as if known to the court at the time would have affected its judgment.”
+And so here if upon the return of the findings of fact certified to Congress, as outlined in the Hartien’s case, post, p. 42, it should clearly appear “ that there was such mistake in the judicial procedings as if known to the court at the time would have affected its judgment,” i. e., if competent testimony was overlooked by the court or its judgment or findings are shown to have been based on false or fraudulent testimony or were procured through the misconduct of either party, the court will proceed to correct such judgment or finding as it would have done at the time had the real facts been known.
+For the reasons given the claimant’s motion for a new trial is denied.
