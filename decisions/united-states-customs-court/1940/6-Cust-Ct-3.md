@@ -1,0 +1,56 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 411"
+decided: "1940-12-20"
+citations: ["6 Cust. Ct. 3"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brown and Walker, Judges; Oliver, P. J., not participating"]
+parties: ["Mitsui & Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/6/cases/0003-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6613443
+cites_cases: ["12 Ct. Cust. Appls. 121", "13 Ct. Cust. Appls. 149", "13 Wall. 162", "185 U. S. 83", "95 U. S. 144", "96 U. S. 111"]
+---
+
+# Mitsui v. United States
+
+## Majority (WalKER, Judge:)
+
+WalKER, Judge:
+The plaintiffs in this case imported into the United States a shipment of rapeseed oil which was later denatured and rendered unfit for use as food in accordance with a formula and under conditions prescribed in regulations issued by the Secretary of the Treasury. The collector of customs admitted the oil to free entry under the provision in paragraph 1732 of the Tariff Act of 1930 for—
+Oils, expressed or extracted: * * * rapeseed * * * rendered unfit for use as food or for any but mechanical or manufacturing purposes, by such means as shall be satisfactory to the Secretary of the Treasury and under regulations to be prescribed by him * * *
+but assessed duty at the rate of 4}{ cents per pound on the oil under the provision in section 601 (c) (8) of the Revenue Act of 1932 as amended by section 701 of the Revenue Act of 1936 for—
+* * * rapeseed oil * * * whether or not refined, sulphonated, sul-phated, hydrogenated, or otherwise processed * * *.
+Plaintiffs thereafter, and within the statutory time therefor, filed this suit against the United States for the recovery of the money collected under the provisions of the Revenue Act, supra, claiming that the merchandise is not rapeseed oil within the purview of section 601 (c) (8) thereof, and that the duty of 4% cents per pound w’as therefore improperly assessed.
+The issue is resolved into a question of law solely, none of the facts being in dispute.
+In paragraph 53 of the Tariff Act of 1930 there is a provision which, so far as pertinent, reads as follows:
+Oils, vegetable: * * * rapeseed, 6 cents per gallon * * *.
+Briefly stated, plaintiffs’ main argument is as follows: Paragraph 53 is a general provision for rapeseed oil, while paragraph 1732 grants to denatured rapeseed oil a specific exemption from the duty which would ordinarily attach thereto under paragraph 53. Since the revenue act in general terms imposes a duty on rapeseed oil, it must be considered that Congress did not intend thereby to take away the exemption granted specifically to denatured rapeseed oil.
+A second argument is that the revenue act duties were placed on merchandise by Congress “in addition to” any other tax or duty, and are therefore applicable only to goods on the dutiable list and not to those on the free list.
+We may dismiss as unsound the second argument. In section 601 (c) (4), (5), (6), and (7) of the Revenue Act provision is made for the imposition of duties on petroleum, fuel oil, gasoline, paraffin, coal, certain lumber, and certain copper ores and concentrates, to name a few, which are entitled to free entry under the free list of the Tariff Act of 1930, thus showing that exemption from duty under the Tariff Act of 1930 was not intended of itself to be a bar to the imposition of duties under the Revenue Act of 1932. See also in this connection United States v. Rice & Fielding, 13 Ct. Cust. Appls. 149, T. D. 40979, and V. W. Davis v. United States, T. D. 48285.
+Careful consideration of plaintiffs’ main argument and of the authorities cited in support of it, however, constrains us to hold that it is sound and decisive of the issue.
+Essentially the question before us is whether Congress intended section 601 of the Revenue Act of 1932, insofar as it imposes duties on imported articles, to be amendatory to the Tariff Act of 1930, or whether it was intended to be concurrently operative therewith. If it is amendatory of the tariff act we must determine whether exemptions granted under the original tariff act are continued in the amended act, whereas if it was intended to be concurrently operative with the tariff act its provisions must be enforced without regard to the pro - visions of the said act.
+The Revenue Act of 1932 contains nine titles imposing income, estate, gift, manufacturers’ excise, and other taxes, nearly all of an internal-revenue nature. Title IV is entitled “Manufacturers’ Excise Taxes,” and section 601 thereunder is followed by the caption “Excise taxes on certain articles.” Subsection (a) provides—
+In addition to any other tax or duty imposed by law, there shall be imposed a tax as provided in subsection (e) on every article imported into the United States unless treaty provisions of the United States otherwise provide.
+Subsection (b) then provides — •
+The tax imposed under subsection (a) shall be levied, assessed, collected, and paid in the same manner as a duty imposed by the Tariff Act of 1930, and shall be treated for the purposes of all provisions of law relating to the customs revenue as a duty imposed by such Act, except that—
+and there follow five exceptions, none of which is material to this discussion. Subsection (c) begins—
+There is hereby imposed upon the following articles sold in the United States by the manufacturer or producer, or imported into the United States, a tax at the rates hereinafter set forth, to be paid by the .manufacturer, producer, or importer:—
+and the language of paragraph (8) thereof, under which assessment was made has been given heretofore.
+We conclude from a consideration of the foregoing that section 601 of the Revenue Act, although incorporated in an act dealing for the most part with internal-revenue matters, is, insofar as it imposes duties on imported articles, amendatory of the Tariff Act of 1930. We are led to this conclusion largely by the language of subsection (b) of section 601, supra, and particularly that portion thereof which reads:
+* * * and shall be treated for the purposes of all provisions of law relating to the customs revenue as a duty imposed by such Act * * *.
+This, to our minds, indicates the clear purpose of Congress that the taxes or duties imposed on the articles named were to be considered import duties and not internal-revenue taxes, and our conclusion finds support in the decision of the Second Division of this court in the case of Agfa Ansco Corp. v. United States, T. D. 47217, wherein it was said—
+These tripods are already dutiable under the Tariff Act of 1930, and the Revenue Act of 1932 merely imposes on said articles an additional duty because of the copper contained therein. To that extent the latter must be deemed a part of the former act.
+It follows, therefore, that the Revenue Act of 1932 and the Tariff Act of 1930 are statutes in pari materia, relating to the same subject matter, viz, the imposition of duties on certain imported articles, and must be construed together in the absence of anything to show a contrary intention.
+There are two provisions in the Tariff Act of 1930 for rapeseed oil, one in paragraph 53 imposing a duty of 6 cents a gallon without words of limitation or qualification as to the kind or quality of rapeseed oil intended to be covered thereby, and the other in paragraph 1732, exempting denatured rapeseed oil from duty. The revenue act provision is for rapeseed oil, whether or not processed, and the language thereof is broad enough to include both the rapeseed oil covered by the general provision in paragraph 53 and the denatured rapeseed oil permitted free entry under paragraph 1732, since the latter is nonetheless rapeseed oil. Thus the situation is that in the tariff act there exist a general dutiable provision for rapeseed oil and a provision specifically exempting denatured rapeseed oil from duty, while in the revenue act there exists a provision which might impose a tax or duty on either rapeseed oil generally or rapeseed oil other than denatured rapeseed oil. Here, as said in Rodgers v. United States, 185 U. S. 83,
+—the intent [of the legislature] is a debatable question, and there is nothing on the face of the statute which clearly indicates such intent—
+and we therefore have recourse to rules of statutory construction.
+The general rule to be applied to situations such as that in the case at bar is set forth in Rodgers v. United States, supra, as follows:
+It is a canon of statutory construction that a later statute, general in its terms and not expressly repealing a prior special statute, will ordinarily not affect the special provisions of such earlier statute. In other words, where there are two statutes, the earlier special and the later general, — the terms of the general broad enough to include the matter provided for in the special, — the fact that the one is special and the other is general creates a presumption that the special is to be considered as remaining an exception to the general, and the general will not be understood as repealing the special, unless a repeal is expressly named, or unless the provisions of the general are manifestly inconsistent with those of the special.
+This rule, it appears, has often, been used in the construction of tariff statutes. Reiche v. Smythe, 13 Wall. 162, Movius v. Arthur, 95 U. S. 144, Arthur v. Lahey, 96 U. S. 111, and United States v. Hogan, 12 Ct. Cust. Appls. 121, T. D. 40048. In Movius v. Arthur, supra, the court said:
+It is a general rule, in the construction of revenue statutes, that specific provisions for duties on a particular article are not repealed or affected by the general words of a subsequent statute, although the language is sufficiently broad to cover the article first mentioned.
+Applying the rule to the situation at bar we find that the revenue-act provision for rapeseed oil is a general one, covering only such rapeseed oil as is provided for in paragraph 53 of the Tariff Act of 1930, and that it does not affect the exemption from duty granted in paragraph 1732 of the tariff act to denatured rapeseed oil.
+A case practically on all fours with that at bar is United States v. Hogan, cited above. The statutes there construed were the Tariff Act of 1913, and the Emergency Tariff Act of 1921, and it was held that the provision in the latter imposing on manufactures of camel’s hair a duty of 45 cents per pound “in addition to the rates of duty imposed thereon by existing law” was not applicable to camel’s hair presscloths for oil milling which were, under the Tariff Act of 1913, entitled to free entry. It appears that the court’s decision was based on two grounds, i. e., the rule of statutory construction which has been applied here, and another not applicable here, but it is manifest that either ground, standing alone, would have been sufficient to support the decision. See United States v. Rice & Fielding, supra.
+For the reasons stated the claim of the plaintiffs for entry free of the tax imposed under section 601 (c) (8) of the Revenue Act of 1932 as amended is sustained, and judgment will issue accordingly.
