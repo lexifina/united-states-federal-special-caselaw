@@ -1,0 +1,78 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3848"
+decided: "1969-06-16"
+citations: ["62 Cust. Ct. 681"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Watson, Maletz, and B.e, Judges"]
+parties: ["Burrows Equipment Company v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0681-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6579220
+cites_cases: ["19 U.S.C. § 1202", "218 F. Supp. 658", "286 F. Supp. 317", "52 Cust. Ct. 20", "60 Cust. Ct. 65", "60 Cust. Ct. 672"]
+---
+
+# Burrows Equipment Co. v. United States
+
+## Majority (Maletz, Judge:)
+
+Maletz, Judge:
+The issue in these four consolidated cases concerns the proper tariff classification of certain articles known as “vitascopes” which were imported from Denmark and West Germany via Chicago. The 'articles were classified by the collector of customs under item 711.88 of the Tariff Schedules of the United States (19 U.S.C. § 1202) as other instruments or apparatus for chemical analysis, and assessed with duty at 22 percent ad valorem. Plaintiff’s claim is that the vitascopes are properly classifiable under item 688.40 of the tariff schedules as electrical articles not specially provided for, dutiable at 11.5 percent ad valorem. We hold that the collector’s classification is correct.
+Set out below are the pertinent provisions of the tariff schedules:
+Classified under:
+Schedule 7, Part 2, Subpart D:
+‡ ‡ Í ‡
+Polarimeters, refractometers, spectrometers, gas analysis apparatus and other instruments or apparatus for physical or chemical analysis * * * all the foregoing, and parts thereof:
+íJí ij; ❖ ‡ ‡ *
+711.88 Other_ 22% ad val.
+Claimed under:
+Schedule 6, Part 5:
+Part 5 Readaptes:
+1. This part does not cover — ■
+******
+(vi) electrical instruments, apparatus, and other electrical articles provided for in schedule 7;
+*******
+688.40 Electrical articles, and electrical parts of articles, not specially provided for- 11.5% ad val.
+We first consider the facts shown 'by the record. The vitascope is an instrument for determining the germinating capacity of seeds. The ordinary method of testing this capacity consists of placing a representative sample of seeds 'in a germinator to permit them to grow and then, at the end of a specific time, examining the number of seeds in the sample which actually grew, formally, 'this method requires anywhere from three days to several weeks, whereas the vitascope can accomplish the same function in a matter of minutes.
+The vitascope is based upon the so-called tetrazolium method, which has long been recognized as an efficient and accurate method of determining seed viability. Under that method, when enzymes come in contact with a tetrazolium solution — which is a chemical- — they release hydrogen which turns the tetrazolium into a highly colored red formal-azine. If -the seed germ is capable of germinating, it will be stained red; if incapable of germinating, it will remain uncolored. Actually, the vitascope improves upon this method by conducting the tests under a vacuum and at constant temperature, thus getting the results more accurately than would otherwise be possible.
+More specifically, the vitascope contains a vacuum chamber which is maintained at a constant temperature by an electric heat lamp, with vacuum achieved by means of a water pump. The tetrazolium solution is contained in a bottle in the vitascope. Seeds — -which are cut to expose the endosperm — are placed in the chamber and the tetrazolium solution is then drawn into the chamber after the latter has been subjected to the constant temperature -and vacuum. The contact between the seeds and the tetrazolium solution is for a short predetermined time, after which the seeds are removed. The portion -of endosperm in the sample that is stained red by the tetrazolium enables the operator to make a judgment -as to the germinating capacity of the seed.
+The vitascope thus provides a desired atmosphere in which the presence or absence of enzymes is detected by the tetrazolium method. Its operation does not involve a physical analysis of the seeds, nor does it tell or allow an operator to determine what chemicals are contained in the seed. No special skills, training or background are required to operate the vitascope.
+We turn now to the legal aspects and start with the fundamental principles (1) that in the absence of proof showing a contrary commercial meaning, the meaning to be ascribed to a tariff term is its common meaning; (2) that the ascertaimnent of common meaning is a matter of law to be determined by the court on the basis of its own understanding of what that meaning is; and (3) that in reaching its conclusion with respect to common meaning, the court may use as an aid relevant lexicographic and other standard authorities. E.g., Jarrell-Ash Co. v. United States, 60 Cust. Ct. 65, 61, C.D. 3261, 218 F. Supp. 658, 660 (1968), and cases cited.
+Against this background, plaintiff contends that according to accepted definitions, “analysis” means to break an article or substance into its constituent parts or elements, or to identify one or more constituents either as to kind or amount. From this it argues that item 711.88 covering instruments or apparatus for chemical analysis is not applicable since the vitascope assertedly does not perform a “chemical analysis.” Plaintiff insists rather that “the function of the Vitascope is to provide a favorable atmosphere for the staining of living embryo in a seed * * * [which] does not involve any analysis of the chemical composition of the seed or its embryo.” To support its contentions, plaintiff relies upon the following dictionary definitions:
+'Webster’s New International Dictionary (2d ed.) 1960—
+analysis * * * 1. Separation of anything, whether an object of the senses or of the intellect, into constituent parts or elements * * * 4. Ohem. a. The separation of compound substances, by chemical processes, into their components, b. The determination, which may or may not involve actual separation, of one or more ingredients of a substance either as to hind or amount. [Emphasis added in part.]
+Funk <& Wagnails New Standard Dictionary of the English Language—
+analysis 1. the resolution of a compound into its parts or elements ; the act of ascertaining, separating, or unfolding in order, the elements of a complex body, substance, or treaties * * * Chemical analysis is either (1) qualitative * * * or (2) quanti-tive * * * Physical analysis is the resolution of any physical object or substance into its parts * * * qualitative a. the process in chemistry of priding out how many and what elements are present — quantitative a. the process of finding the bulk or amount of each element present. * * * [Emphasis added in part.]
+Defendant maintains, on the other hand, that plaintiff has taken too narrow a view of the term “chemical analysis” and that it was the intent of Congress to use the term in a broader sense. It cites the following dictionary authorities to support this broader interpretation:
+Funk <& 'Wagnalls Neto Standard Dictionary of the English Language (1956 ed.), p. 459:
+chemical a. 1. Of or pertaining to chemistry, its phenomena, laws, operations, or results; as chemical analysis. 2. Obtained by or used in a process of chemistry; as chemical paper.
+Webster’s Third New- International Dictionary of the English Language (1963 ed.), pp. 385,77:
+chemical adj. * * * 2: relating to applications of chemistry as a: acting or operated by chemical means b: treated with or performed by the aid of chemicals c: produced 'by chemical means or synthesized from chemicals d: suitable for use in or used for operations in chemistry 3: having reference to or relating to the science of chemistry as a: occupied with chemistry b: dealing with chemistry c: characterized by the phenomena of chemistry * * * [Emphasis added.]
+analysis n. * * * 2a: a detailed examination of anything complex * * * made in order to understand its natwre or to determine its essential features * * * 4\_chem\ a: the separation of compound substances into their constituents by chemical processes b: the determination which may or may not involve actual separation {of one or more ingredients of a substance either as to hind or amount * * * [Emphasis added.]
+Aided by an examination of these lexicographic authorities, we conclude that an instrument or apparatus is included within the common meaning of the term “chemical analysis” if it determines one or more ingredients of a substance either as to kind or amount; or if it performs a detailed examination of a complex chemical substance for the purpose of enabling one to understand its nature or to determine an essential feature; or if it determines what elements are present in a chemical substance.
+The vitascope clearly performs an “analysis” within the common meaning of that term. For it determines rapidly the germinability of seed by ascertaining whether or not the seed contains enzymes. As we have seen, in the operation of the vitascope, if enzymes are present, they react upon contact with the tetrazolium solution to release hydrogen which turns the tetrazolium into a red formalazine. Thus, the vitascope accomplishes its function by detecting the presence or absence of enzymes in a particular sample of seed — which in turn indicates whether or not the seed is germinable.
+It should be added that the analysis so performed is a biochemical analysis since it deals with the chemistry of plant life as it relates to vital processes and their mode of action. See Funk & Wagnalls (1956 ed.), supra, p. 276; Webster's (1963 ed.), supra, p. 218. And this brings us to the question of whether a “biochemical” analysis is included within the term “chemical” analysis, as used in item 711.88. The answer is obviously in the affirmative. For, in essence, biochemistry is simply a branch of chemistry. Thus:
+Funk & Wagnalls (1956 ed.), supra, p.276:
+biochemistry n: That branch of chemistry relating to vital processes, their mode of action, and their products.
+Webster's (1963 ed.), supra, p. 218:
+biochemistry n. 1. The chemistry of plant and animal life. * * *
+Haurowitz, Biochemistry, An Introductory Textbooh (1955), p. 1:
+Scope of biochemistry. The principal scope of biochemistry is to get more insight into the chemical composition of living matter and into the mechanism of biochemical reactions. Different modes of approach have been used to this purpose. The oldest and most important of them is based on the methods of organic and analytical chemistry. By means of these methods the chemical structure of many of the chemical components of living matter has been elucidated. * * * [Emphasis quoted.]
+The Brussels Nomenclature affords further indication that Congress intended to include a “biochemical” analysis within the meaning of the term “chemical” analysis, as used in the subparagraph heading to item 711.88 (which heading, as we have seen, covers polarimeters, refractometers, spectrometers, and gas analysis apparatus for physical or chemical analysis). The following is stated in section 90.25 of the Explanatory Notes to the Brussels Nomenclature (1955), Vol. III, pp. 1078-79:
+90.25 — Instruments and Apparatus for Physical or Chemical Analysis (such as Polarimeters, Refrac-tometers, Spectrometers, Gas Analysis Apparatus) * * *.
+‡ ‡ $ H* $ ‡
+(F) Colorimeters. The term “colorimeter” is applied to two distinct classes of instruments. One class is used to determine the colour of a substance (liquid or solid) by matching its colour against that produced by three primary colours (red, green and blue) mixed in variable but measurable proportions. The other class of colorimeters is used in chemical and biochemical analysis to determine the concentration of a substance present in a solution by a comparison of the colour of the substance (or of the colour of the substance after treatment with a reagent) with that'of coloured standard plates or of a standard liquid. In one type of colorimeter of the latter class, the solution under test and a standard solution are contained in two glass tubes which are viewed by means of two prisms through an eyepiece. [Emphasis added.]
+A further consideration worthy of mention is the obvious similarity in modus operandi between the colorimeters described in the Brussels Nomenclature and the vitascope. In light of this circumstance and the fact that colorimeters are expressly designated in the Brussels Nomenclature as instruments for “biochemical analysis,” logic would compel the conclusion that the vitascope was intended by Congress to be classified similarly as an instrument for biochemical analysis.
+Plaintiff, however, places major reliance on J.E. Bernard & Co., Inc. v. United States, 52 Cust. Ct. 20, C.D. 2428 (1964), in which the record disclosed (p. 24) that “the sole function of the vitascope is to provide a means of rapid determination of the germinating quality of grain seed.” “Detecting the presence of life,” plaintiff adds, “is not equivalent to a chemical analysis of the object involved.” The difficulty with the argument is that it confuses the distinction between what the vitascope does and how it does it. What the vitascope does is to determine rapidly the germinating capacity of seeds. This it does by detecting the presence or absence of enzymes in the seed through a biochemical reaction. The following excerpt from a brochure distributed by plaintiff (plaintiff’s exhibit 1) clearly illustrates the distinction:
+What It Does
+The Burrows VITASCOPE determines very rapidly — in a matter of minutes — the latent germinating capacity of grains and seeds. * * *
+How It Does It
+The VITASCOPE is based upon the tetrazolium method, which has long been recognized as an efficient and accurate means of determining seed viability. The VITASCOPE improves upon this method by conducting the tests under a vacuum and at a constant temperature, thus giving the results much more rapidly than would otherwise be possible.
+The ordinary germination method tests the life of seeds by actually growing them. The VITASGOPE tests the presence of enzymes, which are present in all seeds containing any life. When the enzymes come im contact with the tetrazolium solution they release hydrogen which turns the tetrazolium into a highly colored red formalazine. If the seed germ is capable of germinat-mg it will be stained red; if incapable of germinating it will remain uncolored. [Emphasis added.]
+In short, while the function of the vitascope is to provide a rapid means of determining the germinability of seeds, the crucial consideration is that this function is accomplished by a biochemical analysis. This being the case, the vitascope was properly classified by the government under item 711.88.
+The protests are overruled. Judgment will be entered accordingly.
+The record consists of (i) the testimony of one witness — the vice president of the plaintiff company — who was called by plaintiff, and (ii) various brochures concerning the vitascope.
+As this court has pointed out in a number of cases, the Brussels Nomenclature has had an important effect on the preparation of the tariff schedules. See e.g., I. Pukel v. United States, 60 Cust. Ct. 672, 675, C.D. 3497, 286 F. Supp. 317, 319 (1968), and cases cited in note 4.
+Bernard involved the issue of whether the vitascopes were scientific or laboratory apparatus, nspf, under paragraph 360 of the Tariff Act of 1930. The court found that they were not, but rather were classifiable as electrical articles under paragraph 353.
