@@ -1,0 +1,41 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 91-03-00222"
+decided: "1993-04-27"
+citations: ["17 Ct. Int'l Trade 298", "820 F. Supp. 1456"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tianjin Machinery Import & Export Corp. and Shandong Machinery Import & Export Corp., plaintiffs v. United States and U.S. International Trade Commission, defendants, and Woodings-Verona Tool Works, defendant-intervenor"]
+source_url: "https://static.case.law/ct-intl-trade/17/cases/0298-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6133151
+cites_cases: ["16 CIT 1020", "16 CIT 931", "806 F. Supp. 1008", "966 F.2d 660"]
+---
+
+# Tianjin Machinery Import & Export Corp. v. United States
+
+## Majority (Goldberg, Judge:)
+
+Memorandum Opinion
+Goldberg, Judge:
+This action comes before the court on plaintiffs’ challenge to the United States International Trade Commission’s (“Commission’s”) determination upon remand issued January 15, 1993. The court sustains the remand determination and dismisses the present action in full.
+Defendant-intervenor Woodings-Verona Tool Works (“Woodings-Verona”), a United States importer of heavy forged handtools, filed an antidumping duty petition on behalf of the United States industry on April 4, 1990 (the “Petition”). The Petition alleged, in part, that imports of hammers/sledges, bars/wedges, picks/mattocks, and axes/adzes from the People’s Republic of China (“PRC”) were being sold in the United States at less than fair value.
+Plaintiffs, Tianjin Machinery Import and Export Corporation and Shandong Machinery Import and Export Corporation, along with Henan Machinery Import & Export Corporation, were the only three PRC companies that export the subject merchandise.
+The Commission issued its final determination in February, 1991. See Heavy Forged Handtools From the People’s Republic of China, USITC Pub. 2357, Inv. No. 731-TA-457 (Final) (Feb. 1991). In the final determination, the Commission found that the domestic producers of each class of merchandise suffered material injury as a result of imports.
+On April 19, 1991, plaintiffs filed an action with this court challenging the Commission’s final determination. Plaintiffs asserted several objections to the Commission’s determination, including the contention that the Commission failed to terminate the investigation even though a majority of the domestic hewing tools industry did not support the Petition. Plaintiffs based their argument on the grounds that [ ], a sig-
+nificant producer of hewing tools, informed the Commission on November 30, 1990 that it opposed the Petition. In the alternative, plaintiffs also asserted that the Commission was required at a minimum to notify Commerce of any information it possessed regarding lack of domestic support for the petition.
+On December 1, 1992, the court issued its opinion in Tianjin Machinery Import and Export Co. v. United States, No. 92-214 (CIT December 1, 1992). The court found that the Commission’s determination was, in part, supported by substantial evidence and in accordance with law. The court accordingly affirmed the Commission’s determination in part.
+The court also found that the Commission’s final determination was silent on the issue of [ ] opposition to the Petition, and provided no explanation of the Commission’s apparent decision that termination of the hewing tool proceeding was not warranted. The court determined that as a result of the Commission’s failure to provide any indication of the course of conduct pursued after receiving [ ] opposition, the Commission’s final determination was not supported by substantial evidence in this regard only.
+The court remanded the action to the Commission with instructions to specify the course of conduct taken as a result of the opposition filed by [ ], and the underlying reasons for its actions. The Commission was specifically directed to provide an explanation for any determination, should one be made, that the statutory language “on behalf of” contained in 19 U.S.C. § 1673a(b) (1988) was not a traditional, jurisdictional standing requirement, or any conclusion that the authority or obligation for determining that the petition was filed “on behalf of” the domestic industry lay with Commerce, and not the Commission.
+The Commission issued its response to the remand on January 15, 1993. The Commission stated that:
+‘ [t]he statute explicitly grants authority only to Commerce to determine issues of standing in the context of the 20-day sufficiency of the petition determination. * * * [T]he only time that the statute explicitly authorizes the Commission to terminate an investigation on procedural grounds is when a petitioner withdraws a petition.’
+Response of the Commission to the Court’s Remand Inquiry at 3, quoting Gray Portland Cement and Cement Clinker from Japan, USITC Pub. 2376, Inv. No. 731-TA-461 (Final) (Apr. 1991) at 3-13.
+The Commission concluded that, consequently, it did not possess the authority to terminate an investigation based on standing issues.
+The court notes that the governing statute, 19 U.S.C. § 1673a(b) (1988), mandates that an antidumping petition must be filed “on behalf of an industry.” Subsection (c) of Title 19 United States Code, Section 1673a (1988) provides that Commerce shall determine whether the petition alleges all necessary elements within 20 days after filing of the petition.
+Further, in Suramerica de Aleaciones Laminadas, C.A. v. United States, 10 Fed. Cir. (T) _, 966 F.2d 660, 665 n. 6 (1992), the Federal Circuit recently specified in connection with the statutory provision that a petition be filed “on behalf of” an industry, that:
+Although both Commerce and the [Commission] are “charged” with administering different parts of the Act, it is Commerce who determines that a petition is sufficient to cause the initiation of investigations — that the statutory requirements are satisfied. The [Commission]’s position in its brief is that it defers to Commerce’s initial determination, and that only Commerce can review that determination. This is a reasonable and permissible interpretation of the Act’s delineation of respective responsibilities.
+Therefore, the court’s obligation is to ascertain whether the Commission decisions to defer to Commerce and to forgo notification to Commerce of standing-related information were “reasonable and permissible.” The court finds that under the facts of this action, the Commission’s determinations were so supported.
+Plaintiffs failed to point to any evidence demonstrating that Commerce could not have fully addressed their standing challenges. Plaintiffs were unable to present any facts explaining why they were prevented from presenting to Commerce [ ] opposition to the petition. Similarly, plaintiffs were unable to show that they forfeited any objections to petitioners’ standing as a result of the Commission’s deferral to Commerce.
+The court holds, therefore, that the Commission’s determination upon remand was supported by substantial evidence and in accordance with law. Accordingly, Commerce’s determination is affirmed, and the action is dismissed in full.
+Indeed, plaintiffs did challenge Commerce’s affirmative finding of standing, in addition to several other aspects of Commerce’s final determination, in the companion case of Tianjin Machinery Import & Export Corp. v. United States, 16 CIT 931, 806 F. Supp. 1008 (1992). In Tianjin Machinery Import & Export Corp. v. United States, 16 CIT 1020 (1992), 806 F. Supp. 1008, this court remanded the action to Commerce on this precise standing issue. Upon remand, the court requested explanation from Commerce regarding its refusal to terminate its investigation on the ground the petition was not filed on behalf of the industry. After Commerce provided the justification in its remand determination, plaintiffs declined to further pursue their objections to Commerce’s finding of standing, Specifically, plaintiffs chose not to file a USCIT Rule 56.1 brief challenging Commerce’s remand determination. As a result, the court affirmed Commerce’s determination in full. See Tianjin Machinery Import & Export Corp. v. United States. No. 93-60 (CIT April 27, 1993).
