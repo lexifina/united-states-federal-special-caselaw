@@ -1,0 +1,28 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "91-295"
+decided: "1992-06-22"
+citations: ["2 Vet. App. 507"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MANKIN, IVERS, and STEINBERG, Associate Judges."]
+parties: ["Gloria B. JAMIAS, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/2/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12257601
+cites_cases: ["1 Vet.App. 23", "1 Vet.App. 49", "1 Vet.App. 584", "2 Vet.App. 336", "38 C.F.R. § 19.129", "38 C.F.R. § 20.302", "38 U.S.C. § 501", "38 U.S.C. § 5107", "38 U.S.C. § 7104", "38 U.S.C. § 7105", "38 U.S.C. § 7252"]
+---
+
+# Jamias v. Derwinski
+
+## Majority (IVERS, Associate Judge:)
+
+IVERS, Associate Judge:
+Appellant, Gloria B. Jamias, seeks review of a January 4, 1991, decision of the Board of Veterans’ Appeals (BVA or Board). In that decision, the Board determined that appellant’s substantive appeal of entitlement to service connection for the cause of her husband’s death was untimely filed. See Gloria B. Jamias, BVA No. 91-00509 (Jan. 4, 1991). A timely appeal to this Court followed. On October 3,1991, appellant filed an informal brief, arguing for reversal on the ground that the BVA erred as a matter of law. On December 13,1991, the Secretary of Veterans Affairs (Secretary) filed a motion for summary affirmance, for acceptance of the motion in lieu of a brief, and for a stay of the proceedings. This Court has jurisdiction of the case under 38 U.S.C. § 7252(a) (formerly § 4052(a)).
+Appellant’s husband, Andres F. Jamias, a World War II veteran, died on September 15, 1986. R. at 1. Appellant filed a dependency and indemnity compensation claim with the Veteran’s Administration (now Department of Veterans Affairs) (VA) on September 6,1988. Her claim was denied by the rating board in its May 12, 1989, rating decision. Id. According to the Secretary’s motion, appellant received notice of the rating decision on May 24, 1989. Secretary’s motion at 2. Appellant filed a Notice of Disagreement (NOD) on June 26, 1989. R. at 3. A Statement of the Case (SOC) was mailed to appellant on August 3, 1989. R. at 4-8. • Appellant did not file her VA Form 1-9 until June 22, 1990, more than sixty days after the SOC was mailed and more than one year after the rating decision was mailed. R. at 9-10. By letter, dated July 27, 1990, J.E. Carrick, an adjudication officer, informed appellant that her appeal to the Board was untimely, and, therefore, the May 12, 1989, rating decision was final. R. at 11. See 38 C.F.R. § 19.129(b) (superseded by 57 Fed Reg. 4113 (1992), to be codified at 38 C.F.R. § 20.302(b)) (substantive appeal must be filed within sixty days from the date the SOC is mailed to appellant, or within the remainder of the one-year period from the date of the mailing of the rating decision, whichever period ends later). Disagreeing with the interpretation of the appropriate regulation, appellant filed an NOD on September 5, 1990. R. at 12. An SOC was mailed to her on September 27,1990. R. at 13-16. On October 5, 1990, appellant submitted a VA form 1-9, in which she argued that a one-year limitation, instead of the sixty-day limitation, should apply to the SOC. R. at 19. The Board upheld the finding of untimeliness.
+The controlling statute, 38 U.S.C. § 7105(d)(3) (formerly § 4005(d)(3)), states:
+Copies of the “statement of the case” prescribed in paragraph (1) of this subsection will be submitted to the claimant and to the claimant’s representative, if there is one. The claimant will be afforded a period of sixty days from the date the statement of the case is mailed to file the formal appeal. This may be extended for a reasonable period on request for good cause shown. The appeal should set out specific allegations of error of fact or law, such allegations related to specific items in the statement of the case. The benefits sought on appeal must be clearly identified. The agency of original jurisdiction may close the case for failure to respond after receipt of the statement of the case, but questions as to timeliness or adequacy of response shall be determined by the Board of Veterans’ Appeals.
+Appellant made no request for an extension of time to file her VA 1-9 form. The language of the statute is plain and not open to interpretation. See Cutler v. Derwinski, 2 Vet.App. 336, 337 (1992); Gardner v. Derwinski, 1 Vet.App. 584, 587-88 (1991). It does not provide for a one-year filing limitation from the date the SOC is mailed, and therefore is not open to interpretation. The regulation promulgated by the Secretary, under 38 U.S.C. § 501(a), is consistent with 38 U.S.C. § 7105(d)(3) and, therefore, within the scope of the Secretary’s authority.
+Upon consideration of the pleadings, appellant’s informal brief, and a review of the record on appeal, it is the holding of the Court that appellant has not demonstrated that the BVA has committed either legal or factual error which would warrant reversal or remand. The Court is also satisfied that the BVA decision satisfies the “reasons or bases” requirements of 38 U.S.C. § 7104(d)(1) (formerly § 4004(d)(1)), and the benefit of the doubt doctrine of 38 U.S.C. § 5107(b) (formerly § 3007(b)). See Gilbert v. Derwinski, 1 Vet.App. 49, 53-57 (1990). It is further held that summary disposition of this claim is appropriate. See Frankel v. Derwinski, 1 Vet.App. 23 (1990).
+Therefore, the Secretary’s motion for summary affirmance is GRANTED. Accordingly, the BVA decision is AFFIRMED.
