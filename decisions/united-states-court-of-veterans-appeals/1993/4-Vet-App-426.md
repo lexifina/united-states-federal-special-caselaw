@@ -1,0 +1,47 @@
+---
+court: "United States Court of Veterans Appeals"
+docket: "91-1648"
+decided: "1993-03-25"
+citations: ["4 Vet. App. 426"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and KRAMER and FARLEY, Associate Judges."]
+parties: ["Fredolin M. AGCAOILI, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/4/cases/0426-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6471503
+cites_cases: ["1 Vet.App. 241", "2 Vet.App. 133"]
+---
+
+# Agcaoili v. Brown
+
+## Majority (PER CURIAM.)
+
+ORDER
+PER CURIAM.
+On October 16, 1990, the Board of Veterans’ Appeals (BVA or Board) issued a decision denying appellant basic eligibility to disability pension benefits on the basis of not having requisite active wartime service. Fredolin M. Agcaoili, BVA 90-_(Oct. 16, 1990).
+Appellant’s Notice of Appeal (NOA) was filed on September 26, 1991. On October 21,1991, the Clerk of the Court ordered the Secretary of Veterans Affairs (Secretary) to provide a preliminary record, including “the dates of the original adjudication and of any subsequent adjudications, confirmations of adjudications, and hearing officer decisions” (Order 1). Order 1 directed that the preliminary record be filed with the Court within 20 days after the date of the order (by November 12, 1991). The Secretary filed a motion on November 12, 1991, for an extension of 30 days (until December 12,1991), to file the preliminary record. The Secretary’s motion was stamp-granted on November 18, 1991.
+On December 12, 1991, the Secretary moved to set aside Order 1, and filed a motion to dismiss for lack of subject matter jurisdiction (Secretary’s motion) and a memorandum in support of the motion. The memorandum noted the October 16, 1990, date of the BVA decision and the September 26, 1991, filing date of appellant’s NOA, and concluded that since appellant’s NOA was filed 345 days after the mailing of the BVA decision, appellant failed to comply with the 120-day jurisdictional deadline and the Court therefore lacked jurisdiction.
+The Clerk of the Court issued an order on December 24, 1991, directing appellant to show cause why his appeal should not be dismissed for lack of jurisdiction. Appellant indicated in his response, in essence, that a motion for reconsideration may have been filed with the BVA.
+The Court issued an order on February 19, 1992 (Order 2), which noted Rosler v. Derwinski, 1 Vet.App. 241 (1991) (the filing of a motion for reconsideration during the 120-day judicial appeal period tolls the period for filing an NOA), and ordered the Secretary to “file with the Court any and all correspondence which may be construed as a motion for reconsideration that appellant filed with the BVA between October 16, 1990, the date of the BVA decision on appeal, and February 13, 1991, the date the 120-day appeals period ended” and to notify the Court of the status of any document so construed. The Secretary responded on March 20, 1992, that the BVA received appellant’s motion for reconsideration on January 23,1991, and denied the motion on March 14, 1991. A copy of the denial was attached to the response as “Exhibit 2.”
+As the denial did not include a notification of appellate rights, the Court issued an order on April 15, 1992 (Order 3). The Court again noted Rosier (the BVA is obligated to provide the claimant with written notice of appeal rights when the BVA mails notice of its denial of the claimant’s motion for reconsideration), and ordered the Secretary to “file with the Court any notification of appeal rights that accompanied the letter to appellant denying reconsideration.” The Secretary filed his response on April 30, 1992, and informed the Court that “the attorney assigned to this case was informed by BVA staff, ..., that a copy of the attached notification of appeal rights accompanied the March 14, 1991[,] reconsideration denial letter sent to [ajppellant.” Appellant, although not ordered to respond, also submitted a letter dated May 5, 1992, in which he stated, “there was no appeal rights that accompanied a written notice to me denying the reconsideration of my appeal.”
+On May 12, 1992, the Court issued an order finding the Secretary’s response of April 30, 1992, “insufficient as a proper basis upon which the Court can act.” The Court continued:
+A proper basis requires an unequivocal response from the Secretary that a notice of appeal rights was mailed. Such a response may be in the form of (1) an appropriate affidavit, (2) a pleading, submitted by the Secretary’s attorney, as an officer of the Court, which provides an appropriate statement of assurance, or (3) a copy of an appropriate official record.
+The Secretary was ordered to make any additional response desired to the Court’s order of April 15, 1992. After the Court granted the Secretary an extension of time to file his additional response, the Secretary’s response was filed on June 18, 1992. The response stated in relevant part:
+[Ojn March 14, 1991, the date that the reconsideration denial letter was issued to ... [ajppellant, it was not the procedure of the BVA to issue any form of notice of appellate rights with a letter of denial of motion for reconsideration. (See attached declaration).
+The Secretary also notes that, in his response to the Court’s April 15, 1992[,j [ojrder, the Court was mistakenly advised that a copy of an attached notification of appellate rights accompanied the March 14, 1991[,j reconsideration denial letter sent to [ajppellant. However, the attorney assigned to this case was recently informed by the Director of Administrative Services of the BVA that, through an apparent misunderstanding of the attorney’s request, a copy of the notification of appellate rights which is issued with a final decision of the BVA on appeal, not a copy of any notice mailed at the time of the reconsideration denial, was provided for submission to the Court. (See attached declaration). There is no record of a notice of appellate rights being mailed to [ajppellant with the letter apprising him of the denial of his request for reconsideration. The Secretary regrets any inconvenience that this misunderstanding may have caused the Court or ... [ajppellant.
+The declaration of the Director of Administrative Services of the BVA, referenced in the response, states:
+On April 16, 1992, the attorney assigned to this case from the Office of General Counsel to the Secretary ... contacted a secretary newly assigned in the Director’s office, and requested a copy of the notice of appellate rights which accompanied the March 14, 1991[,j reconsideration denial letter sent to ... appellant. Through an apparent misunderstanding of the attorney’s request, a copy of the notification of appellate rights which is issued with a final decision of the Board on appeal was transmitted.
+On March 14, 1991, the date that the reconsideration denial letter was issued to ... appellant, it was not the procedure of the Board to issue any form of notice of appellate rights with a letter of denial of motion for reconsideration.
+_Based on the Court’s ruling in Rosier [1 Vet.App. 241], the Board implemented the issuance of a notice of appellate rights with all reconsideration denial letters beginning after January 1, 1992.
+The Court issued an order on July 10, 1992, which, inter alia, ordered the appeal submitted to a panel of three judges on the following issue: “What action, if any, should be taken by the Court in light of the erroneous information provided by the Secretary.”
+The Court issued an order on December 18, 1992, denying the Secretary’s motion and ordering the Secretary to designate the record on appeal before January 18, 1993. (Order 4).
+The Court notes as follows:
+Rather than comply with Order 1, the Secretary filed a motion and memorandum which in law and fact was ill-conceived and which, had it been relied on by the Court, would have resulted in the erroneous dismissal of appellant’s appeal.
+The Secretary’s response to Order 2 was incomplete and misleading in that it failed to advise the Court that the notification of denial of reconsideration was ineffective because it failed to advise appellant of his appellate rights. Failure to notify the Court of this deficiency could have led the Court to erroneously dismiss appellant’s appeal.
+The Secretary’s response to Order 3 was totally incorrect in that it indicated that a notification of appellate rights had been given to appellant when none had. Again, had the Court acted on this information, appellant’s appeal would have been erroneously dismissed.
+Finally, the Court notes that the Secretary did not comply with Order 4, and as of the date of this order, has not yet designated the record on appeal.
+The Court commends the following references to the attention of counsel for the Secretary: Model Rules of Professional Conduct for Federal Lawyers Rule 3.3 (1990); ABA Model Rules of Professional Conduct Rule 3.3 (1983); U.S. Vet.App.R. 1 of the Appendix to R. 46; MacWhorter v. Derwinski, 2 Vet.App. 133, 135 (1992).
+Upon consideration of the above, it is
+ORDERED that the General Counsel, within 30 days after the date of this order, designate the record on appeal pursuant to Rule 10 of this Court’s Rules of Practice and Procedure.
