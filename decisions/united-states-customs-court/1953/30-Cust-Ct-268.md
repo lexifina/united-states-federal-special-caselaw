@@ -1,0 +1,42 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1531"
+decided: "1953-06-10"
+citations: ["30 Cust. Ct. 268"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ekwall and Johnson, Judges"]
+parties: ["W. X. Huber & Co. a/c R. Maes Export & Import Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/30/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6592612
+cites_cases: ["11 Ct. Cust. Appls. 297", "11 Cust. Ct. 44", "16 Ct. Cust. Appls. 268", "20 Cust. Ct. 189", "3 Cust. Ct. 286", "58 Treas. Dec. 751", "61 Treas. Dec. 1123", "8 Cust. Ct. 355"]
+---
+
+# W. X. Huber & Co. v. United States
+
+## Majority (Ekwall, Judge:)
+
+Ekwall, Judge:
+These two cases have been consolidated for trial. They involve importations of cotton rugs from Belgium entered at the port of Los Angeles, Calif. In each case, appeals for reappraisement were filed and as a result thereof the court determined (Reap. Dec. 7650):
+* * * the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, to be the proper basis for the determination of the value for the merchandise here involved, and that such values are the appraised values, less the amounts added on entry because of advances made by the appraiser in other cases then pending on appeal for reappraisement.
+The collector on liquidation did not follow the court’s judgment for the reason, as appears from the record, that he was of the opinion that the so-called duress certificates were invalid in that they were unsigned. Therefore, he liquidated the entries involved herein upon the basis of the entered values without deducting the amounts added on entry because of advances made by the appraiser in other cases then pendng on appeal for reappraisement. (See section 503 (b), Tariff Act of 1930.)
+It is claimed on behalf of the plaintiff that said entries should have been liquidated upon the basis of the final appraised value as determined by the court and refund made of the excess customs duties paid.
+The facts are not in dispute. It is apparent that the collector at first accepted the so-called duress certificates as valid, but later, upon more mature consideration, came to the conclusion that as they were not signed they crniM not be considered. It is plaintiff’s contention that the certificates, being attached to signed entries, were adequately certified, and, further, that as the collector had recognized the certificates as valid he was precluded from later rejecting them.
+Strict compliance with the provisions of said section 503 (b) has. been held to be a prerequisite for recovery. In the case of Strauss-Eckardt Co., Inc. v. United States, 20 Cust. Ct. 189, C. D. 1108, the-court, in so holding, used the following language:
+The decisions have held consistently that in order to obtain the benefit of the-privileges granted in said section 503 (b) (and correlative provisions in section 489 of the Tariff Act of 1922), it is mandatory upon the importer to comply strictly with such provisions. Zinberg v. United States, 16 Ct. Cust. Appls. 268, T. D. 42870; M. Bernstein v. United States, 18 C. C. P. A. (Customs) 193, T. D.. 44379; Ono Trading Co. v. United States, 23 C. C. P. A. (Customs) 124, T. D. 47991; Basser’s Silk Co. v. United States, 23 C. C. P. A. (Customs) 141, T. D. 48008; Nippon Dry Goods Co. v. United States, 27 C. C. P. A. (Customs) 277, C. A. D. 100; Balfour, Williamson & Co. v. United States, 61 Treas. Dec. 1123, T. D. 45697; Sabine Transportation Co. v. United States, 3 Cust. Ct. 286, C. D. 256; and Oceanic Trading Co. v. United States, Abstract 50483.
+This court-has also held that the fact that a document which is-unsigned is attached to a signed document does not render a signature superfluous. See T. A. Farris v. United States, 8 Cust. Ct. 355, C. D. 639, where the court said:
+• We have been cited to no rule of law under which a document in the nature of a. certificate need not be signed if physically attached to another paper which bears-a signature.
+Funk & Wagnalls New Standard Dictionary defines the verb “certify” as follows:
+3. To testify to in writing; give a certificate of; make a declaration about, in writing, under hand, or hand and seal; * * *
+This definition indicates the necessity for a signature to a written certification.
+There is nothing before us to indicate that the importer intended that the signature of the entry should be the signature of the certificate, even were such a practice permissible. The certificate before us appears to be a mimeographed form having the firm name of Harper & Harper, Attorneys, with their address-in the lower left-hand corner. It is admitted by the attorney for the plaintiff that this firm name is not claimed to be a signature.
+Again, in the case of W. X. Huber Co. v. United States, 11 Cust. Ct. 44, C. D. 790, the court, in passing upon the sufficiency of an unsigned certificate, used the following language:
+We find among the papers a document that is in form such a duress certificate as the law requires so far as the matter therein contained is concerned, but it is obviously only a carbon copy, with the original not accounted for, and it is not. signed. It is on a piece of plain white paper, not a letterhead. The Government attorney has conceded that this alleged certificate was attached to the amended entry when the latter was filed and on the strength of this concession plaintiff’s attorney argues that because the entry was signed there was no need for the certificate to be signed. We cannot agree with this position. Every entry is required to be signed and according to plaintiff’s position here no duress certificate need ever be signed. But a certificate — of whatever character — is null and void if it is not signed by the person making it. The signature is of the essence of the document. All the definitions of the term, both lay and legal, confirm this statement. For example, the Standard Dictionary gives this definition:
+certificate * * *. 2. Law. A writing so signed and authenticated as to be legal evidence * * *.
+It is true as contended by plaintiff’s attorney that the statute does not specifically require that the certificate be signed, but this is far from being persuasive of an intent on the part of the lawmakers to dispense with a signature. Section 514 of the Tariff Act of 1930 does not specifically require that a protest be signed, but in the case of Allison v. United States, 11 Ct. Cust. Appls. 297, T. D. 39126, a protest not signed was held to be a nullity. Section 501 of the same law does not specifically require that appeals to reappraisement be signed but in United States v. General Aniline Works, 58 Treas. Dec. 751, T. D. 44421, an appeal to reappraisement was held invalid because the person taking the appeal signed it with his initials instead of his full name.
+We hold as a matter of law that the so-called duress certificate before us, which is the one that is discussed by plaintiff’s attorney in his brief, is void and of no effect. It follows that the action of the importer in entering at the value shown in the amended entry was entirely voluntary on its part and that the action of the collector in liquidating upon the basis of such value was legal and proper in all respects.
+The case of Clinton Smullyan Associates v. United States, 35 C. C. P. A. (Customs) 7, C. A. D. 363, cited by plaintiff in support of the contention that an unsigned certificate is valid, is distinguishable from the instant case. There, the so-called duress certificate was signed in typewriting, and the court held that to be a sufficient signature. While it is true that the court stated in its opinion that the collector was fully informed as to the issues presented by the typewritten signatures, we do not understand that case to hold that in cases where the collector is informed of the issues an unsigned certificate would be considered valid.
+We, therefore, find that the unsigned so-called duress certificates here involved are invalid and void. It follows that the action of the collector in liquidating upon the basis of the entered value, without deducting the amounts allegedly added under duress, was legal and proper. Plaintiff’s claims are- therefore overruled.
+Judgment will be rendered for the defendant.
