@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 94-11-00668"
 decided: "1995-12-04"
-citations: ["19 Ct. Int'l Trade 1413", "19 Ct. Int'l Trade 1419"]
+citations: ["19 Ct. Int'l Trade 1413"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
