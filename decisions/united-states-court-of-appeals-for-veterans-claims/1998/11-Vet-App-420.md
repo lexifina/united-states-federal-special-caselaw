@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for Veterans Claims"
 docket: "95-1109"
 decided: "1998-09-21"
-citations: ["11 Vet. App. 420", "11 Vet. App. 455"]
+citations: ["11 Vet. App. 420"]
 reporter: "vet-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Shelia WINSETT, Appellant, v. Togo D. WEST, Jr., Secretary of Veteran
 source_url: "https://static.case.law/vet-app/11/cases/0420-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1590002
-cites_cases: ["1 Vet.App. 171", "1 Vet.App. 19", "1 Vet.App. 49", "10 Vet.App. 155", "2 Vet. App. 609", "34 F.3d 1039", "38 C.F.R. § 3.309", "38 C.F.R. § 3.312", "38 U.S.C. § 1116", "38 U.S.C. § 5109", "38 U.S.C. § 7104", "38 U.S.C. § 7109", "38 U.S.C. § 7261", "4 Vet.App. 467", "462 U.S. 919", "5 Vet.App. 119", "597 F.Supp. 740", "6 Vet.App. 52", "6 Vet.App. 547", "689 F.Supp. 1250", "7 Vet.App. 429", "818 F.2d 145", "9 Vet.App. 2"]
+cites_cases: ["1 Vet.App. 171", "1 Vet.App. 49", "10 Vet.App. 155", "2 Vet. App. 609", "34 F.3d 1039", "38 C.F.R. § 3.309", "38 C.F.R. § 3.312", "38 U.S.C. § 1116", "38 U.S.C. § 5109", "38 U.S.C. § 7104", "38 U.S.C. § 7109", "4 Vet.App. 467", "462 U.S. 919", "5 Vet.App. 119", "597 F.Supp. 740", "6 Vet.App. 52", "6 Vet.App. 547", "689 F.Supp. 1250", "7 Vet.App. 429", "818 F.2d 145", "9 Vet.App. 2"]
 ---
 
 # Winsett v. West
