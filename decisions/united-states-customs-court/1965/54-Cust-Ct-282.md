@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2545"
+decided: "1965-06-17"
+citations: ["54 Cust. Ct. 282"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kao and Ford, Judges"]
+parties: ["Mattoon & Company, Inc. T.G. Cullen v. United States"]
+source_url: "https://static.case.law/cust-ct/54/cases/0282-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6574749
+cites_cases: ["1 Ct. Cust. Appls. 120", "1 Ct. Cust. Appls. 51", "12 Ct. Cust. Appls. 451", "26 CCPA 250", "47 CCPA 28", "82 Treas. Dec. 305", "91 Treas. Dec. 150"]
+---
+
+# Mattoon & Co. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+The importer by this action is seeking reclassification of certain Von Arx air guns and parts which were assessed with duty at the rate of 15 per centum ad valorem under the provisions of paragraph 372 of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T.D. 51802, which provides as follows:
+Machine tools (except jig-boring machine tools)_15% ad val.
+# * # sjs s¡« * *
+Parts, not specially provided for, wholly or in chief value of metal or porcelain, of articles provided for in any item 372 of this Part:
+**:];:!:***
+Other- The same rate of duty as the articles of which they are parts
+Paragraph 372 of the Tariff Act of 1930 provides as follows:
+* * * Provided further, That machine tools as used in this paragraph shall be held to mean any machine operating other than by hand power which employs a tool for work on metal.
+Plaintiffs, by their protest, claim the imported merchandise to be properly dutiable at the rate of 11% per centum ad valorem under said paragraph 372, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108, as machines and parts. Said provision reads as follows:
+Machines, finished or unfinished, not specially provided for :
+Other (except * * *). 11%% ad val.
+The parts provision, so far as pertinent herein, is similar to that set forth, supra.
+The record in this case consists of two pamphlets received in evidence as plaintiffs’ exhibits 1 and 2, as well as the testimony of Mr. Bobert Pitsker, a manufacturer’s representative, associated with the importer herein. In addition thereto, it was stipulated that tire air grins contain moving parts and are mechanisms which modify, transmit, and utilize force and energy. It was also stipulated by and between counsel for the respective parties that all of the items contained on entry 16068, with the exception of two repair kits and the wrenches contained therein, were parts essential to the operation of the air guns.
+The operation of the air guns was described by the witness as follows:
+The Von Arx air pistol is a floating piston, pneumatic hammer, which drives an anvil, a cluster of needles in a needle holder, forward as a group until the needle holder contacts a recoil spring which forces it bach into starting position. The tool can also be adapted, through removing the needles and changing the nose tube, to the use of chisels and chisel bits.
+Mr. Pitsker testified that he was personally familiar with the operation of the various models of the Von Arx air guns and had observed their uses in chemical industries, food industries, contracting industries, mining industries, municipalities, and various other industries; that the imported guns, when used with a cluster of needles, drove the needles forward with each seeking its own elevation and allowing them to strike any contour or surface; that there was a constant peening action or vibrating action against the surface, which removed slag, scale, or paint; that he had observed them used to remove paint from concrete, metal, and once on wood; that, on a concrete surface, the needles operated to remove contaminants of the concrete, to restore the architectural effects, or to permit a second layer of concrete to adequately form a bond against the first layer.
+The witness described the term “industrial slag” as a build-up of material through chemical means or through the settlement of foreign matter on a surface; that the slag can itself be a chemical such as sulphur, which accumulates at a sulphur plant, fly ash, or dust; that slag is a crust of material superimposed upon the original surface, whether steel or concrete; that he has observed hardened concrete removed from contractors’ equipment, such as chutes, wheelbarrows, hoppers, etc., through the use of the “Von Arx” air guns.
+On. cross-examination, tRe witness testified that his customers included a number of utility companies, food processing companies, chemical companies, petroleum companies, municipalities, and branches of the United States Government; that, at Mare Island, a number of these guns were used in the welding shop to clean slag on welds, while the rigger shop used them to remove coatings; that one of the largest uses at Mare Island is for the removal of radioactive dust from automatic submarines; that derusting of metal is a major use of the air gun, but that de did not know its chief use.
+Based upon this record, it is the position of plaintiffs that the imported Von Arx air guns are excluded from the provisions for machine tools, because they do not “work” on metal, as defined in United States v. Kurt Orban Company, Inc., 47 CCPA 28, C.A.D. 724, which requires that the operation be performed on metal to improve and advance its status for further use. The importer urges the court to find that the cleaning of surfaces or removal of contaminants does not amount to advancement or improvement for further use, and particularly since the air gun is not solely for use on metal.
+In the Kurt Orban case, supra, the appellate court held a metal scrap baler, which compressed and sheared metal scrap, did not fall within the scope of the definition of “machine tools,” since it did not “work” on metal. In arriving at this conclusion, the court made the following comment with respect to the term, “work”:
+The word “work” is susceptible of such a wide variety of meaning that we have grave doubts Congress intended it to be construed as broadly as the Government urges. For example, in a broad sense any tool which changes the shape, size, or even the position of a piece of metal in any manner and for any purpose may be literally said to do “work” on it, even though the nature of that particular “work” be wholly incidental to the primary function of the device. Under such circumstances there is a substantial doubt in our mind that Congress intended that word to be given such a broad construction, and we think it proper to resolve that doubt in favor of the importer. United States v. Sussfeld, 1 Ct. Cust. Appls. 51, T.D. 31030; Woolworth v. United States, 1 Ct. Cust. Appls. 120, T.D. 31119; and Downing & Co. (Inc.) v. United States, 12 Ct. Cust. Appls. 451, T.D. 40614.
+In our opinion the conclusion of the Customs Court, is a reasonable interpretation of the statute and proviso. That view is supported by reference to the Summary of Tariff Information, 1929, p. 813, which was considered in Keith Dunham [26 CCPA 250, C.A.D. 24], and reads:
+* * * Typical basic machine tools are the lathe which revolves the work while a cutter is held against it; the planer, which moves the woi*k forward and back under a planing tool; the drilling machine for drilling holes; the miller, in which the work is shaped by the action of revolving toothed cutters, and the grinding machine, in which abrasive wheels are used to remove metal. * * *
+It is obvious that none of the above exemplars even remotely resemble the unit at bar.
+In addition thereto, the Summaries of Tariff Information (1948), volume 3, part 4, makes the following comment:
+Scope of summary- — Machine tools within the meaning of paragraph 372 of the tariff! act include any power-driven machines that employ a tool for work on metal. By the trade, however, a distinction is made between (1) machine tools proper, consisting of power-operated metalworking machines having one or more tools and workholding devices and used for progressively removing metal in the form of chips, and (2) metalworking machines designed to shape metal by bending, pressing, and similar processes. * * *
+Description and uses. — Machine tools proper are of two general types: Special machines, and general purpose machines. Special machines are power-driven equipment designed to produce one article only, in large numbers and with a considerable degree of automatic action. * * * Examples of such special machine tools are screw-making machines, bolt threaders, nut tappers, gear cutters, automatic crankshaft lathes, spring-making machines, and a variety of large automatic machines for the performance of multiple operations. They usually perform a complete process or turn out fa finished product, often with little or no need for subsequent finishing.
+General purpose machines are power-driven machines for forming or shaping. They are adaptable to all kinds of work within their general functions and capacity. The working of such machines is controlled to a large extent by a skilled operator. Typical examples of this kind of machines are the engine lathe, which revolves the work while a cutter is held against it; the planer, which moves the work back and forth under a planing tool; the drilling machine for drilling holes; the milling machine, in which the work is shaped by the action of revolving toothed cutters; and the grinding machine, in which abrasive wheels are used to remove metal.
+While in a broad sense the Yon Arx air gun might be said to work on metal, it seems clear that the removal of slag, scale, rust, or contaminants from metal does not remotely resemble in function the exemplars set forth in the Summaries of Tariff Information (1948) quoted, supra. In our opinion, based upon the record herein, aside from the fact that the merchandise in question is used to clean stone and concrete, the Von Arx air gun is not one which works on metal within the intendment of the provisions contained in paragraph 372, supra, and, further, it does not advance or improve the metal for further use.
+The claim in the protest with respect to the imported Von Arx air guns and parts, except as to the repair kits and wrenches contained therein, is sustained.
+Judgment will be rendered accordingly.
