@@ -1,0 +1,37 @@
+---
+court: "United States Court of Claims"
+docket: "45018"
+decided: "1941-12-01"
+citations: ["42 F. Supp. 73"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before WHALEY, Chief Justice, and GREEN, LITTLETON, WHITAKER, and JONES, Judges."]
+parties: ["MORRISON CAFETERIAS CONSOL., Inc., v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/42/cases/0073-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4213464
+cites_cases: ["309 U.S. 304"]
+---
+
+# Morrison Cafeterias Consol., Inc. v. United States
+
+## Majority (GREEN, Judge.)
+
+GREEN, Judge.
+This suit is begun to recover $1,606.87 plus interest. The principal sum is alleged to have been erroneously and illegally collected as capital stock tax for the taxable years ended June 30, 1934 and 1935. Claims for refund were duly filed stating (1) that plaintiff was exempt from tax as a holding corporation not engaged in carrying on or doing business during either of the years in suit, and (2) that the taxes in controversy were improperly computed upon the declared value reported by plaintiff in its return.
+The defense is that the record facts do not support the alleged cause of action.
+It seems to be conceded that the plaintiff is a domestic corporation and during the fiscal years involved was a parent corporation of a group embracing eight other corporations operating cafeterias in the States of Alabama, Florida, Georgia, Louisiana, and Mississippi.
+On August 30, 1934, plaintiff filed a capital stock tax return for the taxable year ended June 30, 1934, reporting thereon $720,000 as the value of its entire capital stock and no tax due by reason of a claimed exemption. Plaintiff simultaneously filed a formal claim for exemption from any liability for capital stock tax upon its return for the stated reason that it was a non-operating holding company not carrying on or doing any business during any part of the taxable year.
+On August 30, 1935, plaintiff filed a capital stock tax return for the taxable year ended June 30, 1935, reporting thereon $733,412.75 as the value of its entire capital stock and a tax liability of $733. Simultaneously therewith, plaintiff filed a formal claim for exemption similar to that which it had filed for the preceding taxable year.
+Plaintiffs returns filed on August 30, 1934, and August 30, 1935, as stated above, were timely filed within the statutory period as extended by the Commissioner of Internal Revenue.
+On March 14, 1936, plaintiff filed with the Commissioner of Internal Revenue a so-called “amended” capital stock tax return for the year 1934, reporting thereon a nominal sum of $1 as the value of its entire capital stock.
+After conferences between representatives of the plaintiff and of the Commissioner of Internal Revenue, its claims for exemption were denied and timely assessments of Federal capital stock tax were made in the sum of $720 with accrued interest thereon of $100.37 for the taxable year 1934, and $733 with accrued interest of $53.50 for the year 1935. The aggregate amounts of $820.37 and $786.50 were paid by the plaintiff upon statutory notice and demand to the Collector of Internal Revenue on October 26, arid on December 3, 1936, respectively.
+Plaintiff filed separate formal claims for refund on June 28, 1937, of the sums paid as stated in the preceding paragraph. Each claim set forth as grounds a statement that the taxpayer was a holding corporation and as such it was. not engaged in the carrying on or doing of business and further stated in substance that the Commissioner of Internal Revenue had wrongfully used the declared values of $720,000 and $733,412.75 for its capital stock as the báse for computing the taxes which had been assessed and paid. As a part of this ground, it was further claimed that the Commissioner should have used a valuation of $1 as set forth in the “corrected” or “amended” capital stock tax return filed March 14, 1936, for the year 1934. Plaintiffs claims for refund were formally disallowed and rejected in full by the Commissioner of Internal Revenue and plaintiff so advised by a registered letter dated December 13, 1937.
+The argument of plaintiff is based upon the assumption that the returns first filed for each of the years in suit were not taxable returns and refers to them as either “no tax” returns or “exemption” returns. It contends that the value of $1 declared in the “amended” return is the proper basis for any calculation while its correct capital stock tax liability for both of the taxable years in suit.
+An extension had been granted which made the returns filed August 30, 1934, and August 30, 1935, filed in time. The claims for refund also were timely filed and the suit was begun on December 12, 1939, which was within two years after December 13, 1937, which was the date of the Commissioner’s rejection letter.
+The plaintiff in argument says that the documents which plaintiff first filed for each of the years in suit were either “no tax” returns or “exemption” returns. There is no such classification in the law or any descriptive legal terms. The documents were either returns within the meaning of the law or were something not required by the law.
+It seems to be conceded that both of the returns were prepared on the Treasury Department form 707 printed for the use of corporations required to make and file a return for capital-stock taxes and that in the case of the return for 1934 the form as filed was completely filled out with the sole exception of lines 11 and 14 showing computation of the tax due. The document filed August 30, 1935, was fully complete even to the computation of the tax liability in the sum of $733. The return first filed may have been incomplete in that it failed to compute the tax, but this does not render it no return whatever. Germantown Trust Co. v. Commissioner, 309 U.S. 304, 310, 60 S.Ct. 566, 84 L.Ed. 770.
+The so-called corrected or "amended” return filed March 14, 1936, was filed long after the due date of a return for either of the years in question and cannot be said to be “first” return within the meaning of the statutes. Revenue Act 1934, § 701(f), 26 U.S.C.A. Int.Rev.Acts, page 788. It was therefore, of no effect.
+The defendant’s attorney asserts in argument that the claim of exemption has been abandoned, but we find nothing in the record to that effect although the plaintiff in its reply argument makes no denial. It is not necessary, however, that we should determine this matter. Under familiar principles, the assessment made by the Commissioner is presumed to be valid and supported by the facts until the contrary is shown. There is no evidence whatever to show that the plaintiff was not engaged in carrying on or doing business and as this is the essential basis of the levy and assessment of the tax, we must presume that business was in fact carried on by it and it was subject to the tax. The return made for the taxable year ending June 30, 1934, was the “first” return which under the statute as it then stood could not be amended.
+It follows t-hat plaintiff’s petition must be dismissed and it is so ordered.
