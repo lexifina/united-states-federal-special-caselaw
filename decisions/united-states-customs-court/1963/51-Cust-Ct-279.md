@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "68155; protests 62/3571, etc. (New York)"
+decided: "1963-12-05"
+citations: ["51 Cust. Ct. 279"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lafayette Radio Electronics Corp. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/51/cases/0279-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6593095
+cites_cases: ["49 CCPA 111"]
+---
+
+# Lafayette Radio Electronics Corp. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that the merchandise consists of various types of meters similar in all material respects to those the subject of United States v. G. L. Electronics, Inc., Arrow Sales, Inc. (49 CCPA 111, C.A.D. 804), the claim of the plaintiffs was sustained.
