@@ -1,0 +1,45 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2484"
+decided: "1925-11-04"
+citations: ["13 Ct. Cust. 224"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["United States v. Redden"]
+source_url: "https://static.case.law/ct-cust/13/cases/0224-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093654
+cites_cases: ["13 Ct. Cust. Appls. 69"]
+---
+
+# United States v. Redden
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered tbe opinion of the court:
+The merchandise, the classification of which is subject to protest here, is leather. The typical exhibit is in the form of a large entire hide taken from an animal of the bovine species. This hide has been subjected to certain tanning processes, which, have left the leather smooth on one side and rough on the other.
+The question is whether it shall be classified and assessed for duty at 20 per centum ad valorem under paragraph 1431 of the Tariff Act of 1922, as claimed by the Government, or be given free entry under paragraph 1606 of the act, as claimed by the importer.
+The respective paragraphs are as follows:
+Par. 1431. Chamois skins, pianoforte, pianoforte-action, player-piano-action leather, enameled upholste’'v leather, bag, strap, case, football, and glove leather, finished, in the white or in-the crust, and seal, sheep, goat, and calf leather, dressed and finished, other than shoe leather, 20 per centum ad valorem.
+Par. 1606. Leather: All leather not specially provided for; harness, saddles, and saddlery, in sets or parts, except metal parts, finished or unfinished, and not specially provided for; leather cut into shoe uppers, vamps, soles, or other forms suitable for conversion into manufactured articles; and leather shoe laces, finished or unfinished.
+The Board of General Appraisers found, upon the -evidence, that the leather was in the crust; that the crust stage was an intermediary one; that the leather was not finished; that in its condition as imported it had not been specially processed to fit it for any particular use; that it must be finished by the application of several additional processes; that the kind of treatment’ to be applied depended upon the use or uses to which the leather was to be ultimately put; that it could be finished so as to fit it practically or commercially for bag, strap, or case leather, or for any one of several other uses; that it was not, in the condition imported, fit for any one of such uses; that it was not one of the leathers mentioned in paragraph 1431; that in its imported condition it was not specially provided for in that paragraph, nor in any other paragraph of the dutiable schedule, and held it, therefore, entitled to free entry under paragraph 1606, and sustained the protest.
+There was testimony offered by the Government tending to show that the merchandise was commercially known as “leather in the crust,” or “bag leather in the crust,” or perhaps by some other commercial designation. Just what the Government claims with respect to this proof of commercial designation does not clearly appear; in other words, it does not clearly appear what is the claimed proven commercial designation, if any, upon which it relies.
+. The board, in its opinion, did not discuss the question of commercial designation. It is apparent, upon an examination of the testimony, that it does not establish a commercial meaning of the language of the paragraph 1431 involved in this case different from the common meaning thereof, but if it were conceded that the testimony tended to show a commercial meaning it must, nevertheless, be held that it falls very short of establishing, by a fair balance of the proof, that such meaning is definite, uniform, and general, and not partial, local, or personal, which is the test in such cases.
+For these reasons we refrain from considering the question of commercial designation in this case.
+The finding, of the board that the leather was not finished but was in the crust, is amply supported by the evidence and, as we understand, neither party challenges the correctness thereof.
+The board did not find as to what uses such leather is ordinarily, generally, or predominantly devoted, or what use is made thereof by the importer.
+The importer’s evidence establishes that some more than 50 per centum of his importations of this and like leather are used by the concern he represents in the manufacture of what he calls a novelty or fancy leather, which is leather especially finished and used for making fancy leather goods, such as ladies’ pocketbooks, purses, blotter covers, watch cases, crushed effects, tooling effects, etc.;, that the remainder, which is of inferior quality, is used after further processing, for making bag, strap and automobile leather, but importer’s witnesses all agree that the leather as imported, is suitable for making into bag, strap or case leather. Importer uses the major part of his importations in making fancy leather because it is more profitable for him so to do. The record in another case is incorporated in this. Therefrom it appears that similar leather is used by another importer for upholstering furniture.
+We are clear that the evidence of record establishes that the class of leather of which the importation here is typical, was, at the date of the enactment of the Tariff Act of 1922, and now is, ordinarily, generally, and predominantly used, after some further processing, as bag leather, strap leather, or case leather. A minor part thereof is used for the purposes to which the appellee here devotes his importations; some is used for upholstery; some perhaps for football leather; and some for other incidental purposes.
+These facts having been established, it remains to consider whether or not the importation here is classifiable under paragraph 1431. We think it is.
+That paragraph, it is clear, and is agreed, covers certain finished leathers therein referred to. It also covers leathers that are not fullv finished, such' as bag, strap, and case leathers when imported in the crust and which must in order to become finished bag, strap, or case leathers be further processed, but whether finished or in the crust stage, if they are chiefly or predominantly used as bag, strap, or case leather, they are dutiable thereunder. In other words, the paragraph provides not only for certain finished articles, but for the material therefor if imported in the crust stage. The grammatical construction of the paragraph compels this conclusion, because it is clear that the expression "finished, in the white or in the crust,” relates not only to glove leather, but also, at least, to football, case, strap, and bag leather. Whether that expression also refers to leathers other than the five last mentioned, it is not necessary to decide at this time.
+Two of the Government's witnesses gave testimony that throws light on the interpretation of the paragraph. One who had been a practical tanner, now a wholesaler, said in substance, that leather was left in the crust stage so that the purchaser might finish it for any of the purposes named in the paragraph; that it was a tanning term used also to some extent in the trade; that, referring to the typical sample:
+We would sense what the leather would make. For instance, if we import a lot of those hides, which we have done, we sense what the leather would make and put it through for that, and it would be case leather or bag leather.
+The other witness, who was also familiar with taiTning processes, when asked if it were not the subsequent processes that fitted the leather for a particular purpose, answered:
+The subsequent and preceding processes both combined. It has to be in that condition before he (the manufacturer) can start his work on it, but his final work makes it a “salable article.”
+All this testimony was uncontradicted.
+Any interpretation of the paragraph-other than the one we adopt will enable an importer as in this case to give leather into which he finishes bag, strap, or case leather, imported by him in the crust, a name different from any name mentioned in the paragraph or different from the name by which it was known at the time the statute was enacted, and thereby escape duty, although, in fact, such imported leather in the crust, as a class, is dutiable, because its chief use is as material for making one or more of the finished leathers eo nomine mentioned in the paragraph. Such a result could not have been the legislative intent. Goldsmith’s Sons v. United States, 13 Ct. Cust. Appls. 69, T. D. 40932.
+We find nothing in the cases cited by the importer that is at variance with the conclusion we reach. The differences in the statutes under consideration there and here, as well as the facts, distinguish the cases.
+The result is that the classification of the collector must be upheld and the judgment below is reversed.
