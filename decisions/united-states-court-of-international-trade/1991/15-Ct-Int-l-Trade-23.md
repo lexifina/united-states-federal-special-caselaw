@@ -1,0 +1,29 @@
+---
+court: "United States Court of International Trade"
+docket: "Court Nos. 90-03-00147 and 90-07-00346"
+decided: "1991-01-29"
+citations: ["15 Ct. Int'l Trade 23", "755 F. Supp. 423"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alumax, Inc., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/15/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6131058
+cites_cases: ["14 CIT 724", "19 U.S.C. § 1514", "28 U.S.C. § 2632", "28 U.S.C. § 2636", "750 F. Supp. 1135"]
+---
+
+# Alumax, Inc. v. United States
+
+## Majority (Restani, Judge:)
+
+Opinion
+Restani, Judge:
+Defendant moves to strike Court of International Trade (CIT) Rule 41(a) notices of voluntary dismissal filed in these actions. CIT Rule 41(a) states that dismissal may be noticed by plaintiff without consent or permission of the court any time before an answer is filed. Following oral argument on January 23,1991, the court denied the motion to strike the CIT Rule 41(a) dismissals.
+These motions are an outgrowth of Eastalco Aluminum Company, et al. v. United States, 14 CIT 724, 750 F. Supp. 1135 (1990), motion for rehearing pending. Eastalco involved several tariff classification actions which were suspended under a test case involving identical merchandise. See CIT Rule 84. Suspension occurred prior to the filing of any pleadings. The court found, however, that the meaning of Rule 41(a) was not clear with regard to cases involving identical merchandise suspended under a test case in which defendant’s counterclaim was granted. Accordingly, in the Eastalco litigation the court permitted defendant to file a “notice of potential counterclaim” in each suspended case in which the government had not already made a motion for removal from suspension under Rule 84(g). Por purposes of the Eastalco litigation the court ruled that such motions or notices would prohibit dismissal pursuant to a simple Rule 41(a) notice.
+The instant actions are not suspended under the fully litigated test case, or under any other case. They are on the court’s Reserve Calendar. See CIT Rule 83. An action commenced by the filing of a summons may be placed on the Reserve Calendar for a 12-month period. CIT Rule 83(a). Actions challenging a denial of a protest of a Customs Service determination listed in 19 U.S.C. § 1514 (1988) are commenced by the filing of a summons alone. 28 U.S.C. § 2632(b) (1988). No complaint is required of plaintiff while the case is on the Reserve Calendar. Thus, the Reserve Calendar procedure allows a period of time to pass following the short limitations period (28 U.S.C. § 2636(a) (1988) provides for a limitations period of 180 days) in which plaintiff may assess whether continuing importation of the merchandise at issue warrants litigation and within which information may be gathered and exchanged among the parties informally.
+Because no complaint is filed while a case is on the Reserve Calendar, there may be no answer or counterclaim. Although the court utilized “notice of potential counterclaim” as an organizational device in the Eastalco cases, such a device has no status under the rules of this court. The notice has only such effect as the court chooses to give it in a particular case. Defendant was not authorized to use such a device in these cases. Thus, the fact of filing of such a notice is of no import.
+Unlike a case in suspension, a case on the Reserve Calendar does not reflect an acknowledgement by the parties that the case in suspension has an issue in common with the test case under which it is suspended. See CIT Rule 84(b). There is no reason to presume, even with regard to merchandise identical to that in a test case, that the same issues will be raised in cases on the Reserve Calendar as were raised in a particular test case.
+Cases remain on the Reserve Calendar for a finite period whereas cases may remain suspended for many years under a test case, as occurred in Eastalco. Furthermore, parties may move a case on the Reserve Calendar into a more active status or into suspension under a test case during the one-year period, on various bases. See CIT Rule 83(b). The Government did not avail itself of any of these remedies prior to the notices of dismissal and has offered no reason why it did not do so.
+Accordingly, defendant has not met its burden of demonstrating that a motion to strike the notices of dismissal should be granted.
+Motion denied.
