@@ -1,0 +1,90 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4327"
+decided: "1972-01-20"
+citations: ["68 Cust. Ct. 17"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. J. Tower & Sons of Buffalo, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/68/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6570442
+cites_cases: ["113 Ind. App. 578", "117 Conn. 196", "167 Atl. 713", "19 C.F.R. § 10.104", "19 C.F.R. § 10.112", "19 U.S.C. § 1514", "19 U.S.C. § 1520", "226 Iowa 137", "232 F. 456", "284 N.W. 73", "47 N.E. 2d 166", "54 CCPA 7", "63 Cust. Ct. 62", "66 Cust. Ct. 201", "67 Stat. 507"]
+---
+
+# C. J. Tower & Sons of Buffalo, Inc. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+This matter is before me for determination pursuant to a motion by defendant for summary judgment by virtue of Rule 8.2 of the rules of this court. Plaintiff in its cross-motion also seeks summary judgment under said rule.
+Defendant in its motion attached a “Statement of Material Facts” as required by Rule 8.2(b) containing 14 paragraphs which read as follows:
+1.The four entries embraced by this protest were appraised and liquidated as follows:
+Entry No Date of Appraisement Date of Liquidation
+47409 May 20, 1966 May 31, 1966
+5180 July 26, 1966 Aug. 3, 1966
+1380 July 8, 1966 July 14, 1966
+3437 July 19, 1966 July 27, 1966
+2. The subject entries were filed by C. J. Tower & Sons of Buffalo, Inc. on behalf of LTY Yought Aeronautics Division of Ling Temco Yought, Inc.
+3. The imported merchandise was not entered in the name of a military department, as provided in 19 C.F.R. 10.104(e).
+4. The imported articles were entered at 9% ad valorem under item 694.60, TSUS. _
+_ 5. The entries contain no claim that the imported articles were entitled to duty-free entry under item 832.00, TSUS.
+6. The.entries do not claim that the merchandise was imported for a military department, as emergency war materials.
+7. No documents or certification by an officer of a military department, conforming to the requirements of 19 C.F.R. 10.104 (c), were filed with the entry at any time between entry and liquidation.
+8. No bond was posted to secure such documentation at a later date.
+9. The liquidations of the involved entries became final pursuant to section 514 of the Tariff Act of 1930, supra, no protests having been filed against the liquidation, as follows:
+Entry No. Final Liquidation Dates
+47409 August 1,1966
+5180 October 3,1966
+1'380 September 12,1966
+3437 September 26,1966
+10. At no time, prior to the dates mentioned in paragraph 9 above, was there any claim made for duty-free entry under item 832.00.
+11. In a letter dated November 14,1966, receipted November 15, 1966, plaintiff claimed that the subject entries were entitled to duty-free entry and requested “relief under Section 520(c) due to error in misunderstanding.”
+12. In. January of 1968, more than one year after the liquidations in question, plaintiff supplied on four Customs Forms 7501, certifications conforming to 19 C.F.B.. 10.104(c), by the Transportation Agent, Defense Contract Administration Services Be-gion, Detroit, pertaining to the entries involved in this protest. Said certifications are in the Court file in this protest.
+IS.In a letter dated April 10, 1968, the District Director informed plaintiff of the denial of its request pursuant to section 520(c) (1), for the express reason that the above-mentioned certifications were not submitted within one year after the dates of liquidation of the entries.
+14. The instant protest was filed with the District Director on May 22,1968.
+Plaintiff in its cross-motion adopts these 14 paragraphs and in addition thereto added 3 paragraphs which read as follows:
+15. The merchandise covered by the protest herein consists of materials certified to the Commissioner of Customs by the authorized procuring agencies to be emergency war material purchased abroad.
+16. The delay which caused the certifications referred to in item number 12 above to be filed more than one year after the liquidations in question was, in whole or in part, attributable to and caused by the defendant.
+17. At no time prior to sixty days after liquidation of the merchandise covered by the protest herein did the District Director of Customs at Buffalo, New York know the fact set out in number 15 above, nor did plaintiff.
+Defendant in effect has admitted paragraphs 15 and 17 but denied paragraph 16 relating to the delay occasioned in the filing of the certification on Customs Form 7501 referred to in paragraph 12. Defendant also contends if this issue is material, it is properly the subject for a trial and not for summary judgment.
+Based upon the pleadings and papers contained in the court file, it is readily apparent that this case presents two basic questions of law. First: Is this a proper matter for claim under 19 U.S.C. § 1520 relating to a mistake of fact or one involving classification which is governed by 19 U.S.C. § 1514? Secondly, if this is a proper matter under 19 U.S.C. § 1520, is plaintiff precluded from recovery for failure to comply with regulations? This point is further divided into whether the filing of Customs Form 7501 must be accomplished within one year from the date of liquidation.
+It is not disputed that a protest was not filed within 60 days from the dates of liquidation as required by 19 U.S.C. § 1514. Nor is it disputed that a timely protest was filed within 60 days from the date of tlie denial of the request of plaintiff to reliquidate the entries pursuant to 19 U.S.C. § 1520(c) (1). The difference of opinion relates to which statutory provision is the proper manner of proceeding. Defendant contends the question of whether the merchandise is dutiable or entitled to entry free of duty is primarily a classification matter which is governed by 19 U.S.C. § 1514 rather than 19 U.S.C. § 1520. Therefore, defendant contends the case should be dismissed for lack of jurisdiction as a timely protest was not filed.
+It is true that ordinarily a request for reclassification based upon an error of judgment concerning the construction of a law 'by customs is not a matter within the scope of said § 1520, swpra, but within the purview of § 1514, supra. United China & Glass Co. v. United States, 66 Cust. Ct. 201, C.D. 4191 (1971); Fibrous Glass Products, Inc. v. United States, 63 Cust. Ct. 62, C.D. 3874 (1969). The present case however does not involve conflicting tariff schedule items. The merchandise at bar is concededly classifiable under item 694.60, Tariff Schedules of the United States, and item 832.00, Tariff Schedules of the United States, the latter dependent upon compliance with certain regulations. The headnote of schedule 8 makes the rule of relative specificity as provided for in the General Headnotes and Rules of Interpretation Rule 10(c) inapplicable to said schedule. The two item descriptions therefore equally apply to the merchandise at bar.
+The claim of plaintiff that the merchandise is entitled to entry free of duty under item 832.00, supra, does not amount to an error in the construction of law but is a question of fact. I am, therefore, of the opinion that the issue presented is not one which may be solely limited to a claim under the .provisions of 19 U.S.C. § 1514.
+The provisions of 19 U.S.'C. § 1520 so far as are pertinent herein read as follows:
+(c) Notwithstanding a valid protest was not filed, the Secretary of the Treasury may authorize a collector to reliquidate an entry to correct—
+(1) a clerical error, mistake of fact, or other inadvertence not amounting to an error in the construction of a law * * * and manifest from the record or established by documentary evidence, * * * when the error, mistake, or inadvertence is brought to the attention of the customs service within one year after the date of entry, appraisement, or transaction, * * *
+*******
+Section 1520, supra, though not an alternative to the normal liquidation-protest method of obtaining review, offers “limited relief in the situations defined therein.” Phillips Petroleum Company v. United States, 54 CCPA 7, 11, C.A.D. 893 (1966). One of its purposes was to eliminate “certain unnecessary annoyances and inequities which plague both the Government and private parties engaged in the Import-export business.” 'S. Rep. bio. 632, 83d Cong., 1st Sess. 1 (1953).
+The relevant portion of § 1520, “mistake of fact, or other inadvertence,” was added by the Customs Simplification Act of 1953, 67 Stat. 507, 519, § 20. Since the situations intended to be embraced were not specifically set forth in the statute, resort must be had to legislative history and definitional aids to determine its scope.
+The Congressional reports accompanying the bill, II.R. 5877 (1953), do nothing more than paraphrase the amendment to § 1520 as adopted. However, more extensive hearings were held the previous year when virtually the same bill was introduced. This bill, H.R. 5505, passed the House of Representatives but failed in the Senate apparently for lack of time at the session’s end. In the House hearings thereon, the Treasury Department’s position on the proposed amendment to § 1520 was expressed concerning
+“* * * the correction of errors and mistakes of the importers or the Customs Service in customs transactions which are adverse to the importer and which cannot be corrected under existing law. In the thousands of customs transactions, many such mistakes occur which should be corrected in order to do justice to the importing public. The Government has no interest in retaining duties which were improperly collected as a result of clerical error, mistake of fact or inadvertence. The inability to make refunds in such cases results in great dissatisfaction and a feeling of injustice among importers * * Hearings on H.R. 5505 before the Senate Committee on Finance, 82d Cong., 2d Sess., 30 (1952). For the relevance of the quoted legislative history, see Sutherland, Statutory Construction §§ 5005, 4507 (3d ed. 1943).
+Thus the mistake or inadvertence in the instant protest would seem, at least according to one governmental position, to be within the spirit of 19 U.S.C. § 1520. Furthermore the available definitions of these terms show that the facts here involved are within the letter of § 1520. The terms “mistake of fact” and “inadvertence” have been extensively treated in reported cases and legal text material.
+A mistake of fact is any mistake except a mistake of law. Jordan v. Brady Transfer & Storage Co., 226 Iowa 137, 284 N.W. 73, 77 (1939). It has been defined as a mistake which takes place when some fact which indeed exists is unknown, or a fact which is thought to exist, in reality does not exist. Savings Bank of Rockville v. Wilcox, 117 Conn. 196, 167 Atl. 713, 714 (1933); Terre Haute Payer Co. v. Price, 113 Ind. App. 578, 47 N.E. 2d 166, 170 (1943); Pomeroy, Equity Jurisprudence § 839 (1941). A “mistake of fact exists where a person understands the facts to be other than they are, whereas a mistake of law exists where a person knows the facts as they really are but has a mistaken belief as to the legal consequences of those facts.” 58 C. J.S. Mistake § 832.
+Inadvertence, on the other hand, is a word of broad meaning. American Automotoneer Co. v. Porter, 232 F. 456, 460 (6th Cir. 1916). It has been defined variously as an oversight or involuntary accident, or the result of inattention or carelessness, and even as a type of mistake. 42 C. J.S. Inadvertence § 495. It is thus language broader in scope than mistake.
+In the statement of material facts, the parties concede that both the district director and the importer were unaware of the facts justifying duty-free entry until after the liquidations became final. Such lack of knowledge, both in kind and degree, is such as to clearly come within the statutory language, “mistake of fact, or other inadvertence.”
+Section 1520(c), supra, provides the mistake of fact or other inadvertence be manifest from the record as established by documentary evidence or when brought to the attention of the customs service within one year after the date of entry, appraisement or transaction. The parties in their statement of material facts submitted with their respective motions and as set forth, supra, are in agreement that there was nothing in the record at the time of entry, appraisement or liquidation which would indicate the propriety of liquidation or reliquidation under item 832.00, supra. Therefore, the first portion is not applicable herein. The second portion relates to bringing the matter to the attention of the customs service. The parties are also in agreement that a request for reliquidation was made within one year from the date of liquidation. Therefore, resort to § 1520 by the plaintiff is a valid one “notwithstanding a valid protest was not filed.”
+The headnote of Schedule 8, Tariff Schedules of the United States, provides the merchandise to be classifiable “if the conditions and requirements and applicable regulations are met.” The requirements are certification to the Commissioner of Customs by authorized procuring agencies that said material was emergency war material purchased abroad. The applicable regulations are found in 19 C.F.R. § 10.112 and §§ 10.104(c) and 10.104(e). Section 10.112, supra, provides in effect that in the absence of willful negligence or fraudulent intent, the documents required by regulations must be filed before liquidation becomes final. The necessary papers or documents in this instance are the certification required by item 832.00 and as set forth in § 10.104(c) (1). This certification, the four Customs Forms 7501, were filed with the customs service in January 1968.
+Defendant contends since the mistake of fact was not manifest from the record or established by documentary evidence within one year after liquidation, its claim must be dismissed. This position is not covered by any regulation nor is it in my opinion within the contemplated meaning of § 1520, supra.
+The one year provision applies only to bringing the mistake to the attention of the customs service. From a grammatical point of view, defendant’s contention is that the time provision, which is part of a clause modifying the verb, is applicable to a participle modifying the object of a verb in another clause. This unreasonable distortion of the rules of grammar and of the plain meaning of the words is without basis.
+The last matter for consideration is the failure to comply with 19 C.F.R. § 10.104 (e) which provides as follows :
+(e) All materials for which free entry is claimed under one of the statutes mentioned in paragraph (c) of this section shall be entered, or withdrawn from warehouse, for consumption in the name of the Government department whose representative executes the certificate set forth in the said paragraph (c) of this section, unless exemption from this requirement is specifically authorized by the Bureau.
+It is to be noted that exemption from the requirement to enter such merchandise in the name of the government agency may be authorized by the Bureau. The utilization of this language is indicative of the intent to enforce this provision with leniency. This would, in my opinion, be particularly applicable to a situation where the mistake of fact is the very reason for noncompliance with the regulation. Obviously, if plaintiff was unaware of the fact that the importation involved was a shipment of emergency war material at the time it was entered and for some time thereafter it could not have entered said merchandise in the na-Tiop. of the military agency. Under the circumstances, any other interpretation would unduly restrict the provisions of § 1520, supra. This free entry provision for governmental importations must be liberally construed particularly when the action is brought under § 1520, supra.
+Even a casual reading of item 832.00 makes the intent of Congress self evident in enacting this provision. Obviously Congress was seeking to avoid additional cost to the taxpayer when emergency war material was purchased abroad. Utilization of the word “taxpayer” is not limited to the importer but includes the general taxpaying public. Most assuredly the cost of such material plus duty would he passed on to the taxpayers.
+Plaintiff has therefore in my opinion established a prima facie case and is entitled to the relief sought.
+Defendant’s motion for summary judgment is denied.
+Judgment will be entered accordingly.
+Except as to an immaterial difference in the date of the letter referred to in paragraph 11. The official papers indicate receipt on November 15, 1966, and not December 2, 1966, as alleged by plaintiff.
+Schedule 6, Part 6, Subpart C:
+Aircraft and spacecraft, and parts thereof:
+*******
+694.60 Other parts- 9% ad val.
+Schedule 8:
+Schedule 8 headnote:
+1. The provisions of this schedule are not subject to the rule of relative specificity in headnote 10(c) of the General Headnotes and Rules of Interpretation, and except as provided in headnote 8 to part 1 of this schedule, any article which is described in any provision in this schedule is classifiable in said provision if the conditions and requirements thereof and of any applicable regulations are met.
+Part 3, Subpart A:
+Articles for military departments:
+832.00 Materials certified to the Commissioner of Customs by
+the authorized procuring agencies to be emergency war material purchased abroad_ Free
