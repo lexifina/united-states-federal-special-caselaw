@@ -1,0 +1,37 @@
+---
+court: "United States Customs Court"
+docket: "56643; protest 169997-K (New York)"
+decided: "1952-05-08"
+citations: ["28 Cust. Ct. 472"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Collett-Week-Nibecker, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/28/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6658253
+cites_cases: ["46 Stat. 693", "46 Stat. 759", "49 Stat. 1960"]
+---
+
+# Collett-Week-Nibecker, Inc. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+This protest is directed against the action of the collector of customs at the port of New York in refusing to allow drawback under the provisions of section 313 (a) of the Tariff Act of 1930 upon the exportation of certain articles manufactured or produced in the United States with the use of imported duty-paid merchandise.
+When the case was called for trial counsel for the parties stipulated in open court as follows:
+(1) That the merchandise the subject of this protest consists of certain Vitamin A acetate manufactured or produced in the United States with the use of imported duty-paid shark liver oil;
+(2) That the said Vitamin A acetate was exported from the United States within three years after the importation of the duty-paid shark liver oil;
+(3) That all applicable provisions of law and all applicable Customs provisions and regulations in force and effect at the time of said importation, manufacture and exportation were complied with with the exception of the requirement specified in (4) of this stipulation;
+(4) That the sole ground for the disallowance of drawback was that the carrier, Railway Express Agency, failed to deliver the merchandise in Customs custody at the port of exit, Rouses Point, New York, for inspection and the shipment wasnot inspected for export control purposes nor for drawback purposes;
+(5) That all papers transmitted to the Court by the Collector may be received in evidence as evidence of the facts therein recited or shown thereby;
+(6) That the protest is submitted for decision on this stipulation and the record thus made.
+It is the contention of the plaintiff that the ground for disallowance of drawback specified in paragraph (4) of the stipulation, i. e., “that the carrier * * * failed to deliver the merchandise in Customs custody at the port of exit, Rouses Point, New York, for inspection and the shipment was not inspected for export control purposes nor for drawback purposes” is not a proper ground for disallowance for the reason that neither the drawback statute nor the regulations prescribed under authority thereof make the requirement that the carrier deliver the merchandise to customs custody under the circumstances of this case.
+Examination of the provisions of section 313 of the Tariff Act of 1930, under which drawback is claimed, and of the applicable customs regulations in force and effect at the times pertinent hereto, fails to indicate any provision requiring the delivery to customs custody of merchandise intended to be exported for benefit of drawback under section 313 (a), supra. As we read these provisions of law and regulations, they require that notice be given to the customs officers of intent to export merchandise with benefit of drawback and that such information be given in the premises as would enable the customs officers to inspect the merchandise and be satisfied as to its identification and the fact of its exportation from the United States.
+Defendant cites section 22.7 (e) of the Customs Regulations of 1943 as the provision with which the plaintiff failed to comply. The said section, as it was in force and effect at the time of exportation of the shipment here involved (October 1, 1947), reads as follows:
+22.7 Notice of intent to export; local or direct shipments from a seaboard or frontier port.—
+* * * * * * *
+(e) When merchandise is to be exported otherwise than by sea and drawback will be claimed, the carrier shall notify the proper customs officer at the port of exit of the arrival and point of departure of the merchandise before it leaves the United States. If such notice was not given and there was no customs inspection of the shipment for drawback purposes, drawback shall not be allowed. (See. 313, 46 Stat. 693, secs. 402, 403, 49 Stat. 1960 sec. 624, 46 Stat. 759; 19 U. S. C. 1313, 1624.)
+It must be remembered that the issue in this case is very narrowly defined by the stipulation of counsel upon which it was submitted for decision. We do not think it can be said that a requirement of notifying “the proper customs officer at the port of exit of the arrival and point of departure of the merchandise before it leaves the United States” is the equivalent of a requirement of delivering merchandise into customs custody at the port of exit. Delivery of a notice does not, on its face, require the delivery of a shipment, and we therefore hold that there was no requirement of law or regulations that the carrier deliver the merchandise into customs custody at the port of exit as a condition precedent to securing drawback under the provisions of section 313 (a) of the Tariff Act of 1930. Since it is established by paragraph (3) of the stipulation quoted above that all provisions of law and all applicable customs regulations were complied with (other than the so-called requirement which we have held not to be a condition precedent to securing drawback), it follows that it was established that the carrier did give the proper notification to the proper customs officer at the time and place required by section 22.7 (e), supra, of the customs regulations.
+Defendant has cited in support of its position the decision of our appellate court in the case of United States v. W. C. Hardesty Co., Inc., 36 C. C. P. A. (Customs) 47, C. A. D. 396. That case is readily distinguishable on its facts, in that it clearly appears from a reading thereof that the omission on the part of the exporter or carrier therein which barred the payment of drawback was in failing to file a notice of intent to export with benefit of drawback with either the collector of customs at the port of exit or with the customs officer in charge at the place of lading. No such facts appear in the case at bar, but, on the contrary, the stipulation establishes by paragraph (3) thereof that “all applicable provisions of law and all applicable Customs provisions and regulations in force and effect at the time of said importation, manufacture and exportation were complied with,” with the exception of the aforementioned “failure to deliver” the shipment into customs custody, which we have held is not a requirement of law or regulations. No facts appear in the papers transmitted to the court by the collector and which were received in evidence in accordance with paragraph (5) of the stipulation which contradict or controvert the matters established by paragraph (3), but, on the contrary, it would appear therefrom that the required notices of intent were timely filed, thus corroborating the statements in paragraph (3).
+Upon the record as made, the protest claim for allowance of drawback under the provisions of section 313 (a) is sustained, and judgment will enter directing the collector of customs to reliquidate the drawback entry accordingly.
