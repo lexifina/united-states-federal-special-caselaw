@@ -1,0 +1,70 @@
+---
+court: "United States Customs Court"
+docket: "A.R.D. 210; Entry No. 778538"
+decided: "1966-06-16"
+citations: ["57 Cust. Ct. 727"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Eord, Judges"]
+parties: ["Gehrig Hoban & Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/57/cases/0727-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6582704
+cites_cases: ["38 Cust. Ct. 644", "43 Cust. Ct. 608", "44 CCPA 92", "54 Cust. Ct. 613", "91 Treas. Dec. 295", "93 Treas. Dec. 14"]
+---
+
+# Gehrig Hoban & Co. v. United States
+
+## Majority (Foed, Judge:)
+
+Foed, Judge:
+This is an action to review the decision and judgment of a single judge sitting in reappraisement which was reported as Gehrig Hoban & Co., Inc. v. United States, 54 Cust. Ct. 613, Reap. Dec. 10947. The trial judge found the value contended for by the defendant, appellee herein, on the basis of cost of production, as defined in section 402a (f) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, 91 Treas. Dec. 295, T.D. 54165.
+The parties have agreed that the merchandise involved herein is identified on the final list published by the Secretary of the Treasury, 93 Treas. Dec. 14, T.D. 54521, and consequently subject to appraisement under the provisions of section 402a of said act, as amended, supra. The basis of appraisement and that of reappraisement by the single judge was cost of production under section 402a (f). Appellant herein does not dispute the basis of appraisement. The parties have agreed that the only issue before the court for determination is the cost of materials and fabrication. The parties, in addition, have stipulated that the usual general expenses, as defined in section 402a (f) (2), are equal to 103 percent of the cost of labor and materials and that profit, as defined in section 402a(f) (4), is equal to 15 percent of the sum of labor, materials, and usual general expenses, as determined by the court. It was further stipulated that the cost of packing was 14 old French francs per bottle. The record herein consists of the stipulation referred to, supra, and two affidavits received in evidence as plaintiff’s exhibits 1 and 2.
+Section 402a (f) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, supra, provides as follows:
+Cost of PeoditctioN. — For the purpose of this title the cost of production of imported merchandise shall be the sum of—
+(1) The cost of materials of, and of fabrication, manipulation, or other process employed in manufacturing or producing such or similar merchandise, at a time preceding the date of exportation of the particular merchandise under consideration which would ordinarily permit the manufacture or production of the particular merchandise under consideration in the usual course of business;
+(2) The usual general expenses (not less than 10 per centum of such cost) in the case of such or similar merchandise;
+(3) The cost of all containers and coverings of whatever nature, and all other costs, charges, and expenses incident to placing the particular merchandise under consideration in condition, packed ready for shipment to the United States; and
+(4) An addition for profit (not less than 8 per centum of the sum of the amounts found under paragraphs (1) and (2) of this subdivision) equal to the profit which ordinarily is added, in the case of merchandise of the same general character as the particular merchandise under consideration, by manufacturers or producers in the country of manufacture or production who are engaged in the production or manufacture of merchandise of the same class or kind.
+The trial court held that cost of production amounting to 1,545.78 old French francs was the proper value due to a failure of proof as to the applicable French law. In addition, the trial court held there was a failure of proof as to whether the imported cologne contained alcohol which was originally intended for use in the domestic market. The court also held that there was a failure of proof with respect to whether an excise tax on the alcohol in the first instance was imposed irrespective of whatever form or use was intended and whether the excise tax was refunded after proof of exportation. The trial court further considered and held that, inasmuch as section 402a (f)(1) involved the language “such or similar,” the excise tax was part of the statutory cost of materials for the imported merchandise, even if the tax is applicable only to sales in the home market.
+Basically we have before us a question of law. At the trial of this matter, the following was stated in the record:
+MR. KjNG : The plaintiff claims that the cost of labor and material is 319.07, as set forth in the affidavit of Jacques Paligot, Exhibit Number 1, this figure representing the cost of material and fabrication when manufacturing Canoe Cologne 226 for export to the United States.
+The defendant claims that the cost of labor and material for Canoe Cologne 226 is equal to French francs 656.64, as set forth also in Exhibit 1, and representing the cost of material and fabrication when such cologne is produced for sale on the French market. The difference in cost is explained in the affidavit of Jacques Paligot, Exhibit Number 1.
+Both parties agree that the usual general expenses, as defined in Section 402a(f) (2) of the Tariff Act of 1930, as amended, are equal to 103 per cent of the cost of labor and material as found by this Court; that the profit, as defined in Section 402a(f) (4) is equal to 15 per cent of the sum of labor, materials and usual general expenses as herein before referred to, and that the cost of packing is French francs 14 per bottle, as set forth in the affidavit.
+Judge WilsoN : Do you agree to all that, Mr. Spector %
+Mr. Spector : Yes, if the Court please.
+Whether or not the parties actually intended to stipulate any cost of labor and materials, it is self-evident that the figure of 656.64 old French francs was adopted by the United States in its briefs both below and on appeal, as representing the cost of materials and labor. The United States, in its brief before the trial court, utilized the figure of 656.64 old French francs together with the agreed upon percentages representing usual general expenses, profit, and packing, and arrived, with a slight mathematical error, at the cost of production figure of 1,545.78 old French francs. The trial court adopted these figures. It is interesting to note, at this juncture, that the appraisement of the imported merchandise was made at 2,900 old French francs each, less 33% percent, less 25 percent, plus cases and packing, which computes to approximately 1,451 old French francs. Accordingly, the question presented to us is whether the stipulated factors relating to usual general expenses and profit should be based upon a labor and materials cost of 656.64 old French francs or 319.07 old French francs.
+In view of the record as made, we are of the opinion that the question of French law, its application, implementation, or effect is of no consequence to the decision herein. We arrive at this position since the parties have agreed upon all the necessary factors for cost of production. We, therefore, have two sets of cost of production figures. Said costs vary to a great extent since the actual figure for the costs of labor and materials for the production of Canoe 226 for home consumption is 656.64, and the lesser actual cost figure for labor and materials for Canoe 226 manufactured for export to the United States is 319.07. Plaintiff’s exhibits 1 and 2 make it crystal clear that both figures are the actual figures as taken from the books and records of the manufacturing company.
+It is well established that the actual costs, under certain circumstances, may be utilized in determining cost of production. This case is an instance where such actual costs may be taken since all factors for such basis have been agreed upon. The language of section 402a (f) (1), as well as the interpretation placed thereon in the case of Charles Stockheimer, Inter-Maritime- Forwarding Co., Inc. v. United States, 44 CCPA 92, C.A.D. 642, permits this. The Stockheimer case, supra, in considering the time applicable to the purchase of materials, made the following pertinent observations:
+As we view section 402(f) it is designed to approximate as closely as is feasible the actual cost of producing the merchandise if it were manufactured as expeditiously as could be done in a normal manner for delivery on the date of export. This would necessarily entail ordering the materials at such a preceding time that they would be available long enough prior to the export date to permit manufacture in the normal manner. That appears to be the clear intent of the language of the section. * * *
+Since labor and materials are, in both instances, represented by a single figure, the question of labor will be determined by the adoption of one of the above figures.
+As set forth in plaintiff’s exhibits 1 and 2, the difference in the cost of materials is the so-called French excise tax. It has been established that this so-called tax was not paid on any alcohol used in merchandise manufactured for export and purchased by the manufacturer under its so-called “Export Account.” The record also bears out the fact that no such tax was ever refunded or rebated. This affirmative statement made in plaintiff’s exhibit 2 stands unrebutted. Therefore, the decision in Schweppes (U.S.A.), Ltd. v. United States, 43 Cust. Ct. 608, A.R.D. 111, which involved an excise tax imposed on alcohol at the time of the manufacture of certain flavoring extracts and which was subsequently refunded after importation, is not controlling herein. Likewise the decision in the case of Swizzels, Inc. v. United States, 38 Cust. Ct. 644, Reap. Dec. 8794, which involved a drawback after exportation and held such sum not to be deductible in determining cost of production, is not controlling herein.
+While Canoe 226 for domestic consumption and for export to the United States is identical, the only difference being in the cost of the materials and labor, there is, nevertheless, a sufficient distinction which would permit our consideration of the lower priced materials and labor charges as being the figure to be applicable to the merchandise at bar. We are of the opinion that section 402a(f) is concerned with merchandise for export to the United States and not for home consumption. Hence, the higher costs for materials and labor for the domestic product under the circumstances involved herein are not those costs which would ordinarily be considered in the manufacture of articles for export to the United States.
+Accepting the figure of 319.07 old French francs per bottle contained in the exhibit attached to plaintiff’s exhibit 1 for materials and labor for Canoe 226 for export to the United States, we find the following computation, based upon the stipulation that general expenses are equal to 103 percent of materials and labor and that profits are equal to 15 percent of the total of the above, plus cost of packing, the packing amounting to old French francs 14 per bottle:
+Per bottle
+Materials and labor
+319.07 old French francs
+Usual general expenses at 103 percent of materials and labor_ 328.64 “
+Profit at 15 percent of the sum of materials, labor, and usual general expenses_ 97.16 “
+Packing_ 14.00 “
+Total 758.87 “ U U
+Upon the foregoing considerations, we make the following findings of fact:
+1. That the involved merchandise consists of Canoe Cologne No. 226.
+2. That said merchandise is identified on the final list published by the Secretary of the Treasury, 93 Treas. Dec. 14, T.D. 54541, and is, accordingly, subject to appraisement under section 402a of the Tariff Act of 1930, as amended.
+3. That oil or about the date of exportation such or similar merchandise was not freely offered to all purchasers in the country of exportation either for domestic consumption or for export to the United States; that on or about said date of exportation such or similar imported merchandise was not freely offered to all purchasers for domestic consumption within the United States.
+4-. That the merchandise was appraised on the basis of cost of production, as defined in section 402a(f) of the Tariff Act of 1930, as amended, supra; neither party challenges said basis of appraisement.
+5. That the cost of production of the involved cologne is different when such merchandise is produced for the United States than when it is produced for sale for domestic consumption in France; that said difference is attributable to the actual lower cost of materials and labor when such merchandise is produced for export to the United States, which amount to old French francs 319.07, whereas the actual materials and labor costs, when such merchandise is produced for domestic consumption, amount to old French francs 656.64; that said difference is attributable to a tax imposed upon alcohol intended for use in the manufacture of articles for consumption in France.
+6. That no tax was actually paid on the alcohol purchased for export production, nor refunded after importation.
+7. That cost of production of the imported cologne is as follows :
+Per bottle
+Materials and labor 319.07 old French francs
+Usual general expenses at 103 percent of materials and labor_ 328.64 U U
+Profit at 15 percent of the sum of materials, labor, and usual general expenses_ 97.16 “ U U
+Packing_ 14.00 “ (( u
+Total_ 758.87 “ “
+The court, therefore, concludes as matters of law:
+1. That the proper basis of appraisement of the merchandise covered by this appeal is cost of production, as defined in section 402a(f) of the Tariff Act of 1930, as amended, supra.
+2. That such cost of production is as set forth in finding of fact No. 7.
+3. Judgment of the trial court is, therefore, modified.
+Judgment will be entered accordingly.
