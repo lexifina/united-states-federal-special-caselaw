@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "97-303"
+decided: "1998-05-27"
+citations: ["11 Vet. App. 188"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and HOLDAWAY and STEINBERG, Judges."]
+parties: ["John T. BOWEY, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/11/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1590030
+cites_cases: ["11 Vet.App. 106", "28 U.S.C. § 1292", "38 U.S.C. § 7292", "43 F.3d 374", "721 F.2d 197", "745 F.Supp. 1117", "867 F.Supp. 319", "942 F.Supp. 996", "981 F.Supp. 581"]
+---
+
+# Bowey v. West
+
+## Majority (PER CURIAM!:)
+
+ORDER
+PER CURIAM!:
+On March 4,1998, the Court, by divided vote, rejected the appellant’s counter designation of two documents to be included in the record on appeal (ROA). Bowey v. West, 11 Vet.App. 106 (1998). In a March 27, 1998, motion styled as a motion for an interlocutory appeal under 38 U.S.C. § 7292(b)(1), the appellant seeks the Chief Judge’s certification to the United States Court of Appeals for the Federal Circuit (Federal Circuit) concerning that question of the content of the ROA. On April 8, 1998, the appellant filed a motion for the Court to stay all proceedings in this Court until it decides his motion for an interlocutory appeal pursuant to section 7292(b). On May 1, 1998, the appellant filed a motion for a 30-day delay to file his brief in light of the pendency of his motion for an interlocutory appeal. The Clerk of the Court stamp-granted the May 1, 1998, extension motion on May 11, 1998.
+Pursuant to section 7292(b)(1):
+When a judge or panel of the Court ..., in making an order not otherwise appealable under this section, determines that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that there is in fact a disagreement between the appellant and the Secretary with respect to that question of law and that the ultimate termination of the case may be materially advanced by the immediate consideration of that question, the judge or panel shall notify the chief judge of that determination.
+38 U.S.C. § 7292(b)(1). When these conditions are met, the Chief Judge “shall” so certify a question to the Federal Circuit. Ibid.
+Although the appellant contends, correctly, that there is a disagreement between him and the Secretary, he then observes that there is disagreement “amongst the members of the Court” whether the disputed material can be included in the ROA as being “on the record of proceedings before the Secretary and the Board” of Veterans’ Appeals under 38 U.S.C. 7252(b). However, the dissent by one member of the panel is not, and cannot be, the “notif[ication to] the chief judge” contemplated by section 7292(b)(1). Accordingly, the Chief Judge referred the appellant’s motion to this panel because it had entered the interlocutory order that the appellant seeks to appeal to the Federal Circuit and because the Chief Judge’s role under section 7292(b)(1) is a solely ministerial one of making a certification if he receives from a judge or panel of the Court the requisite determination under that section.
+Having received the appellant’s March 27, 1998, motion, the panel declines to make the determination sought because of the failure of that motion to address how the question posed is a controlling question of law and how immediate consideration of that question may materially advance the ultimate termination of the ease. Under 28 U.S.C. § 1292(b), which is the federal interlocutory appeals provision from which the language of section 7292(b) was drawn, federal courts have used the authority sparingly and required the proponent of certification to bear the burden of demonstrating the basis for the determinations necessary for a certification. See, e.g., White v. Nix, 43 F.3d 374, 376-79 (8th Cir.1994) (explaining that “motion for certification [under section 1292(b) ] must be granted sparingly, and the movant bears the heavy burden of demonstrating that the case is an exceptional one in which immediate appeal is warranted”, and finding district court abused its discretion in certifying appeal where appeal failed to satisfy specifically the enumerated section 1292(b) criteria); Terra Indus., Inc. v. Commw. Ins. Co. of America, 981 F.Supp. 581, 608 (N.D.Iowa1997) (section 1292 “should be used ‘sparingly’ and the burden, on the movant, is a heavy one to show that the case is an ‘exceptional’ one in which immediate appeal is warranted”); Kapossy v. McGraw-Hill, Inc., 942 F.Supp. 996, 1001 (D.N.J.1996) (“to merit interlocutory review under § 1292(b), a movant must point to: (1) a controlling question of law, (2) about which there is substantial ground for difference of opinion, the immediate resolution of which by the appeals court will (3) materially advance the ultimate termination of the litigation”); Orson, Inc. v. Miramax Film Corp., 867 F.Supp. 319, 320-21 (E.D.Pa.1994) (“burden is on the movant to demonstrate that a 1292(b) appeal is warranted” and “district court should certify an order for immediate appeal only if all three [enumerated statutory] requirements are met”); Chalfin v. Beverly Enters., Inc., 745 F.Supp. 1117, 1122 (E.D.Pa.1990) (“party seeking certification has the ‘burden’ of showing that exceptional circumstances justify a departure from the ‘basic policy of postponing appellate review until after the entry of a final judgment.’ ”); see also Minority Police Officers Ass’n of South Bend v. City of South Bend, Ind., 721 F.2d 197, 200 (7th Cir.1983) (noting that appeals under section 1292(b) are “allowed only when the district court and the court of appeals agree that the appeal brings up a question of law that may control the entire litigation and thus enable it to be disposed of finally in that appeal”). The appellant has failed utterly to carry his burden in this case.
+On consideration of the foregoing, it is
+ORDERED that the appellant’s March 27, 1998, motion for interlocutory appeal under 38 U.S.C. § 7292(b) is DENIED. It is further
+ORDERED that the appellant’s April 8, 1998, motion for a stay is denied as moot. The appellant will file his brief not later than June 1,1998. It is further
+ORDERED that the case is returned to the screening judge for further consideration.
