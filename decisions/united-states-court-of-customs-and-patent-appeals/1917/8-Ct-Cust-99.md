@@ -1,0 +1,36 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1758; No. 1759"
+decided: "1917-05-14"
+citations: ["8 Ct. Cust. 99"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Suzarte & Whitney Suzarte & Whitney v. United States"]
+source_url: "https://static.case.law/ct-cust/8/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3876880
+cites_cases: ["32 Treas. Dec., 611", "4 Ct. Cust. Appls., 54", "7 Ct. Cust. Appls., 479", "9 How., 619"]
+---
+
+# United States v. Suzarte
+
+## Majority (MONTGOMERY, Presiding Judge,)
+
+MONTGOMERY, Presiding Judge,
+delivered tbe opinion of tlie court:
+The merchandise consists of an importation of crude balsam of copaiba. There were 13.5 cases, each containing two tins of the balsam. The outer cases are the ordinary plain wooden coverings. The tins are secondhand Standard Oil tins.
+The merchandise was assessed for duty under paragraph 9 of the tariff act of 1913. No question is raised as to the classification. The merchandise was appraised by the appraiser at $0.1995 per pound, and no question is,raised except the question of this unit of value. The testimony indicates that this value included, the cost of the coverings. The goods were weighed and the weigher returned a gross weight of 12,720 pounds, and the actual tare for the outer wooden cases amounted to 1,665 pounds. He reported that it was impracticable to determine the weight of the tin cans which constituted the immediate coverings of the merchandise. The collector, in liqui-' dating the entry, disallowed all tare and multiplied the appraised unit of value by the gross weight, including the weight of the coverings and not by the net weight of the merchandise.
+At the trial before the Board of General Appraisers the importers showed that the merchandise was always bought and sold in this country at a price which included the containers, but was based on the net weight of the merchandise and that settlements were made with the foreign shippers on this basis. It was also proved that the weight of the tin cans was 809 pounds. The Board of General Appraisers sustained the claim of the importers that the basis of the collector’s assessment should be the net weight and not the gross weight, and found said net weight to be 10,246 pounds. This figure was obtained by deducting from 12,720 pounds the gross weight as returned by the United States weigher, 1,665 pounds, the weight of the outer wooden cases as returned, and 809 pounds, the weight of the tins as proved by the importers. The board held that there should be added to the amount thus ascertained the value of the coverings.
+These are cross appeals, the Government contending that the assessment was made upon the correct basis, -and the importers affirming that the decision of the board was,in the main- correct, but contending that it was error to direct that the value of the cans and outside packages should be added to that of the per se merchandise as thus ascertained.
+A contention is made by the Government that the importers have estopped themselves from claiming that these goods have any other weight than the gross weight, and that the presumption is that the statement of the unit value by the appraiser should be construed to be the statement of the value of the entire importation by the pound, including.the weight of the coverings.
+Paragraph 9 of the dutiable list, act of 1913, imposes a rate of duty upon balsam of copaiba. It is not to be inferred that in fixing the value of this article by the pound unit it was intended by the appraiser to affix a like value to the- containers, which of course would not ordinarily be subjected to any such rate of duty.
+Article 1078 of the Customs Regulations of 1915 requires that goods such as these should be weighed. ' They were in this case in fact weighed, and the weight was found as given above. There is ■therefore no room for the application of the doctrine of estoppel, for the reason that the Government did not act upon any information furnished it by the importers, but upon information which it acquired itself, and which was conclusive as against the importers.
+It is true that the value of the coverings may in certain circumstances be added to fix the unit value of .the article imported. But it is so manifestly beyond the purpose of any legislation to which our attention has been dbawn to base the value of the contents of a box, the unit value of which is fixed by appraisement, upon the weight of the entire package, including the box itself, that it is not surprising that no case is cited as sustaining such a view, particularly as section 2898 of the Revised Statutes recognizes that the weight of coverings is allowed as tare.
+’ That the weight of the goods actually imported must be taken as the basis of duties is established by Marriott v. Brune (9 How., 619) and numerous other cases.
+We reach the conclusion that the board was right in .holding that the unit value of the pound of balsam of copaiba, multiplied- by the net weight, furnished the correct basis for arriving at the.dutiable value, both upon the ground that the presumption is that such was the intention of the appraiser in fixing the unit value, and, secondly, that it would have been beyond his power to have pursued any other course, as pointed out in United States v. Francklyn (4 Ct. Cust. Appls., 54; T. D. 33306). It is true, as held in that case, that in certain cases the value of the containers may be taken into account in determining the value of the unit, treating such .coverings as some'thing to be added to the per se value of the dutiable article, e, g., in' this case balsam of copaiba. But the appraiser,' except for this purpose in ascertaining the value of the unit of the imported merchandise, has no control over or right to consider the duty to be imposed upon such coverings.
+As before stated, to the duty ascertained by multiplying the unit value by the net weight of the merchandise, the board directed that the duty upon the value of the coverings and.containers be added. Whether or not this is allowable would depend upon whether or not the value of the containers was provided for and included within the value as fixed by the unit value multiplied by the net weight. In certain circumstances this is the proper method of dealing with the coverings. See United States v. Francklyn, supra, and United States v. Downing (7 Ct. Cust. Appls., 479; T. D. 37052).
+In the present case, however, the report of the collector states that the unit value as entered, representing the cost of the balsam packed, was advanced by the appraiser. It would appear from this that the course pursued by the appraiser was to fix the unit value upon the goods including the cost of the containers, and that if the net weight is multiplied by this unit value, the containers will have paid the 'rate of duty which the merchandise also bears, which is correct.
+We think, therefore, that the order directing the addition of the cost of the containers should be overruled, and that in all other respects the decision should stand affirmed.
+Modified.
