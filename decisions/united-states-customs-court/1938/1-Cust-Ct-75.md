@@ -1,0 +1,38 @@
+---
+court: "United States Customs Court"
+decided: "1938-07-29"
+citations: ["1 Cust. Ct. 75"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Evans, and Keefe, Judges; Evans, J., not participating"]
+parties: ["Vegex Co. et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/1/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6623194
+cites_cases: ["25 C. C. P. A. 255"]
+---
+
+# Vegex Co. v. United States
+
+## Majority (Keefe, Judge:)
+
+Keefe, Judge:
+We have before us here the classification of certain, dried brewers’ yeast. The collector classified it as a nonenumerated manufactured article at 20 per centum ad valorem under paragraph. 1558, Tariff Act of 1930. The plaintiffs claim that it is a crude drug and therefore entitled to free entry under paragraph 1669.
+The term “drug” is defined in paragraph 34 as follows:
+Par. 34. * * * Provided, That the term “drug” wherever used in this-Act shall include only those substances having therapeutic or medicinal properties and chiefly used for medicinal purposes: * * *.
+The paragraph of the free list under which the merchandise is-claimed to be classifiable provides as follows:
+Par. 1669. Drugs such as barks, beans, berries, buds, bulbs, bulbous roots,, excrescences, fruits, flowers, dried fibers, dried insects, grains, herbs, leaves,, lichens, mosses, logs, roots, stems, vegetables, seeds (aromatic, not garden seeds),. seeds of morbid growth, weeds, and all other drugs of vegetable or animal origin; all the foregoing which are natural and uncompounded drugs and not edible, and not specially provided for, and are in a crude state, not advanced in value or condition by shredding, grinding, chipping, crushing, or any other process or treatment whatever beyond that essential to the proper packing of the drugs- and the prevention of decay or deterioration pending manufacture: Provided, That no article containing alcohol shall be admitted free of duty under this, paragraph.
+Several witnesses testified iipon behalf of the plaintiffs. Their testimony may be summed up as follows: There are three types or forms of brewers’ yeast, dried. First, yeast containing bitter hop resin taken from the brewers’ tanks and dried. Second, the foregoing yeast from which the bitter hop resin has been removed and thereafter dried. Third, brewers’ yeast grown from a culture taken from a brewer’s tank and thereafter dried. The yeast here is of the latter type. Yeast grown from a culture may be distinguished from debittered brewers’ yeast through the difference in flavor, the de-bittered being slightly salty in taste, whereas the cultured yeast has a sweet flavor.
+It was established by the testimony that there are two methods of drying brewers’ yeast: First, by the drum-drying process whereby a heated drum is passed through the yeast in the vat and the yeast is scraped therefrom with knives. The form of such dried yeast, when scraped from the drum, is of fine flakes. Second, the spray-drying method consists of spraying the yeast into a hot air chamber. In this process the yeast falls to the bottom of the chamber in dry flakes larger than those formed in the drum-drying process. The brewers’ yeast in question was produced by means of the spray-drying method. In order to prepare it for use after importation, the yeast is ground, screened, and pasteurized, and placed in cans or bags ready for shipment.
+Experts also testified that the dried brewers’ yeast herein is used in the treatment of pellagra, diabetes, and alcoholic polyneuritis; that it is effective in relieving pain in the extremities in neuritis patients and the sense of numbness and “pins and needles” in the extremities in diabetes; and that it improves the condition of patients suffering from malnutrition.
+Well-qualified witnesses also testified that dried brewers’ yeast grown from a culture, even though it does not contain bitter hop resin, is not edible, for the following reasons: First, it has an unappetizing taste, which is so unpleasant that even when mixed with candy the flavor persists and candy containing same was found to be unsalable. Second, the taste is offensive to the palate and the mixing thereof with food was found to be unsuccessful. Third, it leaves a disagreeable after-taste in the mouth, has a nauseating effect and produces gaseous eructations. For these reasons it was found difficult to administer the required doses to patients. When in the form of dry powder, mixing with water was found to be the only successful method of administering the yeast to patients. It was also established that as distinguished from food, dried brewers’ yeast does not appease hunger. From these observations the witnesses concluded that the merchandise was not edible and that it had therapeutic or medicinal properties and was chiefly used for medicinal purposes.
+An analysis was made of a composite sample, taken from all of the shipments at issue herein, and it was found to be free from any trace of alcohol.
+Although it was conceded by the Government that the imported article was chiefly used for the prevention and cure of pellagra, the Government contends “that the word 'edible' in paragraph 1669 is not used to mean ‘edible’ as vegetables are eaten, or edible as food is eaten, but, by the very nature of things, has a limited and confined meaning, which is edible as drugs are edible,” and therefore cannot possibly mean that a drug is eaten as part of a meal.
+The plaintiffs contend that the yeast in question is in the crudest possible form that it can be found and inasmuch as it is free from alcohol and included within the definition in paragraph 34 of a drug, as having therapeutic or medicinal properties and chiefly used for medicinal purposes, and not edible within the ordinary meaning' of the term “edible”, it is properly entitled to free entry under paragraph 1669.
+In the cases of Ironized Yeast Co. v. United States, T. D. 48570, Vegex, Inc. v. United States, Abstracts 36717 and 37145, this court held that dried brewers’ yeast containing the bitter hop resin was entitled to free entry as a crude drug. In those cases it was found that the dried brewers’ yeast was chiefly used for medicinal purposes and contained therapeutic or medicinal properties and was free from alcohol.
+The only question, then, that confronts us here is whether or not dried brewers’ yeast produced from a culture of brewers’ vat yeast, and entirely lacking in its bitter hop resin flavor, is edible within the meaning of the term in paragraph 1669.
+We find that the Court of Customs and Patent Appeals in the case of United States v. Yick Shew Tong. Co., 25 C. C. P. A. 255, T. D. 49392, defined the word “edible” appearing in paragraph 1669 as follows:
+The word edible, we think, must be given its common meaning and construed in the sense of its ordinary use and acceptance. Webster’s New International Dictionary gives the adjective meaning of the word as “Pit to be eaten as food; eatable; esculent; as, edible fishes.
+In view of the definition of the word edible in the foregoing decision we hold that the dried brewers’ yeast, the subject of the importations herein, is not edible. Inasmuch as the evidence fully establishes that the product has therapeutic or medicinal properties, is chiefly used for medicinal purposes, and contains no alcohol, it is properly entitled to free entry under paragraph 1669, being in a crude state.
+Judgment will therefore be entered in favor of the plaintiffs directing the collector of customs to reliquidate the entries and to make refund accordingly.
