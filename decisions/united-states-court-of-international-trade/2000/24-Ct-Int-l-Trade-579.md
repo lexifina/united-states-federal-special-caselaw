@@ -1,0 +1,23 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 96-02-00384"
+decided: "2000-07-07"
+citations: ["24 Ct. Int'l Trade 579", "110 F. Supp. 2d 977"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States, plaintiff v. Joseph Almany, d/b/a J.A. Imports, David Jordan, Inc., and Far West Insurance Co., defendants"]
+source_url: "https://static.case.law/ct-intl-trade/24/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6106095
+cites_cases: ["19 U.S.C. § 1592"]
+---
+
+# United States v. Almany
+
+## Majority (Musgrave, Judge:)
+
+FINAL JUDGMENT
+Musgrave, Judge:
+On May 23, 2000, Defendants Joseph Almany, d/b/a J.A. Imports, and David Jordan Inc. were ordered to show cause why judgment should not be granted in favor of The United States of America by June 23, 2000. No response has been received within the time allowed by rule or order. In prior proceedings, Defendants Joseph Almany and David Jordan, Inc. were determined jointly and severally liable for a fraud penalty as a result of violations of 19 U.S.C. § 1592(a). The maximum penalty for such violations is equivalent to the domestic value of the merchandise, which in this case the government has adduced as US$258,311.56. There being no rebuttal, it is hereby:
+Ordered that Defendants Joseph Almany and David Jordan, Inc. are jointly and severally liable to Plaintiff, The United States of America, for a civil penalty resulting from fraudulent violations of 19 U.S.C. § 1592 in the amount of US$258,311.56, plus interest.
