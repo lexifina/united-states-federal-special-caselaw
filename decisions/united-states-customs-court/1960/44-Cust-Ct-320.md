@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "63725; protests 58/20628, etc. (Honolulu)"
+decided: "1960-01-21"
+citations: ["44 Cust. Ct. 320"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Best Trading, Ltd., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6583616
+---
+
+# Best Trading, Ltd. v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+In accordance with stipulation of counsel that the merchandise consists of metal stoves similar in all material respects to those the subject of Abstract 63217, the claim of the plaintiffs was sustained.
