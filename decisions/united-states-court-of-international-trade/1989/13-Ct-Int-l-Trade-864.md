@@ -1,0 +1,30 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 83-01-00095"
+decided: "1989-10-19"
+citations: ["13 Ct. Int'l Trade 864", "726 F. Supp. 1342"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eastalco Aluminum Co., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/13/cases/0864-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6135135
+cites_cases: ["10 CIT 622"]
+---
+
+# Eastalco Aluminum Co. v. United States
+
+## Majority (Restani, Judge:)
+
+Opinion
+Restani, Judge:
+This action concerns classification of certain side and bottom carbon blocks used to line a Hall-Heroult aluminum reduction cell in which aluminum is produced through an electrolytic process. The United States Customs Service classified the blocks as electrodes under item 517.61, Tariff Schedules of the United States (1981) (TSUS). In Eastalco Aluminum Company v. United States, 10 CIT 622 (1986) the court ruled that the blocks were not electrodes essentially because the side blocks are not intended to be used as electrodes and because both the bottom blocks and side blocks have a vital use as heat insulators and refractories which extends for their entire lives. As to the bottom blocks the court found that such heat insulating and refractory function was longer lasting than the electrode function and was no less essential. Therefore, classification as simply "electrodes” was found to be incorrect under either a chief use or an eo nomine analysis.
+The court then remanded the matter to Customs. Although it spent some time disagreeing with the court’s decision, based on facts not before the court, Customs did address the issues remanded to it. First, whether the electrical conductivity and resistivity of the bottom block made it something other than refractory brick, item 531.27, TSUS, plaintiffs claimed classification. Second, whether the bottom and side blocks are "ceramic articles.” Among other requirements, which are not in dispute, ceramic articles must be "substantially crystalline.” See Headnotes 2 & 2(a) of Schedule 5, Part 2, TSUS. These headnotes apply to the TSUS item covering refractory brick. Customs concluded that pursuant to the court’s opinion the merchandise should be classified under item 517.91, a general provision covering carbon and graphite articles.
+Following the post-remand continuation of trial, the court came to the conclusion that the evidence (basically the testimony of two equally qualified and believable experts) was in equipoise on the issue of whether the block is substantially crystalline. Plaintiffs expert witness had testified to the effect that the block was more than 50 percent crystalline. Defendant’s expert witness had indicated that it was less than 50 percent crystalline. The testimony revealed, however, that quantitative testing could be done to establish a specific degree of crystallinity. A test protocol was then agreed to by the parties. It is now complete and a report has been submitted.
+At the risk of oversimplication, the court believes the quantitative test reveals that the block has substantially less than fifty percent crystalline content. Newly submitted testimony of the two experts who previously testified indicates that they have not changed their conclusions in the light of the report. Plaintiffs witness, however, now presents testimony indicating, among other things, that the fifty percent standard is not an appropriate gauge of substantial crystallinity. Plaintiff makes the legal argument that the tariff schedules do not denote such a standard.
+While fifty percent may not be the appropriate dividing line on the issue of what constitutes substantial crystallinity, as that term is used in the tariff schedules, the quantitative test has shown that a very low level of crystallinity is involved and that plaintiffs witness’ earlier evaluation was not as accurate as that of defendant’s expert. This has broken the balance. Defendant’s witness’ opinion that the block has a low percentage of crystalline content and is thus not substantially crystalline has been supported by quantitative testing performed on an agreed basis and the court now finds such testimony to be the more credible.
+Accordingly, the court finds that the block cannot be classified as refractory brick because it does not meet the TSUS definition of "ceramic article.”
+For these reasons and the reasons expressed in the earlier opinion herein the court finds that the subject goods must be classified under item 517.91 as articles of carbon or graphite, a general category, but the only category which can be said to apply to this merchandise based on the evidence presented to the court.
+This issue need not be resolved finally because of the court’s finding on the second issue, although the court was of the opinion after hearing further evidence that the electrical properties, by themselves, did not make the refractory brick designation inappropriate.
+Perhaps, even in the absence of a presumption of correctness, the court might have ruled for defendant at this point based on failure of plaintiff to meet its burden of proof. Given the continuing nature of the importing process and the fact that this is a test case, the court deemed it more appropriate to attempt to resolve the matter on the basis of other probative evidence that appeared to be available. The additional evidence has not been provided, as the text indicates.
