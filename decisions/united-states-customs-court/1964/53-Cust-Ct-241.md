@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "68700; protest 63/999 (Milwaukee)"
+decided: "1964-06-29"
+citations: ["53 Cust. Ct. 241"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Racine Hydraulics & Machinery, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/53/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6576355
+cites_cases: ["19 U.S.C. § 1514"]
+---
+
+# Racine Hydraulics & Machinery, Inc. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+The official papers disclosing that the protest was filed more than 60 days after liquidation, it was dismissed as untimely, by virtue of section 514, Tariff Act of 1930 (19 U.S.C. § 1514).
