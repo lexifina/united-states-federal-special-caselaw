@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "51187"
+decided: "1946"
+citations: ["16 Cust. Ct. 304"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 41992-K of Samuel Shapiro & Co., Inc. (Baltimore)."]
+source_url: "https://static.case.law/cust-ct/16/cases/0304-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6656568
+cites_cases: ["11 Cust. Ct. 88", "324 U. S. 83"]
+---
+
+# Protest 41992-K of Samuel Shapiro & Co.
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+In accordance with stipulation of counsel the court found that the facts herein agreed upon were such as to bring the case within the holding in John Barr v. United States (11 Cust. Ct. 88, C. D. 801), which record was incorporated herein. (See John Barr v. United States, 324 U. S. 83.) In accordance therewith it was held that the currency of the invoices should be converted at the buying rate in the New York market at noon on the day of exportation (the “free" rat.e of exchange for pounds sterling), as certified by the Federal Reserve bank and set forth by the collector on the entry. The protest was sustained to this extent.
