@@ -1,0 +1,72 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3619"
+decided: "1968-11-19"
+citations: ["61 Cust. Ct. 305"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Foed, Judges"]
+parties: ["James S. Baker (Imports) Co. Ted L. Rausch v. United States"]
+source_url: "https://static.case.law/cust-ct/61/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6575347
+cites_cases: ["20 CCPA 198", "20 CCPA 285", "21 CCPA 3", "34 Treas. Dec. 233", "43 CCPA 77", "51 Treas. Dec. 1141", "59 Cust. Ct. 181", "6 Ct. Cust. Appls. 243", "6 Ct. Cust. Appls. 562", "60 Cust. Ct. 296", "68 Stat. 1137", "7 Cust. Ct. 97"]
+---
+
+# James S. Baker (Imports) Co. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+In this action plaintiffs protest the classification of two importations of lawn rakes manufactured in Japan as “rakes, other” under item 648.57 of the Tariff Schedules of the United States, with the consequent assessment of duty at the rate of 15 per centum ad valorem.
+Plaintiffs claim that the subject rakes should be properly classified as “agricultural or horticultural tools,” under item 648.55 of the Tariff Schedules of the United States, which provides for duty at the rate of 7.5 per centum ad valorem.
+The pertinent statutory provisions read as follows:
+Tariff Schedules of the United States, schedule 6, part 3, subpart E:
+Drainage tools, scoops, shovels, spades, picks, mattocks, hoes, rakes, and forks; * * * all the foregoing which
+are hand tools, and metal parts thereof:
+#
+Hoes and rakes, and parts thereof:
+648.55 Agricultural or horticultural tools,
+and parts thereof_7. 5% ad val.
+648.57 Other_15% ad val.
+At the trial plaintiffs called as their only witness Mr. Benaldo P. Silva of San Francisco, who is vice president and general manager of Allied Imports Co. Mr. Silva testified that the company is in the business of importing various garden, agricultural, and hand tools, and that he has been associated with them for approximately 11 years.
+Plaintiffs offered as exhibit 1 a rake illustrative of those described as C/SLRL8 in customs entries 22978 and 23121. The witness characterized the rake as a lawn rake and testified that it is advertised as such in plaintiffs’ catalog at page 84 (plaintiffs’ exhibit 2). The rake is manufactured with pliable tines, so that in raking it will not tear or dislodge the grass. It is used primarily for removing leaves and grass cuttings from the lawn in order to enhance the lawn’s appearance and stimulate its growth.
+The issue is clear. Are the rakes, as described above, agricultural or horticultural tools within the purview of item 648.55 of the tariff schedules, supra, as plaintiffs argue, or are they properly classified by the customs officials as rakes, other, under item 648.57, supra ?
+The question of whether the rake is an agricultural tool is not in issue here. The fact has long been established that it is not and will not be examined further. United States v. Tower, 6 Ct. Cust. Appls. 562, T.D. 36199; Wonham (Inc.) et al. v. United States, 20 CCPA 198, T.D. 45982.
+The question of whether or not a lawn rake is a horticultural tool is, however, one which requires determination now, since in the statutory provision here under consideration “horticultural tools” have been placed in the same category as “agricultural tools.” In that context this is a case of first impression.
+Under such, circumstances, we deem it appropriate to resort to legislative history and other available data to determine the intent of Congress with respect to this language. In the last analysis it is the intention of the legislature which governs the interpretation of its enactments. United States v. Damrak Trading Co., Inc., 43 CCPA 77, C.A.D. 611; United States v. Clay Adams Co., Inc., 20 CCPA 285, T.D. 46078.
+In explaining its reasoning for recommending the grouping of agricultural and horticultural hand tools, the United States Tariff Commission which, pursuant to congressional mandate, prepared the proposed tariff schedules, stated in the Tariff Classification Study of 1960, schedule 6, page 190, the action was taken to eliminate purported distinctions between horticultural and agricultural hand tools which it found “to be more illusory than real and leave much to be desired from an administrative standpoint.” By including horticultural tools in this item, and in other items of the tariff schedules, the Tariff Commission has sought to do away with the problem of when an article is chiefly used in agriculture, as opposed to its use in other allied pursuits.
+In United States v. Boker, 6 Ct. Cust. Appls. 243, T.D. 35472, the Court of Customs Appeals construed the word “agriculture” to include only that which provides the substantial requirements of life (food) and comfort (raiment), and not the purely pleasurable pursuits. It held that “agriculture” must lead to the production of necessities and not that which is essentially pleasurable or ornamental. Thus those implements which do not aid in providing for man’s necessities, i.e., hedge shears, United States v. Boker, supra; propagating scissors, syringes, edge cutters, flower gatherers, grass shears, pruning saws, Hezekiah King's Sons v. United States, 34 Treas. Dec. 233, T.D. 37570; tulip bulb sorters, George S. Bush Co., Inc. v. United States, 7 Cust. Ct. 97, C.D. 543; narcissus bulb sterilizers, George Lawler v. United States, 51 Treas. Dec. 1141, Abstract 2383, and even lawn rakes, United States v. Tower, supra, are not agricultural implements within the meaning of the statute.
+Defendant in its brief concedes that those implements which deal with flowers and shrubs, which were previously excluded from free entry as agricultural implements, would now be included in the claimed provision because of the addition of the words “or horticultural” to the items in question. However, it is defendant’s contention that the term “horticultural” does not embrace those tools used on the lawn, as the caring for and growing of a lawn is not a horticultural pursuit. With this we cannot agree.
+In reaching our decision we must determine what Congress has intended by including “horticultural” hoes and rakes in item 648.55, supra. As was stated in United States v. John B. Stetson, 21 CCPA 3, T.D. 46319:
+* * * The common meaning to be attached to a term or word used by the Congress in a provision of a tariff act is a matter to be determined by the court having the same under consideration. In making this determination the court may rely upon its own understanding of the word or term used, and it may assist its own understanding by reference to the works of standard lexicographers, scientific authorities, the testimony of witnesses, or by other such means as may be available. * * *
+The following definitions of the word “horticulture” are pertinent to the resolution of the issue:
+Webster's New International Dictionary, second edition, unabridged, 1954:
+The cultivation of a garden or orchard; the science and art of growing fruits, vegetables, and flowers or ornamental plants. Horticulture is one of the main divisions of agriculture.
+The Random House Dictionary of the English Language, unabridged edition, 1966:
+1. The cultivation of a garden, orchard, or nursery; the cultivation of flowers, fruits, vegetables, or ornamental plants. 2. The science and art of cultivating such plants.
+The common meaning of the term as cited above is undisputed. However, defendant argues that under this definition the care and propagation of a lawn is excluded as not being a horticultural pursuit. This being the case, it is further urged that, therefore, the tool in question, a lawn rake, will not fall within the scope of item 648.55, supra, but rather under item 648.51, supra. Seemingly the chief use of the instant rake in the care and propagation of a l'awn is not in dispute.
+We can find no basis for excluding the care of a lawn from being a horticultural activity. In its treatment of horticulture, the Encyclo-paedia Britanmica, volume 11, page 775, 1947 edition, discusses horticulture and the home. It describes the lawn as “one of the first considerations, since it serves as the floor covering of the living room, so to speak, and is the setting for the buildings and ornamental plantings.”
+The Illustrated Dictionary of Gardening, edited by George Nicholson, volume 2, pages 241-2, offers an extensive discussion on the care and importance of a lawn. It is described as being “always one of the most important features in connection with any garden * *
+So, too, in. L. H. Bailey’s Cyclopedia of American Horticulture, volume E-M, broad treatment is given to the importance and proper growing of a lawn. The lawn is described as “the true focus of the picture, the central point in any landscape gardening design.” (P. 892.)
+Clearly, the treatment of the lawn in these works leaves us with no doubt that the caring of a lawn may properly be considered a horticultural pursuit. Nor do we believe that Congress intended to exclude lawn rakes from the provision for horticultural tools, as it was set forth in item 648.55.
+In preparing the Tariff Schedules of the United States, the Tariff Commission conducted extensive hearings and consulted numerous tariff, commodity, and industrial classification systems. According to the Tariff Classification Study Submitting Beport, 1960, at page 8, “The ‘Brussels Nomenclature’ and the ‘Standard Industrial Classification Manual’ exerted the greatest influence on the arrangement of the proposed revised schedules.”
+In looking at the “Brussels Nomenclature,” we find a striking similarity between its heading No. 82.01 and item 648.55 of the Tariff Schedules of the United States. Heading 82.01 reads as follows:
+82.01 — HAND Tools, the FollowiNg: Spades, Shovels, Picks, Hoes, FoRks ahd Bakes; Axes, Bill Hooks AND Similar HewiNG Tools; Scythes, Sickles, Hat IaNives, Grass Shears, Timber Wedges AND Other Tools op a KiNd Used ipt Agriculture, Horticulture or Forestry.
+This heading covers hand tools mainly used in agriculture, horticulture or forestry, though some may also be used for other purposes (e.g. in road work, navvying, mining, quarrying, wood-working or household work).
+The heading includes :
+* # * * # * *
+(2) Picks, mattocks, hoes, rakes, lawn-rakes, forks, pitch-forks and similar tools (e.g., combined hoe-rakes, grubbers, weeders and cultivators). [Emphasis added.]
+This similarity, and the specific inclusion of lawn rakes as horticultural hand tools, may be taken as evidence of the Tariff Commission’s intent in drafting the item in its present form to include such rakes as horticultural tools. Pitney-Bowes, Inc. v. United States, 59 Cust. Ct. 181, C.D. 3116; J. E. Bernard & Co., Inc. v. United States, 60 Cust. Ct. 296, C.D. 3372.
+Also significant is the objection made by a representative of the tool industry at the public hearings held by the Tariff Commission, July 16, 1959. It was there urged that the words “or horticultural” be deleted from items 648.55 and 648.61, as the use of these words would greatly expand the preferred rate of duty previously enjoyed by hand tools which were chiefly used in agriculture. It was stated in effect that this change would primarily aid homeowners by “permitting the free entry of tools used by them in a garden, particularly tools that may be used on a lawn or shrubbery and not in the raising of food.” Tariff Classification Study, 1960, schedule 6, page 647.
+Clearly neither the “Brussels Nomenclature,” nor the domestic tool industry, has made any distinctions on the premise that a lawn is not part of a garden and, ergo, any activity concerning the lawn is not a horticultural activity. Nor have the cases made any such distinctions.
+Moreover, in Hezekiah King's Sons v. United States, supra, this court held that edge cutters and grass shears, among the numerous tools in question there, were not agricultural implements within the purview of paragraph 391 of the Tariff Act of 1913, but rather were horticultural tools and were not entitled to free entry. These are tools that are chiefly used in the care of lawns.
+Without exploring the possible application of item 648.57 to industrial and commercial rakes as suggested in the brief filed on behalf of plaintiffs, we are nevertheless of the opinion that the word “horticultural” is subjected to no strained interpretation by a ruling that it embraces the care and maintenance of a lawn area.
+In view of the foregoing considerations, we hold that the lawn rakes here in issue are horticultural tools within the meaning of item 648.55 of the Tariff Schedules of the United States, and are subjected to duty at the rate of 7.5 per centum ad valorem. The claim in the' protest to that effect is sustained.
+Judgment will be entered accordingly.'
+Allied Imports Co. was formerly known as James S. Baker (Imports) Co., the plaintiff in this action.
+Customs Simplification Act of 1954 (68 Stat. 1137).
+See Tariff Schedules of tlie United States, items 648.61, 651.39, 662.45, and 666.00. Also, see Tariff Classification Study, schedule 6, pages 265-6.
+Section 1604 of the Tariff Act of 1930 and predecessor provisions.
+Apparently 'this statement was in. error, as tile contemplated rate was 7.5 per centum ad valorem.
