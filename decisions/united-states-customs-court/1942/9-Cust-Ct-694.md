@@ -1,0 +1,28 @@
+---
+court: "United States Customs Court"
+docket: "5762; Entry No. 1989, etc."
+decided: "1942-12-01"
+citations: ["9 Cust. Ct. 694"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Shipping Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/9/cases/0694-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6681124
+---
+
+# American Shipping Co. v. United States
+
+## Majority (Keefe, Judge:)
+
+Keefe, Judge:
+The appeals to reappraisement listed in schedule A, hereto attached and made a part hereof, have been submitted for decision upon the following stipulation of counsel for the parties hereto:
+It is hereby stipulated by and between counsel for the respective parties hereto' subject to the approval of the court:
+(1) That the merchandise involved in the reappraisement appeals above-named consists of X-Ray Grids, 8 x 10 inches, 12% x 13% inches, 14 x 17 inches, and 10 x 12 inches, of the same kind in all material respects as those which were involved in Reappraisement Appeal #127782-A, wherein, as to the 10 x 12 inch grids, final decision was rendered by the United States Customs Court, First Division, as reported in Reap. Decis. 5299, and wherein, as to the 8 x 10 inch, 12% x 13% inch and 14.x 17 inch grids, final decision was rendered by the U. S. Court of Customs & Patent Appeals in the case of American Shipping Company (General Electric X-Ray Corp.) v. United States, Customs Appeal No. 4371, as reported in C. A. D. 198; that the issue herein and conditions as to the market value are the same as the issue and conditions as to market value in the cited case, Reappraisement No. 127782-A, as reported in Reap. Decis. 5299 and C. A. D. 198, and the record in said case is hereby incorporated herein.
+(2) That the cost of production and dutiable value for the 10 x 12 inch X-Ray grids is 135 Sw. Krs. each, packed, as found in Reap. Decis. 5299.
+(3) That the foreign values for the 8 x 10' inch grids, the 12% x 13% inch grids, and the 14 x 17 inch grids are respectively 165 Sw. Krs. each, 225 Sw. Krs. each, and 275 Sw. Krs. each, all less 2% discount, packed, as found by the U. S. Court of Customs & Patent Appeals in C. A. D. 198, and that there were no higher export values for said merchandise at the time of exportation thereof.
+(4) That the appeals herein are submitted on the foregoing stipulation.
+On the agreed facts I find the cost of production, as that value is defined in -section 402 (f) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the 10- x 12-inch X-ray-grids, and that such value is 135 Sw. Krs.'each.
+I further find the foreign value, as'that value is defined in section 402 (c) of the Tariff Act of 1930, to bé the proper basis for the determination of the value of the 8- x 10-nMi X-ray grids, the 12%- x 13%-inch X-ray grids and the 14- x 17-inch X-ray grids, and that such values are respectively 165 Sw. Krs. each, 225 Sw. Kirs, each and 275 Sw. Krs. each, all less 2 per centum discount, packed.
+Judgment will be rendered accordingly.
