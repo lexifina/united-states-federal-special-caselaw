@@ -1,0 +1,42 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "5471, C.A.D. 1071"
+decided: "1972-11-02"
+citations: ["60 C.C.P.A. 6", "468 F.2d 211"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Markey, Chief Judge, Rich, Almond, Baldwin, and Lane, Associate' Judges"]
+parties: ["Czarnikow-Rionda Company v. United States"]
+source_url: "https://static.case.law/ccpa/60/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6077126
+cites_cases: ["12 CCPA 318", "404 U.S. 1005", "440 F. 2d 1024", "58 CCPA 129", "66 Cust. Ct. 431"]
+---
+
+# Czarnikow-Rionda Co. v. United States
+
+## Majority (MaRket, OMef Judge.)
+
+MaRket, OMef Judge.
+This is an appeal from the decision and judgment of the United States Customs Court, 66 Cust. Ct. 431, C.D. 4229 (1971), overruling appellant’s protest against the assessment of additional duties under TSUS item 901.00. We affirm.
+The merchandise, raw Philippine sugar, was classified without challenge under TSUS item 155.20 as sugars. The controversy arises over the further ’assessment under TSUS item 901.00, fa temporary provision for additional duties found in part 1 of the appendix to< the tariff schedules which reads as follows:
+901.00 Sugars, sirups, and molasses provided for in items 155.20 to 155.31, inclusive, of part 10A of schedule 1, if not to be further refined or otherwise improved in quality, and articles of sugars, sirups, and molasses of the hinds described in such items, all the foregoing (except sugars, sirups, molasses, or .articles to be used as livestock feed, or in the production of livestock feed,
+or for the distillation of alcohol)_ The same as the tax imposed under sec. 4501, I.R.C. [footnote omitted]
+This is an 'additional duty on sugars not to be further refined or otherwise improved in quality in the United States to compensate for the excise taxes at the same rates imposed under IKC section 4501(a) on sugar manufactured in the United States.
+The Customs Court concluded that item 901.00 is subject to the requirements of Eule 10 (e) (ii) of the general interpretative rules of the TSUS which reads as follows’: ■ ■ •
+General Headnotes and Rales of Interpretation:
+10. General Interpretative Rules. For tlie purposes of these schedules—
+s}: # • ❖ * # * si*
+(e) in the absence of special language or context which otherwise requires^- ......
+* sfc sjs sj; j?s if. $
+(ii) a tariff classification controlled by the actual use to which an imported article is put in the United States is satisfied only if such use is intended at the time of importation, the article is so used, and proof thereof is furnished within 3 years after the date the article is entered.
+Accordingly, the failure of appellant to furnish within the prescribed period proof that the imported sugar had been further refined or otherwise improved in quality was held to defeat its protest concerning the additional assessment under item 901.00, whether or not the sugar had in fact been refined.
+On review, we find no error in the lower court’s application of Eule 10(e) (ii) to item 901.00. While we are aware of the restrictions placed on the 'breadth of the term “classification” in section 516(b) of the Tariff Act of 1930 by the majority in United States v. Hammond Lead Products, Inc. 58 CCPA 129, 440 F. 2d 1024, C.A.D. 1017 (1971), cert. den. 404 U.S. 1005 (1971), in contradistinction to the general definition set forth in Bradford Co. v. American Lithographic Co., 12 CCPA 318, T.D. 40318 (1924), we need not resort to these cases to determine whether assessment under item 901.00 involves a “classification” as employed in Eule 10(e) (ii). Once the original classification under item 155.20 is found applicable, the additional duty under item 901.00 automatically attaches to the goods. Only by proof of further processing or of actual use as livestock feed, in the production of livestock feed, or for distillation of alcohol can this supplemental assessment be avoided. Thus we find, no difficulty in considering item 901.00 a proviso, albeit a temporary one, of the original classification and subject to the same general interpretative rules as the provisions of schedule 1.
+' We concur with the lower court’s finding that the language of item 901.00 indicates an intention to follow the imported merchandise into consumption, thus bringing into play the actual use requirements of Rule 10(e) (ii). The view we take coincides with the policy expressed by the Tariff Commission in the Tariff Glassification Study, supra, at pages 14-15 that, in view of the burdens imposed on customs officers and importers, merchandise which must be so followed into consumption should be that which is to be accorded more favorable treatment than like merchandise not so used. As pointed out above, proof of'further refining in this case relieves the importer of the additional duty imposed under item 901.00.
+Although appellant cites various Customs Regulations in arguing’ against Rule 10(e) (ii) as a mandatory requirement for the filing of proof of further processing within 3 years of the time of importation we find no provision within the tariff statute itself which might modify the responsibility placed on the importer. Customs Regulations can not be elevated to the level of statutory authority. Moreover, had the importer furnished timely proof, it would have avoided the additional duty. We see no inequity in holding the importer to the mandatory limit.
+Appellant raises the issue of double taxation, alleging that an excise tax under IRC § 4501(a) was paid by the refining company on the imported sugar when refined. [5] Having itself caused the imposition of the assessment under 901.00, the importer is not in a position to complain of any asserted double taxation. See 1 Cooley, The Law of Taxation, page 488 (4th ed., 1924).
+The judgment of the Customs Court is affirmed.
+As noted in tlie Tariff Glassification Stud}/, Submitting Report, at 10 (1960), item-901.00 is tlie result of the “merger into a single document [of] * - * all related provisions' found in the Internal Revenue Code and elsewhere under which imported articles are-classified for tariff purposes” (emphasis added). As further explained, the reason for the placement of items such as 901.00 in the appendix is because this section is designed for .all incorporated legislation “which because of their temporary or collateral nature, are-not assimilable into the main body of the tariff schedules.” Id. at 13.
+Tlie parties have stipulated that “statements of processing have been prepared and furnished defendant which indicate that * * * [12,322,800 of the total 13,247,590 pounds of sugar involved] * * * were subject to the usual refining processes of .a cane sugar refinery, including centrifuging, washing, melting, and filtering, which statements would have satisfied the defendant that such sugar was refined or otherwise improved in quality within the meaning of Item 901.00 of the [TSUS] had said statements been filed within the three year period which defendant claims is required by Gener.al Headnote 10(e) (ii), Tariff Schedules of the United States.”
+As pointed out at oral hearing by the Government and substantiated by the record, the importer through its customs broker sought and was granted extensions ®f tíme t® file the “requested Certificate of üse.”
