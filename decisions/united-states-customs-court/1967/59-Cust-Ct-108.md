@@ -1,0 +1,55 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3088"
+decided: "1967-08-21"
+citations: ["59 Cust. Ct. 108"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Poed, Judges"]
+parties: ["Schick X-Ray Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/59/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573220
+cites_cases: ["21 CCPA 282", "52 CCPA 11", "69 Treas. Dec. 367", "91 Treas. Dec. 150"]
+---
+
+# Schick X-Ray Co. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+These protests place in issue the classification of certain imported merchandise described on the invoices as “Hydraulic patient table TIT-10 for radiographic examinations, No. 141 DS 576,” “Foamed plastic mattress for TIT-10 DS 578,” “Hydraulic patient chair-table TIT-10,” “Adjustable holders,” and “Mattress.” These articles were classified as hospital utensils in chief value of steel under paragraph 339 of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108, and assessed with duty at the rate of 17 per centum ad valorem.
+Plaintiff claims that these articles are properly classifiable as machines, not specially provided for, under paragraph 372 of the Tariff Act of 1930, as modified by said sixth protocol, and dutiable at the rate of 11½ per centum ad valorem or, alternatively, as parts of X-ray apparatus under paragraph 353 of the Tariff Act of 1930, as modified by said sixth protocol, and dutiable at the rate of 7½ per centum ad valorem.
+The relevant statutory provisions read as follows:
+Paragraph 339 of the Tariff Act of 1930, as modified by T.D. 54108:
+Table, household, kitchen, and hospital utensils, and hollow or flat ware, not specially provided for, whether or not containing electrical heating elements as constituent parts:
+* * # * ⅜ ⅜ *
+Not plated with platinum, gold, or silver, and not specially provided for, composed wholly or in chief value of—
+⅜? * ⅜ - * * ⅜ *
+Other base metal:
+⅝ ‡ # ⅝ ⅝ *
+Other_ 17% ad val.
+Paragraph 372 of the Tariff Act of 1930, as modified by T.D. 54108:
+Machines, finished or unfinished, not specially provided for:
+Other (except food preparing and manufacturing machinery, * * *)- ll^%adval.
+Paragraph 353 of the Tariff Act of 1930, as modified by T.D. 54108:
+Electrical X-ray apparatus, instruments (other than laboratory), and devices, finished or unfinished, wholly or m chief value of metal, and not specially provided for (except X-ray tubes)-7y2% val.
+⅞ * * * * * ❖
+Parts, finished or unfinished, wholly or in chief value of metal, not specially provided for, of articles provided for in any item 353 in this Part:
+¾: ⅜ ⅝ ⅜ ⅝ * *
+Other_ The same rate of duty as the articles of which they are parts.
+Plaintiff offered the testimony of Mr. Peter M. Schick, who has been the president of the Schick X-Ray Co. since 1953 and is in charge of the sale, installation, and servicing of the X-ray and electro-medical equipment which his company imports. Mr. Schick holds a degree in electrical engineering and has worked in this field for 30 years, here and abroad. He also studied medicine but does not hold a medical degree.
+The witness stated that he was personally familiar with the TIT-10 hydraulic patient chair-table, mattress and adjustable arm holders and had sold approximately 30 -units in the United States after first seeing them in use and manufacture in Scandinavia and after arranging to become the exclusive seller in the United States.
+Three pages of illustrations showing the imported table with armrests and mattress were introduced in evidence as plaintiff’s collective exhibit 1. The illustrations reveal that in one position the TIT-10 resembles a table resting on a bulky center pedestal. The table “top” consists of four segments which may be repositioned to form a chair, with or without a back.
+According to the witness, the TIT-10 is used exclusively in the X-ray department of hospitals and clinics for the positioning of patients being subjected to X-ray or fluoroscopic examination of the head and back. The adjustable table-chair makes it possible for doctors to align the patient in various positions without excessive movement. The TIT-10 is equipped with an oil pump hydraulic lift feature located in the pedestal and operated by a foot pedal. By means of this mechanism, the table may be gently raised or lowered. Wheels under the pedestal allow the movement of the 450-pound table under the X-ray equipment while arm supports brace the patient in a seated posture. The table top is mounted on bearings so that, by the release of a spring lock device, it may be moved longitudinally or transversely. The table is also fitted with a segmented mattress used to avoid placing the patient on a hard surface.
+The witness stated that an X-ray machine can operate without the TIT-10 table but that some method must always be used to keep the subject immobile in the desired position.
+At first blush, it is evident that the hydraulic patient table is a machine. See United States v. Dyson Shipping Co., Inc., et al., 29 CGPA 148, C.AD. 184. Defendant concedes that the TIT-10 is a machine, but contends that the provision for hospital utensils is more specific and should, therefore, prevail. The central issue in this dispute is, therefore, whether or not the importation is a hospital utensil as classified, and, since the testimony of plaintiff’s witness shows clearly that the TIT-10 is chiefly used in hospitals, the final question reduces to whether the importation is a utensil. In support of its contention that the TIT-10 is a utensil, the defendant cites the case of Frank P. Dow Co., Inc. v. United States, 21 CCPA 282, T.D. 46816, in which the court held that eleotric vacuum cleaners and electric floor polishers were household utensils. Plaintiff counters with the case of Bullocks, Inc. v. United States, 69 Treas. Dec. 367, T.D. 48175, in which this court found that a metal stool was not a 'household utensil, reasoning that it was more in the nature of furniture.
+■ As applied to the facts of this case, we find the latter precedent more relevant and more persuasive. It does not appear to us that the inclusion of relatively large articles such as floor polishers within the provision for household utensils necessarily demands similar treatment for all large articles which perform useful services in a household or hospital area. The vacuum cleaners and floor polishers of the Dow case were held to be utensils because they possess certain dominant characteristics which mark them as such, including utility and portability. They are also considerably smaller than the TIT-10, and, while we do not predicate this decision upon the size of this article, we are impressed with its bulk and weight. Moreover, though the article in issue can be moved about from place to place, it is essentially fixed in location, and not portable when in use in conjunction with X-ray equipment. In the final analysis, this article is itself a piece of equipment in the nature of sophisticated hospital apparatus, the use of which bears a strong resemblance to furniture. It is a relatively ponderous object, fixed in its field of operation, which in the opinion of this court is not such as Congress intended to include within the meaning of the word “utensil.”
+We are, of course, aware that the word “utensil” can, in a broad definition, cover articles such as the imported chair-table. To reach .this meaning in the present case, however, would require an unnecessarily oblique use of sequential definitions; from “utensil” to “instrument” or “implement” and thence to any mechanism which performs work. The function and construction of the TIT-10 chair-table is such as makes it similar to the larger items used in hospitals for the diagnosis, treatment, and cure of disease for which the words “equipment,” “apparatus,” and “instrument” are more apt descriptions. While we • do not intend to indicate that utensils are relatively simple articles, we do consider the overall role of this chair-table to be of a more ■ complicated and significant nature than those articles which have been designated as utensils.
+Plaintiff makes an alternative claim that the TIT-10 is a part of X-ray apparatus on the ground that it is solely dedicated for use with X-ray equipment and is part of the machinery necessary for the use of X-ray apparatus. The latter ground is not supported by the available testimony which tends to show that, although the TIT-10 is a useful adjunct to radiography, it is not essential to such work. Theoretically, any surface could be used as a platform for the positioning of patients.
+Although essentiality may no longer be the touchstone in the determination of whether an article is a part under the principles developing from the recent decision of our appellate court in the case of Gallagher & Ascher Company v. United States, 52 CCPA 11, C.A.D. 849, it does not necessarily follow that all auxiliary articles are parts. Many of these objects, despite tbe fact that tbeir usefulness is only in conjunction with other articles, retain a separateness of identity and a functional self-sufficiency which preclude their classification as parts.
+In this case, the separateness of the TIT-10 is both physical and conceptual. While it works together with X-ray apparatus, it retains its own identity. It performs its functions without any direct physical interaction with the X-ray equipment. Furthermore, it possesses the characteristics of a completely finished and self-contained object such as a stand, platform, tripod, or piece of furniture. The principal effects of its mechanical ingenuity are worked upon the body of the patient and are not the result of some combined effect produced by it and the X-ray apparatus. This leads us to conclude that it is a machine in its own right and not a part of X-ray apparatus.
+These same considerations, when applied to the relationship between the adjustable arm holders, mattress, and TIT-10 chair-table, lead' to the conclusion that the holders and mattress are parts of the chair-table machine. The testimony shows that both are dedicated to use with the TIT-10 and perform useful services in conjunction with it.’ The arm holders brace the patient in a seated position while the specially fitted mattress provides the comfort necessary for remaining in fixed positions. Neither of these articles possesses the independence and functional identity which denies to the TIT-10 the status of a part of X-ray apparatus.
+For the above reasons, we conclude that the TIT-10 chair-table is a machine, not specially provided for, under paragraph 312 of the Tariff Act of 1930, as modified, supra, and that the adjustable arm holders and mattress are parts thereof.
+Judgment will be entered accordingly.
