@@ -1,0 +1,26 @@
+---
+court: "United States Court of Claims"
+docket: "J-253"
+decided: "1934-03-05"
+citations: ["6 F. Supp. 117"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before BOOTH, Chief Justice, and GREEN, LITTLETON, WILLIAMS, and WHALEY, Judges.", "BOOTH, Chief Justice, and WHALEY, WILLIAMS, and GREEN, Judges, concur."]
+parties: ["W. H. BRADFORD & CO., Inc., v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/6/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4130022
+cites_cases: ["6 F. Supp. 115"]
+---
+
+# W. H. Bradford & Co. v. United States
+
+## Majority (LITTLETON, Judge.)
+
+LITTLETON, Judge.
+In this action plaintiff seeks to have the court reduce the net income of $612,493.50, as found by the Commissioner of Internal Revenue in granting special assessment, by the amount of $38,341.72, claimed as a loss or worthless debt deduction, and then apply to the changed net income the profits tax rate of 34.162 per cent, determined and employed by the Commissioner in Ms computation, and, upon such computation of plaintiff’s income and profits tax, enter judgment for an overpayment of $15,615.05.
+The defendant contends that the court is without jurisdiction to inquire into the merits of the claim presented by plaintiff for the reason that the Commissioner allowed plaintiff’s request for special assessment and computed its profits tax liability under the provisions of section 328 of the Revenue Act of 1918 and that any change in the net income for the taxable year would alter the Commissioner’s administrative discretionary findings. We think the defendant’s position is well taken.
+Inasmuch as the court is without authority to review the action of the Commissioner in determining the amount of the profits tax under section 328 or to revise, correct, or abrogate such determination, it necessarily follows that the Commissioner’s action in determining the amount of plaintiff’s net income is not subject to judicial review. Before-the Commissioner can apply the provisions of seetion 328, he must determine the net income. If net income is reduced, one of the principal factors in computing the profits tax has been destroyed and the Commissioner’s determination has been altered. Any change in the income requires a new computation of the tax. This is not permitted by the statute. Central Iron & Steel Co. v. United States (Ct. Cl.) 6 F. Supp. 115, decided this date. If the net income is altered, the same corporations used as comparatives by the Commissioner may no longer be similarly circumstanced with respect to net income. It may also be that by reason of the reduced income, because of the deduction claimed, there would be no abnormality in income, which may have been the cause that prompted the Commissioner to allow special assessment, and the taxpayer would not be entitled to any relief under the special assessment section of the statute, or that the corporations used as comparatives would no longer be comparable. Moreover, the amount of the profits tax is a deduction, credited against income under section 236 (b), Act of 1918 (40’ Stat. 1080) from income in computing the income tax. If the profits tax should be rendered erroneous by reason of a change of factors upon which such tax was computed under section 328, the income tax, computed upon an income erroneously determined, by reason of the deduction of an erroneous profits tax, would also be erroneous.
+The petition must be dismissed. It is so ordered.
+BOOTH, Chief Justice, and WHALEY, WILLIAMS, and GREEN, Judges, concur.
