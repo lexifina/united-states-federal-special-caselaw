@@ -1,0 +1,37 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1287"
+decided: "1914-01-14"
+citations: ["5 Ct. Cust. 79"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Nightingale"]
+source_url: "https://static.case.law/ct-cust/5/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3880452
+cites_cases: ["14 Fed., 824", "152 Fed., 590", "88 Me., 410", "94 Me., 242"]
+---
+
+# United States v. Nightingale
+
+## Majority (MONTGOMERY, Presiding Judge,)
+
+MONTGOMERY, Presiding Judge,
+delivered the opinion of the court: This is an appeal from a decision of the Board of General Appraisers reversing an assessment of duty upon certain merchandise consisting of 19,000 hoop poles, which were assessed for duty at 20 per cent ad valorem under paragraph 203 of the act of 1909. Paragraph 203 imposes a duty of 15 per cent on—
+Sawed boards, planks, deals, and all forms of sawed cedar, * * * and all other cabinet woods, * * * veneers of wood, and wood unmanufactured, not specially-provided for in this section, twenty per centum ad valorem.
+The claim of the protest was sustained by the board for entry under paragraph 712, which exempts from duty—
+Wood: Logs and round unmanufactured timber, including pulp woods, firewood, handle bolts, shingle bolts, gun blocks for gun stocks rough hewn or sawed or planed on one side, hop poles, ship timber, and ship planking; all the foregoing not specially provided for in this section.
+The report of the appraiser was that the hoop poles in question were rough cut poles, which, when they have been split and shaved, are made into barrel hoops. It is contended by the Government that these poles are not, in the language of common speech, logs or round unmanufactured timber, and certain dictionary definitions are cited as to the meaning of the words "log” and “timber,” and the case is cited of United States v. Knipscher (152 Fed., 590), which held that certain driers’ sticks about 1 inch in diameter were more properly classified as wood unmanufactured than as manufactures of wood. In that case, however, no claim was made of free entry, and that question was not discussed by the court.
+No one would claim that these hoop poles are logs. If free they are free under the provision for round unmanufactured timber, and it becomes necessary to determine the sense in which that phrase is used in the clause in question.
+The word “timber” is defined in the Century Dictionary as—
+Wood suitable for building bouses or ships or for use in carpentry, joinery, etc.; trees cut down and squared and cut into beams, rafters, planes, boards, etc.
+The word has had judicial interpretation. In United States v. Stores (14 Fed., 824), Locke, District Judge, in charging the jury, said:
+The term “timber,” as used in commerce, refers generally only to large sticks of wood, squared or capable of being squared for building houses or vessels; and certain trees only having been formerly used for such purposes, namely, the oak, the ash, and the elm, they alone were recognized as timber trees; but the numerous uses to which wood has come to be applied, and the general employment of all kinds of trees for some valuable purpose has wrought a change in the general acceptation of terms in connection therewith, and we find that Webster defines “timber” to be “that sort of wood which is proper for buildings or for tools, utensils, furniture, carriages, fences, ships, and the like.” This would include all sorts of wood from which any useful articles may be made or which may be used to advantage in any class of manufacture or construction.
+With so many peculiar significations, the intended meaning of the word usually depends upon the connection in which it is used or the character of the party making use of it.
+In the case of Bearce v. Dudley (88 Me., 410, 417), the question involved was whether pulp wood was timber within the meaning of a statute giving a hen to log owners for timber so intermixed with logs that it could not be conveniently separated. The court, in an extended opinion, quotes at some length from the case of United States v. Stores, sufra, and concludes the discussion as follows:
+The trend of all the authorities is to construe the word “timber,” in a statute like the one under consideration, comprehensive enough to work the purposes of the enactment. The purpose of this statute was to give those using the waters of the State to float the wood product of our forests, suited for manufacture, to market, equal rights and a convenient remedy under circumstances and conditions, where the common-law remedy was inadequate, and compass a result in furtherance of the interests of all concerned. * * * The benefits of it are equally useful whether the drives be of saw logs, ship timber, pulp wood, or any other wood product suitable for commerce or manufacture that may be conveniently driven to market; and whoever incumbers our rivers with material of this sort for the purpose of floating it to market ought to come within the provisions of this statute, and the legislature must have intended that they should. It could not have intended the legislation for some classes and not for all. It is remedial and must be most liberally construed when necessary to work out the purpose of the legislation.
+See also Donwortb v. Sawyer (94 Me., 242, at 252).
+Applying tbe rules laid, down in the cases cited, we think there is little difficulty in construing paragraph 712. It was clearly intended to include in the phrase “round, unmanufactured timber" something other than logs. The word “logs” is sufficient unto itself, and requires no interpretation. The succeeding phrase, therefore, should be construed as language of extension, intended to include some kind of unmanufactured timber which would not fall under the designation of logs, and which, if they stood by themselves, would indicate any useful timber in the round, unmanufactured state. But to make still more clear the fact that such was the use intended, the language is followed by the further provision “including pulp woods, firewood, handle bolts, shingle bolts, gun blocks for gunstocks rough hewn or sawed or planed on one side, hop poles, ship timber,” etc., making it perfectly evident that the restricted or limited meaning of the word “timber” was not that intended by the Congress, but that it was used in its broader and more comprehensive sense and one which would include such a product as that in question. The word “including,” followed by the enumeration of specific articles, indicates that in the use of the preceding term “round, unmanufac-tured timber,” it was intended to include at least articles ejusdem generis with those specifically named. For an illustration of the extending effect of associated words, see Endlich on Interpretation of Statutes (sec. 404). It would be a very strained construction that would distinguish between hop poles, which are in terms declared to be round, unmanufactured timber, and hoop poles, which would just as clearly fall within the designation of round, unmanufactured timber.
+We think the Board of General Appraisers reached the correct conclusion in this case, and the decision is affirmed.
