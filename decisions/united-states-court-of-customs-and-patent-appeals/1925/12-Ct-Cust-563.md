@@ -1,0 +1,45 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2418"
+decided: "1925-03-23"
+citations: ["12 Ct. Cust. 563"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["Central Warehouse Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/12/cases/0563-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6094741
+cites_cases: ["11 Ct. Cust. Appls. 392", "12 Ct. Cust. Appls. 62", "149 U. S. 346", "2 Ct. Cust. Appls. 247", "91 U. S. 362"]
+---
+
+# Central Warehouse Co. v. United States
+
+## Majority (Hatfield, Judge,)
+
+Hatfield, Judge,
+delivered the opinion of the court:
+The merchandise involved in this appeal consists of rugs made of Japanese rice straw. The imported articles were assessed for duty by the collector at 40 per cent ad valorem, as “floor coverings not specially provided for,” under paragraph 1022, of the tariff act of 1922, which reads as follows:
+Par. 1022. Common China, Japan, and India straw matting, and floor coverings made therefrom, 3 cents per square yard; carpets, carpeting, mats, matting, and rugs, made wholly of cotton, flax, hemp, or jute, or a mixture thereof, 35 per centum ad valorem; all other floor coverings not specially provided for, 40 per centum ad valorem.
+In its protest the importer claimed that the merchandise was properly dutiable at 3 cents per square yard, under the provision for “ Common China, Japan, and India straw matting, and floor coverings made therefrom,” contained in paragraph 1022, supra.
+The appellant introduced in evidence on the trial before the Board of General Appraisers the testimony of witnesses tending to prove that the merchandise in question was made in Japan of rice straw; that there were no other floor coverings made in Japan of a vegetable substance known as straw.
+The Government submitted evidence tending to prove that the imported merchandise was not known in the trade as “ Common China, Japan, or India straw matting” prior to the tariff act of 1922, and was not made from such matting; that the imported merchandise was known as Japanese grass rugs prior to the enactment of the tariff act of 1922; that, since the enactment of that tariff act, the merchandise has been known and advertised as “a rice straw rug”; that such merchandise was not known in this country prior to the years 1911 or 1912; that merchandise known in the trade in the United States as “ Common China, Japan, or India straw matting, ” was made of material entirely different in' character from that used in the manufacture of the imported articles.
+The trial court held that the importer had failed to show that the merchandise in question was known in the trade and commerce of the United States as common Japan straw matting, or floor coverings made therefrom; that in prior legislation on the subject, Congress-had included in the phrase, “ Commonly known as China, Japan, and India straw mattings” merchandise which was not made of straw; that the word “ straw ” was not used in prior legislation in its scientific or botanical sense; that the language “ Common China, Japan, and India straw matting, and floor coverings made therefrom,” contained in paragraph 1022, supra, is synonymous with the language, “* * * Commonly known as China, Japan, and India straw matting” contained in prior tariff legislation on the subject; that the evidence disclosed that floor coverings made of material entirely different in character from that of which the imported merchandise was composed were, at the time of the enactment of the tariff act of 1922 and for many years prior thereto, uniformly, generally, and definitely known and designated in the trade and commerce of the United States as Japanese straw matting, or as common Japanese straw matting, or as Japanese matting; that the merchandise in question had always been known in the trade as rice-straw rugs, Japanese rice-straw rugs, or Japanese grass rugs, and that such merchandise has been imported into this country only during the last 12 years, approximately.
+The protest was accordingly overruled.
+It is apparent from prior legislation on the subject, that Congress recognized that there were floor coverings made in Japan, or elsewhere, and known in the trade and commerce of the United States as Japan straw matting or Japanese straw matting, which were not made of straw, if the word straw is given its scientific meaning.
+We quote from the tariff acts of 1897, 1909 and 1913.
+Paragraph 333 of the tariff act of 1897 reads as follows:
+Par. 333. Floor mattings, plain, fancy, or figured, manufactured from straw, Tound or split, or other vegetable substances not otherwise provided for, including what are commonly known as Chinese, Japanese, and India straw mattings, valued at not exceeding ten cents per square yard, three cents per square yard; valued at exceeding ten cents per square yard, seven cents per square yard and twenty-five per centum ad valorem. (Italics ours.)
+Paragraph 343 of the tariff act of 1909 reads as follows:
+Par. 343. Floor mattings, plain, fancy, or figured, manufactured from straw round or split, or other vegetable substances, not otherwise provided for in this section, and having a warp of cotton, hemp, or other vegetable substance, including what are commonly known as China, Japan, and India straw matting, three and one-half cents per square yard. (Italics ours.)
+Paragraph 272 of the tariff act of 1913 reads as follows:
+Par. 272. Floor mattings, plain, fancy, or figured, including mats and rugs, manufactured from straw, round or split, or other vegetable substances, not otherwise provided for in this section, and having a warp of cotton, hemp, or other vegetable substances, including what are commonly known as China, Japan, and India straw matting, 23dá cents per square yard. (Italics ours.)
+In each quoted paragraph, after providing for floor coverings made of straw, Congress added the provision, “including what are commonly known as China, Japan, and India straw matting,” thereby clearly indicating that the floor coverings included within such provision were not, or at least might not be, made of straw, and accordingly included such merchandise within the paragraph by a special provision.
+In the paragraph under consideration Congress has provided for "common China, Japan, and India straw matting, and floor coverings made therefrom,” at 3 cents per square yard; floor coverings made wholly of cotton, flax, hemp, or jute, or a mixture thereof, at 35 per cent ad valorem; and all other floor coverings not specially provided for, at 40 per cent ad valorem.
+It has been held by the Supreme Court and by this court that the provisions of tariff laws apply to and are directed to the men engaged in commerce and trade in the United States; that the words and terms contained in such provisions are to be interpreted according to the understanding of such terms by persons thus engaged at the time of the enactment of the tariff act in which such terms are contained. Hedden v. Richards (149 U. S. 346); United States v. Davies (11 Ct. Cust. Appls. 392; T. D. 39317); Stone & Downer Co. et al. v. United States (12 Ct. Cust. Appls. 62; T. D. 40019).
+If we accept the theory advanced by the appellant as correct, that the provision " common Japan straw matting” is a descriptive phrase and not a denominative one, nevertheless, as a matter of law, such phrase may be shown to have a commerical meaning. Pritchard & Co. v. United States (2 Ct. Cust. Appls. 247, 248; T. D. 30733); Arthur v. Cumming et al. (91 U. S. 362).
+The appellant submitted evidence tending to prove that the merchandise was made in Japan; that it was made of rice straw and that it was the only floor covering made in Japan of true straw. Such evidence probably would be sufficient to establish prima facie that the merchandise was common Japan straw matting or floor coverings made therefrom.
+The Government, however, offered evidence tending to prove that the merchandise was never known by the trade and commerce in this country as common Japan straw matting and was not made from such matting; that matting made of entirely different material was known by the trade and commerce of the United States as common Japan straw matting.
+It is evident that the phrase "common Japan straw matting” was not intended to refer to all straw matting made in Japan, but to only such merchandise as was known in the trade and commerce of the United States as common Japan straw matting.
+The Board of General Appraisers found from the evidence that the imported articles were not known in the trade and commerce of the United States as common Japan straw matting, and that they were not floor coverings made from such matting. We think the board's finding is sustained by the evidence, and its judgment is affirmed.
