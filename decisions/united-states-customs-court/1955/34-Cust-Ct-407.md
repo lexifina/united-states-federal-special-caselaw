@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "59146; protests 203580-K, etc. (New York)"
+decided: "1955-06-16"
+citations: ["34 Cust. Ct. 407"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Camilli Albert & Laloue, Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/34/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6651095
+cites_cases: ["33 Cust. Ct. 152"]
+---
+
+# Camilli Albert & Laloue, Inc. v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+In accordance with stipulation of counsel that the merchandise consists of essential oils the same in all material respects as those the subject of Ungerer & Co., Inc. v. United States (33 Cust. Ct. 152, C. D. 1647), the claim of the plaintiffs was sustained.
