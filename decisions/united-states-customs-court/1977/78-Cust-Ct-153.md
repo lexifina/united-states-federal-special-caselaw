@@ -1,0 +1,28 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4701; Court No. 76-8-01863"
+decided: "1977-06-10"
+citations: ["78 Cust. Ct. 153"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["International Fashions v. United States"]
+source_url: "https://static.case.law/cust-ct/78/cases/0153-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6564615
+cites_cases: ["13 Ct. Cust. Appls. 53", "16 Cust. Ct. 163", "35 CCPA 79", "9 Ct. Cust. Appls. 111"]
+---
+
+# International Fashions v. United States
+
+## Majority (Richardson, Judge:)
+
+Richardson, Judge:
+The merchandise at bar, described on the invoice as “Ladies’ knitted 100% cotton roll sleeves, square neck pullover,” was exported from Hong Kong on or about March 28, 1976. It was entered and classified in liquidation under TSUS item 382.00 as modified by T.D. 68-9 at the duty rate of 35 per centum ad valorem as women’s wearing apparel, ornamented, of cotton. It is claimed by the importer that the merchandise should be classified under TSUS item 382.06 as modified by T.D. 68-9 at the duty rate of 21 per centum, ad valorem as women’s wearing apparel, not ornamented, of cotton, knit.
+Central to the issue of ornamentation raised by the pleadings herein is the question of whether the upper (or second) banding on the double banded neck of the imported knit cotton sweaters is functional. In this connection it is to be noted that headnote 3 (a) (B) of schedule 3 of TSUS, among other things, excludes from the meaning of the term “ornamented” “functional stitching or one row of straight hemstitching adjoining a hem” on fabrics and other articles of textile materials.
+At the trial the only evidence adduced by plaintiff was a sample of the merchandise which was received in evidence as exhibit 1. At this point plaintiff’s counsel stated (R. 3), “As we feel, in cases like this, the sample speaks louder than words, the plaintiff rests.” Exhibit 1 possesses a double banding around the neck portion of the garment.
+The only testimony in the record is that of Dr. Joan H. Lare, professor of Home Economics at California State University at Long Beach whose specialty is textiles and clothing. She holds Bachelor of Science and Master of Science degrees in Textiles and Clothing from Cornell University and her Ph. D. degree in Home Economics Education from Cornell University. Dr. Lare, called as a witness on defendant’s behalf, testified on direct examination that her understanding of the term “ornamentation” was the embellishment or decoration of clothing by means of the addition of things such as beads, fancy stitching, lace, or an extra piece of fabric or trim (R. 7). The witness stated that in her opinion exhibit 1 was ornamented by virtue of the presence of the second banding at the neck portion of the garment (R. 7-8). She said that, while the first or lower banding served the purpose of finishing the edge of the fabric, and kept the fabric from stretching and raveling, “The second (upper) banding is decorative, begins to be decoration. It is not needed; it is extra. It serves no utilitarian function.” (R. 8.)
+On cross-examination Dr. Lare testified that the second or upper banding did not give added reinforcement to the garment and did not prevent stretching (R. 11-12). And it was further brought out on cross-examination of the witness that existing testing methods would not show any measurable addition of strength or durability attributable to the presence of the second or upper banding (R. 12-13).
+Plaintiff, relying entirely on the sample, argues that two plies of the banded material provide for greater strength in terms of stabilizing the neck against the tendency of the fabric to stretch, than does one ply of material. Defendant counters by asserting, among other things, “Plaintiff’s Exhibit 1 only demonstrates, visually, the nature of the merchandise, and its questioned neck banding. It does not, as plaintiff seems to assert, in and of itself demonstrate to a person having no expertise in textiles and clothing that:‘. . . the upper (second) banding on the subject merchandise serves a primary utilitarian function of reinforcing the stability of the neck of the garment’ (plaintiff’s brief, p. 9).”
+The court agrees with the defendant. An examination of exhibit 1 would not disclose to a lay person any latent functional characteristics of the upper neck banding. And since the sample is not such that the utilitarian characteristics of the upper neck banding, if any, are brought within the realm of judicial knowledge upon mere ocular inspection, see United States v. Sheldon & Co., 13 Ct. Cust. Appls. 53, T.D. 40880 (1925) and United States v. Lee & Co., 9 Ct. Cust. Appls. 111, T.D. 37977 (1919), it was incumbent upon plaintiff to adduce testimonial evidence from persons familiar with the manufacture of the garment in issue and the nature and purpose of its double neck banding in order to support its contention and rebut the presumption of ornamentation. Nothing contained in the testimony offered on behalf of the defendant could be said to assist the plaintiff in meeting its burden of proof. V. W. Davis v. United States, 16 Cust. Ct. 163, 174, C.D. 1005 (1946), aff’d, 35 CCPA 79, C.A.D. 374 (1947). The defendant’s evidence establishes that the upper neck banding constitutes ornamentation.
+It follows, therefore, that plaintiff has failed to rebut the presumption of correctness attaching to the classification of the merchandise at bar, in consequence of which, this action must be dismissed. Judgment will be entered herein accordingly.
