@@ -1,0 +1,29 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 916"
+decided: "1945-04-06"
+citations: ["14 Cust. Ct. 82"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Lawrence, Judges"]
+parties: ["Heirloom Needlework Guild, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/14/cases/0082-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6605519
+cites_cases: ["1 Ct. Cust. Appls. 152", "27 C. C. P. A. 17", "68 Treas. Dec. 384", "91 Fed. Rep. 108"]
+---
+
+# Heirloom Needlework Guild, Inc. v. United States
+
+## Majority (Kincheloe, Judge:)
+
+Kincheloe, Judge:
+The imported merchandise the subject of this suit is represented by exhibit 1, an examination of which shows it to consist of a paper container or envelope containing three sewing needles which are in turn folded in a piece of paper. The envelope measures 2 by 1% inches, the entire both sides of which are covered with lithographed printed matter, such as the name of the manufacturer and description of the needles, etc. The needles were returned free of duty under the eo nomine provision therefor in paragraph 1724 of the Tariff Act of 1930, but the outside paper envelopes or containers were assessed with duty at 5 cents per pound and 30 per centum ad valorem under the provisions of paragraphs 1408 and 1405 of the Tariff Act of 1930, as amended by the trade agreement with the United Kingdom, T. D. 49753, as envelopes of surface-coated paper, lithographed. The plaintiff claims that the said paper envelopes or containers are free of duty as the ordinary containers of duty-free merchandise.
+In support of its claim the plaintiff has cited the case of Foster & Co. v. United States, T. D. 47922 (68 Treas. Dec. 384), wherein certain metal drums, imported as the ordinary and usual containers of magne-site, with a small cover in the top so constructed that it could be removed and replaced without injury to the drum, were held not subject to the duty provisions of paragraph 328 of the Tariff Act of 1930, for “cylindrical and tubular tanks or vessels, for holding gas, liquids, or other material, whether full or empty,” upon a showing that in the ordinary course of business it was the practice, in order to facilitate the removal of the contents, to chop off the heads of the drums and discard them. The said destroyed and discarded drums were therefore held to be free of duty as one-time shippers or containers of merchandise subject to a specific rate of duty.
+In the present .instance it is likewise shown that the.'paper envelopes here in question are the usual and ordinary coverings and containers of needles, and that after their purchase and use by the ultimate consumer they are discarded and destroyed, and are of no further use or value commercially. We think, however, that the provision for envelopes in paragraph 1408 of the act of 1930 is far different from that for iron drums in said paragraph 328 as to make the ruling in the Foster case, supra, inapplicable to the instant case. Paper envelopes are provided for in said paragraph 1408, as follows:
+Par. 1408. Paper envelopes, filled or unfilled, whether the contents are dutiable or free, not specially provided for shall be subject to the same rate of duty as the paper from which made and in addition thereto, if plain, 5 per centum ad valorem; if bordered, embossed, printed, tinted, decorated, or lined, 10 per centum ad valorem; if lithographed, 30 per .centum ad valorem: Provided, That paper envelopes which contain merchandise subject to an ad valorem rate of duty or a duty based in whole or in part upon the value thereof shall be dutiable at the rate applicable to their contents but not less than the rates provided for herein.
+The foregoing provision, of course, entirely changed the rule of according free entry to the usual, ordinary, and necessary containers of duty-free merchandise so far as paper envelopes are concerned. The language “filled or unfilled, whether the contents are dutiable or free” was undoubtedly intended to levy duty on envelopes in their imported condition as containers of merchandise just as much as on the contents, and whether or not the contents be dutiable or free,, and not dependent on the ultimate use or condition of the merchandise after importation. In other words, paper envelopes are now made separately dutiable from their contents at the same rate of duty as the paper from which, made, plus certain additional duty according to the condition of the envelopes, excepting that, if the envelopes contain merchandise subject in whole or in part to an ad valorem rate of duty, the envelopes are to be dutiable at the same ad valorem rate of duty as their contents, but at not less duty than the rates provided for in the first part of paragraph 1408. It is hard to conceive of language more explicit and precise.
+Plaintiff in its brief contends that the legislative history of paragraph 1408 shows it was the intention of the lawmakers to assess duty only on envelopes containing greeting cards and similar merchandise. We do not think such-view is justified, and certainly said paragraph makes no reference to envelopes containing greeting cards, or otherwise. As stated by the court in United States v. Marx, 1 Ct. Cust. Appls. 152, T. D. 31210, “Once the lawmaking power has clearly expressed its intention, the motives which actuated it — the reasons which induced the legislation — are beside the question.”
+In our opinion, the assessment of duty under said paragraph 1408 on the paper envelopes in question containing needles was properly made. Note United States v. Ross, 91 Fed. Rep. 108; also Balfour, Guthrie & Co. v. United States, 27 C. C. P. A. 17 (C. A. D. 55). The protest is therefore overruled.
+Judgment will be rendered accordingly.
