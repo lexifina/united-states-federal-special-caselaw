@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for Veterans Claims"
 docket: "96-1663"
 decided: "1998-10-16"
-citations: ["11 Vet. App. 514", "11 Vet. App. 516"]
+citations: ["11 Vet. App. 514"]
 reporter: "vet-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Fee Agreement of Kenneth B. MASON, Jr., in Case 
 source_url: "https://static.case.law/vet-app/11/cases/0514-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1590135
-cites_cases: ["10 Vet.App. 498", "11 Vet.App. 113", "11 Vet.App. 115", "11 Vet.App. 307", "28 U.S.C. § 2412", "38 U.S.C. § 5904", "38 U.S.C. § 7263", "706 F.2d 93", "8 Vet.App. 104"]
+cites_cases: ["10 Vet.App. 498", "11 Vet.App. 113", "11 Vet.App. 115", "11 Vet.App. 307", "28 U.S.C. § 2412", "38 U.S.C. § 7263", "706 F.2d 93", "8 Vet.App. 104"]
 ---
 
 # In re the Fee Agreement of Mason
