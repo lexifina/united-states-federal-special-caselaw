@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "C.R.D. 72-20"
+decided: "1972-10-11"
+citations: ["69 Cust. Ct. 314"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Heterochemical Corp. v. United States"]
+source_url: "https://static.case.law/cust-ct/69/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6570776
+cites_cases: ["281 Fed. 326", "47 Cust. Ct. 10", "55 CCPA 43"]
+---
+
+# Heterochemical Corp. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+This action was instituted by the filing of a summons on November 15,1971, after the denial of a protest on May 21, 1971. Plaintiff subsequently served its complaint and defendant thereafter moved to dismiss and by an alternative motion moved for a preliminary hearing.
+Defendant contends the merchandise was appraised and notice of appraisement, CF 5561, mailed on November 14,1969. This was prior to the enactment of the Customs Administrative Act of 1970 and said appraisement became final as to all parties on January 13, 1970. No appeal having been taken, defendant contends plaintiff is foreclosed from seeking valuation relief at this stage. Liquidation of the entry involved herein was made on December 2, 1970, subsequent to the enactment of the Customs Administrative Act of 1970.
+The present law permits the question of valuation and classification to be raised at the same time. Under the prior law, separate actions for questions involving valuation were required to be filed within 30 days from the date of the notice of appraisement when an action was brought by the importer or within 60 days from said date when the action was instituted by the Government. Classification matters were of course separately filed within 60 days after liquidation.
+In the case at bar, we have a hybrid situation where appraisement was made prior to and liquidation subsequent to the enactment of the new law. The evidence of plaintiff included affidavits of William Galler, president of plaintiff corporation and Raymond Berruti, vice president of plaintiff corporation, which indicated the procedures utilized by their corporation in the handling of mail received. Neither affiant could recall receiving notices of appraisement from its customhouse broker, The Bartel Shipping Co., Inc., nor do their files contain such a notice. The affidavit of Bernard Baretela, president of the customhouse brokerage firm, which entered the merchandise in the case at bar, states that he had never received a notice of appraisement covering the merchandise at bar; that he personally received the mail during the time period involved; that he maintains separate files for each entry and any correspondence is placed in said files; that the file covering the shipment at bar does not contain a notice of appraisement.
+Defendant in its reply to plaintiff’s memorandum in opposition to defendant’s motion to dismiss submitted an affidavit of one Mercedes Van Dunk, an employee of the Regional Commissioner of Customs for Customs Region II, whose job, in November of 1969, included the mailing of notices of appraisement by personally delivering them to the post office. The affiant, according to official records, was on duty at the time the notice of appraisement was sent out and was initialed by her. It was not returned because it would have been attached to the entry. In addition, an affidavit of James Caffentzis, trial attorney for defendant, sets forth the fact that seven of the entries referred to by Mr. Baretela were before the Bureau of Customs. Copies of the notices of appraisement covering these entries were attached.
+Based upon the affidavits filed by both parties in this matter, it is apparent that there is a conflict which would not necessarily be resolved by a preliminary hearing. All the necessary evidence as to procedures for mailing and procedures used in receiving mail is before the court.
+In United States v. International Importers, Inc., 55 CCPA 43, C.A.D. 932 (1968), the court in a similar situation made the following comment:
+The legal effect of the Government’s testimony is that it at best proves mailing. Eecent decisions of the Customs Court have raised the requirements for the Government to prove mailing to a level of specificity where the Government must now produce the precise person who mailed the subject notices. Compass Instrument & Optical Co. v. United States, 47 Cust. Ct. 10, C.D. 2271 (1961); Orlex Dyes & Chemicals Corp. v. United States, supra; Clayton Chemical & Packaging Co. v. United States, supra. In these cases the Customs Court followed the principles enunciated in United States ex rel. Helmecke v. Rice, Post Commander, 281 Fed. 326 (S.D. Tex., 1922), where it Avas said, id. at 331:
+The better rule, and that which seems to be established by the weight of authority, is that in the absence of direct evidence there must be proof of an invariable custom or usage in an office of depositing mail in a certain receptacle, that the letter in question was deposited in such receptacle, and in addition there must be testimony of the employee, whose duty it was to deposit the mail in the post office, that he either actually deposited that mail in the post office, or that it was his invariable custom to deposit every letter left in the usual receptacle, and that he never failed in carrying out that custom. * * *
+However, under the statute here in issue, proof of mailing is not ipso factor [sic] proof of notice given to the importer by the collector, where, as here, the unrefuted testimony is that no notice was received.
+* * * * $ * *
+We find no legal error in the decision of the Customs Court on the issue of notice to appellee. Its conclusion is further buttressed by the observation that the intended ends of justice, as contemplated by Congress, will be best served by preserving the right of the importer to appeal the increased appraisal and to have its day in court on this issue. See Alfred Dunhill of London, Inc. v. United States, 22 Cust. Ct. at 212. We agree that the importer should, under the circumstances of this case, have the opportunity to contest the increased appraisement. * * *
+Under the circumstances, I find that a valid notice of appraisement was never received by plaintiff; hence the appraisement was not final as of the date of the enactment of the Customs Administrative Act of 1970. Therefore, the question of value is properly before this court.
+Accordingly, it is hereby
+Okdbked that the motions to dismiss and for a preliminary hearing be and the same hereby are denied.
