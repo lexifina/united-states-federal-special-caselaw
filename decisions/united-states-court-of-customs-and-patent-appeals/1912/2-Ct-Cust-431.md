@@ -1,0 +1,44 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "729"
+decided: "1912-01-11"
+citations: ["2 Ct. Cust. 431"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["Salomon Bros. & Co. et al. v. United States"]
+source_url: "https://static.case.law/ct-cust/2/cases/0431-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8290580
+cites_cases: ["1 Ct. Cust. Appls., 198", "110 Fed. Rep., 940", "153 U. S., 32", "159 U. S., 500", "22 Treas. Dec., 109"]
+---
+
+# Salomon Bros. & Co. v. United States
+
+## Majority (Montgomery, Presiding Judge,)
+
+Montgomery, Presiding Judge,
+delivered the opinion of the. court:*
+The tariff act of 1897, in paragraph 463, imposed a duty upon waste not specially provided for of 10 per cent ad valorem. Paragraph 479 of the act of 1909. is identical.
+Paragraph 566 of the act of 1897 reads as follows: .
+Grasses and fibers: Istle or Tampico fiber, jute, jute butts, manila, sisal grass, sunn, and all other textile grasses or fibrous vegetable substances, not dressed or manufactured in any manner, and not specially provided for in this act.
+This paragraph appears in the free list. The corresponding paragraph in the act of 1909 is identical with this with the exception that the word “section” is substituted for the word “ act.”
+The merchandise covered, by the protest in this case was imported at different times, a portion during the life of the act "of 1897 and the remainder under the act of 1909. It was all assessed for duty under the provisions first above quoted for waste not specially provided for. It is claimed to be more specifically provided for as jute not dressed or manufactured in any manner and entitled to free entry. The board overruled the protest, and the importer appeals.
+The merchandise in question consists of jute card waste, so called, and consists of the broken fibers of undressed raw jute which are rejected by the carding machine in the first process of manufacture to which undressed jute is subjected. The evidence discloses that in carding raw jute the carding machine picks up the longer filaments of the jut'e and that the short fibers and those which are inferior are rejected by the pins of the machine. It is this rejected substance which is in controversy here. The substance is unquestionably jute. It is inferior to the parent substance, however, in quality. But the evidence discloses that it may be devoted to the same uses to which the substance resulting from the first carding is devoted. It- may be spun, or it may be felted, or it may be used without further manipulation for stuffing horse collars. .
+The evidence further discloses that before it can be put to the use of spinning it must be again recarded and the product of. this recarding is that which is used for spinning. The so-called jute card waste is necessarily much cheaper than the natural substance, as the better part of it has been extracted.
+Does the fact that this substance, which is called in one sense a waste, make it dutiable, or does it come, so long as it retains its native characteristics of jute and is susceptible of the same uses, more properly under the provisions of paragraph 566 of the tariff law of 1897 and paragraph 578 of the law of 1909, respectively?
+We think the case of United States v. Hatters’ Fur Exchange (1 Ct. Cust. Appls., 198; T. D. 31237) rules this question. In that case the court had under consideration fur gatheréd as scraps or waste from the first treatment of'skins. It was claimed to be dutiable as waste not specially provided for, under paragraph 463 of the act of 1897. It was shown, however, that it could be used as undressed fur. After reviewing the evidence in the case, the opinion, by Judge Hunt, proceeds:
+With this evidence before the court, the case has been somewhat simplified by the fact that counsel for the respective parties agree generally that it proves the articles involved to be a waste. We can therefore move forward upon this assumption and at once proceed to the question whether, being waste, they are clippings or refuse scraps and pieces, dutiable merely as waste not specially provided for, or whether, although waste, they are yet articles of undressed fur specially provided for .under the paragraphs of the tariff act of 1897, heretofore quoted.
+* * * * '■*• * *
+The finding of the Circuit Court that the articles are undressed clippings of rabbit skins and portions of-fur that have become detached from the pelt by reason.of heat and other means is amply sustained by the evidence, and, as was said by Judge Martin, the evidence shows that they are all “used for the same purpose to which the skin as Usually cut up is employed, and that it comes from the rabbit pelt, which of itself is treated as free under the tariff act.”
+It is waste in a sense — that is, it is primarily a refuse in so far as the first treatment of the skin "goes, and it may be that the object of the first treatment of the skins is not to obtain this refuse; it is a residuum. But, on the other hand, it is not at all a worthless quantity, as it has a commercial value for use in hat making and is imported for such purposes. The intent of the tariff law of 1897 was explicitly expressed by'providing for free entry of skins and furs undressed, and it would seem to us that it was not meant to impose duty upon jueces or inferior kinds of furs, themselves valuable, and gathered as the scraps or waste from the first treatment of the skins, for they are still furs undressed.
+. It is equally true-in tbe present case that the merchandise involved is-in one sense.a.waste. It is a residuum after the first treatment of the native product. But, as in the, case referred to, this residuum is not a worthless quantity. It has a commercial value and is used for the purpose which the better quality is devoted to, except that it produces an inferior article. We think that case is decisive of this point.
+So in Patton v. United States (159 U. S., 500), Mr. Justice Brown, after reviewing the definitions of waste found in the dictionaries, concludes:
+The prominent characteristic running through all these definitions is that of refuse, or material that is not susceptible of being used for the ordinary purposes of manufacture. It does not presuppose that the article is absolutely worthless, but that it is unmerchantable and used for purposes for which merchantable material of the same class is unsuitable.
+In Myers v. United States (110 Fed. Rep., 940) the court-held that mica in small pieces or sheets which fall off in the process of thumb' trimming are dutiable as mica .unmanufactured, and not as waste not specially provided for. The court said:
+The merchandise does not lose its character as merchantable mica because it is of an inferior grade. The material called “waste” at the'mica mines is refuse thrown oút on the dumps, having little value and being incapable of use for any of the purposes for which mica is used-
+It is contended that even if this be held to be jute waste it is not free because it has been dressed. The evidence discloses that the first process of carding is not with the purpose of getting this substance. The carder does not desire to get any. . But it comes about from the presence of inferior fibers. It is a by-product and not the substance sought, just as was the case in the Hatters’ Fur Exchange case, supra. But what is more significant is the fact that before it can be devoted to the same purpose that the superior quality is, namely, spinning, it must be subjected to a new process of carding and treated in precisely the- same manner that the native substance is required to be treated.
+Authoritative rulings are not wanting upon this question. In Seeberger v. Castro (153 U. S., 32) tobacco scrap consisting of clippings from the ends of cigars and pieces broken from the tobacco of which cigars are manufactured in' the- process of such manufacture, not being fit for use in the condition in which the. same are imported, were held to be dutiable as unmanufactured tobacco. And in the case of Patton v. United States (159 U. S., 500), Mr. Justice Brown said:
+Waste in its ordinary sense, being merely refuse thrown off in the process of converting raw wool into a manufacture of wool, can not be considered a manufacture simply •because it acquires a new designation, and if it be artificially produced by the break ing up of the tops it is with even less reason entitled to be so considered. Unless natural waste can be treated as a manufacture, artificial waste should not.
+Our conclusion is that this importation is more accurately described as jute unmanufactured than as waste not specially provided for. The decision of the Board of General Appraisers is reversed.
