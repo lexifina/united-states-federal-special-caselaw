@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 01-00883"
+decided: "2001-12-07"
+citations: ["25 Ct. Int'l Trade 1308"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Former Employees of Henderson Sewing Machines, plaintiffs v. Chao, U.S. Secretary of Labor, Defendant"]
+source_url: "https://static.case.law/ct-intl-trade/25/cases/1308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8480167
+cites_cases: ["28 U.S.C. § 2653"]
+---
+
+# Former Employees of Henderson Sewing Machines v. Chao
+
+## Majority (TSOUCALAS, Senior Judge:)
+
+ORDER
+TSOUCALAS, Senior Judge:
+Upon consideration of the defendant’s consent motion for voluntary remand, it is hereby
+Ordered that the consent motion is granted; and it is further
+Ordered that this action is remanded to the Department of Labor to conduct a further investigation and to make a redetermination as to whether petitioners are eligible for certification for worker adjustment assistance benefits; and it is further
+Ordered that remand results shall be filed no later than 60 days after the date of this order; and it is further
+Ordered that the plaintiffs shall file papers with the Court indicating whether they are satisfied with the remand results no later than 30 days after the remand results are filed with the Court; and it is further
+Ordered that the deadline for the filing of: (1) the answer pursuant to Rule 12(a)(1)(A); and (2) the administrative record pursuant to 28 U.S.C. § 2653(d)(1) and Rule 72(a), shall be extended to 30 days after the plaintiffs indicate whether they are satisfied or dissatisfied with the remand results.
