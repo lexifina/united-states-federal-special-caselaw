@@ -1,0 +1,40 @@
+---
+court: "United States Customs Court"
+docket: "Court No. 73-1-00128"
+decided: "1975-12-15"
+citations: ["75 Cust. Ct. 154"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arnold Pickle & Olive Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/75/cases/0154-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6568583
+---
+
+# Arnold Pickle & Olive Co. v. United States
+
+## Majority (Watson, Judge:)
+
+Watson, Judge:
+This case involves tlie dutiable value of seven entries of cucumbers packed in brine which, were imported from Mexico in 1971 for use by plaintiff in the making of pickles. This merchandise was classified as other vegetables, packed in brine, and appraised on the basis of export value in amounts ranging from 0.0325 to 0.0348 cents per pound.
+Plaintiff claims an export value expressed in terms of a value per hundred pounds depending on the grade of cucumber plus an amount of $15.00 for salt and $24.19 for ice per truck load.
+This somewhat unusual dispute centers on the transactions by which the importer obtained the imported merchandise and the manner in which the merchandise was shipped.
+The government viewed the transaction giving rise to export value as being a sale from the firm of Pickle-Mex to Arnold Pickle & Olive Co. (hereinafter referred to as Arnold). Plaintiff asserts that the business of the two companies is conducted in such a manner and they are so interrelated that no sales could, or indeed did, take place between them.
+Plaintiff argues that the transaction in which export value was generated was the sale of the cucumbers by the Mexican growers to Pickle-Mex. Defendant responds that only after these sales was the merchandise placed in brine and, therefore, it could not have an export value which did not reflect its condition as imported and as classified which was vegetables in brine, not raw vegetables plus packing. Plaintiff replies that the existence of a classification for vegetables in brine does not logically preclude the treatment of the brine as packing for valuation purposes.
+Defendant maintains its objection to plaintiff’s approach as a distortion of export value into constructed value and a blurring of the distinction between raw cucumbers and cucumbers in brine. Defendant raises additional objections to plaintiff’s proof, those of note being a single sale of cucumbers by Pickle-Mex to another United States purchaser and a failure by plaintiff to prove the full packing costs.
+Up to a point, plaintiff has persuaded me as to the correctness of its position. However, the incompleteness of its proof as to packing costs causes it to fall short of satisfying its burden of proof.
+Arnold is a partnership between the father, uncle and aunt of Byron Arnold, Jr., one of the two partners in PicHe-Mex. Mr. Arnold, Jr. is also the general manager of plaintiff, acting to acquire the cucumbers on behalf of both Arnold and Pickle-Mex. Pickle-Mex obtained cucumbers in Mexico for plaintiff — 70% from land leased by Pickle-Mex in the name of a Mexican employee and 30% purchased by contract from independent farmers. The evidence establishes to my satisfaction that no sales of specific merchandise took place between Arnold and Pickle-Mex but rather that Pickle-Mex was provided with money by Arnold on a weekly or as-needed basis without any exact settlement of accounts. In effect, Pickle-Mex acted as an agent or even as the alter ego of Arnold in Mexico and there could be no sales transactions between them giving rise to export value.
+I am of the opinion, based on the testimony of the import specialist who made the advisory appraisements ultimately adopted by the district director, that the appraisement was predicated on the existence of sales between Pickle-Mex and Arnold, and upon findings as to the price between them; assumptions which have not been proved erroneous, thereby undermining the correctness of the appraisement.
+■ I am further of the opinion that it is entirely possible for the export value of these cucumbers to be the price at which the growers sold them •to Pickle-Mex plus the latter’s cost of readying and packing the cucumbers for shipping. But for the absence of proof regarding the expenses incurred by Pickle-Mex in inspecting and grading the cucumbers delivered to it by the growers, I would be satisfied with plaintiff’s proof of export value.
+. From the testimony and particularly the affidavits of the growers, I find that the cucumbers in question were freely sold to Pickle-Mex for export at prices which were arrived at by arm’s length negotiation and were the prices at which this merchandise was sold in the principal markets of Mexico for exportation to the United States, which evidently was the only destination for cucumbers of this type.
+After the growers delivered the cucumbers to Pickle-Mex five to ten percent of them would be inspected and graded or sized on a special machine to establish the percentage of the various ■ grades present. After the delivery -was weighed, the cucumbers were dumped into a truck whose interior had a polyethylene liner. Salt and water were then added to create the brine in which the cucumbers were shipped. The brine (in which the importation remained for less than 24 hours) served to protect the cucumbers in transit across the border and to obtain for them the more favorable tariff classification of vegetables in brine. This method of transportation did not advance the cucumbers towards “pickleness” but did increase their salt content. The shipping brine was usually discarded when plaintiff began the pickling process.
+The immersion in brine was clearly a packing process which in the ordinary determination of export value is added to the price for export to the United States. The fact that the tariff classification describes the importation by reference to the medium in which it is packed does not indicate to me that its value must be proved in a unitary manner as packed. It merely indicates that a certain method of treating or packing vegetables, even provisionally, warrants a rate of duty different from that applied to fresh vegetables.
+When a particular type of packing is named in the tariff description I consider it a proper interpretation of section 402(b) to allow proof of the cost of packing as an addition to the export price of the basic article even though as a strictly technical matter the merchandise undergoing appraisement is the combination of basic article and packing. I see this as a lesser anomaly than the alternative conclusion that an article which in all other respects has an export price cannot have an export value because it is packed for export by a party which does not sell it for export. Thus, overriding considerations of fairness would lead me, in the present circumstances, to find an export value in the export price of the cucumbers plus the cost of their packing.
+Nor, in the face of proof based on scores of transactions relied on by plaintiff, would I be dissuaded from reaching such a conclusion by defendant’s proof of a single transaction at a higher price between Pickle-Mex and a Colorado firm. However, I cannot accept the absence of any proof as to the cost of inspecting and grading the cucumbers in question; costs which were clearly part of readying them for export within the meaning of section 402(b). Absent such proof, plaintiff’s case is incomplete and its demonstration of export value is deficient. For that reason the appraised values of this merchandise must be affirmed.
+Judgment will be entered accordingly.
+Item 141.75 of the Tariff Schedules of the United States.
+Section 402(b) o f the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956.
+$4.99 for grade No. 1, $3.99 for grade Nos. 2 and 3 and $1.50 for grade Nos. 4 and 5.
+Fresh raw cucumbers would be classifiable under items 135.90 through 135.94, TSUS.
+Section 402(d) of the Tariff Act of 1930, as amended by t he Customs Simplification Act of 1956.
