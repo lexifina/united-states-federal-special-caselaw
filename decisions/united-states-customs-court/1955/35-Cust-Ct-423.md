@@ -1,0 +1,32 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 8487; Entry No. 837195, etc."
+decided: "1955-10-14"
+citations: ["35 Cust. Ct. 423"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jung Forwarding Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/35/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6643330
+---
+
+# Jung Forwarding Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+The appeals for reappraisement listed in schedule “A,” hereto attached and made a part hereof, have been submitted for decision upon the following stipulation of counsel for the parties hereto:
+IT IS HEREBY STIPULATED AND AGREED, by and between counsel, subject to the approval of the court:
+1 — That the merchandise the subject of the appeals for reappraisement enumerated in the schedule hereto attached and made a part hereof, consists of artists’ materials and supplies imported from Holland.
+2 — That the issues in the said appeals are the same in all material respects as the issues in the case of United States v. International Expediters, Inc., for Winsor & Newton, Inc., 40 C. C. P. A. (Customs) 148 (C. A. D. 511), wherein it was held that cost of production, as defined in Sec. 402 (f), Tariff Act of 1930, was the proper basis of appraisement, and that the record in the said case may be incorporated in the record in the instant appeals.
+3 — That, as to the items of the aforesaid merchandise entered at the invoice unit prices plus 20 per cent, the said cost of production is represented by the invoice unit prices plus 11.11 per cent.
+4 — That as to all other items of the said merchandise, except those referred to in paragraph 5 of this stipulation, said cost of production is represented by the appraised values less 25 per cent.
+5 — The appeals for reappraisement herein are abandoned as to items entered at the invoice unit prices plus 10 per cent and plus 8 per cent.
+IT IS FURTHER STIPULATED AND AGREED that the appeals for reappraisement herein may be submitted on the foregoing stipulation.
+On the agreed facts I find the cost of production, as that value is defined in section 402 (f) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the merchandise here involved, and that such values were as follows:
+As to the items of merchandise entered at the invoice unit prices, plus 20 per centum, such values were the invoice unit prices, plus 11.11 per centum.
+As to all other items of merchandise involved, except as to the merchandise covered by the abandonment noted below, such values were the appraised values, less 25 per centum.
+The appeals having been abandoned insofar as they relate to items of merchandise entered at the invoice unit prices, plus 10 per centum, plus 8 per centum, to that extent the appeals are hereby dismissed.
+Judgment will be entered accordingly.
