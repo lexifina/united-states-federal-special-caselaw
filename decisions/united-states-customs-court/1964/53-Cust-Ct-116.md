@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 2481"
+decided: "1964-10-06"
+citations: ["53 Cust. Ct. 116"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Donlon and Richaedson, Judges"]
+parties: ["H. H. Elder & Co. Forest Lawn Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/53/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6574547
+cites_cases: ["29 Cust. Ct. 224", "39 CCPA 15"]
+---
+
+# Elder v. United States
+
+## Majority (DoNloN, Judge:)
+
+DoNloN, Judge:
+These two protests were tried together at Los Angeles, but were not consolidated for purposes of trial. While there is evidence that is in some part special to each of the protests, we write one opinion covering both cases.
+Each protest relates to a sculptured statuary, representative of a family group, the work of Leone Tommasi, an Italian sculptor, and called by him “La Famiglia.” Other sculptures were imported as part of these same entries, but those were liquidated under paragraph 1807 and are not in issue here.
+In protest 61/73019 (entry 05914), the sculpture and its pedestal were entered as an entirety, with claim to classification as a duty free work of art, under paragraph 1807. The collector classified this entry as an entirety, but under paragraph 1547(a) and charged duty at 10 percent ad valorem.
+In protest 62/3120 (entry 19669), the sculpture alone was entered with a claim to duty free classification under paragraph 1807. The pedestal was entered as a manufacture of marble. The collector, however, liquidated this entry also as an entirety, under paragraph 1547(a) with duty at 10 percent ad valorem.
+The protests, in both cases, attack the paragraph 1547(a) classification, claiming that classification should be under paragraph 1807 for both entries.
+There are two parties plaintiff. H.H. Elder & Co., customs broker, entered the sculptures for account of Forest Lawn Co. Forest Lawn has three cemeteries, or memorial parks, in or near Los Angeles.
+These sculptures are works of art. That is conceded. The issue is whether they are original works of the free fine arts, entitled to be classified as such under paragraph 1807. Defendant asserts that they are not original works of the free fine arts, and bases this contention, as argued in its brief, “primarily because of the clear record showing of such control over the form of the sculpture by the purchaser thereof as to negative originality of concept and execution on the part of Mr. Tommasi, the sculptor.” (Defendant’s brief, p. 9.)
+This is the only issue before us, and we limit our discussion of the record to matters pertinent to that issue.
+Testifying for plaintiff, Mr. Frederick A. Hanson identified himself as the art and architectural supervisor of Forest Lawn Park for 30 years. He is a member of the Park art committee, the purpose of which is to make certain that only first class art is placed within the Park. He stated that the Park is unique as a shrine of art and culture, because the grounds are beautified and embellished by many works of art.
+The art committee screens everything that is placed in the Park. Mr. Hanson, as architectural supervisor, devises a setting, so that an object of art is always placed within its own special setting.
+On frequent trips to Europe, visits to museums, by study of art works, seeing and comparing them, and reading books by acknowledged art experts, the Park and its art committee get to know which artists are doing work that is appropriate for Forest Lawn Park. The committee concluded that Mr. Tommasi was “the very best man available for works of art and sculpture.” (E. 12.) On a visit, they discussed with him the proper sentiment and psychological qualities appropriate for the Park.
+Mr. Tommasi conceived the designs of these statuary groups, and prepared and submitted small scale study sketches. Selection was made by the art committee from his sketches.
+Mr. Hanson then described at length the progressive work in statuary groups as significant as these, of preparing a small scale model, a full size clay model, a plaster cast of that model, selecting the marble blocks, cutting and finishing the work. Details, Mr. Hanson said, were constantly improved and accented as the work progressed, in order to achieve the conception sought in the finished marble work.
+Defendant introduced into evidence (collective exhibit C) an exchange of letters, between October 31,1958, and August 10,1959, concerning Tommasi statuary, projects 15858 and 16858. Mr. Hanson identified this as correspondence, with regard to these works, between Forest Lawn and Mr. Bearzi, agent and interpreter for Forest Lawn in Italy. It is not the complete file, but it does contain all letters that touched upon changes suggested by Forest Lawn.
+On these letters, defendant bases its' contention that tbe kind and degree of control over artistic conception and execution of tbe sculptures were sucb as to negate plaintiff’s claim that these statuary groups are original works of tbe artist Tommasi, in tbe sense necessary for paragraph 1807 classification.
+It was testified, and without contradiction, that the concept of the group and its composition, the postures of the figures, and other artistic aspects of the sketches submitted to Forest Lawn, were the sole work of the artist Tommasi and that the sketches were sent by him, unsolicited, to Forest Lawn. The changes suggested by Forest Lawn, as shown in the correspondence of exhibit C, are, in substance, the following:
+1. The man’s face is too old and a little sorrowful. It should, of course, be serious, but serene and peaceful. (Letter of November 21,1958.)
+2. The feet of the mother show too prominently and should be covered by drapery. The foot of the father, also shows too prominently, and should be eliminated or covered. (Letter of December 11,1958.)
+3. It is understood that the faces of the man and woman will be in a more classic style and their expressions more aesthetic and spiritual. The child should be younger, not completely out of babyhood, and a little more chubby. (Letter of March 19,1959.)
+Scrutiny of the photographic reproductions of the finished sculptures and of photographs of work at progress stages, does not bear out defendant’s contention as to the magnitude of whatever control over artistic conception and execution these changes may connote.
+It is not easy to lay down a rule of general application as to the precise point at which a patron, concerned with details of the representational, or pictorial, aspects of a commissioned work, intrudes into the artistic domain over which the artist reigns supreme.
+Composition is defined, in the fine arts, as the art or practice of so combining the parts as to produce a harmonious whole. (Webster’s New International Dictionary, second edition, 1956). In the Encyclopedia Britannica, 1947 edition, under the heading “Art,” it is said: “Composition, in a sense, is related to movement and to rhythm * * (Vol. 2, p. 443.)
+In the Encyclopedia of the Arts, Runes and Schrickel (1946), sculpture is defined as follows:
+Sculpture is volume creation. As man faces his material, experiencing it, it becomes a factor in his practical knowledge that sculpture is the best form — the original form — for taking possession of volume. Compared with volume, everything else, the kind of making, weight, structure, representational idea, likeness, expression, proportion, rhythm, consistency, color, etc., is secondary, belonging more in the sphere of mastery of details. They do not count primarily for the essential grasp of volume, and tints for the main values of plastic expression. [P. 916; italics quoted.]
+Suggestions as to subject matter do not detract from originality of an artist’s work. Wm. S. Pitcairn Corp. v. United States, 39 CCPA 15, C.A.D. 458. Nor does it detract from originality that an artist works from a photograph, rather than from a design of his own creation, as Tommasi did here. Forest Lawn Memorial-Park v. United States, 29 Cust. Ct. 224, C.D. 1472.
+In Baldwin Shipping Co. v. United States, 12 Ct. Cust. Appeals, 128, T.D. 40051, three statues were commissioned. One statue by a widow to represent her son; the others, by a customer who wished a statue representing a man and a statue representing a woman. Photographs of all three were sent to the art dealer. One sculptor was commissioned to do the statue of the son; another sculptor, the statues of the man and woman. The progress of the sculptures there was much like the progress disclosed in the record here, except that here the artist Tommasi worked from his own original sketches, instead of from photographs, which were the basis of artistic conception in the Baldwin case. Our appeals court described work progress in the Baldwin case, as follows:
+* * * The sculptors made clay models of the persons represented by the respective photographs and then took or caused to be taken and sent to this country photographs of such models for the inspection of the purchasers here. In two instances the photographs so returned were satisfactory to the purchasers, but as to one a change was suggested in the arrangement of the hair. This change was made in the clay model. The statues were made by the respective sculptors to correspond to the clay models, and constitute the importations. [Baldwin, supra, at pp. 128, 129.]
+The appeals court held (one judge dissenting) that the sculptures were original works of the free fine arts, notwithstanding that they were representational of photographs and that hair arrangement was changed at the request of the patron.
+It is well known that art patrons take a keen interest in the representational aspects of commissioned works of art. This is not something new in our time. Whether the work is commissioned by Medici the Magnificent or by Forest Lawn, and whether the artist is da Vinci or Tommasi, the artistic value of the work is not impaired by reason of the artist conforming to the minor representational fancies or whims of the patron.
+We are of opinion that those aspects, as to which suggestions were made by Forest Lawn, were minor and representational, and do not intrude on the artistic domain or impair artistic value. Claim for classification under paragraph 1807 is sustained.
+Judgment will be entered accordingly.
