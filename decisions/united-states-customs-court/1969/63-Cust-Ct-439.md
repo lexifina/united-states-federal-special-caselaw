@@ -1,0 +1,50 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3931"
+decided: "1969-11-26"
+citations: ["63 Cust. Ct. 439"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bao, Ford, and Newman, Judges"]
+parties: ["Kelco Incorporated George S. Bush & Company v. United States"]
+source_url: "https://static.case.law/cust-ct/63/cases/0439-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573794
+cites_cases: ["266 F. Supp. 903", "32 Cust. Ct. 310", "42 Cust. Ct. 115", "58 Cust. Ct. 228"]
+---
+
+# Kelco Inc. v. United States
+
+## Majority (Newman, Judge:)
+
+Newman, Judge:
+The issue in this case is the proper tariff classification of certain chains imported in ten foot lengths. The customs officials classified the merchandise under item 652.35 of the Tariff Schedules of the United States (TSUS), and accordingly the chains were assessed with duty at the rate of 19 per centum ad valorem.
+In their protest, plaintiffs interposed two claims in the alternative: 10.5 per centum ad valorem under item 664.10, TSUS; and 10 per centum ad valorem under item 678.50, TSUS. At the trial, plaintiffs orally moved to amend the protest to claim that the merchandise is properly dutiable at the rate of 12.5 per centum ad valorem under item 652.18, TSUS.
+Plaintiffs’ original protest claims were not argued in their brief and are deemed abandoned. Accordingly, only plaintiffs’ claim under item 652.18 is considered, which we sustain.
+Quoted below are the pertinent statutory provisions:
+Schedule 6, Part 3, Subpart F, Tariff Schedule of the United States:
+Chain and chains, and parts thereof, all the foregoing of base metal not coated or plated with precious metal:
+Of iron or steel:
+Chain or chains used for the transmission of power, and parts thereof:
+652.18 Other_ 12.5% ad val.
+652.35 Other_ 19% ad val.
+At the trial of this case, the record in Border Brokerage Company et al. v. United States, 58 Cust. Ct. 228, C.D. 2947, 266 F. Supp. 903 (1967), was incorporated on plaintiffs’ motion, and was augmented by the testimony of three witnesses: Edward Kelly — president of plaintiff Kelco; Edward A. Burns — vice president of Pacific Chain Manufacturing Co., purchaser of the merchandise from Kelco; and Thomas I’Anson — an importer and seller of the chain links and rivets, which comprised the imported chain (who had testified, also, in the the incorporated case). There was-also received in evidence, representative samples of the various sizes of chain links and rivets comprising the imported chains.
+Defendant presented no evidence.
+The facts in this case are not in dispute, and may be briefly summarized:
+The imported chains, known as “mill chain” or “sprocket chain,” were sold primarily to such users as sawmills, pulp and papermills, plywood mills, and firms in the forest products industry. The chains were chiefly used for conveying or hauling various materials, such as logs and lumber refuse.
+The chains are described on the invoice by size as H-78, IT-82, and H-124. These different sizes were applied to the varying loads and types of products conveyed by use of the imported chains.
+The power source used in connection with the chains was ordinarily an electric motor, although occasionally gas or steam was used. The drive motor has a shaft with a sprocket, and the teeth of the sprocket engage the links of the chain to drive them forward, which in turn moves the material conveyed. There were various attachments used with the chains so that they could be utilized for moving materials.
+The chains were imported and sold in ten foot lengths, and were comprised of chain links (exhibits 1 through 8) connected together with rivets (exhibits 4 through 6).' Additionally, rivets were used to connect the chains together so that any length chains desired by the user could be made.
+The chains were in chief value of iron or steel, and not coated or plated with precious metal.
+At the conclusion of the hearing, the court granted both parties time within which to file a brief. Plaintiffs have filed a brief, which in substance argues that Border Brokerage Company, supra, is stare decisis. Defendant, upon request, was relieved from filing a brief. In the request, defendant has agreed that Border Brokerage is controlling, but has also raised a new issue relating to entireties. That “new issue” is hereinafter discussed in more particularity.
+Border Brokerage covered two consolidated protests: one protest covered five entries of chain links (including sizes H-82 and H-78); and the other protest involved two entries of certain “rivets.” Both the chain links and rivets were classified under paragraph 397 of the Tariff Act of 1930, as modified, as articles not specially provided for, in chief value of base metal. Plaintiffs’ principal claim was that the chain links and rivets were properly dutiable as parts of chain used for the transmission of power under paragraph 329, as modified, or that the chain links should have been so classified, and the rivets classified within the eo nomine provision therefor in paragraph 33'2, as modified.
+The court found in Border Brokerage that the chains formed from the imported links were designed for and were used chiefly in the sawmill, pulpmill, and construction industries to convey logs or other materials from one point to another. Following General Chain & Belt Co. v. United States, 42 Cust. Ct. 115, C.D. 2074 (1959), as stare decisis, the court held that conveyor chains are used for the transmission of power, and accordingly that the chain links were properly dutiable as parts of chain used for the transmission of power under paragraph 329, as modified. Since the rivets were found not dedicated for use as parts of chain, they were held classifiable under paragraph 332, as modified.
+In the present case, the Government admits that size H-124 chain links are used for the same purposes as sizes H-78 and H-82 (which were the subject of Border Brokerage), and also concedes that the chain links in the imported chain are similar in all material respects to those in Border Brokerage. However, defendant states in its request that “the imported chain links were fastened together in 10-foot long chains with rivets (It. 12). No separate values were found for the chain links and the rivets, but they were appraised and classified together under item 652.35 of the Tariff Schedules.”
+Eelying upon Border Brokerage, defendant argues that chain links and rivets are not entireties, and that the rivets were classifiable separately. The Government urges that the court should find the liquidation as well as the appraisement void; and that the court should dismiss the protest as premature, and remand the case to a single judge for a finding of separate values for the chain links and rivets.
+We do not see any entii’eties issue in this case. The merchandise in its condition as imported did not consist of chain links and rivets, but consisted of simply chains in ten foot lengths. Such chains were dutiable in accordance with their condition at the time of importation. Donalds Ltd., Inc. v. United States, 32 Cust. Ct. 310, C.D. 1619 (1954). If complete power transmission chains, which include both the links and rivets fastening them together, are not classifiable under item 652.18, then we fail to perceive what is covered under that provision.
+Defendant’s statement (in its request) that in Border Brokerage the court held that the chain links and rivets were not entireties but were classifiable separately is incorrect. In Border Brokerage, we were dealing with separately imported chain links (held to be parts of chains) and rivets (held not to be parts of chains, but dutiable under the eo nomine provision for rivets). There was no entireties issue involved in the case. Clearly, in Border Brokerage this court did not hold that the chain links and rivets in power transmission chain should be segregated for purposes of appraisement and classification.
+It is emphasized that in the present case the district director appraised and classified the merchandise as “chains.” Plaintiffs have not disputed that finding, but have argued only that the chains were chiefly used for the transmission of power. It was clearly defendant’s burden to establish that the merchandise did not constitute entireties if it wished to pursue such claim. However, at the hearing of this case, defendant did not advise the court and opposing counsel of its present claim, nor did it offer any proof in support thereof. Moreover, defendant apparently did not deem this new issue of sufficient importance to file a brief. We, therefore, view defendant’s contention that the chains were erroneously appraised and classified as essentially an afterthought, not based on law nor on the facts of record.
+Plaintiffs have establish a prima facie case that the imported chains were chiefly used for the transmission of power. Additionally, item 652.18, TSUS, is substantially a reenactment of paragraph 329 of the Tariff Act of 1930, which was construed by the court in Border Brokerage favorably to plaintiffs’ claim. Accordingly, the protest is sustained to the extent that the merchandise is properly dutiable at the rate of 12.5 per centum ad valorem under item 652.18, TSUS. Judgment will be entered in conformity therewith.
+The trial judge granted the amendment with the qualification that a written application be filed with the court. After the trial, plaintiffs filed a written motion to amend claiming under item 65(3.18, TSUS, rather than item 652.18, TSUS. Defendant has raised no objection to the written motion, and we see no reason to regard the variance in item numbers as anything other than an inadvertent typographical error. Consequently, to obviate the holding of an unnecessary and further hearing, the court has proceeded upon the assumption that plaintiffs’ motion to amend claims under 652.18, TSUS.
+Defendant did not suggest under wliat provision the rivets should have been classified.
