@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "65235; protests 50/30764, etc. (New York)"
+decided: "1961-03-06"
+citations: ["46 Cust. Ct. 362"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ross Products, Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/46/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6596082
+---
+
+# Ross Products, Inc. v. United States
+
+## Majority (Oliver, O. J.)
+
+Opinion by
+Oliver, O. J.
+In accordance with stipulation of counsel that the merchandise consists of dish mops similar in all material respects to those the subject of Abstract 64603, the claim of the plaintiffs was sustained.
