@@ -1,0 +1,26 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 9113; Entry No. 5598, etc."
+decided: "1958-03-28"
+citations: ["40 Cust. Ct. 771"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["William H. Masson v. United States"]
+source_url: "https://static.case.law/cust-ct/40/cases/0771-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6671998
+---
+
+# Masson v. United States
+
+## Majority (OliveR, Chief Judge:)
+
+OliveR, Chief Judge:
+The appeals for reappraisement enumerated in schedule “A,” hereto attached and made a part hereof, relate to various items of merchandise that were exported from the Netherlands and entered at the port of Baltimore, Md.
+The cases are before me on a written stipulation of submission, reading as follows:
+It is hereby stipulated and agreed by and between counsel for the Plaintiff and the Assistant Attorney General for the United States, Defendant, subject to the approval of the court, that the reappraisement appeals listed in the attached Schedule A, which Schedule A is made a part of this stipulation, are limited to the items on the invoices covered by said appeals that are marked with red ink notations to identify that duties are applicable at 12%% ad valorem (T. D. 52739) or at 11%% ad valorem (T. D. 54108) under Paragraph 339, Tariff Act of 1930 as modified (household utensils in chief value of pewter), or at 15% ad valorem (T. D. 52739), or at 14% ad valorem (T. D. 54108) under said Paragraph 339 as modified (household utensils in chief value of brass), or at 20% ad valorem (T. D. 52739), or at 19% ad valorem (T. D. 54108) under said Paragraph 339 as modified (household utensils in chief value of copper), or at 30% ad valorem under Paragraph 1552 of said Act as modified (T. D. 51802) (other smokers’ articles).
+That said above identified items of merchandise were exported to the United States from the Netherlands, and that at the time when said items were exported from the Netherlands such and similar merchandise was not being freely offered for sale for home consumption to all purchasers in the principal markets of the Netherlands, nor was it being freely offered for sale to all purchasers in the principal markets of the Netherlands for exportation to the United States, nor was it being freely offered for sale in the principal market of the United States to United States purchasers.
+That the “cost of production” as defined in Section 402 (f) Tariff Act of 1930, for the said above identified items is set forth in Dutch florins (guilders) on the invoices covered by said reappraisement appeals in the columns headed “Price per unit in D. PL”, said headings on the said columns being marked “A” and initialed A. G. P. by Examiner A. G. Ford, plus packing and less inland freight as specified on said invoices.
+The reappraisement appeals listed in said attached Schedule A are submitted for decision upon this stipulation.
+On the agreed facts, I find that cost of production, as defined in section 402 (f) of the Tariff Act of 1930, is the proper basis for appraisement of the merchandise in question, as hereinabove identified, and I hold that such statutory value for these articles is as set forth in Dutch florins (guilders) on the invoices covered by the appeals for reappraisement under consideration in the columns headed “Price per unit in D. FL,” said headings on the said columns being marked “A” and initialed “A. G. F.,” plus packing and less inland freight, as invoiced. Judgment will be rendered accordingly.
