@@ -1,0 +1,30 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "93-328"
+decided: "1993-11-03"
+citations: ["6 Vet. App. 17"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, FARLEY and MANKIN, Judges."]
+parties: ["Irene SANDERS, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/6/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6439349
+cites_cases: ["1 Vet.App. 49", "1 Vet.App. 73", "38 C.F.R. § 3.1", "38 U.S.C.A. § 101", "38 U.S.C.A. § 7261", "5 Vet.App. 472"]
+---
+
+# Sanders v. Brown
+
+## Majority (KRAMER, Judge:)
+
+KRAMER, Judge:
+Appellant, Irene Sanders, appeals a January 13, 1993, decision of the Board of Veterans’ Appeals (Board or BVA) which denied entitlement to recognition as surviving spouse of the veteran, Nathaniel Sanders, for purposes of Department of Veterans Affairs (VA) death benefits. The Court has jurisdiction pursuant to 38 U.S.C.A § 7252(a) (West 1991).
+The veteran married Dorothy Sanders in February 1950. R. at 116. Appellant and the veteran were married in Illinois in November 1967. R. at 22, 89, 121-22. The veteran and Dorothy were divorced in Illinois in March 1970. R. at 116. Appellant and the veteran went through a second marriage ceremony in Illinois in June 1973. R. at 81. Appellant states that she and the veteran married again in 1973 because the veteran was still married to Dorothy at the time of the 1967 marriage ceremony. R. at 106,122. Appellant and the veteran divorced in Illinois in February 1979. R. at 90. The divorce decree stated that appellant and the veteran were married in 1967, but made no mention of the 1973 marriage. Id. At the time of the veteran’s death in September 1988, the veteran apparently resided in Missouri (R. at 84) and appellant apparently resided in Illinois (R. at 58).
+The BVA determined as follows:
+The appellant has maintained that the February 1979 divorce did not operate to terminate her 1973 marriage to the veteran since the divorce decree referred only to the 1967 marriage. However, the Board does not concur with that assertion and the appellant has not cited any legal authority in support of her position. Although the February 1979 divorce decree does not mention the 1973 marriage, the divorce decree does provide that the bonds of matrimony existing between the appellant and veteran were dissolved as to both parties. The appellant’s assertion that her 1979 divorce affected only her “1967 marriage” and had no operative effect on her “1973 marriage” misconstrues the nature of the civil concept of marriage. In the Board’s opinion, the 1979 divorce decree terminated the existing marriage between the parties, regardless of whether the marriage was entered into in 1967 or 1973.
+R. at 6 (emphasis added).
+In order to establish entitlement to VA death pension benefits as a “surviving spouse” of a veteran, it is required that the claimant be the veteran’s spouse at the time of death. 38 U.S.C.A. § 101(3) (West 1991). The determination whether appellant was the veteran’s lawful spouse for the purposes of receiving death benefits depends upon whether she had an existing valid marriage to the veteran at the time of his death. Pursuant to 38 C.F.R. § 3.1(j) (1992), the validity of the marriage is to be determined by applying “the law of the place where the parties resided at the time of marriage, or the law of the place where the parties resided when the right to benefits accrued.” While common sense would seem to dictate that the former test would be applicable where the question was the validity of the inception of the marriage, and the latter would apply where the question was the validity of the termination of the marriage, the regulation does not specifically so state. In this case, the right to benefits accrued, if at all, at the time of the veteran’s death; at that time, the veteran apparently resided in Missouri and the appellant resided in Illinois. While the BVA stated that “all relevant events were in Illinois” (R. at 6), under this regulation, the places of residence of the veteran and the veteran’s spouse at the time of the veteran’s death may be critical and, therefore, it is open to question whether all relevant events occurred in Illinois.
+Where the BVA has properly applied 38 C.F.R. § 3.1(j) to a set of facts which the BVA has found, and which are not clearly erroneous, the determination of whether there was an existing valid marriage at time of death itself is a question of fact that the Court must affirm unless that determination is found to be “clearly erroneous.” See Badua v. Brown, 5 Vet.App. 472, 473 (1993); 38 U.S.C.A. § 7261(a)(4) (West 1991); Lovelace v. Derwinski, 1 Vet.App. 73 (1990); Gilbert v. Derwinski, 1 Vet.App. 49, 52-53 (1991). In determining whether a finding is clearly erroneous, “this Court is not permitted to substitute its own judgment for that of the BVA on issues of material fact; if there is a ‘plausible basis’ in the record for the factual determinations of the BVA ... we cannot overturn them.” Gilbert, 1 Vet.App. at 53.
+Because the BVA decision does not cite to the law of any particular state (38 C.F.R. § 3.1(j)), or provide any reasons or bases for the law chosen or not chosen (Gilbert, supra), there is no basis for this Court to determine whether the BVA’s finding that appellant was not the veteran’s lawful spouse is clearly erroneous (Badua, supra). Accordingly, a remand is in order. On remand, the BVA is directed to address whether, under the law of the place where the parties resided at the time of marriage, or the law of the place where the parties resided when the right to benefits accrued, rather than simply as a matter of “the Board’s opinion,” the 1979 divorce decree terminated the 1973 marriage.
+The BVA decision is VACATED and REMANDED for proceedings consistent with this opinion.
