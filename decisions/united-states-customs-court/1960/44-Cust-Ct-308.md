@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "63687; protests 313333-K, etc. (Brownsville)"
+decided: "1960-01-07"
+citations: ["44 Cust. Ct. 308"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["L. H. Graves, a/c C. H. Harden & Son, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6581229
+cites_cases: ["42 Cust. Ct. 178"]
+---
+
+# Graves v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+In accordance with stipulation of counsel that the merchandise consists of carrizo baskets the same in all material respects as those the subject of Chester K. Stoner v. United States (42 Cust. Ct. 178, C.D. 2083), the claim of the plaintiff was sustained.
