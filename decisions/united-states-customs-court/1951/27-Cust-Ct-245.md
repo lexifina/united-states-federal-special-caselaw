@@ -1,0 +1,37 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1378"
+decided: "1951-12-05"
+citations: ["27 Cust. Ct. 245"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Ekwall, and Johnson, Judges; Cline, J., not participating"]
+parties: ["Garcia & Vega, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/27/cases/0245-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6595570
+cites_cases: ["19 U. S. C. § 1502", "27 Cust. Ct. 234", "5 U. S. C. § 1004"]
+---
+
+# Garcia & Vega, Inc. v. United States
+
+## Majority (Ekwall, Judge:)
+
+Ekwall, Judge:
+This case involves the same question as that in Henry Glay and Bock & Co., Ltd. v. United States, protest 142984-K, decided concurrently herewith (27 Cust. Ct. 234, C. D. 1377), viz, whether plaintiff is entitled to refunds of duties paid on tobacco waste obtained in the manufacture of cigars in a class 6 manipulating warehouse, which waste was destroyed' under customs supervision. It has been submitted upon a stipulation of fact which shows the circumstances to be analogous to those in the above-cited case, with the exception of dates of importation and the further exception that the instant case arose at the port of Tampa, Fla.
+We deem it unnecessary to recount the facts herein but refer to the ■companion decision insofar as such basic facts are concerned. Plaintiff herein has injected a new claim that did not appear in the Henry Clay and Bock & Co., Ltd., case, supra, viz, that the instructions of the Secretary of the Treasury, changing the 1935 ruling which allowed refunds in such cases, are contrary to the Administrative Procedure Act (5 U. S. C. § 1004 (a) and (c)), and that under such act the instructions of the Secretary of the Treasury repealing the 1935 ruling, which allowed the refund here, claimed, were illegal in that no notice of such proposed change of ruling was published.
+In this connection, it is only necessary to point out that the instructions of the Secretary issued in 1935, authorizing allowance for waste-under the circumstances here involved, constituted a complete reversal of the ruling issued in 1924. The instructions of 1935, so far as we-have been able to gather, were in the form of a letter, and we have-no proof of a concurrence therein by the Attorney General and know of no final decision of this court on the issue. Therefore, such instructions were in direct violation of section 502 (b) of the Tariff Act of 1930 (19 U. S. C. § 1502 (b)) which is in the following language:
+(b) * * * No ruling or decision once made by the Secretary of the Treasury, giving construction to any law imposing customs duties, shall be reversed or modified adversely to the United States, by the same or a succeeding Secretary, except in concurrence with an opinion of the Attorney General recommending the same, or a final decision of the United States Customs Court.
+Being in violation of the statute, they are a nullity. How then can the instructions of ,1948, discontinuing an allowance to importers to-which they never were entitled under the law, be termed a ruling-resulting in a higher rate of duty on imported tobacco? The result of the instructions of 1948 was to restore the tariff status of thp imported tobacco to that obtaining under the 1924 ruling of the Secretary, i. e., assessment of duty upon the amount imported with no allowance for waste resulting from fthe manufacture of cigars iq, manipulating warehouse.
+The same reasoning is applicable to plaintiff’s claim ■ under the-Administrative Procedure Act, sufra. Moreover, section 4 (a)' thereof, under which plaintiff claims, contains the following exception to the requirement of published notice:
+* * * Except where notice of hearing is required by statute, this subsection shall not apply to interpretative rules, general statements of policy, rules of agency organization, procedure, or practice, * * *.
+The instruction of 1948, even if we consider it a rule, is an interpretative one and, in the absence of a statutory requirement of notice of hearing in the instant situation, such instructions fall within the exception of the section. The definition of the term “Rules,” as found in the Administrative Procedure Act, sufra, section 3 (a) (3), is in the following language:
+(a) Rules. — Every agency shall separately state and currently publish in the Federal Register * * * (3) substantive rules adopted as authorized by law and statements of general policy or interpretations formulated and adopted by the agency for the guidance of the public, but not rules addressed to and served upon named persons in accordance with law.
+The “rule” bere involved is in the form of a letter addressed to tbe collector of customs at .Tampa, Fla. (plaintiff’s exhibit E attached to its brief). The pertinent portion thereof states:
+You shall immediately formally deny in writing all pending claims for such refunds and shall take similar action in the case of such claims filed in the future.
+This is signed by Frank Dow, Acting Commissioner of Customs, and is endorsed: “Approved: Jan. 28, 1948, A. L. M. Wiggins, Under Secretary .-of the Treasury.” It is the opinion of the court that such a letter of instruction is not contemplated by the Administrative Procedure Act as a “rule” under said section 3 (a) (3).
+It appears to be the purpose of plaintiff in invoking the provisions of the Administrative Procedure Act, supra, to vest' this court with judicial authority to review the action of the Secretary of the Treasury and to “compel agency action unlawfully withheld.” It must be borne in mind that the present action is brought for the purpose of reviewing the administrative acts of the collector of customs. Whether his action was taken upon advice of the Commissioner of Customs or not, this court has jurisdiction, and if it finds the collector has committed an illegal or erroneous act, it has the power to compel a reliqui-dation of the entries. Therefore, whether the jurisdiction of this court is invoked under the Administrative Procedure Act, supra, or the tariff act, the court has jurisdiction to resolve the question of whether importer is entitled to an allowance for tobacco waste destroyed under the provisions of the “cigar proviso” of section 311, supra.
+In view of our finding that the Administrative Procedure Act, supra, is inapplicable to instructions issued by the Bureau of Customs to collectors of customs, we deem it unnecessary to discuss the cases cited by plaintiff in support of its contention concerning the applicability of that act.
+Plaintiff cites also the cases of Rolland Freres, Inc. v. United States, 23 C. C. P. A. (Customs) 81, T. D. 47763; Rosenbaum Grain Corp. v. United States, 26 C. C. P. A. (Customs) 202, C. A. D. 18; Cargill Grain Co., Inc. v. United States, 30 C. C. P. A. (Customs) 78, C. A. D. 219. In view of our conclusion as expressed in Henry Clay and Bock & Co., Ltd. v. United States, supra, we find these cases inapplicable, and a discussion thereof would only extend this decision unduly. We also considered and discussed in the companion decision the history of section 311, supra, and find nothing in the very able and exhaustive brief filed on behalf of the plaintiff to cause us to depart from the conclusions reached in said decision.
+We therefore overrule plaintiff’s claims. Judgment will be rendered in favor of the defendant.
