@@ -1,0 +1,40 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-313"
+decided: "1991-07-15"
+citations: ["1 Vet. App. 370"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, MANKIN and IVERS, Associate Judges."]
+parties: ["John G. OPPENHEIMER, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/1/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6470922
+cites_cases: ["1 Vet.App. 118", "1 Vet.App. 140", "1 Vet.App. 250", "1 Vet.App. 251", "1 Vet.App. 49", "38 C.F.R. § 19.123", "38 C.F.R. § 2.1009", "38 C.F.R. § 3.105", "38 C.F.R. § 3.304", "38 C.F.R. § 4.101", "38 U.S.C. § 3008", "38 U.S.C. § 4004", "473 U.S. 305"]
+---
+
+# Oppenheimer v. Derwinski
+
+## Majority (MANKIN, Associate Judge:)
+
+MANKIN, Associate Judge:
+This World War II era claim presents several substantive and procedural issues. Liberally construed, appellant’s brief makes two arguments. First, that the presumption of aggravation was not properly applied; second, that the 1949 decision severing service connection’ for appellant’s condition was clearly and unmistakably erroneous. Before reaching those arguments, however, the Court must first determine whether appellant’s claim was properly reopened by the Board of Veterans’ Appeals (BVA). In addition, we must determine whether the BVA decision provides an adequate basis for review in this Court. Because the Court concludes that the case was properly reopened, but that adequate reasons or bases were not provided to support the decision, we remand this case to the BVA with instructions.
+Appellant served in the armed forces from June 1942 to June 1943. John G. Oppenheimer, BVA 89-07114, at 2 (Dec. 19, 1989). Approximately nine months into service, in March 1943, appellant was found to have a rapid heartbeat and systolic heart murmur. R. at 19. He was subsequently found to have “1. Rheumatic fever, chronic, inactive” and “2. Valvular heart disease, mitral insufficiency, caused by # 1. EPTE [existed prior to enlistment]” and was discharged because of that disability. R. at 21, 24, 42; see also 38 C.F.R. § 4.101 (1990).
+In 1943 appellant was granted service connection “by way of aggravation ... for the veteran’s cardio-vascular involve-ment_” R. at 51. Six years later that decision was held to be clear and unmistakable error and service connection was severed. R. at 116-17.
+Appellant’s Attempt to Reopen His Claim
+Appellant in his most recent BVA appeal in December 1989, attempted to reopen his previously denied claim. To successfully do so, appellant has the burden of presenting “new and material evidence”. See 38 U.S.C. § 3008 (1988); see also Walters v. National Ass’n of Radiation Survivors, 473 U.S. 305, 311, 105 S.Ct. 3180, 3184, 87 L.Ed.2d 220 (1985) (a Department of Veterans Affairs “denial of benefits has no formal res judicata effect”). Because we conclude that the BVA did reopen appellant’s claim, see Manio v. Derwinski, 1 Vet.App. 140 (1991), and because we cannot say the BVA’s determination was improper, see Garland v. Derwinski, 1 Vet.App. 250 (1991) (per curiam), we will review the claim based upon the entire record before the court.
+Reasons or Bases Regarding the Presumption of Aggravation
+The BVA is required by 38 U.S.C. § 4004(d)(1) (1988), to provide reasons or bases for its findings. The Court has consistently insisted that this obligation be strictly followed. See, e.g., Gilbert v. Derwinski, 1 Vet.App. 49 (1990). This case presents a slightly new twist; namely, whether a reopened decision can simply adopt the findings of a prior decision which contained inadequate reasons or bases. The 1949 BVA decision which severed service connection had the following explanation for concluding that appellant’s condition was not aggravated during service:
+Examinations in service disclosed that the heart was normal in size; that the rate and rhythm were normal and the sounds of good quality but that a murmur was present.
+... There is shown no active rheumatic fever symptomatology in service and no evidence of decompensation or other acute manifestations indicative of aggravation of the preexisting condition.
+R. at 116-17. This fails to address the fact that appellant was accepted as fit for service, see Oppenheimer, BVA 89-07114, at 3, and yet after complaining of heart palpitations he was hospitalized from late April to mid June 1943. R. 34-35, 87. It also fails to account for a doctor’s opinion dated approximately six months after appellant was discharged, to the effect that the “heart is enlarged to the left.... There is a fine systolic murmur.... According to my opinion the findings are comparable with a mild decompensated mitral regurgitation.” R. at 52.
+In contrast to the 1949 BVA findings, the BVA decision here appealed found that:
+The service medical records show that when seen in March 1943, the veteran was noted to have a systolic heart murmur and a rapid heart beat. It was indicated that this did not exist prior to entrance into service. Similar findings were noted several days later.
+... Examination [in early April 1943] showed the heart to be enlarged to the left, with a harsh systolic murmur.
+... On [subsequent] examination, the heart was normal in size. Rate and rhythm were normal, and heart sounds were of good quality.
+Oppenheimer, BVA 89-07114, at 3. The 1989 BVA decision went on, in effect, to adopt the findings of the 1949 BVA panel: “The evidence received since the August 1949 denial action does not change the basic facts relied upon for the denial.” Id. at 8.
+The Court holds that where a claim has been reopened, the BVA must supply reasons or bases for its findings. This obligation is not satisfied by adopting findings which are based upon inadequate reasons or bases. The need for this rule is exemplified in this case. Here, the BVA adopted findings which are arguably in conflict with its own interpretation of the evidence. On remand the BVA, if it continues to deny service connection, should explain how it determined that “rheumatic fever, to include mitral insufficiency, clearly and unmistakably existed prior to service and were not aggravated by service.” Id. Additionally, the BVA should include in its new decision a discussion of the extent to which patient histories are used to provide clear and unmistakable evidence, and the extent to which their use complies with 38 C.F.R. § 3.304(b)(1), (b)(3) (1990).
+Clear and Unmistakable Error
+Appellant also challenges the 1949 BVA decision (R. at 116) which severed his benefits. Appellant claims that the 1949 BVA decision, which found the 1943 award of benefits to have been the result of clear and unmistakable error, was itself clearly and unmistakably erroneous. See 38 C.F.R. § 3.105 (1990). Clear and unmistakable error is an administrative failure to apply the correct statutory and regulatory provisions to the correct and relevant facts: it is not mere misinterpretation of facts. See Thompson v. Derwinski, 1 Vet.App. 251, 253 (1991) (discussing 38 C.F.R. § 3.105 (1990), accord 38 C.F.R. § 2.1009(a) (1947)). Although the BVA decision does not specifically address whether grounds exist to revise the 1949 Board decision, the veteran went to great pains to put that issue before the Board. At a hearing before the rating board the veteran testified that: “unjustly and illegally they removed my award for service connection way back in 1949.” R. at 204. Appellant’s Notice of Disagreement stated: “Over $10,000 in back benefits are due.” R. at 218. The veteran’s letter of March 13, 1989, to the BVA is nothing if not emphatic in its expression of disagreement with the 1949 severance. R. at 231-32. Under Akles v. Derwinski, 1 Vet.App. 118, 120-121 (1991), and 38 C.F.R. § 3.105(a), (b), (d) and its predecessors, and in accord with 38 C.F.R. § 19.123(a) (1990), the BVA should have addressed this issue.
+This case is REMANDED for further proceedings consistent with this opinion.
