@@ -1,0 +1,45 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 281"
+decided: "1940-02-01"
+citations: ["4 Cust. Ct. 44"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallingeb, Judges"]
+parties: ["Procter & Gamble Mfg. Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/4/cases/0044-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6617599
+cites_cases: ["22 C. C. P. A. 327", "22 C. C. P. A. 51", "24 C. C. P. A. 293", "64 Treas. Dec. 1005", "8 Ct. Cust. Appls. 273"]
+---
+
+# Procter & Gamble Mfg. Co. v. United States
+
+## Majority (Dallinger, Judge:)
+
+Dallinger, Judge:
+This is a suit against the United States, arising at the port of Los Angeles, brought to recover certain customs duties alleged to have been improperly exacted on a particular importation invoiced as “1 electrolyzer battery.” Duty was levied thereon at the rate of 35 per centum ad valorem under paragraph 353 of the Tariff Act of 1930 as an article having as an essential feature an electrical element or device. It is claimed that said merchandise is properly dutiable at the rate of 27% per centum ad valorem under paragraph 372 of said act as a machine not specially provided for.
+A sketch of the imported mechanism was admitted in evidence as Illustrative Exhibit A, and the plaintiff introduced the testimony of two witnesses. The first, Clifford F. Schwarberg, traffic representative of tbe plaintiff-corporation, testified that he arranged for the shipment of the merchandise at bar and its installation at the Long Beach plant of the plaintiff-corporation; and that Mills S. Hodge was in charge of the operation of the mechanism as installed.
+The second witness, the said Mills S. Hodge, a foreman in the oil process division of the plaintiff-corporation and a graduate of the California Institute of Technology where he received the degrees of Bachelor and Master of Science, testified that he was thoroughly familiar with the electrolyzer at bar; that it is an equipment used for the generation of hydrogen and oxygen gas, and that it is approximately 20 feet long and 8 feet high; that it resembles in appearance a large battery; that it consists of a series of iron frames between which are plates made of specially fabricated nickel. The witness then testified as follows:
+Q. Now will you please state the method of operation of the electrolyzer. — A. The operation is based upon the principles of electrolysis that go right back to Faraday’s fundamental laws of electrolysis, and the dissociation of ionized fluids by the passage of an electric current through them depends upon the combining weights of the elements that are involved and the quantity of current passed through. All that the device really consists of is a method for permitting the passage of electric current through an electrolyte.
+Q. What is an electrolyte? — A. An electrolyte is any solution which will conduct electricity.
+* * * A. For our purposes here this device is used to break down water into its component parts, oxygen and hydrogen, and to render the solution conductive so that the current will break down the water. No other material has to be added that is essential to the operation of the unit. Any electrolyte can be added so that the water will be rendered conductive.
+Q. What is the electrolyte used in this instance? — A. In this instance it is potassium hydroxide, commonly called caustic potash. The familiar experiment that illustrates the principle of operation is the one that is performed in almost every classroom. It consists of taking a cell that has a dilute solution of sulphuric acid and placing two small strips of metal in there and applying a current to those two electrodes. Platinum electrodes are most commonly used. Any electrodes may be used. And the passage of the current through the water will result in its decomposition, and that is the essential feature of this device.
+* * * * * :{: *
+The unit itself is just a series of these plates and frames that are held together by a long bolt, a long rod that is threaded at each end, and these long rods just serve to compress all the plates and hold them in place. The current is connected to the first plate at one end, and it travels through the electrolyte or the conducting fluid to the second plate and across that plate to the next cell * * *.
+The witness then testified that an electrolyzer is not an article suitable for producing, modifying, controlling, or distributing electrical energy, and that it is not any one of the articles mentioned in the second clause of said paragraph 353, or. any of the exemplar articles named in the third clause of said paragraph.
+On cross-examination the witness testified as follows:
+X Q. Now, isn’t the sole and only purpose of that machine to use the use of electricity to break down water? — A. That is correct.
+X Q. You couldn’t operate that electrolyzer in any other manner than by the use of electricity; is that correct? — A. That is correct.
+X Q. And those plates were devised solely so that the electric current would pass through those plates in order for the device to operate.- — A. That is correct.
+On redirect examination the witness testified as follows:
+R. D. Q. As imported, Mr. Hodge, did the apparatus have any electric wiring or switches of any kind attached to it, connected with it? — A. No, it did not.
+Upon this record counsel for the plaintiff in their exhaustive brief filed herein contend that the electrolyzer battery constituting the merchandise at bar is not classifiable under the first and second clauses of paragraph 353 of the Tariff Act of 1930. With that contention we are in accord. They also allege that the mechanism in question is not within the scope of the third and last division of said paragraph, citing in support of such contention the case of John A. Steer v. United States, 24 C. C. P. A. 293, T. D. 48737. We do not agree with that view of the law.
+The underlying principle enunciated by the Court of Customs and Patent Appeals in the last-cited case was that the presence of an electrical heating element in an anhydrous ammonia plant, which was used merely to start the plant which thereafter was operated by a gas engine, did not bring the plant itself within the purview qf paragraph 353. In other words, the court laid down the doctrine of continuous operation. In the instant case it is uncontradicted that the present electrolyzer battery cannot be operated except by electricity, and that it is continuously operated by the same force or energy. It is true that the court stated that in its opinion the immense anhydrous ammonia plant was not ejusdem, generis with the exemplar articles enumerated in the third and last subdivision of said paragraph 353. In our opinion, however, the electrolyzer battery is ejusdem generis with the articles therein mentioned.
+The appellate court has never departed from the principle laid down by it in the case of United States v. Dryden Rubber Co., 22 C. C. P. A. 51, T. D. 47050. In that case the court said:
+From what has been said, it follows that if the article, when it is imported, is designed and constructed to use electrical power, or other power, interchangeably, then it has not, as an essential feature, an electrical element or device.
+On the other hand, if, when the article is imported, it is so constructed as to utilize electrical power solely, and, therefore, is, essentially, an electrical article, and its various parts are imported, are intended to he used, and are used, together, * * * then no reason can he seen why it should not he considered, for dutiable purposes, within the scope of the third division of this paragraph, for in such case, we think the article should he held to be included within the class of articles named in the paragraph. [Italics ours.]
+We are, therefore, of tbe opinion that the plaintiff has not sustained the burden of proving the classification of the collector to be erroneous. Neither has he in our opinion sustained the equally necessary burden of proving that the electrolyzer battery in question is a machine within the meaning of paragraph 372, as that term has been judicially defined in the case of Simon, Buhler & Baumann (Inc.) v. United States, 8 Ct. Cust. Appls. 273, T. D. 37537.
+It is evident from the record that the imported mechanism contains no moving parts. Hence, in our opinion it is not a mechanical contrivance. The result accomplished by the application of the electrical current in the device is in the nature of a chemical reaction similar to that which occurs in an ordinary electric battery. United States v. Race Co., 22 C. C. P. A. 327, T. D. 47362; Walter Pilz v. United States, Abstract 25675, 64 Treas. Dec. 1005.
+Upon the established facts and the law applicable thereto all claims of the plaintiff must be and they are hereby overruled, and the decision of the collector is affirmed. Judgment will be rendered accordingly.
