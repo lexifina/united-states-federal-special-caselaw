@@ -1,0 +1,58 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "75-16 C.A.D. 1157"
+decided: "1975-10-23"
+citations: ["63 C.C.P.A. 7", "524 F.2d 747"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Markey, Chief Judge, Rich, Baldwin, Lane and Miller, Associate Judges."]
+parties: ["The United States v. Morris Friedman & Co."]
+source_url: "https://static.case.law/ccpa/63/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6077169
+cites_cases: ["386 F.Supp. 522", "73 Cust. Ct. 112", "73 Cust. Ct. 175"]
+---
+
+# United States v. Morris Friedman & Co.
+
+## Majority (Lane, Judge.)
+
+Lane, Judge.
+This is an appeal from the judgment of the United States Customs Court, 73 Cust. Ct. 175, C.D. 4570 (1974), holding that certain imported portable illuminating articles which use candles as an illuminant are classifiable as “lamps” under item 653.35, TSUS, rather than, as contended by appellant, illuminating articles and parts thereof of brass, under item 653.37, TSUS. We affirm.
+FACTS
+The pertinent portions of the Tariff Schedules of the United States involved in this appeal, with rates in effect at the time of importation, read as follows:
+Illuminating articles and parts thereof, of base metal:
+H: # ‡ s}s
+Other:
+653.35 Table, floor and other portable lamps for indoor illumination, of brass . 8% ad val.
+Other:
+653.37 Of brass. 15% ad val.
+* * * *
+Articles not specially provided for of a type used for household, table, or kitchen use; * * * all the foregoing and parts thereof, of metal:
+* * * *
+Articles, wares, and parts, of base metal, not coated or plated with precious metal:
+Of copper:
+654.00 Of brass. 8% ad val.
+* * *
+Subpart G headnotes:
+1. This subpart covers only articles of metal which are not more specifically provided for elsewhere in the tariff schedules.
+Hs Hi * *
+Articles of copper, not coated or plated with precious metal
+sfc Hs * *
+657.35 Other. lc per lb. +
+12% ad val.
+The imported merchandise is characterized as brass illuminating articles such as lamp bases, lamps, candleholders or sconces. Each of the imported articles is capable of accepting a candle as an illuminant. Appellee alleges that the articles should have been classified by the Customs Service under item 653.35 or alternatively under either item 654.00 or 657.35. The articles were classified u.nder item 653.37.
+OPINION BELOW
+The Customs Court found that each of the imported articles in question is capable of using one or more candles for illumination. Based on the rationale developed in the companion case of United States v. Morris Friedman & Co., 73 Cust. Ct. 112, C.D. 4561, 386 F.Supp. 522 (1974), the court held that articles designed to utilize candles as an illuminant are within the common meaning of the term “lamp” as used in item 653.35, TSUS. The court also found the record to establish the imported articles as table, floor, or portable lamps used for indoor illumination as further prescribed by item 653.35.
+OPINION
+Appellant concedes that each of the imported articles is an illuminating device with a candle as an illuminant, and that each article is used either on tables or floors, or that the articles are portable. The sole issue before us, then, is whether the Customs Court, after consideration of the relevant facts, erred in holding that the imported merchandise falls within the common meaning of the term “lamp” under item 653.35, TSUS.
+Appellant contends that illuminating articles which use candles as a source of illumination do not come within the common meaning of the term “lamp” in item 653.35; but rather, they fall under item 653.37. In support of this position appellant cites various lexicons and the testimony of several witnesses. Appellant also contends that congressional intent was to exclude candleholding devices from item 653.35. The arguments by appellant in this appeal are essentially the same arguments on the same issue which were presented to this court by appellant in companion Appeal No. 75-12.
+Although the imported articles involved in this appeal are slightly different from those before us in Appeal No. 75-12, they are conceded to be portable candleholders, which were the articles before us in the companion appeal.
+As we stated in our decision in that appeal, we agree with the Customs Court that the common meaning of the term “lamp” would include candleholders within its purview. Each of the dictionary definí-tions in the record, including those supplied by appellant, broadly defines “lamp” as a device for furnishing artificial light, thereby including within this definition candleholding devices. The testimony of the witnesses for appellee, who deal with the articles in question on a daily basis, also supports the view that candleholding devices are considered to be lamps.
+Appellant contends that the common meaning of “lamp” would include articles which use electricity, oil, or gas as an illuminant, but not candles. Appellant’s view of the common meaning of the term “lamp” is supported by the testimony of appellant’s witness Mr. Fogelson. We agree with the view of the Customs Court that, appellant’s definition of a lamp is too restrictive. We see no logical reason why an article would be a lamp under the common meaning of the term when oil is used as an illuminant and not a lamp when the illuminant is a candle.
+Appellant’s arguments with respect to congressional intent are the same arguments which were presented to us in Appeal No. 75-12. As we stated in our decision in that appeal, we find no intent of Congress contrary to our finding that the common meaning of the term “lamp” would include candleholding devices.
+Because we find no error in the decision of the Customs Court we have no need to consider any arguments drawn to appellee’s alternative claims under either item 654.00 or item 657.35.
+The judgment is affirmed.
+United, States v. Morris Friedman & Co., Appeal No. 75—12 (filed Dec. 16, 1974).
+Decided concurrently herewith.
