@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "67708; protest 60/24516(B) (New York)"
+decided: "1963-05-08"
+citations: ["50 Cust. Ct. 296"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Milo Mills v. United States,"]
+source_url: "https://static.case.law/cust-ct/50/cases/0296-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6607856
+---
+
+# Milo Mills v. United States
+
+## Majority (Ford, J.)
+
+Opinion by
+Ford, J.
+In accordance with stipulation of counsel that the merchandise, consisting of certain 15-denier nylon monofilament yarn having a slight turn twist, is properly classifiable as filaments of rayon or other synthetic textile, singles, weighing less than 150 deniers per length of 450 meters, the claim of the plaintiff was sustained.
