@@ -1,0 +1,53 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2885"
+decided: "1927-05-27"
+citations: ["15 Ct. Cust. 210"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Gbaham, Presiding Judge, and Smith, Babbee, Bland, and Hatfield, Associate Judges"]
+parties: ["Ellison & Sons v. United States"]
+source_url: "https://static.case.law/ct-cust/15/cases/0210-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093740
+cites_cases: ["11 Ct. Cust. Appls. 186", "12 Ct. Cust. Appls. 571", "14 Ct. Cust. Appls. 153", "14 Ct. Cust. Appls. 345", "3 Ct. Cust. Appls. 97"]
+---
+
+# Ellison v. United States
+
+## Majority (Hatfield, Judge,)
+
+Hatfield, Judge,
+delivered the opinion of the court:
+Merchandise invoiced as “buckskin strappings” and known also as “buckskin strippings,” composed of buckskin leather, and cut to form and size for use as inserts or pads on riding breeches, was assessed for duty by the collector at the port of Philadelphia at 30 per centum ad valorem as manufactures of leather, not specially provided for, under paragraph 1432 of the Tariff Act of 1922, which provides as follows:
+Pae. 1432. Bags, baskets, belts, satchels, cardcases, pocketbooks, jewel boxes portfolios, and other boxes and cases, not jewelry, wholly or in chief value of leather or parchment, and moccasins, and manufactures of leather, rawhide, or parchment or of which leather, rawhide, or parchment is the component material of chief value, not specially provided for, 30 per centum ad valorem; any of the foregoing permanently fitted and furnished with traveling, bottle, drinking, dining or luncheon, sewing, manicure, or similar sets, 46 per centum ad valorem.
+It is claimed in the protests that the merchandise is free of duty under paragraph 1606 either as leather, not specially provided for, or as “leather cut into * * * forms suitable for conversion into manufactured articles,” or, alternatively, dutiable at 20 per centum ad valorem under paragraph 1431.
+On the trial below two witnesses testified for the importer. Rod-man E. Thompson, a member of the firm of J. B. Ellison & Sons, importer, testified: That the merchandise is used as “a pad on riding breeches, around the knee for protection of the rider and to give him a better.grip against the saddle;” that he knew of no other use for “buckskin strappings” than as inserts or pads for riding breeches; that, while those involved in this litigation are all of one size, they are 3nade in several sizes to meet the demands of the trade and to avoid unnecessary trimming and waste. In this connection the witness said: “They have to be modeled to fit the garment. They are imported as a size that is as nearly as we can estimate the general size that is wanted, and the size in which the least loss is met in cutting up these skins and can be handled by the tailor without a great deal of unnecessary trimming.” He said the articles were sold to “tailors and the makers of riding breeches;” that he believed that they were usually trimmed to conform to the garment on which they were sewed; and that they were cut to size and form because, by so doing, a larger number of inserts could be secured than by cutting a hide of leather into strips.
+The witness, Frank H. Lawley, a merchant tailor, testified in part as follows:
+Q. Are these so-called strippings used in precisely the form and shape you see them there, or do you cut them to fit the particular need? — A. We get them in this standard size, but of course it is easy to be explained that a man with a 48 seat and a man with a 36 seat or the difference in height — take a man 5 foot 1, and a man 6 feet tall, they will have to be trimmed off according to the pad, to the particular reinforcement on those breeches.
+Q. They are, as a matter of fact, retrimmed or reeut to suit the customers?— A. They have to be trimmed slightly because they are not uniform in shape always; they are not always even; they will vary a little and we have to trim them to meet that variance.
+Q. You buy them in that one size? — A. We buy them in that one size.
+Q. And, naturally, they are only fitted for that particular size trouser?— A. No; we use it as I stated on a 45 or a 36 inch seat, or for a 5-foot 3-inch man, or a 6-inch man; you get the same stripping, but they have to be trimmed down. That is the only size that I have seen us handle. We never asked for any difference in size. If they have them I am not familiar with the other sizes, but this is the size that we buy them, and I say according as our designer designs that reinforcement, that reinforcement has to be recut, trimmed off to meet that design.
+Q. Can they generally be used that way or must they be trimmed? — A. Oh, they must be trimmed, because they will not run uniform; as they come in they will vary a little; they are not cut exactly as they come in; we must go over them.
+Q. So you would say generally they have to be trimmed? — A. Yes; they generally have to be trimmed; different men require different things.
+The collector’s report describes the merchandise as follows:
+DESCRIPTION 0E MERCHANDISE AND ASSESSMENT
+Buckskin strappings cut to shape and size ready to be sewn on riding breeches held dutiable under paragraph 1432, act of 1922, at 30 per cent.
+The court below overruled the protest and the importer appealed to this court.
+The appellant contends that, as the articles are irregular in shape and must be trimmed to secure the desired shape and size for use as pads or inserts, and that, as they are not ejusdem generis with the articles enumerated in paragraph 1432, they are not dutiable thereunder as manufactures of leather, but are free of duty under paragraph 1606, either as leather not specially provided for or as leather cut into forms suitable for conversion into manufactured articles.
+The Government claims that the imported articles are made from buckskin leather; that they have a distinctive name, and are so processed as to be definitely and finally committed to a single use, and fit for no other use; that they are further advanced than leather cut to form, and are, therefore, manufactures of leather.
+We quote from the opinion written by Graham, P. J., in the case of Kleinberger & Katz v. United States, 12 Ct. Cust. Appls. 571, T.D. 40798:
+From these authorities we think it may safely be adduced that the phrase “leather cut into * * * other forms suitable for conversion into manufactured articles” means leather which has been cut into forms suitable for conversion into manufactured articles and which leather has not been further advanced or processed and which forms, in themselves, do not constitute manufactures of leather.
+Again, in the case of United States v. State Forwarding & Shipping Co., 14 Ct. Cust. Appls. 153, T. D. 41690, we said:
+Since the first appearance in our tariff laws of a provision for leather cut into forms suitable for conversion into manufactured articles (par. 457, tariff act of October 1, 1890), the courts have recognized the congressional intent to segregate, for duty purposes, leather which has been processed to the point where it has become a manufacture of leather, and leather which has been merely cut into forms. The line of demarcation has been indicated in various cases in this court, to which we now refer.
+With reference to a “manufacture” or a “manufactured article,” Barber, J., writing for the court in the case of Ishimitsu v. United States, 11 Ct. Cust. Appls. 186, T. D. 38963, said:
+* * * there still remains the idea that to constitute a manufacture of a thing, or a thing manufactured, it must appear that something has been produced, so changed or advanced in condition from what it was before being subjected to the processing or treatment that, whether of only one material or of more than one, it has attained a distinctive name, character, or use different from that originally possessed by the material or materials before being subjected to the manufacturing process.
+Does the merchandise at bar respond to the definition of a “manufacture” of leather, or is it leather cut to form suitable for conversion into manufactured articles?
+The collector classified the merchandise as manufactures of leather. His decision imports a finding of all facts essential to its validity; and it is presumptively correct. Bush & Co. (Inc.) v. United States, 14 Ct. Cust. Appls. 345, T. D. 41971. Accordingly, it must be presumed that the collector found that the merchandise had been .so processed as to give it a distinctive name, character, or use different from that possessed by the leather from which it was made. Ishimitsu v. United States, supra.
+It clearly appears from the record that the merchandise is known, not as buckskin leather but "buckskin strappings.” The only witness for the appellant who testified .upon the subject said that he knew of no other use for the articles in question than as inserts or pads for riding breeches. This testimony is not contradictory to, but corroborative of, the collector’s finding.
+Counsel for appellant argues that, because the articles must be trimmed to suit the particular garment upon which they are to be attached, they are not manufactures of leather, but mere leather cut into form suitable for conversion into manufactured articles.
+The record does disclose that some of the articles are not cut to exact form, and that those must be trimmed slightly. It is evident, however, that the purpose of the manufacture is to cut the articles into the exact form in which they are to be used, because by so doing waste of material is eliminated. The fact that a manufactured article is carelessly made does not prevent its classification as a manufacture. The articles are also usually trimmed to make them conform to the exact size required.
+Such trimming does not in our opinion prevent their classification as manufactures of leather. Tilge & Co. v. United States, 3 Ct. Cust. Appls. 97, T. D. 32360.
+While it appears that the buckskin strappings have not been further processed than cut to form and size, no further processing is necessary to fit them for their intended and only use. They are forms which in themselves constitute manufactures of leather. They have a distinctive name; they are committed to a single use and are fit for no other use. They are, therefore, no longer mere leather; nor are they leather cut into forms suitable for conversion into buckskin strappings. They are buckskin strappings; and, as such, are finished manufactures or manufactured articles and ready for use as such.
+The judgment is affirmed.
