@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 84"
+decided: "1939-01-27"
+citations: ["2 Cust. Ct. 45"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallingeb, Judges"]
+parties: ["K. Samura Shoten v. United States"]
+source_url: "https://static.case.law/cust-ct/2/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6619782
+cites_cases: ["68 Treas. Dec. 19"]
+---
+
+# Shoten v. United States
+
+## Majority (DallingeR, Judge:)
+
+DallingeR, Judge:
+These are suits arising at the port of Honolulu brought to recover certain customs duties alleged to have been improperly exacted on particular importations of metal stoves. Duty was levied thereon at the rate of 40 per centum ad valorem under paragraph 339 of the Tariff Act of 1930, which reads as follows:
+Pab. 339. Table, household, kitchen, and hospital utensils, and hollow or flat ware, not specially provided for: Plated with platinum or gold, 65 per centum ad valorem; plated with silver, 50 per centum ad valorem; composed of iron or ■steel and enameled or glazed with vitreous glasses, 5 cents per pound and 30 per centum ad valorem; composed wholly or in chief value of aluminum, 8)4 cents per pound and 40 per centum ad valorem; composed wholly or in chief value of copper, brass, steel, or other base metal, not plated with platinum, gold, or silver, and not specially provided for, 40 per centum ad valorem; the foregoing rates shall apply to the foregoing articles whether or not containing electrical heating elements as constituent parts thereof.
+It is claimed that said articles are properly dutiable at 25 per ■centum ad valorem under the following provision contained in the Swedish Trade Agreement of May 25, 1935, promulgated in T. D. 47785, 68 Treas. Dec. 19, at page 29:
+Samples of the imported merchandise were admitted in evidence as Exhibits 1 and 2. In addition to said exhibits, plaintiff offered the testimony of four witnesses.
+The first, Bion A. Bridges, United States examiner of merchandise at the port of Honolulu, who passed the importations in question, testified that the articles represented by Exhibits 1 and 2 are represented on the invoices by case numbers 1124 to 1168 covered by protest 832183-G, and by case numbers 1928 to 1944 covered by protest 833110-G, and by case numbers 310 to 349 covered by protest 909068-G.
+The second witness, Torao Wakayama, testified that he is the assistant manager and partner of the firm of Hiyamito, importer of general merchandise; that he was familiar with articles similar to Exhibits 1 and 2 and had one of them in his own home; that he had seen them used in the homes of Iris friends; that such articles are used generally in cooking; and that while he has seen them used in different houses they were used mostly in homes.
+On cross-examination be testified that he had seen articles like Exhibit 1 in use twenty or thirty times in Japanese homes; that the fuel used in them consisted of charcoal; that he had seen an article like Exhibit 2 used ten or fifteen times, also with charcoal as a fuel.
+The third witness, Sumida Minora, testified that he was a dealer in Japanese hardware goods; that the Japanese name for Exhibit 1 is “Konro” and for Exhibit 2 “Mischibigi konro”; that he had seen articles like Exhibit 1 used mostly in homes and that he had seen articles like Exhibit 2 used in homes but more often in tea houses.
+On cross-examination he testified that be had seen articles like Exhibit 1 used many times, mostly in homes for cooking fish, and that the fuel used consisted of charcoal, and that he had never seen an article like Exhibit 2.
+The fourth witness, Sotaro Higashiharo, testified that he was an American citizen and a court interpreter; that he had used articles like both Exhibits 1 and 2 in his own home and that they were both in common use among the Japanese; and that he had seen them used in tea houses but chiefly in homes.
+On cross-examination he testified that the stove in his own home was different from Exhibits 1 and 2, being an American oil stove; ■that he had used stoves like Exhibits 1 and 2 with charcoal as a fuel both indoors and outdoors; that he was familiar with the stoves used in homes by the people in Honolulu and that they are not similar to those represented by Exhibits 1 and 2; and that he had been present when articles like Exhibits 1 and 2 were used for cooking.
+The Government offered in evidence the testimony of three witnesses. The first, Lester Lie Breuer, examiner of merchandise at the port of Honolulu, testified that he had seen articles like Exhibit 1 used many times but that he had never seen an article like Exhibit 2; that he himself had an article like Exhibit 1 in the backyard of his home, using charcoal as a fuel; that he had never seen an article like Exhibit 2 used unless it was equipped to use gas as a fuel, and that he had not seen stoves like Exhibit 2 used in kitchens of homes.
+On cross-examination he testified that the stove like Exhibit 1 which he used in the backyard of his home was employed in cooking for Ms family; that the imported articles herein are chiefly used by Japanese; that he had seen them used at family and neighborhood picnics on the beaches; and that he had seen them used in the gardens and yards of homes.
+Stanley R. Spmole, an examiner’s clerk in the United States Customs Service, testified that he was born and raised in Hawaii; that he had seen articles like Exhibit 1 on three occasions, once at a high school picnic in Ms own home; that he had never seen an article like ExMbit 1 used in occidental homes as a kitchen stove and that in occidental homes the modern type of stove, gas,- or electric stoves, was used.
+Henry A. Kimura, examiner of merchandise at the port of Honolulu, testified that he had lived in Honolulu all his life; that he had an article like Exhibit 1 in his own home for the purpose of broiling fish and meat; that he had seen such articles used many times out-of-doors; that he had never seen a stove like Exhibit 1 in any kitchen; and that he had never seen an article like Exhibit 2 used anywhere.
+On cross-examination he testified that he had seen Exhibit 1 used indoors at times; that it is in common use at parties for household and table use; and that it is in common use in gardens connected with residences for the purpose of broiling meat and fish.
+Upon this record counsel for the Government in his brief filed herein contends that the plaintiff has failed to sustain the burden of proving that the metal stoves in question are cooking and heating stoves of the household type within the mearnng of the Swedish Trade Agreement, supra. We do not agree with tMs contention. In our opinion the evidence discloses that these stoves are chiefly used for cooking in the homes of the Japanese residents of 'Hawaii. The fact that because they burn charcoal they are chiefly used out-of-doors in the yards or gardens of residences for cooking for the family use does not change their character as stoves of the household type. The circumstance emphasized by counsel for the Government that these stoves are not in general use in homes of other than Japanese is wholly immaterial. Moreover, it is very significant that the collector classified all of the merchandise covered by these protests under paragraph 339. Evidently, he must have considered them as stoves of the household type.
+On the entire record we hold that the stoves in question are properly dutiable at the rate of 25 per centum ad valorem under paragraph 397 of the Tariff Act of 1930 as cooldng and heating stoves of the type described in the Swedish Trade Agreement, supra, as claimed by the plaintiff. That claim is therefore sustained, but as to all other merchandise the claims are overruled. Judgment will be rendered accordingly.
