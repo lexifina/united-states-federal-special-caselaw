@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "65877; protests 58/2180 and 58/12046 (Philadelphia)"
+decided: "1961-07-06"
+citations: ["47 Cust. Ct. 247"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Justin Tharaud & Son, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/47/cases/0247-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6580283
+cites_cases: ["44 Cust. Ct. 216"]
+---
+
+# Justin Tharaud & Son, Inc. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+In accordance with stipulation of counsel that the merchandise consists of Rockingham earthenware similar in all material respects to that the subject of Justin Tharaud, & Son, Inc., et al. v. United States (44 Cust. Ct. 216, C.D. 2177), the merchandise was held dutiable as follows: (a) As to all items entered, or withdrawn from warehouse, for consumption on and after January 1, 1947, and prior to September 10, 1955, at 20 cents per dozen articles, but not less than 7% percent nor more than 25 percent ad valorem, under paragraph 210, as modified by the General Agreement on Tariffs and Trade (T.D. 51802) ; and (b) as to all items entered, or withdrawn from warehouse, for consumption on and after September 10, 1955, at 6% percent, if valued under $1.50 per dozen articles, under paragraph 210, as modified by the Japanese Protocol to the General Agreement on Tariffs and Trade (T.D. 53865), supplemented by Presidential proclamation (T.D. 53877).
