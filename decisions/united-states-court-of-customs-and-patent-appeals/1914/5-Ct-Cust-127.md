@@ -2,7 +2,7 @@
 court: "United States Court of Customs and Patent Appeals"
 docket: "1164"
 decided: "1914-02-05"
-citations: ["5 Ct. Cust. 127", "5 Ct. Cust. 564"]
+citations: ["5 Ct. Cust. 127"]
 reporter: "ct-cust"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
