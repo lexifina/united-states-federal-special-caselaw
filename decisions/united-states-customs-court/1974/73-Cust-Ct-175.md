@@ -1,0 +1,80 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4570; Court No. 69/41729"
+decided: "1974-12-05"
+citations: ["73 Cust. Ct. 175"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris Friedman & Co v. United States"]
+source_url: "https://static.case.law/cust-ct/73/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6570840
+cites_cases: ["73 Cust. Ct. 112"]
+---
+
+# Friedman v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+This case involves various types of articles made of brass and other base metal which were described on the invoices as candlesticks, candelabras, lamp bases, lamps, table lamps, sconces, wall decorations, floor lamps, bases, bodies, extensions, canopies, bobeches,. finials and covers. All of these articles were designed for use with candles although in a number of instances they were wired for electricity after importation.
+The brass articles were classified under item 653.37, Tariff Schedules of the United States, and assessed with duty at the modified rate of 15 per centum ad valorem pursuant to Presidential Proclamation 3822, T.D. 68-9, while the balance of the involved items were classified under item 653.39, Tariff Schedules of the United States, and assessed with duty at the modified rate of 19 per centum ad valorem by virtue of Presidential Proclamation 3822, supra.
+Plaintiff claims the merchandise assessed at the .rate of 15 per cen-tum ad valorem under said item 653.37 is properly subject to duty at 8 per centum ad valorem under item 653.35, Tariff Schedules of the United States, or alternatively at 8 per centum ad'valorem under item 654.00, Tariff Schedules of the United States, or item 657.35, Tariff Schedules of the United States, which provides for duty at the rate of 1 cent per pound plus 12 per centum ad valorem. The non-brass articles are alternatively claimed under items 653.95 and 657.20, Tariff Schedules of the United States, which provide for duty at the rate of 13.5 per centum ad valorem or 15 per centum ad valorem, respectively. All of above rates being modified by Presidential Proclamation 3822, supra.
+The pertinent portions of the statutory provisions involved herein provide as follows:
+Illuminating articles and parts thereof, of base metal:
+* * * * * * *
+Other:
+653.35 Table, floor and other portable lamps for indoor illumination, of brass — 1_ 8% ad val.
+Other:
+Of brass_ 15% ad val. CO CO Ig
+Other_ 19% ad val. OS CO CO Id
+* * * * * * *
+Articles not specially provided for of a type used for household, table, or kitchen use; * * * all the foregoing and parts thereof, of metal:
+* * * * * * *
+Articles, wares, and parts, of base metal, not coated or plated with precious metal:
+Of iron or steel :
+Not enameled or glazed with vitreous glasses:
+653.95 Other_ 13.5% ad val.
+Of copper:
+654.00 Of brass_ 8% ad val.
+* * * * * * *
+Articles of iron or steel, not coated or plated with precious metal: (
+Other articles:
+657.20 Other- 15% ad val.
+Articles of copper, not coated or plated with precious metal:
+657.30 Of copper, other than alloys of copper; of nickel silver or of cupro-nickel _ * * *
+657.35 Other- 10 per lb. + 12% ad val.
+The record consists of the testimony of Mr. Alfred Denenberg, vice president óf Adelphia Lamps & Shades,- Inc., the ultimate consignee, and Mr. Rocco A. Angelone, executive vice president of Angelo Bros. Co., the largest distributor in the United States of lamp and lighting-fixture parts. Both of these witnesses were called on behalf of plaintiff. In addition, there were received in evidence 23 exhibits offered by plaintiff. Plaintiff has abandoned its claim insofar as it relates to entries 151297, 144450 and 135206 which are accordingly dismissed.
+Defendant introduced the testimony of Mr. Jacob Fogelson, executive vice president of the New York Lamp and Shade Manufacturers Association, which is a trade association whose members manufacture and sell portable lamps and shades.
+The exhibits and a description are as follows:
+Exhibit 1: An illustration of the imported brass item #AD 10/16 Vz" lamp with its imported base #AD 10/5x5" attached. The base is a decorative addition.
+Exhibit 2: An illustration of the imported brass item AD #2261, KOS-5, MAK-101G, Antique Green/Gold. It is approximately 16" to 18" high. The black portion was not imported.
+Exhibit 3: An illustration of the imported brass item #2233, KO-2100.
+Exhibit 4: A sample of the imported brass item #2358, KO-1007, MAK-113. This exhibit is also representative of item KO-4047 under entry 149344, as well as the items KO-1047 (102B) and KM-104 (MAK-103) and (MAK-101) under entry 148895.
+Exhibit 5: An illustration of the imported brass item #2362 (KO-1039, P) described on the invoice as Brass Lamp base w. %" center hole and side wire hole, w/o candle spike - Polished finish. It consists of 4 pieces and was imported in an unassembled condition.
+Exhibit 6: A sample of the imported brass item #2363 (KO-1039, 102-B). It consists of four unassembled pieces in a box, and is the same as exhibit 5 except in a different finish.
+Exhibit 7: An illustration of the imported brass item #2335 (K 1019, MAK-P) described' on the invoice as Brass Eamp Base w/o candle spike and side wire hole - Polished finish.
+Exhibit 8: An illustration of the imported brass item #2273 (KOS-2, MAK-101G) except that the circled base portion was not imported.
+Exhibit 9: An illustration of the imported brass item #2284 (KOS-1, MAK-101G), except for the mounting which was added in this country.
+Exhibit 10: An illustration of the imported #2181 (638B) Iron Candlestick w. y2" center hole, w/o side wire hole, dark brown finish, except that the circled bottom mounting was not imported.
+Exhibit 11: For identification - Withdrawn.
+Exhibit 12: An illustration of the imported #2180 (647G) Iron Candlestick w. y2" center hole, w/o side wire hole, dark antique green finish.
+Exhibit 13: An illustration of the imported brass item #1151, Be Alsi 9, Sets Candelabras. It is 12 or 13 inches high.
+Exhibit 14-: An illustration of the imported iron item #1057 - 4 light table lamp two sections, with white ceramic flowers. It is imported in two parts and is approximately 15 to 18 inches high. The circled white portion on the bottom was not imported.
+Exhibit 15: An illustration of the imported iron item #1058 - 5 light table lamp, two sections, with iron roses, gold finish. It is .imported in two parts.
+Exhibit 16: An illustration of the imported iron item #1016 Pineapple lampbase 35 in., pineapple natural colors, base and leaves gold finish. It is approximately 26 to 27 inches high. This exhibit is also representative of the item #BL/44 polychrome roses lamp base, white and green under entry 151546.
+Exhibit 17: An illustration of the imported iron item #PT/66/ 7 — 2 light Empire sconce (6/green-gold finish; 6/white-gold finish). The depicted wax candles were not imported. This exhibit is also representative of the item #AN/20 Pineapple Sconce, pineapple in natural colors, gold finish leaves, under entry 151546.
+Exhibit 18: A catalogue of the Japanese manufacturer entitled “Cast Brasswares” “Bronzewares” Takaoka, Japan, which on the circled portions of page 4 depict the items #KM -102 (MAK-P) and (MAK-102B). '
+Exhibit 20 Exhibit 19. ^ jpustraj¿ons 0f iampg handled by Angelo Bros. Company that are similar in their primary purpose, fashion, designs, function, and use to the articles in litigation that are exhibits 1, 3, 4, 5, 6, 7,10,12, 17. Exhibit 21 Exhibit 22 Exhibit 23
+Exhibit 24: Illustrations of an Aladdin lamp (#5270) which is designed to take a single illuminate and #5271 which is designed to take two illuminates.
+The first witness called on behalf of plaintiff, Mr. Alfred Denenberg, identified the various exhibits depicting the imported merchandise and testified that many were offered for sale mounted on a base and having an electric socket added. The witness also indicated that the merchandise covered by exhibits 14 through 17 were made from sheet metal which he believed to be iron although he was not a metallurgist nor did he ever have an analysis performed. In his opinion candle-holders are lamps designed to be used with an illuminant such as a wax candle or electricity. All of the imported articles, according to the witness, are in their imported condition lamps because they are designed for artificial illumination. The witness further indicated that all of the imported articles are portable and are used for indoor illumination. The sconce, plaintiff’s exhibit 17, according to the witness is as portable as a painting.
+Mr. Denenberg then testified that a majority of the imported articles were not sold in their condition as imported but only after adding electrical devices. To accomplish this a bolt or threaded pipe is inserted and a socket screwed on. A wire is then connected to the socket. In addition bases or mountings were sometimes added.
+The next witness called on behalf of plaintiff was Mr. Rocco A. An-gelone who testified that he understood the term lamp to be either an electric light bulb such as filament type bulbs or any device which was designed to accommodate an illuminant. The witness considered candlesticks to be lamps which are used on tables with candles or electricity. Mr. Angelone then identified several exhibits which were received as illustrations of articles sold by his firm which were alleged to be comparable to those involved herein. According to Mr. Angelone the candlesticks which possess spikes utilized this feature in order to protrude inside a candle to permit it to hold the candle firmly in place. The witness was of the opinion that most of the imported articles would be wired for electricity but that the imported articles could be utilized in their condition as imported with a candle. He was further of the opinion that said articles are portable and are used for indoor illumination.
+Defendant called on its behalf Mr. Jacob Fogelson who testified that he was familiar with the ultimate consignee as it had been a member of the Philadelphia association for many years and it exhibited at the lamp shows operated by the New York Lamp and Shade Manufacturers Association. The witness has visited 50 to 60 plants of members of this association and has observed the methods of assembly of lamps. A lamp according to Mr. Fogelson was a portable lamp having an electric cord and plug providing electrical energy. In his opinion candleholders and candlesticks are not lamps whereas candelabras and sconces would be considered lamps only if electrified. The witness was also of the opinion that a lamp could have gas or oil as an illuminant.
+The entry papers have been received in evidence without being marked. By virtue of the pleadings, there is no question of fact that the involved articles are composed of base metal and are not coated or plated with precious metal. In addition, there is no dispute that the brass articles are not composed of nickel silver or of cupro-nickel.
+Since the question of classification is based upon component material, the items covered by the entries set forth in schedule “A,” annexed hereto and made a part hereof, involve brass items while those covered by schedule “B,” annexed hereto and made a part hereof, cover other base metal articles involved herein.
+Insofar as the brass items covered by schedule “A” are concerned, I am of the opinion as indicated in Morris Friedman & Co. v. United States, 73 Cust. Ct. 112, C.D. 4561 (1974), that articles designed to^ utilize candles are lamps. The record establishes the imported articles to be table, floor or portable type lamps used for indoor illumination as prescribed by item 663.35, supra. The testimony of defendant’s' witness, Fogelson, by which the term lamp would only include a portable lamp operated by electricity, oil or gas is not broad enough to encompass the articles intended to be covered by item 653.35, supra, as indicated in C.D. 4561, supra. The record herein is sufficient to establish that such merchandise is considered lamps and not merely parts thereof even though in some instances the articles were imported in an unassembled condition and must be assembled before use with a candle. The sconce is in my opinion, and based upon the reasoning set forth in C.D. 4561, supra, with respect to exhibit 1 therein -and npon the record herein, a portable lamp. The claim relating to merchandise covered by schedule “A” is sustained.
+With respect to the articles covered by schedule “B,” it is apparent and plaintiff has conceded if the court finds said articles to be illuminating articles, the provisions alternatively claimed, i.e., 657.20 and 653.95, supra, will not apply since the classified provision, item 653.39, is more specific.
+I am unable to ascertain any difference in the basic function of the articles covered by schedules “A” and “B”. Accordingly, the claims relating to the non-brass articles covered by schedule “B” are dismissed.
+Judgment will be entered accordingly.
