@@ -1,0 +1,47 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1823; No. 1826"
+decided: "1917-11-20"
+citations: ["8 Ct. Cust. 211"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["Morimura Bros v. United States Dow Co. et al. v. United States"]
+source_url: "https://static.case.law/ct-cust/8/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3876944
+cites_cases: ["2 Ct. Cust. Appls., 419", "33 Treas. Dec., 436", "4 Ct. Cust. Appls., 496", "4 Ct. Cust. Appls., 516"]
+---
+
+# Morimura Bros v. United States
+
+## Majority (MartiN, Judge,)
+
+MartiN, Judge,
+delivered the opinion of the court.
+The Government claims that the articles involved in this case are baskets composed in chief value of wood. Duty at the rate of 25 per cent ad valorem was accordingly assessed under the eo nomine provision for baskets, contained in paragraph 175 of the tariff act of. 1913.
+The importers deny that the ‘articles are baskets. . They claim them to be fern pots, flower vases, jardinieres, lamp stands, umbrella stands, trays, etc., composed of wood and tin, but in chief value of wood, and dutiable at the rate of 15 per cent ad valorem as manufactures in chief value of wood not specially provided for, under paragraph'176 of the act.
+The Board of General Appraisers sustained the claim of the Government, and the importers appeal.
+The following is a copy of the several paragraphs thus cited:
+175. Blinds, curtains, shades, or screens, any of the foregoing in chief value of bamboo, wood, straw, or compositions of wood, not specially provided for in this section, 20 per centum ad valorem; if stained, dyed, painted, printed, polished grained, or creosoted, and baskets in chief value of like material, 25 per centum ad-valorem.
+176. House or cabinet furniture wholly or in chief value of wood, wholly or partly finished, and manufactures of wood or bark, or of which wood or bark is the component material of chief value, not specially provided for in this section, 15 per centum ad valorem.
+An inspection of the articles in dispute discloses the fact that each of them consists of two parts, first, a woven basketwork frame of' .stained bamboo or like material, having the shape of a vase, fern pot, jardiniere, lamp stand, or similar article, and second, a tin bowl or bucket of the same shape and size, which is placed like a lining within the woven frame. The frames without the tin linings would serve as receptacles for cut flowers or ferns, or as holders for flowerpots or lamp bowls, but in that condition they would not be watertight and therefore any drippings from the contents would leak through and drop upon the articles beneath. But when the tin linings are inserted in the woven frames they become water-tight, and are-capable of holding cut flowers or ferns arranged in water or wet moss, and also of holding flowerpots, lamps, etc., without permitting any dripping therefrom.
+The articles were assessed with duties as entireties, under the classification of baskets. It is conceded that the woven-frames of wood constitute the chief value of each article.
+The sole question in the case is whether the composite articles thus ■described are baskets, for if not baskets they would be dutiable under the residuary provision. for manufactures in chief value of wood, not specially provided for, as claimed by the importers. The record contains a considerable body of testimony regarding the scope and signification of the word “baskets” in the trade and commerce of this country. The board, however, held that the testimony failed to establish a definite, uniform, and general commercial definition of the word differing in any particular from its ordinary signification in common ■speech. Accordingly the board accepted the common and ordinary meaning of the term as authoritative in the premises, and held the articles to be baskets within that meaning. Without discussing the testimony in detail we may say that we agree with the finding of the board that a commercial designation of the term “baskets” differing from its ordinary definition has not been established by the testimony in the casé. The case therefore resolves itself into the question whether the articles under protest are baskets within the common and ordinary meaning of the word.
+The following definitions of the word “basket” may be considered:
+Standard Dictionary:
+A vessel of varying capacity, made of flexible materials, as twigs, splints, or strips •of metal, interwoven and commonly bound at the top.
+Century Dictionary:
+A vessel made of twigs, rushes, thin strips of wood, or other flexible materials, interwoven in a great variety of forms, and used for many purposes.
+International Encyclopedia:
+Basket.—A vessel made of willow, thin strips of wood, reeds, grasses, or similar flexible materials woven together in a great variety of forms, and used for many different purposes. * * *
+Encyclopedia Britannica:
+Basket.—A vessel made of twigs, cane or rushes, as well as of a variety of other materials, interwoven together, and used for holding, protecting, or carrying any commodity.
+According to the common understanding of the word “basket,” as exemplified by these definitions, we feel sure that the woven wicker frames of the present articles, if taken alone, would come within that name. This results from their size, shape, appearance, method of construction, and practicable uses. The so-called jardinieres and lamp stands are of the familiar size and shape of small waste baskets; the so-called vases and fern pots are flower baskets in form and usefulness. The so-called tray, if filled with flowers or fruit, would properly bear the name of flower or fruit basket. Like other baskets these articles are woven of bamboo or of flexible wooden twigs. They are all serviceable for ordinary basket uses, namely, for “holding, protecting, or carrying commodities,” and if judged by tbeir external appearance alone they would immediately upon inspection justify the classification of baskets.
+In the construction of the articles, however, as already stated, tin bowls of suitable sizes are placed inside of them to serve as watertight linings. In the construction of the so-called trays tin is not used, but a single plate of glass covers the inside bottom of the article. The question is whether this adaptation of a tin lining or a glass bottom to a basket frame would take the article so lined out of the basket classification within which it would otherwise fall. We agree with the conclusion of the board that this result would not follow. For while the original basket frames when thus lined are improved for their respective uses as baskets by the addition of the water-tight linings, their essential character and uses remain unchanged. They continue to serve the same or similar basket purposes as before, but by reason of the lining they perform that service in larger manner and with greater efficiency. They remain baskets nevertheless, and in this case they directly respond to the description of baskets composed in chief value of wood, under which provision they were assessed.
+It is well known that other materials, such as muslin, silk, or paper, are sometimes used as linings for wicker baskets, thereby adding to their beauty and usefulness; but such linings do not necessarily change the essential character of the article, for it may remain a basket just the same. United States v. Zinn (2 Ct. Cust. Appls., 419; T. D. 32171).
+Two decisions of this court are cited by the appellants in support of their contention for the classification of the importations as manufactures in chief value of wood, not specially provided for. They are United States v. Muhlens et al. (4 Ct. Cust. Appls., 496; T. D. 33917) and United States v. Vantine (4 Ct. Cust. Appls., 516; T. D. 33937). We do not think, however, that the issues in those cases are in line with the issue in this. In the first case the merchandise was green-glass bottles covered by woven wickerwork so attached that the bottles could not be withdrawn from the covering without being broken. The question in the case was whether a bottle thus covered remained nevertheless a "plain green-glass bottle.” The wickerwork was the component material of ehief value in the composite article, and the court held that the article was' no longer classifiable as a "plain green-glass bottle,” within the common meaning of that description. In the second case the merchandise was an article composed in part of a basket and in part of a silk bag, the two combining to form a single article. ' The silk bag constituted the chief value of the article, and gave it its essential character and use. It was therefore held that the article was not actually a basket but was a bag, and that it was dutiable as a manufacture in chief value of silk.
+We tbink that the present merchandise is in fact baskets lined with tin, and concededly they are composed in chief value of wood. The decision of the board is therefore affirmed.
+It may be noted that the protests printed in the record also challenge the assessment of certain baskets lined with silk, but the briefs filed in this court do not present the questions relating to them; therefore the subject is not elsewhere mentioned in this decision.
+Affirmed.
