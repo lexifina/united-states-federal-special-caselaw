@@ -1,0 +1,53 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 96-02-00613"
+decided: "1998-07-01"
+citations: ["22 Ct. Int'l Trade 617", "15 F. Supp. 2d 862"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCormick & Co., Inc., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/22/cases/0617-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11117531
+cites_cases: ["18 CCPA 332", "19 CCPA 79", "23 CCPA 293"]
+---
+
+# McCormick & Co. v. United States
+
+## Majority (Watson, Senior Judge:)
+
+Opinion and Order
+Watson, Senior Judge:
+This action is before the Court on cross-motions for summary judgment. It involves tomato powder, a product made by concentrating fresh tomatoes into paste and then spray-drying the paste into powder. It is plaintiffs claim that the product is covered by the terms of Subheading 0712.90.75 of the Harmonized Tariff Schedule of the United States (“HTSUS”), as tomatoes in powder form, not further prepared. The government contends that the importation was properly classified under Heading 2002.90.00 as tomatoes, prepared or preserved, other than as paste or puree. The disputed tariff provisions are as follows:
+CLAIMED
+0712 Dried vegetables, whole, cut, sliced, broken or in powder, but not further prepared:
+* :|: * * * * *
+0712.90 Other vegetables, mixtures of vegetables:
+*******
+0712.90.75 Tomatoes
+*******
+CLASSIFIED
+2002 Tomatoes prepared or preserved otherwise than by vinegar or acetic acid:
+2002.10.00 Tomatoes, whole or in pieces
+*******
+2002.90.00 Other
+Paste:
+10 In containers * * *
+20 Other
+Puree:
+30 In containers * * *
+40 Other
+50 Other
+As between the competing provisions, the provision claimed by plaintiff has the virtue of appearing to describe the importation in its exact form. This immediately overcomes whatever initial presumption of correctness the classification may have.
+The government takes the position that the imported merchandise was not prepared from the drying of a tomato but from the drying of a tomato that had first become a prepared vegetable product by transformation into paste. By this logic, goes the argument, the final powder is a prepared or preserved tomato product but not a tomato “in powder. ”
+The production method of the imported tomato powder is as follows: Freshly picked tomatoes are washed, sorted, and washed again. They go through a “cold break” process in which their naturally occurring pectin decomposes. The peels and seeds are screened out of the pulp. The pulp goes through a filtering machine which increases the solid content from 5% to 18% by removing water. The resulting material is further concentrated in a vacuum operation that produces a concentrated material known as paste or concentrate. The paste is pasteurized, further concentrated in a rotary-film evaporator and pasteurized a second time. The material is then spray-dried; a small amount of silicon dioxide is added to prevent caking of the powder in transit, and the powder is packaged in plastic bags for shipping. The dry weight content of the finished material is 90 to 97%.
+In the view of the Court, the position of the plaintiff regarding classification is far more plausible than that of the government. It is a strained argument to say that, because this importation passes through the form of paste in the course of one of the common methods for producing powder in the industry, it has therefore somehow lost its original identity as a tomato. This rather convoluted argument contradicts the otherwise quite orderly and harmonious relationship between the competing provisions in this case.
+The plain language of Subheading 0712.90.75 specifically covers tomatoes in the form of the importations. This material has clearly been dried and is indubitably in powder form. There is no indication whatsoever that the manner in which the drying process was conducted or the intermediate stages through which the original vegetable passed, should have a bearing on the ultimate classification.
+Chapter 7 of the HTSUS is notably comprehensive in its coverage of vegetables. Chapter 20 for preparations of vegetables is obviously designed to cover vegetables prepared or preserved by means other than those specified in Chapter 7 and it says so specifically in Note 1(a). Common sense dictates that if a vegetable appears in Chapter 7, specifically identified in its dried form, that drying is not a method of preparation intended to be included in Chapter 20. When we look at Heading 2002 we see a provision dealing with tomatoes in forms that are not dried within the ordinary understanding of that term, i.e. in whole form, in piece form or in the form of paste or puree.
+It is also clear that, when it was intended that certain dried forms of vegetables not be included in Chapter 7, that exclusion was specifically noted. Thus, Note 3 to Chapter 7 specifically excludes such products as the dry forms of potatoes or leguminous vegetables.
+The clarity of the tariff structure here and the clear distinction between the dry tomato products covered by Chapter 7 and the wetter ones of Chapter 20, could hardly be plainer.
+Drying is a means of preservation. It is also settled that “a provision for an article dried is more specific than a provision for such article when ‘otherwise prepared and preserved.’” Sturm, Customs Law & Administration, §54.7 (1991). A case well illustratingthis point is F.H. Shallus & Co., et. al. v. United States, 18 CCPA 332, T.D. 44585 (1931). In the Shal-lus case, the Court of Customs & Patent Appeals held that egg albumen that was both dried and prepared must be classified as dried because the term “dried egg albumen” is more specific than “egg albumen prepared and preserved.” 18 CCPA at 334. The Appellate Court used the same reasoning in United States v. Enbun, Co, 19 CCPA 79 T.D. 44224 (1931). That case involved dried, unsalted fish, which had also been shaved or shredded. The court held that drying was a form of preservation that made the language covering “dried fish” more specific than the language covering fish “otherwise prepared or preserved.” It is worth noting that the court rejected the government’s theory that the process of shredding or shaving the dried fish somehow removed it from the category of dried fish into the category of prepared fish. The argument made by the government in this case has even less merit because the intermediate paste condition of the imported material is only a temporary phase.
+The government cites United States v. A Sahadi & Co., Inc., 23 CCPA 293, T.D. 48165 (1936) in support of its position. Close examination of that decision, however, does not provide support for the government’s classification in this case. That case involved the question of classification of a product derived from apricots. After picking, the fresh apricots were mashed and pressed through a sieve, separated from the skins and pits and the pulp was spread on boards in the sun. After dryingfor five or six days the resulting sheets were smeared with olive oil to prevent them sticking and then rolled into units of 5 pounds, 10 ounces and imported in that condition. The defendant emphasizes language in that opinion in which the appellate court pointed out that if the apricot paste or pulp, which had been spread out on the boards, had been brought to this country in an undried condition, it probably would have classified as a fruit paste under paragraph 752 of the Tariff Act of 1930. The court further observed that “a subsequent drying would not make the product dried apricots, but dried paste or pulp. ” This observation does not apply to the tomatoes involved in this case because it was addressed to an apricot product that had not been dried within the understanding of the court. In fact, the smearing with olive oil was a measure taken to prevent drying past a certain point. In addition, the legislative history perceived by the court militated against classification of the rolled sheets as dried apricots. Here, the plainly expressed ambit of the competing provisions is clear on its face and there is no need to go further.
+For the reasons expressed above, the government’s motion for summary judgment must be denied; the plaintiffs motion for summary judgment must be granted and it will be so ordered.
+It should be noted that, for tariff purposes, tomatoes are treated in accordance with their normal culinary use as vegetables rather than as the fruit which they are in a botanical sense.
