@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "58030; protests 164033-K, etc. (New York)"
+decided: "1954-04-22"
+citations: ["32 Cust. Ct. 466"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kwan Lee Co., Inc., and W. J. Byrnes & Co. of N. Y., Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/32/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6629023
+cites_cases: ["25 Cust. Ct. 42", "28 Cust. Ct. 280", "9 Cust. Ct. 342"]
+---
+
+# Kwan Lee Co. v. United States
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+In accordance with stipulation of counsel that the merchandise consists of silent butlers, smoothing irons, and trays the same in all material respects as those involved in Ignaz Strauss & Co., Inc. v. United States (9 Cust. Ct. 342, C. D. 710), The Fan Co. v. United States (25 Cust. Ct. 42, C. D. 1261), and Ignaz Strauss & Co., Inc. v. United States (28 Cust. Ct. 280, C. D. 1423), the claim of the plaintiffs was sustained.
