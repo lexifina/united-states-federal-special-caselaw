@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "53106; protests 796929-G, etc. (San Francisco)"
+decided: "1949-05-05"
+citations: ["22 Cust. Ct. 304"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Chong Kee Jan & Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/22/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6645373
+---
+
+# Chong Kee Jan v. United States
+
+## Majority (Cline, J.)
+
+Opinion by
+Cline, J.
+Following.the authorities cited in Abstract 15400 the court dismissed the protests.
