@@ -1,0 +1,35 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2057"
+decided: "1921-03-01"
+citations: ["11 Ct. Cust. 35"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["Carr v. United States"]
+source_url: "https://static.case.law/ct-cust/11/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092715
+cites_cases: ["5 Ct. Cust. Appls., 541"]
+---
+
+# Carr v. United States
+
+## Majority (Martin, Judge,)
+
+Martin, Judge,
+delivered the opinion of the court:
+The merchandise in this case consists of dressed birch flooring which was imported from Canada. It was assessed with duty at the rate of 15 per cent ad valorem as a manufacture of wood not specially provided for, under paragraph 176 of the tariff act of 1913.
+The importer protested against the assessment, claiming free entry for the flooring under paragraph 647 of the act, as "lumber, not further manufactured than sawed, planed, and tongued and grooved.” A copy of this paragraph follows, with the provision just referred to in italics:
+FREE LIST!
+647. Wood: Logs, timber, round, unmanufactured, hewn or sawed, sided or squared;. pulp woods, kindling wood, firewood, hop poles, hoop poles, fence posts, handle bolts, shingle bolts, gun blocks for gunstocks rough hewn or sawed, or planed on one side; hubs for wheels, posts, heading bolts, stave bolts, last blocks, wagon blocks, oar blocks, heading blocks, and all like blocks or sticks, rough hewn, sawed, or bored; sawed boards, planks, deals, and other lumber, not further manufactured than sawed, planed, and tongued and grooved; clapboards, laths, pickets, palings, staves, shingles, ship timber, ship planking, broom handles, sawdust, and wood flour; all the foregoing not specially provided for in this section.
+The Board of General Appraisers overruled the protest, and the importer appeals.
+A sample of the importations is in evidence in the case. This discloses that the boards are smooth upon the upper side, also that they are tongued and grooved, and that on their tongued side or edge shallow holes have been bored at regular intervals at the angle just above the tongue. The holes do not go entirely through the board, but extend a short distance downward and backward in it, and are manifestly intended for use in “starting” the nails when the board comes to be used as flooring.
+We find in the testimony an account of the processes of manufacture whereby the imported boards were brought to their present condition. It is said that logs are sawed into boards, that these are put through a ripsaw and ripped into strips of the width wanted, and that the strips are then run through a flooring machine. This machine is equipped with planing knives and with gimlets, and in a single operation it planes the upper side of the board, tongues and grooves it, and bores the holes above described into the tongued edge of the board.
+The witnesses testify that the practice of boring holes in this mari np.r into flooring, boards originated many years ago when cut nails were in common use; that such nails when driven through the tongued edge of a board tended to split or splinter it; and that manufacturers sought to avoid this mischief by means of such holes as these, which Would prevent the splitting of the edge when nails were driven through it. It is said furthermore that when wire nails came into common use this practice was abandoned, since such nails do not tend to split the edges of the board to the same extent as cut nails. It is said accordingly that at the present time the boring of flooring boards in this manner not only does not enhance their value in the markets but somewhat depreciates it, since the holes are no longer necessary and tend to burr the edges so as to interfere with a tight joint when the floor is laid.
+From the foregoing statement it appears that the present issue lies in a very narrow compass. The sole question in the case is whether the imported hoards, by reason of having been bored with holes as described, are “further manufactured than sawed, planed, and tongued and grooved.” For if the boring aforesaid is a process of manufacture beyond and additional to the processes of planing and tonguing and grooving the boards, then they would not he entitled to free entry under paragraph 647, supra. As has already been stated, the board held against the importer upon this proposition, and that decision agrees with former decisions of the board upon the same issue (Abstracts 37717, 38794, 38795, and 40302). These decisions all related to the paragraph now in question, since it is the only one in which Congress has made use of these terms in relation to merchandise like the present.
+The facts just recited are fully sustained by the testimony and indeed are not contradicted in the record. The conclusion which we draw from them is that the nail holes in question were bored in the imported boards simply and solely as an incident in the process of tonguing and grooving them, and as a means only of making them fit and useful in the character of tongued and grooved boards. The boring of the boards therefore did not advance or manufacture them further than the condition or status of tongued and grooved boards, but was simply a step in the process of bringing them to that estate and in making their use in that character more feasible and practicable. And the entire operation had no other result than the manufacture of planed and tongued and grooved flooring boards, ready and fit for use as such, and consequently the merchandise is entitled to free entry under the statute above quoted. And this conclusion does not depend upon the fact that since wire nails have come into common use it is not the practice to bore flooring boards in this manner nor is it affected thereby. '
+It may be noted that the enumerations which immediately precede the present one in paragraph 647, supra, specify “hubs for wheels, posts, heading bolts, stave bolts, last blocks, wagon blocks, oar blocks, or sticks, rough hewn, sawed, or bored,” and it may be argued that this use of the word “bored” properly implies that Congress regarded the boring of such articles as a separate process of manufacture and accordingly that the boring of the boards now in question should be similarly considered. This conclusion, however, does not seem to follow, for in the first place the boring of such articles as the enumerated ones serves a different purpose in respect to them from that served by the boring of the present boards, and furthermore the provision for the enumerated articles does not make the boring of them a ground for a different or separate classification.
+See United States v. Myers (5 Ct. Cust. Appls., 541; T. D. 35179), which differs from the present case in certain particulars but is analogous to it.
+In accordance with the foregoing views the protest should have been sustained and the decision of the board overruling it is hereby reversed.
