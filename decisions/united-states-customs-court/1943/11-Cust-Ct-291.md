@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "48893"
+decided: "1943-10-20"
+citations: ["11 Cust. Ct. 291"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 957339-G, etc., of T. H. Lung Co. (Boston)."]
+source_url: "https://static.case.law/cust-ct/11/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672691
+cites_cases: ["31 C. C. P. A. 43"]
+---
+
+# Protests 957339-G of T. H. Lung Co.
+
+## Majority (Cole, J.)
+
+Opinion by
+Cole, J.
+In accordance with stipulation of counsel and on the authority of Quong Yuen Shing Co. v. United States (31 C. C. P. A. 43, C. A. D. 247) the merchandise was found to contain salt and was therefore excluded from paragraph 5. The protests were sustained to this extent.
