@@ -1,0 +1,54 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "C.A.D. 1255; No. 80-27"
+decided: "1980-11-06"
+citations: ["68 C.C.P.A. 5", "634 F.2d 1345"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Markey, Chief Judge, Rich, Baldwin, Miller and Nies, Associate Judges."]
+parties: ["Norman G. Jensen, Inc., A/C Calhoun Collector’s Inc., Appellant v. United States, Appellee"]
+source_url: "https://static.case.law/ccpa/68/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6083477
+cites_cases: ["84 Cust. Ct. 76"]
+---
+
+# Norman G. Jensen, Inc. v. United States
+
+## Majority (Rich, Judge.)
+
+Rich, Judge.
+This appeal is from the judgment of the U.S. Customs Court in Norman G. Jensen, Inc., a/c Calhoun’s Collectors Society, Inc. v. United States, 84 Cust. Ct. 76, C.D. 4846 (1980), sustaining the original classification of the imported merchandise, 23 carat (K) gold stamps. We affirm.
+THE IMPORTED MERCHANDISE
+The merchandise consists of so-called Staffa stamps imported from Scotland in 1975. They are made to somewhat resemble postage stamps and have adhesive backings, but differ from ordinary government-issue stamps in being made from thin, lK-by-2 inch rectangles of 23K gold. Embossed on the stamp face is the State seal of one of the Original Thirteen American Colonies. The name of the selected colony is inscribed immediately below. At the top left-hand corner appear the words, Staffa Scotland. In opposite corners at the bottom are the phrases “23 K Gold” and “Postage ft>6.”
+Staffa, Scotland, is a small, uninhabited, privately owned island about 8 nautical miles off the coast of Scotland. A ferry, operated by Staffa Marine Ltd., shuttles tourists to and fro. While on board, the tourists may buy Staffa stamps for 6 pounds sterling. A letter or card with the Staffa stamp affixed may be deposited in a private receptacle on the island designated for the collection of such letters or cards. Staffa Marine then collects the letters or cards daily and takes them to the mainland where a British postage stamp is then affixed to each letter or card prior to its being deposited in an official British Post Office for transmiss'on to the designated destination.
+STATUTORY PROVISIONS
+■ The merchandise was classified by the Customs Service under item 656.10 of the Tariff Schedules of the United States (TSUS):
+Articles of precious metal, including rolled precious metal:
+* * * Of platinum, including rolled plat-inum_ * * *
+656.10 Of gold, including rolled gold_ 20% ad val.
+* * * Of silver, including rolled silver_ * * *
+Appellant’s principal claim was for classification as free under the following item:
+270.40 Postage and revenue stamps, canceled or not canceled, and government-stamped envelopes and postal cards bearing no printing other than the official imprint thereon_ Free
+or alternatively either under item 274.70:
+Photographs, engravings, etchings, lithographs, and woodcuts, and pictorial matter produced by relief or stencil printing process, all the foregoing, whether bound or not bound, and not specially provided for:
+Printed over 20 years at time of im-portation_ * * *
+Printed not over 20 years at time of importation:
+‡ $ % ‡ ‡ $
+274.70 Other_ 4% ad val.
+or item 274.90:
+Printed matter not specially provided for:
+* * * Suitable for use in the production of such books as would themselves be free of duty_ * * *
+* * * Other:
+* * * * * * *
+Other:
+Susceptible of authorship. _ * * *
+274.90 Other_ 7.5% ad val.
+CUSTOMS COURT
+The Customs Court noted that both sides produced abundant testimony on the meaning of postage stamps. The common meaning was held to be determinative, not the philatelic one, since Congress did not evidence any specific meaning. The following two requirements for a postage stamp were gleaned from lexicographic sources: (1) issuance or specific authorization by a government; and (2) representation of a prepaid postal charge. Since Staffa stamps were issued by a private party and not authorized by the British Government, they were held not to be postage stamps under item 274.40.
+As to the alternative claims under item 274.70 and item 274.90, the court held that the embossed stamps were printed material but not printed matter within part 5 of schedule 2, TSUS. While Staffa stamps were found to be printed, since embossing is a form of printing, the court noted that they must also consist essentially of pictorial or textual matter to fall within either item 274.70 or item 274.90.
+Appellee was held to have failed to produce sufficient evidence to rebut Customs’ determination. An advertising brochure, said to be the only relevant evidence, was declared to stress not only the value of the goods as collectibles but their definite monetary value as well, because they are made of pure 23K gold instead of paper. Since the desirability of the stamps was held to be derived equally, if not principally, from the intrinsic worth of the gold, the court concluded that the essential character of the Staffa stamps was not imparted by the textual or pictorial matter on the stamps and, therefore, that the stamps were not printed matter.
+OPINION
+We find no error in the Customs Court’s decision. The law was properly applied to the facts. Therefore, we adopt the careful and detailed reasoning of the Customs Court’s opinion as our own.
+The judgment of the Customs Court is affirmed.
