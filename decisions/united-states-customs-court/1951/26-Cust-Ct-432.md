@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "55547; protests 116512-K etc. (New York)"
+decided: "1951-05-15"
+citations: ["26 Cust. Ct. 432"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Louis Aisenstein & Bros. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/26/cases/0432-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6666313
+---
+
+# Aisenstein v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+The protests were dismissed.
