@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "66120; protest 60/30507 (New York)"
+decided: "1961-10-03"
+citations: ["47 Cust. Ct. 332"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gehrig, Hoban & Co., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/47/cases/0332-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6599225
+---
+
+# Gehrig, Hoban & Co. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+From a review of the record in this case, the court found nothing tending in any way to overcome the presumption of correctness attaching to the classification by the collector. The protest was, therefore, overruled.
