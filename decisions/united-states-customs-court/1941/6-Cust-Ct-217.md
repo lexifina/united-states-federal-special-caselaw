@@ -1,0 +1,38 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 466"
+decided: "1941-04-10"
+citations: ["6 Cust. Ct. 217"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallinger, Judges"]
+parties: ["Hermann & Jacobs, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/6/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6622292
+cites_cases: ["18 C. C. P. A. 21", "22 C. C. P. A. 651", "67 Treas. Dec. 748"]
+---
+
+# Hermann & Jacobs, Inc. v. United States
+
+## Majority (Kincheloe, Judge:)
+
+Kincheloe, Judge:
+The merchandise the subject of this suit consists of cotton terry-woven towels which were assessed for duty by the collector at 40 per centum ad valorem -under paragraph 909 of the Tariff Act of 1930, as articles made or cut from terry-woven pile fabrics, plus additional duty of 10 cents a pound under paragraph 924, as containing cotton having a staple of 1 % inches or more in length. The merchandise is claimed to be dutiable at only 25 per centum ad valorem under the eo nomine provision of paragraph 911 (a) for “towels, other than'pile fabrics,” or at said rate plus 10 cents per pound under said paragraph 924.
+The competing paragraphs, so far as relevant, read as follows:
+Par. 909. Pile fabrics, * * * cut or uncut, whether or not the pile covers the entire surface, wholly or in chief value of cotton, and all articles, finished or unfinished, made or cut from such pile fabrics, all the foregoing, * * * if terry-woven, 40 per centum ad valorem.
+Par. 911. (a) * * * towels, other than pile fabrics, 25 per centum ad valorem; * * *. The foregoing rates shall apply to any of the foregoing wholly or in chief value of cotton, whether in the piece or otherwise.
+We also quote paragraph. 923, as follows:
+Par. 923. All manufactures, wholly or in chief value of cotton, not specially provided for, 40 per centum ad valorem.
+It has been stipulated or conceded by counsel herein that the towels in question are of cotton, are terry-woven, and were woven on the loom as complete articles in the piece, and their identity as such towels fixed with certainty on the loom, requiring only to be cut apart and finished by hemming or binding the rough edges; also that terry-woven cloth is a pile fabric.
+The question for our determination is therefore reduced to one of law, to-wit, whether cotton terry-woven pile towels, i. e., of pile fabric construction, not made or cut from terry-woven fabrics, but woven as complete articles on the loom, are properly dutiable under paragraph 909 either as cotton terry-woven pile fabrics, or as articles made or cut from such pile fabrics, as assessed, or whether such towels come within the provision of said paragraph 911 (a) for “towels, other than pile fabrics,” as claimed.
+Plaintiff in support of its claim under paragraph 911 (a) cites and relies on the case of Ramallah Trading Co. v. United States, T. D. 47681 (67 Treas. Dec. 748). There the merchandise consisted of certain cotton table runners or scarfs of; pile construction, woven on a loom four at a time in parallel widths or strips, which were completed articles in themselves and their identity as such table runners definitely fixed on the loom, requiring oníy to be cut apart and finished by having their long edges bound or “overlooked,” and the short ends fringed. The said runners were held not to be either “pile fabrics” in themselves, or “articles * * * made or cut from such pile fabrics,” as such or analogous provisions had long before been judicially defined. The merchandise was therefore held not dutiable under paragraph 909 of the Tariff Act of 1930, as assessed, but dutiable under paragraph 923, as manufactures of cotton not specially provided for Citing also Curtis & Von Bernuth Mfg. Co. v. United States, 22 C. C. P. A. 651, T. D. 47633.
+Under that decision the present merchandise undoubtedly is definitely excluded from classification under said paragraph 909 either as terry-woven pile fabrics, or as articles made therefrom; but we do not think it necessarily is any authority for holding the merchandise-dutiable as “towels, other than pile fabrics,” under paragraph 911 (a).
+In the first place the latter paragraph does not provide for towels made or cut from terry-woven pile fabrics, but for “towels, other than pile fabrics.” So far as we can see this language is only open to two possible constructions. The first, as if the provision read “towels, other than those made from pile fabrics,” and the other as if reading “towels, other than those of pile weave construction.” Plaintiff in its brief contends for tbe former interpretation, which of course would result in holding the involved merchandise dutiable under said paragraph 911 (a), as claimed.
+We think the second construction, however, is the more reasonable, plausible, and within the real intent of Congress.
+A close reading of our decision in the Ramallah Trading Co. case, supra, will show that we arrived at our holding therein only because as far back as 1898 the phrase “other pile fabrics” in paragraph 411 of the Tariff Act of 1890 had been construed to include only piece goods as distinguished from articles. Hence, as the cotton plush runners or scarfs in said, case were woven as completed articles on the loom they could not be regarded as pile fabrics in themselves, nor as articles made or cut from such fabrics. They were therefore excluded from said paragraph 909 and held dutiable under paragraph 923 as manufactures of cotton not specially provided for. In so holding we stated, however, as follows:
+It is, however, difficult to imagine any good reason for Congress to exempt individually woven articles of pile construction from payment of the same duty as that levied on cotton pile fabrics in the piece, and articles made or cut therefrom. But in view of the language of said paragraph 909 of the present act of 1930, and the judicial interpretations of similar or pertinent analogous provisions under prior tariff acts, no other construction would be warranted, as the principles of law deduced from the cases cited, supra, must now be considered stare decisis and controlling in the present instance. United States v. Castle & Co., 18 C. C. P. A. 21, T. D. 43976.
+In the present case we are of opinion that the provision for “towels, other than pile fabrics,” in said paragraph 909 does not compel such a narrow construction to be placed thereon as to exclude therefrom only such towels as have been made or cut from pile fabrics, and certainly there is no evidence to indicate that Congress so intended. Nor does there seem to be any possible reason for Congress discriminating between pile fabric towels made as completed articles on the loom and those made or cut from pile fabrics in the piece. Under the circumstances we think that the only reasonable construction to be placed on said provision of paragraph 909 is that it covers all cotton towels of pile construction, whether woven separately as individual articles on the loom, or whether made or cut from pile-fabric piece goods.
+As the terry-woven towels in question are therefore not classifiable under either paragraph 909 or 911 (a) of the Tariff Act of 1930, they would seem to be dutiable under paragraph 923 of said act, as manufactures of cotton, not specially provided for, plus additional duty under paragraph 924, which, as it happens, carries the same rate of duty on the merchandise as that assessed. As no such claim has been made herein the protest is overruled without affirming the collector’s action.
+Judgment will be rendered accordingly.
