@@ -1,0 +1,34 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2082"
+decided: "1921-12-14"
+citations: ["11 Ct. Cust. 174"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before De Vries, Presiding Judge, and Smith, Barber, and Martin, Associate Judges.", "De Vries, Presiding Judge, concurs in the conclusion reached."]
+parties: ["Altman & Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/11/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093335
+cites_cases: ["11 Ct. Cust. Appls., 102", "6 Ct. Cust. Appls., 253", "8 Ct. Cust. Appls., 351"]
+---
+
+# Altman & Co. v. United States
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+The appeal in this case was heard in May, 1921, and the court, after consideration of the arguments and briefs of counsel for the respective parties, rendered its decision, holding that lace window curtains were more specifically provided for in paragraph 358 than in paragraph 258, and affirmed the decision of the board.
+The appellants in due time applied for a rehearing, and a rehearing having been granted, the appellants contend that the court should recede from its former holding and reverse the decision of the board on the ground that the court’s decision is in conflict with its holding in the cases of Carter & Son v. United States (6 Ct. Cust. Appls., 253; T. D. 35475) and United States v. Snow’s United States Sample Express Co. (8 Ct. Cust. Appls., 351; T. D. 37611).
+The case of Carter & Son v. United States, supra, involved Jacquard figured cotton nettings used for window curtains and upholstery use, and Jacquard figured cotton nettings not used for upholstery purposes.
+The Government contended that nettings were provided for by name in paragraph 358 and that that designation was more specific than the provisions of-paragraph 258 for "Jacquard figured upholstery goods,” composed wholly or in chief value of cotton and for "Jacquard figured manufactures” in chief value of cotton. The court affirmed- the board as to the nettings not used for curtains and ruled that “nettings” was a more specific designation of tbe goods than “Jacquard figured manufactures of cotton.” Tbe court, however, reversed tbe board as to tbe nettings chiefly used for curtains, and decided that they were dutiable as “Jacquard figured upholstery goods.” In reasoning out that conclusion tbe opinion held that tbe provision relied upon by tbe importers made “ use ” determinative of classification and that it was tbe manifest intention of that provision to subject to its operation and to remove from other paragraphs of the tariff act all “Jacquard figured upholstery goods.” That decision simply declared that as “Jacquard figured upholstery goods” was a designation “by use,” it must prevail against the eo nomine provision for “nettings.” As nettings is not a designation “by use” and covers plain and Jacquard figured nettings for curtains, as well as plain and Jacquard figured nettings not used for upholstery purposes, it is clearly a broader designation than the designation “by use” in paragraph 258, which embraces all “Jacquard figured upholstery goods,” not elsewhere more specifically enumerated.
+The appeal in United States v. Snow’s Sample Express Co., supra, involved the classification of scalloped cotton madras muslin curtains and scalloped cotton madras muslin curtains in the piece.
+The Government contended that the goods there in question were scalloped and that as they were enumerated by name in paragraph 358 as “all articles or fabrics * * * scalloped by hand or machinen/, * * * by whatever name known;” they were dutiable under that provision.
+The court held in effect, first, that “assuming” that the. language “by whatever name known,” should be construed as enumerating “madras muslin curtains,” nevertheless that enumeration accomplished no more than did the eo nomine designation of “laces” and “nettings” and was therefore less specific than the designation “Jacquard figured upholstery goods;” second, “that the provisions of paragraph 258, relating to curtains and other Jacquard figured upholstery goods,” were intended by Congress to be inclusive and to reach out into all other paragraphs of the act and make dutiable thereunder all goods falling within the narrow description of said portion of paragraph 258.
+Neither of these cases, if fairly construed and limited to the question involved, can.be accepted as deciding that a designation “by use” is absolutely controlling or as holding that the designation “Jacquard figured upholstery goods” renders inoperative as to such goods every other paragraph of the tariff act, however limited, specific, definite, and particular may be their designation therein. Any such holding as that would result in setting at naught the will of Congress even when so clearly expressed that it could not be misunderstood and in nullifying that part of paragraph 265 which provides for a special class of “Jacquard figured upholstery goods,” denominated by the paragraph as “ lace window curtains * * * finished or unfinished, made on the Nottingham lace curtain machine.” That the court had no intention of establishing the revolutionary principle of tariff construction that a designation “by use” prevailed over every designation, however specific such a designation might be, is manifest from the majority opinion in United States v. Snow’s United States Express Co., supra, in which the court was careful to state that a rating for duty according to use or when used for a certain purpose was strong though not conclusive evidence of the intention of Congress to make “use” controlling.
+“Lace window curtains” is not only a designation of goods used for upholstery purposes, but it is also a designation of upholstery goods used as á screen for windows. It can hardly be said that a designation which covers all “Jacquard figured upholstery goods,” composed in chief value of cotton, is more specific than a designation which not only covers “curtains,” a class of upholstery goods, but also a particular class of curtains, namely, those which are used for windows.
+Indeed,' if the provision for “Jacquard figured upholstery goods” must be preferred because it is a designation “by use,” then it would seem that the designation “lace window curtains,” which is not only a designation of an upholstery use but a designation of a specific, particular, and very restricted upholstery use, must be preferred to the more general designation “by use,” in paragraph 258.
+The original decision in this case was in our opinion correct, and the decision of the board is therefore affirmed.
+De Vries, Presiding Judge, concurs in the conclusion reached.
