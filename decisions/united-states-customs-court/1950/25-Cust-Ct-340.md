@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "54967; protest 138768-K (New York)"
+decided: "1950-12-12"
+citations: ["25 Cust. Ct. 340"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. Manheimer v. United States,"]
+source_url: "https://static.case.law/cust-ct/25/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6667477
+cites_cases: ["19 Treas. Dec. 1164", "4 Ct. Cust. Appls. 234", "4 Ct. Cust. Appls. 411"]
+---
+
+# Manheimer v. United States
+
+## Majority (Rao, Judge:)
+
+Rao, Judge:
+The instant protest raises the question of the proper classification of an importation of filter paper in disks measuring 50 and 65 centimeters in diameter. The merchandise was assessed with duty at the rate of 5 cents per pound and 15 per centum ad valorem, as filtering paper, which is provided for in paragraph 1409 of the Tariff Act of 1930. It is the claim of the importer that the merchandise should have been assessed at only 30 per centum ad valorem, as-papers, shaped for boxes or other articles, under the provisions of paragraph 1413-of said act.
+The material portions of the pertinent paragraphs read as follows:
+Par. 1409. * * * filtering paper, 5 cents per pound and 15 per centum, ad valorem; * * * .
+Par. 1413. Papers and paper board and pulpboard, including cardboard and leatherboard or compress leather, embossed, cut, die-cut, or stamped into designs- or shapes, such as initials, monograms, lace, borders, bands, strips, or other forms, or cut or shaped for boxes or other articles, plain or printed, but not lithographed,, and not specially provided for; * * * .
+Plaintiff concedes that the involved merchandise is filtering paper, but contends-that, in the form in which it is imported, it is more specifically provided for by paragraph 1413, supra, than under the eo nomine provision for filtering paper in said paragraph 1409.
+At the trial counsel for the respective parties entered into the following stipulation:
+* * * that the merchandise consists of filtering paper in the form of circles;, that the paper is not made in large sheets and then cut with a die in the form of circles, but is made on a mould-made machine, each circle being formed individually on the machine, then taken off, pressed between felts, and dried by hanging in a loft; further, that the merchandise is not cut, embossed, die-cut, or stamped into designs or shapes.
+A more elaborate description of the method by which the imported merchandise-is produced is contained in a photostatic copy of a letter addressed to the United. States examiner, dated January 27, 1948, which, together with three attached! drawings, was offered in evidence. However, in view of the concession that the-circular disks are formed simultaneously with the production of the filter paper itself, and are not the result of any cutting, embossing, die-cutting, or stamping, process, we do not deem it necessary to further consider this letter.
+Moreover, the concession ipso facto eliminates any further consideration of all! of the portion of paragraph 1413 which we have quoted, suyra, except the finaL phrase “or shaped for boxes or other articles.” This must be so for the reason that Congress has explicitly provided therein, not for all designs or shapes in which paper may appear, but for those only which have been produced by the processes-specifically enumerated.
+In the case of Wm. A. Stiner & Son v. United States, 19 Treas. Dec. 1164, Abstract 24233, cited with approval in United States v. Fuld, 4 Ct. Cust. Appls. 234, T. D. 33476, and United States v. Wyman & Co., 4 Ct. Cust. Appls. 411, T. D. 33851, it was held that the proviso to paragraph 415 of the Tariff Act of 1909 (the original statutory provision for paper, cut into designs or shapes), had “reference to forms of paper produced by embossing, cutting, or stamping, rather than to completed articles, to some part of which any of the processes referred to may have been applied as an additional feature of ornamentation.” [Italics quoted.]
+By the same token, articles of paper which have been created in the form of initials, monograms, lace, borders, bands, strips, circles, or other forms, but have not been produced by any of the processes referred to in paragraph 1413, supra, are not within the description of the paragraph, nor covered by its provisions.
+That this conclusion causes the anomalous result that filter paper disks which have been produced by cutting or die-cutting, such as were involved in the cases of United States v. W. X. Huber Co., 30 C. C. P. A. (Customs) 183, C. A. D. 231, and United States v. H. Reeve Angel & Co., Inc., 33 C. C. P. A. (Customs) 114, C. A. D. 324, are classifiable as papers, cut to shape, whereas filter paper disks produced by other processes are relegated to the provision for filtering paper is a matter with which we are not here concerned. The literal phraseology of the provision in question permits of no other interpretation.
+That such anomalies exist with respect to other provisions of the tariff act is demonstrated by the case of Curtis & Von Bernuth Mfg. Co. v. United States, 22 C. C. P. A. (Customs) 651, T. D. 47633, wherein steamer rugs woven directly from yarn and not made of blanketing were held not to be within the provision ■of paragraph 1111 of the Tariff Act of 1030, for “Blankets, and similar articles (including carriage and automobile robes and steamer rugs), made of blanket-dng, * *
+While asserting that there appears to be no plausible reason for distinguishing Between these two types of filter paper disks, counsel for the plaintiff predicates his contention that paragraph 1413, supra, is applicable to the instant merchandise primarily upon the proposition that these filter paper disks are papers, cut ■or shaped for boxes or other articles. He therefore quotes from Webster’s New International Dictionary (2d ed.) the definitions of the words “formed” and “form,” “shaped” and “shape,” and concludes from these definitions that the imported filtering paper disks or circles were formed or shaped into such disks ■or circles within the common meaning of those terms. That they were formed or shaped into disks or circles is not a proposition which could be effectively negated. But we fail to see how the statement of that proposition supports the contention for which it is urged.
+The language upon which reliance is placed reads “or cut or shaped for boxes or ■other articles,” [italics ours] and not “or cut or shaped into boxes or other articles.” The use of the preposition “for” seems clearly to indicate that what Congress intended by the language in question was paper material which had been cut or shaped into forms from which boxes or other articles could be produced, rather than forms or shapes of paper which in themselves were finished articles. The first quoted language permits of no other interpretation.
+The record before us contains no evidence directed toward establishing whether these filter paper disks were intended to be further manipulated before use, or whether in their imported condition they were articles ready for their ultimate use. However, counsel for the plaintiff, in answer to' a question from the court pertinent to that issue, replied:
+It is my view that the merchandise is used in its imported condition for filtering purposes.
+Accepting counsel’s admission, that the involved filter paper disks were shaped .articles, rather than shapes for articles, we are constrained to hold that they are ■excluded from that portion of paragraph 1413, supra, which provides for “Papers * * * cut or shaped for boxes or other articles * * * .”
+In view of the foregoing, the claim of the plaintiff for classification of the instant merchandise under paragraph 1413, supra, is overruled. Judgment will be entered accordingly.
