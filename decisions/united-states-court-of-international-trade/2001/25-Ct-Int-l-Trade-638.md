@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 96-12-02853"
 decided: "2001-06-19"
-citations: ["25 Ct. Int'l Trade 638", "155 F. Supp. 2d 701", "25 Ct. Int'l Trade 635", "155 F. Supp. 2d 707"]
+citations: ["25 Ct. Int'l Trade 638", "155 F. Supp. 2d 701"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["United States, plaintiff v. Nippon Miniature Bearing Corp. and Minebe
 source_url: "https://static.case.law/ct-intl-trade/25/cases/0638-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8476158
-cites_cases: ["12 CIT 889", "13 CIT 76", "15 U.S.C. § 1124", "15 U.S.C. § 1125", "18 CIT 979", "19 C.F.R. § 11.13", "19 U.S.C. § 1125", "19 U.S.C. § 1304", "19 U.S.C. § 1485", "19 U.S.C. § 1592", "19 U.S.C. § 1845", "230 F.3d 1131", "24 CIT 174", "36 F.3d 154", "696 F. Supp. 1534", "704 F. Supp. 1067", "708 F.2d 385", "737 F. Supp. 1515", "761 F.2d 1552", "858 F.2d 1533", "917 F.2d 1574", "918 F. Supp. 491", "94 F. Supp. 2d 1351"]
+cites_cases: ["12 CIT 889", "13 CIT 76", "15 U.S.C. § 1124", "15 U.S.C. § 1125", "18 CIT 979", "19 U.S.C. § 1485", "19 U.S.C. § 1592", "19 U.S.C. § 1845", "230 F.3d 1131", "36 F.3d 154", "696 F. Supp. 1534", "704 F. Supp. 1067", "708 F.2d 385", "858 F.2d 1533", "918 F. Supp. 491"]
 ---
 
 # United States v. Nippon Miniature Bearing Corp.
