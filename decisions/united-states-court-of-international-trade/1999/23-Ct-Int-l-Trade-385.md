@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Court No. 93-11-00769"
 decided: "1999-06-25"
-citations: ["23 Ct. Int'l Trade 385", "56 F. Supp. 2d 1174", "23 Ct. Int'l Trade 383"]
+citations: ["23 Ct. Int'l Trade 385", "56 F. Supp. 2d 1174"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["North American Processing Co., plaintiff v. United States, defendant"
 source_url: "https://static.case.law/ct-intl-trade/23/cases/0385-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9456400
-cites_cases: ["1 CIT 302", "10 CIT 671", "112 F.3d 481", "112 F.3d 488", "119 F.3d 969", "140 F.3d 1437", "19 CIT 1421", "19 U.S.C. § 1514", "1962 WL 10581", "1998 WL 72811", "1998 WL 928572", "28 U.S.C. § 1581", "28 U.S.C. § 2639", "28 U.S.C. § 2640", "28 U.S.C. § 2643", "34 C.C.P.A. 155", "35 F. Supp.2d 922", "35 F.3d 530", "45 C.C.P.A. 120", "46 C.C.P.A. 70", "46 F.3d 1098", "582 F.2d 622", "585 F. Supp. 663", "62 F.3d 1407", "647 F. Supp. 932", "65 C.C.P.A. 90", "7 CIT 199", "733 F.2d 873", "82 Cust. Ct. 343", "83 F.3d 1416", "9 C.F.R. § 301.2", "914 F. Supp. 548", "924 F.2d 232", "969 F. Supp. 66", "998 F. Supp. 1133"]
+cites_cases: ["1 CIT 302", "112 F.3d 481", "112 F.3d 488", "119 F.3d 969", "140 F.3d 1437", "19 CIT 1421", "19 U.S.C. § 1514", "1962 WL 10581", "1998 WL 72811", "1998 WL 928572", "28 U.S.C. § 1581", "28 U.S.C. § 2639", "28 U.S.C. § 2640", "28 U.S.C. § 2643", "34 C.C.P.A. 155", "35 F. Supp.2d 922", "35 F.3d 530", "45 C.C.P.A. 120", "46 C.C.P.A. 70", "46 F.3d 1098", "582 F.2d 622", "62 F.3d 1407", "65 C.C.P.A. 90", "733 F.2d 873", "83 F.3d 1416", "9 C.F.R. § 301.2", "914 F. Supp. 548", "924 F.2d 232", "969 F. Supp. 66", "998 F. Supp. 1133"]
 ---
 
 # North American Processing Co. v. United States
