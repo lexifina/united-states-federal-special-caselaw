@@ -1,0 +1,29 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1723"
+decided: "1955-07-28"
+citations: ["35 Cust. Ct. 67"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Ekwall and Johnson, Judges"]
+parties: ["Pacific Transport Lines, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/35/cases/0067-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6585058
+cites_cases: ["50 U. S. C. § 601", "55 Stat. 838"]
+---
+
+# Pacific Transport Lines, Inc. v. United States
+
+## Majority (Johnson, Judge:)
+
+Johnson, Judge:
+This is a protest, filed by Pacific Transport Lines, Inc., against the collector’s assessment of duty on two marine chronometers at $1.15 each and 17% per centum ad valorem under paragraph 368 of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, T. D. 51802. These items, together with other merchandise, were entered as American goods returned, free of duty under paragraph 1615 (a) of the Tariff Act of 1930, as amended. It is stated in the protest:
+These were U. S. Government owned chronometers placed aboard the government owned vessel, SS HOWARD STANSBURY, from the Maritime Administration warehouse at Richmond, California. These chronometers remained aboard the SS HOWARD STANSBURY until the vessel was deactivated at San Francisco at which time the chronometers were returned to the Maritime Administration warehouse at Richmond, California.
+According to the collector’s memorandum, duty was assessed on the ground that the chronometers were made in England and were liable to duty on importation into the United States.
+When this case was called for trial, there was no appearance on the part of Pacific Transport Lines, Inc., but William H. Thornton, Esq., appeared for the Department of Commerce, Maritime Administration. Counsel for the defendant stated that a stipulation had been entered into to substitute the United States as plaintiff instead of Pacific Transport Lines, Inc., on the ground that the assessment of duty herein was on chronometers on vessels which were under the control of the United States Maritime Administration. The trial judge granted an order of substitution at the opening of the hearing but ■later vacated the same and reserved decision for the division.
+The following pertinent facts appear from the testimony of John T. Halen, an attorney assigned to the office of the General Counsel, Maritime Administration, Pacific Coast District, and from certain explanatory statements made by Mr. Thornton: During World War II the United States'Maritime Commission (predecessor of the Maritime Administration) was faced with a shortage of sextants, chronometers, and other navigational instruments necessary to equip merchant vessels engaged in the war effort. Such instruments were obtained from a variety of sources, both in this country and abroad. Duty was waived on the instruments of foreign manufacture, pursuant to orders issued under Public Law 354 of 1941 (55 Stat. 838, 50 U. S. C. § 601), namely, Executive Orders No. 9177 and 9495 (50 U. S. C. [1946 ed.] following section 601). At the termination of the war, said instruments were removed from the vessels and stored in Maritime Commission warehouses. No data were kept which would indicate the vessel on which they had been used or where or from whom they were purchased originally. At the outbreak of the Korean War, many of the vessels in the reserve fleet were reactivated and instruments were reissued to them as needed. The chronometers involved herein were placed aboard the SS. Howard Stansbury sometime in 1950 and were removed therefrom in 1952 and delivered to the Maritime Administration warehouse at Richmond, Calif. At that time, duty was assessed thereon by the collector. Pacific Transport Lines, Inc., which had operated the vessel for the account of the Maritime Administration, under general agency agreement, paid the duty out of a special bank account set up by the Maritime Administration.
+As has been stated, the collector classified the merchandise as chronometers subject to duty under paragraph 368 of the Tariff Act of 1930, as amended. It is presumed that he found every fact to exist necessary to sustain that classification, and the plaintiff has the burden of overcoming tbe presumption of correctness attaching to his action and of establishing the correct classification of the merchandise. United States v. Zoltan Erdosi, 40 C. C. P. A. (Customs) 137, C. A. D. 509; Dorward & Sons Co. Pacific Vegetable Oil Corp. v. United States, 40 C. C. P. A. (Customs) 159, C. A. D. 512; United States v. Ameris Trading Co., 41 C. C. P. A. (Customs) 151, C. A. D. 542. Here, the presumption includes a finding that the merchandise was of foreign manufacture and was imported into the United States. No evidence to the contrary has been presented.
+Free entry under paragraph 1615 (a) of the Tariff Act of 1930, as amended, is provided for articles produced or manufactured in the United States, which, after exportation, have been returned, without having been advanced in value or improved in condition. In the case at bar, plaintiff’s witness was unable to give the origin of this merchandise, and there is nothing to show whether it was advanced in value or improved in condition while abroad. Therefore, it is not entitled to free entry under paragraph 1615 (a).
+Since the evidence herein is not sufficient to overcome the presumption of correctness attaching to the collector’s action, the protest must be overruled. Therefore, it is unnecessary to pass upon the motion for substitution of the United States as party plaintiff herein. Judgment will be rendered for the defendant, overruling the protest.
