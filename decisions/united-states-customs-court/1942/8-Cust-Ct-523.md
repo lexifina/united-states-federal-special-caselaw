@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "47207"
+decided: "1942-05-20"
+citations: ["8 Cust. Ct. 523"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 625765-G, etc., of W. R. Zanes & Co. (Galveston)."]
+source_url: "https://static.case.law/cust-ct/8/cases/0523-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6678472
+cites_cases: ["2 Cust. Ct. 385", "24 C. C. P. A. 343"]
+---
+
+# Protests 625765-G of Zanes
+
+## Majority (Kincheloe, J.)
+
+Opinion by
+Kincheloe, J.
+It was stipulated that the merchandise in question consists of cotton rags the same in all material respects as those the subject of United States v. Schapiro (24 C. C. P. A. 343, T. D. 48771) and Hagy Waste Works v. United States (2 Cust. Ct. 385, C. D. 162), and that the percentage-of rags in the shipments is the same as those held free of duty in the cited cases as rags used chiefly for paper making. The claim for free entry under paragraph 1750 was therefore sustained to the extent indicated in the stipulation.
