@@ -1,0 +1,101 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 98-06-02280"
+decided: "2000-02-17"
+citations: ["24 Ct. Int'l Trade 121", "86 F. Supp. 2d 1353"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Solvay Fluorides, Inc., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/24/cases/0121-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6098046
+cites_cases: ["112 F.3d 488", "21 F.3d 1079", "22 C.C.P.A. 464", "28 U.S.C. § 1581", "28 U.S.C. § 2639", "28 U.S.C. § 2640", "477 U.S. 242", "509 F.Supp. 1268", "665 F.2d 336", "69 C.C.P.A. 17", "976 F.2d 693"]
+---
+
+# Solvay Fluorides, Inc. v. United States
+
+## Majority (Wallach, Judge:)
+
+I
+Introduction
+Wallach, Judge:
+Plaintiff Solvay Fluorides, Inc. (“Solvay”) challenges Customs’ classification of its merchandise, trifluoroacetic acid (“TFA”). This Court has jurisdiction under 28 U.S.C. § 1581(a) (1994), and Customs’ classification decision is therefore subject to de novo review pursuant to 28 U.S.C. § 2640(a) (1994).
+This case comes before the Court on cross-motions for summary judgment pursuant to USCIT Rule 56. The Court finds that no genuine issues of material fact exist, and that the Defendant is entitled to judgment as a matter of law. Therefore, the Defendant’s Motion for Summary Judgment is granted, and the Plaintiffs Motion for Summary Judgment is denied.
+II
+Background
+Plaintiff is the importer of record of the TFA at issue. TFA is a saturated acyclic monocarboxylic acid imported by the Plaintiff from Germany. Defendant’s Statement of Additional Material Facts as to Which There is No Genuine Issue to be Tried (“Defendant’s Additional Statement”) at ¶ 2; Plaintiffs Response to Defendant’s Statement of Additional Material Facts as to Which There is No Genuine Issue to Be Tried (“Plaintiffs Response to Defendant’s Additional Statement”) at ¶ 2; Plaintiff s Statement of Material Facts as to Which it Contends There Is No Genuine Issue to Be Tried (“Plaintiffs Statement”) at ¶ 10; Defendant’s Response to Plaintiffs Statement of Material Facts (“Response to Plaintiffs Statement”) at ¶ 10.
+Customs classified the TFA under subheading 2915.90.18 of the Harmonized Tariff Schedule of the United States (HTSUS). That subheading carries a rate of duty of 4.2% ad valorem. Solvay contends that TFA should be classified under HTSUS 2915.21.00 with a duty rate of 1.8% ad valorem, or, alternatively, 2915.29.50, with a duty rate of 2.8% ad val-orem.
+Ill
+Standard and Scope of Review
+Summary judgment shall issue when “the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” USCIT Rule 56(d). Anderson v. Liberty Lobby, 477 U.S. 242, 247-48 (1986).
+The parties agree as to all facts material to the classification of TFA. They agree that TFA is a saturated acyclic monocarboxylic acid. Defendant’s Additional Statement at ¶ 2; Plaintiffs Response to Defendant’s Additional Statement at ¶ 2. They further agree that TFA is related to acetic acid, but is not itself acetic acid. Defendant’s Additional Statement at ¶¶ 5, 14; Plaintiffs Response to Defendant’s Additional Statement at ¶¶ 5, 14. These facts establish the proper classification.
+The Court has a duty to find the correct classification of the merchandise. Jarvis Clark Co. v. United States, 733 E2d 873, 878 (Fed. Cir. 1984). There is a statutory presumption of correctness in favor of the Government’s classification. 28 U.S.C. § 2639(a)(1). However, the presumption of correctness does not apply to this classification because there is no genuine issue of material fact. Universal Electronics Inc. v. United States, 112 F.3d 488, 492 (Fed. Cir. 1997) (“[Ajlthough the presumption of correctness applies to the ultimate classification decision * * * the presumption carries no force as to questions of law.”). Therefore, the Court sets about finding the correct classification without any presumption in favor of either party.
+IV
+Analysis
+The parties agree that TFA is a saturated acyclic monocarboxylic acid. Defendant’s Additional Statement at ¶ 2; Plaintiffs Response to Defendant’s Additional Statement at ¶ 2. The Court finds, and the parties agree, that the proper classification of TFA is therefore within heading 2915, “Saturated acyclic monocarboxylic acids.”
+The Government argues that the proper classification is subheading 2915.90.18, “Other” saturated acyclic monocarboxylic acids. Under this subheading the imported TFA is subject to a rate of duty of 4.2% ad valo-rem.
+The Plaintiff argues that TFA should be classified under the subheading for acetic acid. Within this subheading the Plaintiff advances two alternative arguments. First, it argues that TFA is classifiable as acetic acid itself under subheading 2915.21.00 and thereby subject to a rate of duty of 1.8% ad valorem. Alternatively, it says TFA is classifiable as an “Other” acetic acid, salt of acetic acid, or acetic anhydride under subheading 2915.29.50, and thereby subject to a rate of duty of 2.8% ad val-orem.
+Statutory analysis leads the Court to agree with the Government. TFA is correctly classified under 2915.90.18, “Other” saturated acyclic monocarboxylic acids.
+A
+General Rules of Interpretation 1 and 6 Require Classification Under Subheading 2915.90.18 Because TFA is Not Acetic Acid and Because There is an “Other” Subheading in the “Series Of Subheadings Concerned”
+The General Rules of Interpretation (GRI) govern the interpretation and application of the HTSUS. GRI 1 states that “for legal purposes, classification shall be determined according to the terms of the headings and any relative section or chapter notes.” GRI 6 states that “for legal purposes, the classification of goods in the subheadings of a heading shall be determined according to the terms of those subheadings and any related subheading notes and * * * on the understanding that only subheadings at the same level are comparable.”
+1
+By the Terms of the Headings and Subheadings, TFA Cannot Fall Under the Subheading “Acetic Acid” Because it is Not Acetic Acid
+When reading a series of headings and subheadings in the process of classifying merchandise, the Court must read the series in logical sequence and in accordance with the General Rules of Interpretation. First, the Court looks for a proper heading for the merchandise, following GRI 1. Heading 2915 is titled “Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulfonated, nitrated or nitrosated derivatives.” It is undisputed that TFA is a saturated acyclic monocarboxlyic acid. Defendant’s Additional Statement at ¶ 2; Plaintiffs Response to Defendant’s Additional Statement at ¶ 2. Furthermore, the Court does not find any more specific headings in the tariff schedule, and there are no Explanatory Notes to indicate that any other heading would be correct. Therefore, TFA is classified within heading 2915.
+Next, the Court must look for a proper subheading, following GRI 6. Since heading 2915 consists of a series of various levels of subheadings, the Court first looks only at the subheadings indented once. These are the subheadings of the same level and are comparable only to each other under GRI 6. It is from this series of subheadings that the Court must choose. The possibilities are:
+Formic acid, its salts and esters;” H
+“Acetic acid and its salts; acetic anhydride;” cq
+“Esters of acetic acid;” CO
+“Mono-, di- or trichloroacetic acids, their salts and esters;” ^
+“Propionic acid, its salts and esters;” id
+“Butyric acids, valeric acids, their salts and esters;” CD
+7. “Palmitic acid, stearic acid, their salts and esters;” and
+8. “Other.”
+The parties agree that TFA is not formic acid; an ester of acetic acid; mono-, di-, or trichloroacetic acid; propionic acid; butyric acid; or pal-mitic acid. Defendant’s Additional Statement at ¶¶ 23, 25-29; Plaintiffs Response to Defendant’s Additional Statement at ¶¶ 23, 25-29. The parties farther- agree that TFA is not a salt of acetic acid or acetic anhydride. Defendant’s Additional Statement at ¶ 24; Plaintiffs Response to Defendant’s Additional Statement at ¶ 24. Therefore, the Court finds that TFA is not classified under any of the subheadings bearing those titles.
+The last remaining choices are “acetic acid” and “other.” As stated earlier, the parties agree that TFA is not acetic acid. Defendant’s Additional Statement at ¶ 14; Plaintiffs Response to Defendant’s Additional Statement at ¶ 14. It therefore cannot be classified under the first of those choices. By elimination, it must be classified under the “other” provision.
+Once in the “Other” subheading, the Court must continue the analysis through the other levels of subheadings. The parties agree that TFA is not any of the items listed in the specific subheadings here. Defendant’s Additional Statement at ¶¶ 30-31; Plaintiffs Response to Defendant’s Additional Statement at ¶¶ 30-31. The parties also agree that TFA is not acetic acid. Defendant’s Additional Statement at ¶ 14; Plaintiffs Response to Defendant’s Additional Statement at ¶ 14. Therefore, according to GRI 1 and GRI 6, TFA cannot be classified in a subheading for acetic acid. Therefore, the Court finds that TFA can only be classified under the residual “other” provision, 2915.90.18, with the full classification reading as follows:
+2915 Saturated acyclic monocarboxylic acids and their anhy-drides, halides, peroxides and peroxyacids; their halogenated, sulfonated, nitrated or nitrosated derivatives:
+‡ ‡ ‡ ‡ ‡ $ ‡
+Acetic acid and its salts; acetic anhydride:
+2915.90 Other:
+Acids:
+Other:
+‡ ‡ ‡ ‡ ‡ ‡ ‡
+2915.90.18 Other.
+2
+Solvay’S Argument That the Explanatory Notes to Heading 2915 Mandate Classification as Acetic Acid Fails Because an “Other” Provision Exists in “The Series of Subheadings Concerned”
+The Explanatory Notes for the heading are not binding on the Court, but are guidance for the Court in interpreting tariff provisions. Mita Copystar America v. United States, 21 F.3d 1079, 1082 (Fed.Cir. 1994); Lynteq, Inc. v. United States, 976 F.2d 693, 699 (Fed. Cir. 1992); H.R. Conf. Rep. No. 100-576, 100th Congress., 2d Sess. 549 (1988), reprinted in 1988 U.S.C.C.A.N. 1547, 1582.
+Plaintiff argues that Subheading Note 1 to Heading 2915 mandates classification of TFA under acetic acid, subheading 2915.21.00. The Note reads:
+Within any one heading of this Chapter, derivatives of a chemical compound (or group of chemical compounds) are to be classified in the same subheading as that compound (or group of compounds) provided that they are not more specifically covered by any other subheading and that there is no residual subheading named “Other” in the series of subheadings concerned.
+Explanatory Notes at 342.
+Plaintiff argues that this Note mandates that TEA, a derivative of acetic acid, be classified under 2915.21.00 as acetic acid. This argument fails by the authority of the Note itself. This rule of classifying derivatives with their parent chemicals only applies if there is no “other” provision available. The “other” provision employed by Customs in its classification of TFA was within “the series of subheadings concerned” and applies. This result is reached through application of GRI 6, as illustrated above.
+B
+Solvay’S Argument That 2915.21.00 is an Eo Nomine Provision And That Therefore All Forms of Acetic Acid, Including TFA, Must be Classified Under Acetic Acid Fails Because There is Demonstrated Legislative Intent That the Provision Not Include All Forms of Acetic Acid
+The plain meaning of the statute is enough to find the classification proper under 2915.90.18. However, Plaintiff also argues that 2915.21.00 is an eo nomine provision, and that all forms of acetic acid are thus included as acetic acid. This argument fails because a close reading of the tariff heading makes it clear that subheading 2915.21.00 was not intended to include all forms of acetic acid.
+Eo nomine provisions are those which list merchandise by a specific name, usually a name well known to commerce. J. E. Mamiye & Sons, Inc. v. United States, 509 F.Supp. 1268, 1274 (Cust. Ct. 1980), aff’d, 69 C.C.P.A. 17, 665 F.2d 336 (1981). Absent contrary legislative intent, judicial decision, administrative practice, or limitation in the tariff provision itself, and absent proof of commercial designation, eo nomine provisions are presumed to include all forms of the article. See Nootka Packing Co. v. United States, 22 C.C.P.A. 464, 470 (1935). In this case contrary legislative intent is evidenced in both the tariff schedule and the Explanatory Notes.
+Fluorine, present in TFA, is one of five elements known as the halogen group. The others are chlorine, bromine, iodine, and astatine. Webster’s Third New International Dictionary of the English Language Unabridged at 1023 (1986). In the tariff heading there is a subheading separate from acetic acid for mono-, di-, and trichloroacetic acids, 2915.40. The Explanatory Notes indicate that mono-, di-, and tribromoacetic acids are classified in the “other” category applied in this case by Customs. Explanatory Notes at 385, Note (IX)(d) to Heading 2915. There is no specific subheading or Explanatory Note regarding trifluoroacetic acid.
+Subheading 2915.40 specifically provides for acetic acid halogenated by one halogen, chlorine, “Mono-, di-, and trichloroacetic acids.” This subheading is indented once, so under GRI6 it is comparable to the subheading for “Acetic acid.” Thus, acetic acid halogenated by chlorine cannot be classified under subheading 2915.21.00, as acetic acid, since to do so would conflict with the statutory scheme.
+The Explanatory Notes specifically refer to another halogen, bromine in mono-, di-, and tribromoacetic acids, by stating that such acids are to be classified as “other.” There is no indication to this Court that one of the other halogenated acetic acids, here trifluoroacetic acid, should not also be classified as “other,” absent a specific tariff subheading such as exists for chloroacetic acids. Flaintiff was unable at oral argument to give the Court any legitimate reason why TFA should not be classified with mono-, di-, and tribromoacetic acid.
+If the drafters of the Harmonized Tariff Schedule intended for halogenated acetic acids to be classified with acetic acid, there would not be included in the Explanatory Notes a specific provision regarding mono-, di-, and tribromoacetic acids, and there would not exist a separate tariff section for mono-, di-, and trichloroacetic acids. The logical conclusion from what has been provided is that unless specifically enumerated in a tariff heading or subheading, halogenated acetic acids are to be classified as “other.”
+This contrary legislative intent prevents subheading 2915.21.00 from including all forms of acetic acid. Therefore, Plaintiffs argument that it is an eo nomine provision requiring the inclusion of all forms of acetic acid fails.
+V
+Conclusion
+The Court finds that no genuine issues of material fact exist between the parties, and that the Government is entitled to judgment as a matter of law. The Court holds that the GRI and a practical reading of the HTSUS mandate that the proper classification for TFA is subheading 2915.90.18, “Other” saturated acyclic monocarboxylic acids. Therefore, Defendant’s Motion for Summary Judgment is granted, and Plaintiffs Motion for Summary Judgment is denied.
+Heading 2915 of the HTSUS reads:
+2915 Saturated acyclic monocarboxylic acids and their anhydrides, halides, peroxides and peroxyacids; their halogenated, sulfonated, nitrated or nitrosated derivatives:
+The HTSUS provisions argued by the parties are all within heading 2915. The Court has an independent duty to find the correct tariff classification regardless of the provisions advanced by the parties. Jarvis Clark, 733 F.2d at 878 (“[T]he court’s duty is to find the correct result, by whatever procedure is best suited to the case at hand.”). However, under the stipulated facts before the Court, there is no other HTSUS heading that would provide for TFA.
+Each of these items is a subheading indented once below heading 2915.
+The Harmonized Commodity Description and Coding System, Explanatory Notes (2d ed, 1996) (“Explanatory Notes”) are the official interpretation of the scope of the Harmonized Commodity Description and Coding System (which served as the basis of the HTSUS) as viewed by the Customs Cooperation Council, the international organization that drafted the international nomenclature. Thus, while the Explanatory Notes “do not constitute controlling legislative history/' they “nonetheless are intended to clarify the scope of HTSUS subheadings and to offer guidance in interpreting its subheadings.” Mita Copystar Am., v. United States, 21 F.3d 1079, 1082 (Fed. Cir. 1994) (citing Lynteq, Inc. v. United States, 976 F.2d 693, 699 (Fed. Cir. 1992)). The Explanatory Notes are “generally indicative of proper interpretation of the various provisions of the [Harmonized Tariff System] * * *.” Lynteq, 976 F.2d at 699 (quoting H.R. Conf.Rep. No. 100-576 (1988), reprinted in 1988 U.S.C.C.A.N. 1547, 1582.).
+Explanatory Notes at 385, Note (IX)(d) to Heading 2915, reads:
+(IX) Other products of this heading include:
+*******
+(d) Mono-, di- and tribromoacetic acids and their salts and esters.
+At oral argument the following colloquy occurred after the Court pointed out that bromoacetic acid was specifically listed as “other” under Note (IX)(d):
+Plaintiffs counsel: Right * * * This is addressed specifically by the explanatory notes.
+The Court: What does that do to your argument?
+Plaintiffs counsel: It doesn’t help.
+*******
+The Court: * * * [I]t hurts you badly.
+Plaintiffs counsel: It does. I’m aware of that. Having gotten into the case, we pursued it as best we could for our client, at their direction. But that is correct, I couldn’t — my reading of the tariff would follow the same rationale.
+Transcript of February 3,2000 oral argument at 7-8.
