@@ -1,0 +1,42 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4463; Court Nos. 69/26905, 69/28668, and 69/29005"
+decided: "1973-08-07"
+citations: ["71 Cust. Ct. 12"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Parksmith Corporation v. United States"]
+source_url: "https://static.case.law/cust-ct/71/cases/0012-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6571221
+cites_cases: ["113 F. 2d 853", "273 F. Supp. 384", "306 F. Supp. 440", "311 U.S. 693", "41 CCPA 161", "56 CCPA 77", "59 Cust. Ct. 276", "63 Cust. Ct. 200"]
+---
+
+# Parksmith Corp. v. United States
+
+## Majority (Watson, Judge:)
+
+Watson, Judge:
+In these cases, consolidated for the purpose of trial, the court is asked to decide whether the merchandise in question was properly classified under TSUS item 654.20 as “Articles not specially provided for of a type used for household, table, or kitchen use * * *” or, in one instance, under TSUS item 653.80 as, “Articles, wares and parts of base metal, coated or plated with precious metal: * * * Coated or plated with silver”. The merchandise consists of small replicas of the Empire State Building and the Statue of Liberty and miniature cannons of varying sizes which were made in and exported from Japan and imported into the United States at the port of New York. Plaintiff alleges that said merchandise is properly classifiable under TSUS item 657.75 as “Articles of lead, not coated or plated with precious metal: * * * Valued over 13% cents per pound”.
+The Statutes Involved
+Classified under:
+Articles not specially provided for of a type used for household, table, or kitchen use; * * * all of the foregoing and parts thereof of metal:
+*******
+Articles, wares and parts of base metal, coated or plated with precious metal:
+*******
+653.80 Coated or plated with silver_ 15% ad val. Articles * * * of base metal, not coated or, plated with precious metal:
+* ******
+654.20 Other 15% ad val. 17% ad val.
+Claimed under:
+Articles of lead, not coated or plated with precious metal:
+* ¡a * # m * h=
+657.75 Valued over 13% cents per pound_ 11.25% ad val. 10% ad val.
+The testimony of four witnesses for the plaintiff establishes, to the satisfaction of the court, that the importations in question are souvenirs. As such, they lack any utilitarian nature and are primarily decorative objects. This disposes of one of defendant’s subsidiary arguments that the importations may have utilitarian functions such as paperweights. By the nature of physical properties, there will always be objects that are heavier than others. As such, they might be used as paperweights. But an object whose main function is to be a paperweight would be shaped and weighted in a manner more conducive to this task. The size, shape and stability of the articles in question do not support this hypothesis.
+The main issue in this case is whether the articles in question are “Articles not specially provided for of a type used for household, table, or kitchen use”. Plaintiff argues, based on this language and various passages in the Brussels Nomenclature, that this statutory provision applies only to utilitarian objects. Defendant bases its case on a change in language in the “household” provision between the 1930 Tariff Act and the new law. It claims that the omission of the word “utensils” previously used in paragraph 339 of the Tariff Act of 1930, and the insertion of the word “articles” in the TSTTS language, changed the emphasis from the functional nature of the articles to the place in which they are found.
+However, if we look closely at the exact phraseology of the new law, i.e., “Articles not specially provided for of a type used for household, table, or kitchen use”, the emphasis on utility remains apparent. The new law, although changed in language, uses words in a manner which unavoidably suggests an emphasis on utilitarian function. I give great weight to the repeated presence of forms of the word “use” and the specific mention of areas of the house which are peculiarly associated with utilitarian purposes. The kitchen is a particularly utilitarian room and the table as well, has for the most part, strong utilitarian associations. In short, in my opinion the phrase “household, table, or kitchen use” strongly implies usefulness in those areas and requiring usefulness is a reasonable interpretation of the plain meaning of the phrase.
+When the meaning of the law is clear, as I believe this one is, we need not ordinarily go into more indeterminate areas such as legislative history or the use of the Brussels Nomenclature. It must be noted, nevertheless, that there has been a change in the language of the law, from the “household utensils” of the 1930 Act to the present language and, for the sake of completeness, the possibility that the change was intended to have a bearing on the coverage of non-utilitarian articles found in the house should be examined. As is well known, the term “household utensils” under the 1930 Act covered only utilitarian articles. (L. Tobert Co., Inc., et al. v. United States, 41 CCPA 161, 163, C.A.D. 554 (1953).) I have been unable to find any support for the view that the new language was intended to work a change in this specific respect. Although a change in language always raises the possibility of a change in meaning this has not been proven to be the case here, particularly in light of the fact that the TSUS represents a complete and comprehensive revision of a prior law. As was stated in Ohlahoma Tax Commission v. Stanolind Pipe Line Co., 113 F. 2d 853 (1940), cert. denied, 311 U.S. 693 (1940):
+* * * It is a general rule of construction that by amending a statute the legislature intended to make a substantial change in the preexisting law. But like others, that rule has its exceptions. It is not every change in phraseology that indicates a desired change in substance and effect. It may be made for the purpose of expressing more clearly and accurately the same intent or to improve diction. Or it may be to meet a new and unanticipated condition brought about by judicial interpretation of the preexisting law.. And while the presumption to effect a change m substance is fairly strong in the case of an isolated, independent amendment, it has much less persuasive force in a case of this hind where the new enactment is a generad, comprehensive tax code. * * * [Emphasis supplied.]
+Plaintiff has cited the corresponding passages in the Brussels Nomenclature to support its claim. I feel that the Brussels Nomenclature can be used only when there is ambiguity in the meaning and when the language in the law is almost identical to that in the Brussels Nomenclature, F. L. Smidth & Company v. United States, 59 Cust. Ct. 276, C.D. 3141, 273 F. Supp. 384 (1967), aff'd, 56 CCPA 77, C.A.D. 958 (1969); W. R. Filbin & Co., Inc. v. United States, 63 Cust. Ct. 200, C.D. 3897, 306 F. Supp. 440 (1969). The language of the TSUS, though bearing a slight similarity to that of the Brussels Nomenclature, does not justify use of the Brussels Nomenclature for interpretive purposes. Ambiguity in phraseology can justify the search for legislative history or the use of the Brussels Nomenclature but this language is not ambiguous; its meaning is clear so we need not look any further.
+For the reasons set out above together with defendant’s admission that the importations are in chief value of lead, valued over 13y$ cents per pound, I feel the importations in question should be classified pursuant to TSXJS item 657.75.
+Judgment will issue accordingly.
