@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "64129; protest 59/27489 (New York)"
+decided: "1960-04-28"
+citations: ["44 Cust. Ct. 443"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["“21” Brands, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0443-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6627113
+cites_cases: ["34 C.C.P.A. 112"]
+---
+
+# "21" Brands, Inc. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+It was stipulated that the facts and issues herein are similar in all material respects to those involved in United States v. Browne Vintners Co., Inc. (34 C.C.P.A. 112, C.A.D. 351) and that the quantities reported by the inspector as manifested, not found, were not in fact received by the importer. In accordance with stipulation of counsel and following the decision cited, it was held that duty and internal revenue tax are not assessable upon such portions of the merchandise as were reported by the inspector as manifested, not found. The protest was sustained to this extent.
