@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "64645; protest 59/26459 (New York)"
+decided: "1960-10-05"
+citations: ["45 Cust. Ct. 303"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Verona Dyestuffs v. United States,"]
+source_url: "https://static.case.law/cust-ct/45/cases/0303-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6600208
+---
+
+# Dyestuffs v. United States
+
+## Majority (Wilson, J.)
+
+Opinion by
+Wilson, J.
+In accordance with stipulation of counsel that the merchandise is a product chiefly used as an assistant in preparing or finishing textiles, the claim of the plaintiff was sustained.
