@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "65996; protest 274713-K (Galveston)"
+decided: "1961-08-28"
+citations: ["47 Cust. Ct. 291"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J. F. Garvey Company v. United States,"]
+source_url: "https://static.case.law/cust-ct/47/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6588192
+cites_cases: ["47 C.C.P.A. 163"]
+---
+
+# Garvey v. United States
+
+## Majority (Donlon, J.)
+
+Opinion by
+Donlon, J.
+In accordance with stipulation of counsel that the merchandise and issues are similar in all material respects to those involved in United States v. The Best Foods, Inc. (47 C.C.P.A. 163, C.A.D. 751), the claim of the plaintiff was sustained.
