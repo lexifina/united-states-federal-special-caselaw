@@ -1,0 +1,36 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3906"
+decided: "1969-10-23"
+citations: ["63 Cust. Ct. 261"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Ford, Judges"]
+parties: ["J. M. Altieri v. United States"]
+source_url: "https://static.case.law/cust-ct/63/cases/0261-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573063
+cites_cases: ["15 Ct. Cust. Appls. 218", "16 Ct. Cust. Appls. 91", "17 CCPA 400", "52 CCPA 11", "53 CCPA 28", "53 CCPA 94", "7 Ct. Cust. Appls. 353", "7 Ct. Cust. Appls. 360", "8 Ct. Cust. Appls. 179", "91 Treas. Dec. 150"]
+---
+
+# Altieri v. United States
+
+## Majority (FoRd, Judge:)
+
+FoRd, Judge:
+The cases listed in schedule “A,” attached hereto and made a part hereof, were consolidated for the purpose of trial. The merchandise covered by said cases consists of various parts for Allis-Chalmers tractors designated as HD-5, HD-6, HD-9, HD-11 and Caterpillar D-6. The collector of customs at San Juan, Puerto Rico, classified said parts under the provisions of paragraph 372, Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108, as parts of machines, not specially provided for, and assessed duty thereon at the rate of 11% per centum ad valorem.
+Plaintiff contends the parts are used in agricultural tractors and that the entries are properly subject to classification under the provisions of paragraph 1604, Tariff Act of 1930, as parts of agricultural implements. As such, plaintiff contends he is entitled to entry free of duty.
+The pertinent portions of the provisions involved read as follows:
+Paragraph 372 of the Tariff Act of 1930, as modified by T.D. 54108:
+Machines, finished or unfinished, not specially provided for:
+* * * * $ * *
+Other (except food preparing and manufacturing machinery; hydraulic reaction turbines and hydraulic impulse wheels; internal-combustion engines; and except wrapping and packaging machinery)-11%% ad val.
+Parts, not specially provided for, wholly or in chief value of metal or porcelain, of any article provided for in any item 372 in this Part— The rate for the article of which they are parts.
+Paragraph 1604 of the Tariff Act of 1930:
+Agricultural implements: Plows, tooth or disk harrows, headers, harvesters, reapers, agricultural drills, and planters, mowers, horserakes, cultivators, thrashing machines, cotton gins, machinery for use in the manufacture of sugar, wagons and carts, cream separators valued at not more than $50 each, and all other agricultural implements of any kind or description, not specially provided for, whether in whole or in parts, including repair parts: Provided, that no article specified by name in Title I shall be free of duty under this paragraph.
+The issue thus presented is whether certain alleged parts are used in tractors which tractors are chiefly used for agriculture. At the outset, before considering the merits, it is necessary for us to consider the motion of defendant, in its brief, to strike plaintiff’s exhibits 1, 2, 3 and 4. These exhibits consist of catalogues for particular tractors which were published by Allis-Chalmers, the manufacture of the tractors, and contain a list of parts together with the numbers thereof. These exhibits were received in evidence subject to being connected. It appears from the record that the involved parts were ordered from a German manufacturer, not Allis-Chalmers, by the numbers designated in exhibits 1, 2, 3 and 4. There has been no evidence offered to establish any connection between the German manufacturer or Allis-Chalmers, if there be one, or that the parts designated by Allis-Chalmers’ numbers -were the same articles as those manufactured by the German manufacturer. These exhibits not having been connected as directed by the court are hereby stricken from the record.
+Even if the exhibits were not stricken, plaintiff has failed to establish a prima facie case. It is well-established in this field of jurisprudence that the classification of the collector is presumed correct. Alintex, Inc. and Fred P. Gaskell Co., Inc. v. United States, 53 CCPA 94, C.A.D. 883 (1966). The burden is on plaintiff to establish by substantial evidence that the classification is incorrect and that the contended classification is correct. Novelty Import Co., Inc. v. United States, 53 CCPA 28, C.A.D. 872 (1966).
+In order to overcome this burden, it was incumbent upon plaintiff to establish the merchandise involved to be (1) “parts” and (2) of tractors (which are for tariff purposes implements) chiefly used for agricultural purposes. United States v. Ducommun Hardware Co., 7 Ct. Cust. Appls. 353, T.D. 36904 (1916); United States v. Irwin & Co., 7 Ct. Cust. Appls. 360, T.D 36906 (1916); Richardson Co. v. United States, 8 Ct. Cust. Appls. 179, T.D. 37289 (1917); United States v. Lewis & Conger, 16 Ct. Cust. Appls. 91, T.D. 42753 (1928); United States v. Spreckels Creameries Inc., 17 CCPA 400, T.D. 43835 (1930). The proof necessary to establish the article to be a “part” for tariff purposes is that the merchandise be dedicated to use in the article it is claimed to be a part of. The nature, function and purpose of the so-called part in relation to the article is also a factor for consideration. Gallagher & Ascher Company v. United States, 52 CCPA 11, C.A.D. 849 (1964). The record is devoid of any evidence which establishes the nature, function or purpose of the various parts involved in the importations before the court. The only evidence before the court is that the so-called parts were ordered for specific tractors by the number designated for such part by the manufacturer of the tractors. Said parts were not, however, purchased from the manufacturer of the tractors.
+Even if we were to consider said importations to be “parts” for tariff purposes, the burden imposed upon plaintiff of establishing the tractors to be chiefly used for agriculture, has not been met. The record does establish that the HD-5, 6, 9, 11 and the D-6 are chiefly used by the Land Authority (the actual importer herein) for agricultural purposes. The witnesses have seen the tractors designated, supra, “mostly used in agriculture” but one witness had seen the HD-6 used in slush pits in oil fields; the IID-6 and 11 in bulldozer operations; the HD-5, 6 and 9 for some industrial purposes and construction. Evidence of this character falls short of meeting the necessary criteria of establishing chief use. It is necessary to adduce evidence of chief use throughout the United. States. Local or partial use is insufficient. Pacific Guano & Fertilizer Co. et al. v. United States, 15 Ct. Cust. Appls. 218, T.D. 42240 (1927). Therefore, even if sufficient evidence had been adduced to establish the chief use of the tractors to be for agricultural purposes, in the limited area covered by the witnesses, there is nevertheless insufficient evidence to establish such use as being other than partial.
+In view of the foregoing the claims in the protests are overruled. Judgment will be entered accordingly.
