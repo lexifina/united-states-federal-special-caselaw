@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "53418; protest 139622-K/12946 (New Orleans)"
+decided: "1949-07-18"
+citations: ["23 Cust. Ct. 139"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Alcoa Steamship Company, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/23/cases/0139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6611045
+---
+
+# Alcoa Steamship Co. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+Prom an examination of the papers the court was unable to find any evidence sufficient to overcome the action of the collector, which was presumptively correct. The protest was therefore overruled.'
