@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "48883"
+decided: "1943-10-16"
+citations: ["11 Cust. Ct. 288"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 32888-K, etc., of Barrett & Co. et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/11/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672100
+---
+
+# Protests 32888-K of Barrett
+
+## Majority (Walker, J.)
+
+Opinion by
+Walker, J.
+Following the authorities cited in Abstract 15400 the court dismissed the protests.
