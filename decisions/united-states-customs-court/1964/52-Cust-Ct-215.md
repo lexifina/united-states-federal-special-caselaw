@@ -1,0 +1,49 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2463"
+decided: "1964-06-17"
+citations: ["52 Cust. Ct. 215"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Lawrence, Bao, and Ford, Judges"]
+parties: ["Atkinson, Haserick & Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/52/cases/0215-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6575578
+cites_cases: ["17 CCPA 400", "29 Cust. Ct. 62", "31 CCPA 149", "82 Treas. Dec. 305", "83 Treas. Dec. 223"]
+---
+
+# Atkinson, Haserick & Co. v. United States
+
+## Majority (FoRD, Judge:)
+
+FoRD, Judge:
+By this action, plaintiff seeks to recover a portion of the duty assessed by the collector of customs at Norfolk, Va., on certain spinning or twister spindles, which were classified under paragraph 372 of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T.D. 51802, as parts of textile machinery for manufacturing or processing fibers other than vegetable fibers, which rate is 20 per centum ad valorem. The three suits listed in schedule “A,” attached hereto and made a part hereof, were consolidated for the purpose of trial.
+Plaintiff claims said merchandise to be properly dutiable at only 10 per centum ad valorem under the same basic provision of paragraph 372, as modified, supra, and as further supplemented by Presidential proclamation, 83 Treas. Dec. 223, T.D. 51939, which provides for textile machinery for manufacturing or processing vegetable fibers. It is the position of plaintiff that said merchandise consists of parts of “Cotton System Machines” and, hence, falls within this portion of said paragraph, as modified, supra, even though they are also used on synthetic fibers.
+The pertinent text of paragraph 372 of the Tariff Act of 1930, as modified and supplemented, mpra, reads as follows:
+Textile machinery, finished or unfinished, not specially provided for (except looms and machinery for making- synthetic textile filaments, bands, strips, or sheets) :
+For textile manufacturing or processing prior to the making of fabrics or woven, knit, crocheted, or felt articles not made from fabrics (except bleaching, printing, dyeing, or finishing machinery) :
+For manufacturing or processing vegetable fibers, except winding, beaming, warping and slashing ma-
+chinery and combinations thereof)_10% ad val.
+* *<■«>** *
+Other-20% ad val.
+The record herein consists of the testimony of four witnesses called on behalf of plaintiff and six exhibits. Plaintiff’s illustrative exhibit 1 was received in evidence as illustrative of spindles in general, and illustrative of the merchandise covered by protest 61/12130 in particular, and may be used for either spinning or twisting. Plaintiff’s exhibit 2 is Department of Commerce Bulletin 196, entitled “Cotton Production and Distribution.” Plaintiff’s exhibits 3 and 4 are samples of 8-inch and 9-inch lift twister spindles, identical to the imported merchandise. Plaintiff’s illustrative exhibits 5 and 6 are Department of Commerce Bulletins 197 and 198, respectively.
+Summarized, the record establishes that the imported spindles are parts of textile machinery for textile manufacturing or processing prior to the making of fabrics, which machines were designed some 30 or 40 years ago. The imported spindles are replacements for said equipment and are identical to the original parts, with the exception of the metal, which has been improved, and the use of ball bearings. Exhibit 1, representing the merchandise covered by protest 61/12130, by virtue of its size, may be used for either spinning or twisting, while exhibits 3 and 4 represent the balance of the merchandise covered by the protest under consideration and are twister spindles. The difference between plaintiff’s exhibits 3 and 4 is dimensional and not functional. The spindle is placed on a spindle rail on either a spinning frame or a twister frame and is fastened there by means of a nut. The spindle is then driven to a band or a tape which causes it to revolve and carries the bobbin upon which the yarn is wound.
+Basically, the spinning process is the drafting of the fibers and the insertion of a twist therein to produce a yarn of a given size. Twisting is a process where additional twist is inserted into the yarns or two or more of said yarns are twisted together into a cord. The existing frames, twister or spinning, were originally designed some 30 or 40 years ago for the processing of cotton fibers under what is known as the “Cotton System.” These existing frames can and are still used for the processing of synthetics without any rebuilding or modification of the frames, provided the synthetic fibers are cut to the proper length, except in the spinning process where an adjustment of the drafting zone of the spinning frames may be necessary to accommodate the longer synthetic fibers. No adjustment is necessary on the twister frame, nor is there any requirement for any modification or adjustment of the spindles in either process.
+The record further establishes that the imported spindles are used by the United States Rubber Co. in the processing of nylon for use as automobile tire cord. There is a twister frame designed exclusively for synthetics which does two operations at the one time, both plying and cabling. While over 50 percent of the use at United States Rubber Co. is for synthetics, the witnesses testified that the imported spindles were designed for use on cotton spinning or twisting frames. The record also discloses that the witnesses have seen spindles identical to the imported merchandise used to process cotton.
+The record further establishes that the synthetic textile industry, in its infancy in trying to develop its market, built its product around the “Cotton System” in order to utilize the existing equipment in the textile mills. It is obvious, as pointed out by Witness McVey, that cotton is a “God-given fiber,” having a staple length of about 1%6 inches.
+By virtue of the classification of the collector of customs, plaintiff contends that the following presumptions flow:
+1. The spindles are “parts.”
+2. They are wholly or in chief value of metal.
+3. They are parts of machinery for textile processing prior to the making of fabrics.
+4. They are not parts of machinery for processing vegetable fibers.
+Plaintiff relies upon the first three presumptions under the theory discussed in Walco Bead Co., Inc. v. United States, 29 Cust. Ct. 62, C.D. 1445, wherein it was held that plaintiff has the right to rely upon the presumptions arising from classification. In addition thereto, defendant, in its brief, agrees that the imported spindles are parts of textile machinery used prior to the making of fabrics, citing Brandon Corporation v. United States, 31 CCPA 149, C.A.D. 266. Accordingly, the issue presented is whether the imported spindles are parts of textile machinery for processing vegetable fibers or fall within the provision “Other,” since they are also used on synthetic fibers.
+The record establishes that the merchandise is not winding, beaming, warping, or slashing machinery, or combinations thereof, which are excepted from the provision claimed herein.
+It appears from the record that the imported spindles are replacement parts for the original spindles used on certain “Cotton System” spinning and twister frames. Since the bulk of the items are twister spindles, we will direct ourselves to them first.
+The record established, without contradiction, that the machines upon which the imported spindles are used are cotton twister frames which were designed 30 or 40 years ago, and which may be, and the imported spindles are in fact, used for synthetic fibers without any change, modification, rebuilding, or adjustment of either the frames or the spindles. The record further establishes that the synthetic textile industry, in its infancy in order to utilize existing machinery in the mills, followed the “Cotton System.” Hence, any synthetic fiber which is cut to the proper length may be twisted on the twister frames for which the imported spindles, such as plaintiff’s exhibits 3 and 4, were designed. The mere fact that the imported spindles were sold to a company which is using them for the preparation of synthetic fibers is immaterial. It is not the use of the particular shipment but rather the use of the particular class or type of goods that is controlling. United States v. Spreckels Creameries, Ine., 17 CCPA 400, T.D. 43835.
+The evidence adduced herein establishes that the witnesses have by and large visited all the principal textile manufacturing areas in the United States and most, if not all, of the mills which utilize twister and spinning frames. While the use of synthetics is increasing, we are convinced that the spindles were, and are, chiefly used for the preparation of vegetable fibers.
+Insofar as the spinning operation is concerned, which may be accomplished by spindles, such as plaintiff’s illustrative exhibit 1, the testimony, in conjunction with the statistics of the United States Department of Commerce Bulletins, plaintiff’s exhibits 2, 5, and 6, substantiates the fact that the chief use of spinning spindles is for cotton.
+In view of the foregoing, we find that the imported spindles are parts of textile machinery for textile manufacturing or processing prior to the making of fabrics, under the provision of said paragraph 372, as modified and supplemented, supra, “For manufacturing or processing vegetable fibers * * which provides for a rate of duty of 10 per centum ad valorem, as claimed by plaintiff herein.
+To the extent indicated, the specified claim in the involved suits is sustained; in all other respects and as to all other merchandise, all the claims are overruled.
+Judgment will be rendered accordingly.
