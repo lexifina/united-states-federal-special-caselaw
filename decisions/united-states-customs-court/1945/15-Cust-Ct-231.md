@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "50335"
+decided: "1945-07-05"
+citations: ["15 Cust. Ct. 231"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 788434-G, etc., of M. S. & J. A. Workman, Inc. (New York)."]
+source_url: "https://static.case.law/cust-ct/15/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6613782
+cites_cases: ["32 C. C. P. A. 153"]
+---
+
+# Protests 788434-G of M. S. & J. A. Workman, Inc.
+
+## Majority (Oliver, P. J.)
+
+Opinion by
+Oliver, P. J.
+It was stipulated that the goatskins are similar in all material respects to those the subject of United States v. Winograd Bros. (32 C. C. P. A. 153, C. A. D. 302), which record was admitted in evidence herein. In accordance therewith the claim for free entry under paragraph 1681 was sustained.
