@@ -1,0 +1,39 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 81-7-00898"
+decided: "1982-01-27"
+citations: ["3 Ct. Int'l Trade 49"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Newman, Judge."]
+parties: ["National Latex Products Company, plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/3/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6095492
+cites_cases: ["2 CIT 219", "421 U.S. 132", "421 U.S. 168", "462 F. Supp. 966", "617 F. 2d 854", "81 Cust. Ct. 168"]
+---
+
+# National Latex Products Co. v. United States
+
+## Majority (Newman, Judge:)
+
+Newman, Judge:
+This action, for the second time, presents the issue advanced by defendant of executive privilege respecting a governmental document. Presently before the Court are: plaintiff’s motion to compel production of a document dated June 3, 1981, prepared by the then Deputy General Counsel Ted Hume of the Office of the United States Trade Representative to Larry Brady, Assistant Secretary for International Trade Administration, United States Department of Commerce; and defendant’s cross-motion for a protective order supported by a memorandum and declaration of Ambassador William E. Brock, United States Trade Representative.
+After persona! y examining the disputed document in camera, I conclude that defendant has again properly invoked executive privilege, and hence defendant's cross-motion for a protective order is granted. Accordingly, plaintiff’s motion for production of the document is denied.
+I
+The within litigation arises from plaintiff’s challenge to the Commerce Department’s dismissal on June 11, 1981 of plaintiff’s countervailing duty petition concerning the importation of Mexican toy balloons and play balls predicated on the lack of an allegation by plaintiff of injury to the domestic industry. Other than to reiterate that the reasons supporting Commerce’s requirement of an injury allegation in the petition are contained in its published notice (46 Fit 31698-99 (June 17, 1981)) and in the administrative record, defendant has, thus far, declined to reveal more explicit reasons for the dismissal of plaintiff’s petition.
+Knowing the existence of the document prepared by Mr. Hume, but unaware of its specific content, plaintiff advances two theories for production of the document: First and most important, plaintiff believes that the document sought will disclose the rationale supporting defendant’s requirement of an injury allegation in plaintiff’s countervailing duty petition; and plaintiff contends that its need for such disclosure outweighs the competing governmental interest in preserving confidentiality. Second, plaintiff asserts an additional interest in learning defendant’s adherence to the intra-governmental procedural requirements of Reorganization Plan No. 3 and in the disclosure of any policy guidance presented to Commerce in the Hume document.
+Reorganization Plan No. 3 of September 24, 1979, mentioned supra, transferred the administration of the antidumping and countervailing duty laws from the Department of the Treasury to the Department of Commerce, and required Commerce to consult with the Trade Representative and also required the trade Representative to issue policy guidance to Commerce concerning the countervailing duty law.
+In a declaration submitted by defendant, William E. Brock, the United Trade Representative, avers that the Hume document is merely a draft of a memorandum which was “never put in final form and delivered officially to the Assistant Secretary of Commerce to whom it was addressed”. Continuing, Ambassador Brock states that the draft contains merely Mr. Hume’s “personal views of the proper legal interpretation of the U.S. countervailing law and the related legislative history” prof erred in the course of the decision making process. Confidentiality, Mr. Brock stresses, is essential to preserve the expression of candid opinion, which is vital to the functions and operation of the United States Trade Representative.
+Mr. Brock’s decaration that the Hume draft was never finalized or officially delivered to Commerce disposes of the document’s so-called status as “policy guidance” under the Reorganization Plan.
+II
+Turning to plaintiff’s need to know the content of the Hume draft to ascertain defendant’s rationale for requiring an allegation of injury in the countervailing duty petition, we are guided by the fundamental principle that the executive branch is privileged to withhold disclosure of intra-govemmental documents reflecting advisory opinions, recommendations and deliberations comprising part of the process by which governmental decisions are formulated. See Sprague Electric Company v. United States, 81 Cust. Ct. 168, C.R.D. 78-18 462 F. Supp. 966 (1978), and cases cited therein.
+Although sympathetic to plaintiff’s quandary in unearthing the government’s rationale for its action, nevertheless in light of the foregoing well-established principle, I have concluded, after an in camera examination of the Hume draft, that such draft consists merely of legal interpretat on and advice developed by a subordinate government official in the course of the decision making process, as averred in Mr. Brock’s declaration. Consequently, the Hume draft is a classic example of an intra-governmental document that should be accorded executive privilege.
+Moreover, as previously noted, plaintiff seeks to learn from the Hume document the reasons supporting Commerce’s requirement of an injury allegation in the countervailing duty petition. However, Hume’s draft, while discussing the injury test for duty-free merchandise under the United States countervailing duty law, contains no explanation which would inform plaintiff of the reasons for dismissal of the petition. Cf. NLRB v. Sears, Roebuck & Co., 421 U.S. 132 (1975); Coastal States Gas Corp. v. Department of Energy, 617 F. 2d 854, 866 (D.C. Cir. 1980). Under these circumstances, the disclosure of Hume’s draft would not aid plaintiff in knowing why its petition was dismissed.
+For the foregoing reasons, it is ordered that the document prepared by Mr. Hume is hereby recognized as a privileged document, and plaintiff’s motion for its production is denied. Defendant’s cross-motion for a protective order is granted.
+See 2 CIT 219, Slip Op. 81-106 (1981), wherein this Court granted defendant’s motion for a protective order respecting two of the thirty-two documents comprising the administrative record in this case.
+The parties agree that Mexico is not a signatory to the General Agreements on Tariffs and Trade (GATT) and that no commercial agreement exists between Mexico and the United States requiring an injury determination. Plaintiff contends, therefore, that no allegation of injury in its countervailing duty petition is required by “international obligations of the United States” within the purview of section 303(a) (2) of the Tariff Act of 1930, as amended.
+The administrative record, excluding two documents which were held to be privileged in Slip Op. 81-106, are available for plaintiff’s inspection.
+The Hume memorandum is not part of the administrative record herein, and plaintiff learned of its existence only through a Freedom of Information Act request.
+Plaintiff has suggested that the privilege applies to intra-agency and not inter-agency communications* I find no precedent for such a distinction. Indeed, the Supreme Court has explicitly stated that inter-agency advice is no "more disclosable than similar advice received from within the agency”. Renegotiation Board v. Grumman Aircraft Engineering Corp., 421 U.S. 168, 188 (1975). Clearly, given the inherent complexity of the deliberative process, no other result would be tenable.
