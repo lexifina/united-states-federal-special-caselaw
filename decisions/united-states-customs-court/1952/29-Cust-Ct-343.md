@@ -1,0 +1,33 @@
+---
+court: "United States Customs Court"
+docket: "56787; petition 6650-R (Tampa)"
+decided: "1952-07-08"
+citations: ["29 Cust. Ct. 343"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jean C. Wilson as Administratrix of the Estate of James Wilson III v. United States,"]
+source_url: "https://static.case.law/cust-ct/29/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6595690
+cites_cases: ["19 Cust. Ct. 173", "19 Cust. Ct. 230", "19 U. S. C. § 1402", "19 U. S. C. § 1489", "28 Cust. Ct. 361"]
+---
+
+# Wilson v. United States
+
+## Majority (Cole, Judge:)
+
+Cole, Judge:
+The provisions of section 489 of the Tariff Act of 1930 (19 U. S. C. § 1489) are invoked in this case to obtain the remission of additional duties accruing by reason of the final appraised value exceeding the entered value of sisal twine imported from Mexico and entered at the port of Jacksonville, Fla.
+Determination of the dutiable value of the shipment in question was the subject of reappraisement proceedings, J. G. McGiffin, Jr. v. United States, 19 Cust. Ct. 230, Reap. Dec. 7353, wherein the higher value found by the appraiser was held to be the export value, section 402 (d) of the Tariff Act of 1930 (19 U. S. C. § 1402 (d)). Additional duties accrued from the court’s conclusion, and it is as an appeal for the remission of such duties that gives rise to the present case.
+The importer, James Wilson III, doing business in Chicago under the name of the Atlas Cordage Company, died after the petition under consideration had been filed, so when the case was called for trial at Chicago, there was no evidence available. Therefore, transfer was ordered to Jacksonville, Fla., where the writer of this opinion heard the testimony of petitioner’s sole witness, who made the entry in question as an employee of J. G. McGiffin, Jr., customs broker.
+The record is sketchy and unimpressive. Although the witness admitted to 27 years’ experience in the customs brokerage business, his testimony reveals a rather indifferent attitude at the time of entry of the present merchandise. He admitted he “didn’t do anything” to ascertain the correct value of the merchandise, but relied entirely on a letter from the importer to the effect that entry should be made on the basis of the invoice value if such value was not more than 11 cents per pound. No inquiry concerning value was made of the appraiser who advanced the invoice and entered price of 11 cents per pound to 11% cents per pound, ultimately found by the court to be the dutiable export value, J. G. McGiffin, Jr., case, supra.
+Petitioner argues that evidence of good faith herein is supported by the fact that an appeal for reappraisement was prosecuted in connection with this entry. To support the contention, there are cited Ideal Container Company v. United States, 28 Cust. Ct. 361, Abstract 56230, and Devonshire Mills Co. v. United States, 19 Cust. Ct. 173, Abstract 52046. While it is true that in those two cases appeals for reappraisement were prosecuted, such judicial proceedings were not, of themselves, the controlling factor for the conclusions therein. Whatever importance may have been attached to the reappraisement litigation in granting the petitions in the two cited cases, it is applicable only in relation to all of the facts in each particular instance. Every case of remission of necessity must be determined upon the record presented therein. United States v. D. Lisner & Co., Inc., 38 C. C. P. A. (Customs) 79, C. A. D. 443. In the two cases cited by petitioner, the established facts differed materially from those now before us.
+Counsel for petitioner, in their brief, also cited John Wroblewski v. United States, 28 C. C. P. A. (Customs) 150, C. A. D. 137, in which the court granted a petition filed pursuant to the provisions of section 489, supra. In that case, it was shown that prior to entry the customs broker communicated with the importer who consulted the customs examiner and then decided not to appeal for reappraisement. The broker, therefore, followed a usual practice, extending over a period of 12 years, and entered at the price set forth in the invoice, having a statement to the effect that the home market value was no higher than the invoice value. Comparable facts are not established herein. The case is, therefore, distinguishable.
+In this case, the entrant of the merchandise was empowered as attorney in fact to make entries for his employer, the customs broker. From his experience in the customs brokerage'business over a period of 27 years, it is fair to say that he had a thorough knowledge of customs matters and, therefore, must have known that a greater duty evolved upon him, to determine the proper value in making the entry under consideration, than what he actually did as disclosed by the record herein.
+Obligations of one entering imported merchandise was succinctly stated in R. W. Gresham v. United States, 27 C. C. P. A. (Customs) 106, C. A. D. 70. We quote therefrom:
+It has frequently been pointed out that the entrant of merchandise owes a duty to inform himself as to the correctness of his representations as to the value of his merchandise and that a showing of indifference to its proper value does not meet the requirements of satisfactory proof under the statute.
+Referring to a situation somewhat analogous to that presented herein, the Court of Customs and Patent Appeals, in United States v. Balfour, Guthrie & Co., Ltd., 39 C. C. P. A. (Customs) 199, C. A. D. 487, decided as recently as March 18,1952, speaking through Johnson, J., said:
+Appellee was a large importer and since the record indicates that J. W. Hampton, Jr. & Co. had been its broker for a number of years we must assume that the latter was an experienced customhouse broker. Surely they knew what was required of them when entering imported merchandise into the United States, but ignorance of the law or even lack of knowledge of the true value of the merchandise cannot of itself be accepted as an excuse or reason for the remission of the additional duties. United States v. H. S. Dorf & Co., 36 C. C. P. A. (Customs) 29, C. A. D. 392, and cases there cited.
+The responsibilities of petitioner, as set forth in the cases hereinabove cited, have not been met with respect to the entry in question. What was said in the Balfour, Guthrie & Co., Ltd., case, supra, can be repeated here: “There was a duty upon the appellee [petitioner] to enter the merchandise at the proper value and that duty was not performed.”
+The petition is denied and judgment will be rendered accordingly.
