@@ -1,0 +1,68 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3624"
+decided: "1968-11-20"
+citations: ["61 Cust. Ct. 326"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bao and Ford, Judges, and Oliver, Senior Judge"]
+parties: ["Albert Kessler & Co. Arthur J. Fritz & Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/61/cases/0326-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6575527
+cites_cases: ["12 Ct. Cust. Appls. 186", "21 CCPA 542", "45 CCPA 82", "57 Cust. Ct. 155"]
+---
+
+# Albert Kessler & Co. v. United States
+
+## Majority (Oliver, Judge:)
+
+Oliver, Judge:
+The merchandise involved in the protests herein consists of certain cast iron lanterns, identified in the invoices as PL 119 Lantern, PL 119 Owl Lantern, and PL 124 Garden Ornament, which were assessed at 19 percent ad valorem under item 653.40 of the Tariff Schedules of the United States (TSUS), as other illuminating articles and parts thereof of base metal.
+Plaintiffs claim that the articles are dutiable at 3 percent ad valorem under item 657.09 of TSUS as cast iron articles, not alloyed, not malleable.
+Plaintiffs also claimed in the alternative that the merchandise was dutiable at 8 percent ad valorem under item 653.85 of TSUS, or at 11 percent ad valorem under item 688.40 of TSUS. These alternative claims, however, were not again mentioned or pressed by the plaintiffs and therefore are deemed by the court as abandoned.
+The pertinent provisions of the Tariff Schedules of the United States involved are:
+Classified under:
+Item 653.40 of the Tariff Schedules of the United States:
+Illuminating articles and parts thereof, of base metal:
+Incandescent lamps * * *
+Other:
+Table, floor and other portable lamps for indoor illumination, of brass
+Other-19% ad val.
+Claimed under:
+Item 657.09 of the Tariff Schedules of the United States:
+Articles of iron or steel, not coated or plated with precious metal:
+Cast iron articles, not alloyed:
+Not malleable-;-3% ad val.
+The issue before the court is whether the articles involved are illuminating articles as classified by the collector, and whether the plaintiffs have established their claim that the said articles are properly classifiable as cast iron articles under item 657.09 of TSUS.
+The record consists of the testimony of Albert M. Kessler for the plaintiffs, the testimony of Frederick F. Griffith for the defendant, and the following exhibits:
+Plaintiffs’ exhibit 1 is a representative sample of a cast iron garden ornament known as a senju lantern.
+Plaintiffs’ exhibit 2 is a representative sample of a cast iron owl lantern.
+Plaintiffs’ exhibit 3 is a picture from plaintiffs’ catalog depicting an “Iron Senju 13" Lantern” (exhibit 1).
+Plaintiffs’ exhibit 4 is a picture from plaintiffs’ catalog depicting an “Iron Owl Lantern 11"” (exhibit 2).
+Plaintiffs’ illustrative exhibit 5 is a portion of a page from plaintiffs’ catalog depicting various stone lanterns.
+Defendant’s exhibit A is a picture from plaintiffs’ catalog depicting an “Iron Takeo Lantern 11"” similar in type to plaintiffs’ exhibits 1 and 2.
+Albert M. Kessler testified for the plaintiffs substantially as follows: He was president of Albert Kessler & Co., which imports gif tware and decorative accessories from the Pacific area, and sells the merchandise to interior decorators, gift shops, and department stores. They also sell vases, planters, and Japanese decorative articles to garden supply houses. Among the Japanese decorative articles are ironware, such items as figures, garden ornaments, bonsai pots, garden pots, stone lanterns, and other Japanese traditional items.
+The witness had handled and supervised the sale of items such as exhibits 1 and 2 and had also observed their actual use in garden settings as garden ornaments, usually immediately in or about a home, or in a Japanese style garden. He had seen them as light fixtures used in home interiors, but very infrequently, and had seen them used principally hanging from a tree, or some other small growth, as a decorative ornament in the garden.
+Exhibits 1 and 2, he stated, do not have a normal place for wiring. They are usually used either in an indoor formal garden setting or in an outside rural setting.
+The witness testified that he handles the sale of many Japanese decorative and ornamental items and has become acquainted with their descriptions and information concerning them. The word “lantern” is used in Japan to designate a traditional ornament in the garden such as the stone, porcelain, earthenware, brass, and cast iron lanterns which are used as decorative garden artifacts. There are also other types of items sold by plaintiffs which are called lanterns, such as paper, brass, iron, bronze, earthenware, stone, and porcelain lanterns, all of which are in common use in Japan and at times are imported into this country, but which are not used for illuminating purposes.
+Items such as exhibits 1 and 2 are used in the same manner as stone lanterns, i.e., as decorative garden accessories, the witness stated.
+On cross-examination, the witness testified that a lantern is a decorative item, according to its country of origin. In this country, the witness thinks of a lantern as a paper lantern or a brass lantern, or the shape of an article.
+An oriental traditional lantern includes paper lanterns which are everything from small paper souvenir lanterns to very large paper ball lanterns, and also bronze decorative pieces, which are very expensive, as shown in various retail stores. There are pagodas, and various traditional oriental shapes. Some of them could not be used for the purpose of giving forth light because they are opaque. Many paper lanterns are colored in such a way that it would be impossible for them to give light, because they are coated with heavy red, green, or blue paper. When they have a light in them, these heavily papered articles give off an effect of color although the light may not pass through.
+The witness stated that exhibits 1 and 2 could possibly be used to reflect, refract, color, or otherwise effect light for illuminating purposes, and he had seen them used in such fashion, but while they are known as lanterns in the Japanese sense they are not so known in the American sense, because they are primarily a decorative accessory.
+He stated that he has seen the articles in actual use many times, both in store displays as well as in the home, or in interior decorator settings, and in one area they were being used as illuminating articles. In other homes, they were used decoratively exclusively, with no wire or lighting in them at all.
+At this point in the trial it was stipulated between counsel that exhibits 1 and 2 are of cast iron, not alloyed, not malleable, not coated or plated with precious metal, and not enameled.
+Frederick F. Griffith testified for the defendant substantially as follows: He was an examiner of merchandise for the United States Treasury Department, Department of Customs. His duties included classifying advisorily the types of merchandise at bar. He was familiar with items such as exhibits 1 and 2, and exhibits 3 and 4, the latter two being pictures which he personally had cut from an Albert Kessler company catalog. Referring to defendant’s exhibit A, which he had also clipped from the same catalog page, the witness stated that he was familiar with the object depicted thereon, which, in his opinion, was of the same class or kind as exhibits 1 and 2.
+The witness had seen articles such as exhibits 1 and 2 and the articles depicted on exhibit A both hr this country and in Japan while he was there as a captain in the United States Air Force for five years. In Japan, he saw them used in temples, religious shrines, homes, places of business, restaurants, hotels, etc., on many occasions, both as illuminating articles and as articles of a decorative nature. In the United States, he had seen them used in homes and places of business in about the same manner as they were used in Japan. On occasion, the witness had seen these items at entrance doors of homes where an electrical wire was wrapped around a chain suspending the lantern, and an electrical fixture placed inside it. He saw such use both in California and Japan. When the lantern is used in this fashion, light shines through the perforations or holes and creates a decorative effect.
+A visual examination of the articles by the court shows that exhibit 1 is a cast iron open work globe of the shape and approximate size of a basketball, resting on a base of three short prongs. At the top of the globe is a cast iron knob to which a link is attached and through which a small hole runs vertically. An electric wire or drop cord could be placed through this hole and then a socket-type fixture could be attached in the interior by removing the removable base. Exhibit 2 is a cast iron open work figure of an owl. It measures about 11% inches in height and 6 inches at its widest part and 3 inches in depth. It has a ring at the top so that it can be suspended from a hook or fastening. At the bottom of the figure on the inside is a circular piece of metal about 4% inches in circumference, serving as a removable bottom on which a candle might be placed. However, plaintiffs’ exhibits 1 and 2, as we actually examine them, do not, in our opinion, possess physical characteristics or distinguishing illuminating features. While traditionally the articles are called lanterns, this does not ipso facto constitute them illuminating articles in the tariff sense. As imported they are not lighting fixtures per se, nor is there sufficient indication of a dedication to such use.
+In United States v. General Display Case Co., Inc., 21 CCPA 542, T.D. 46976, a case involving illuminating articles wherein further cases on the subject were cited and analyzed, our appellate court stated at page 546:
+These cases emphasize the thought that the provision for illuminating articles to be used in connection with artificial illumination includes only such articles as are chiefly used in connection with artificial illumination, for illuminating purposes. If they are chiefly used for some other purpose, and were constructed for that purpose, and if the illumination provided by them is minor and incidental, only, to their chief use, and are not intended for or used for the purpose of illuminating the surrounding atmosphere, then they should not be classified as illuminating articles, under said paragraph 218(c). Judge Sullivan, in the decision of the court below, succinctly expresses it thus:
+What is the ordinary meaning of artificial illumination? Unquestionably it means the diffusion of light by artificial means throughout an area, such as a room, a building, or part of a road or street, for the specific purpose of lighting such area.
+On the question of dedication to use, exhibits 1 and 2, in our opinion, do not meet the test of such dedication. In Karl Schroff & Associates, Inc. v. United States, 57 Cust. Ct. 155, C.D. 2750, a case involving thin, flat pieces of metal from which belt buckles were manufactured, and involving the principle at bar, this court stated at page 158:
+Various judicial interpretations suggest that dedication to use requires a showing not just of present use but of limitation of use. The test is the same for a showing of “unfinished” articles, United States v. National Importing Co. (Inc.) et al., 12 Ct. Cust. Appls. 186, T.D. 40169, that is, “whether such a dedication has been effected depends upon * * * condition and potential uses at the time of importation.” Paramount Import Export Co. et al. v. United States, 45 CCPA 82, C.A.D. 677. An examination of the imported merchandise before this court reveals no such “distinguishing characteristics which clearly identify it” as physically appropriated to sole use in the manufacture of trophy belt buckles. * * *
+We would not be warranted in saying that the articles at bar are either illuminating articles, or that their sole use was dedicated to illuminating, either as parts or as completed articles.
+From the record and by examination of the exhibits, we are satisfied that the imported articles at bar are not illuminating articles, are not parts of illuminating articles, and that there is no dedication to their use as illuminating articles.
+In view of the foregoing, the stipulation between counsel at the hearing that exhibits 1 and 2 are made of cast iron, not alloyed, not malleable, not coated with precious metal, and not enameled, brings the articles squarely within the language of item 657.09 of TSTTS, as claimed by the plaintiffs.
+Therefore the claim 'by the plaintiffs in the protests that the imported articles herein are classifiable as cast iron articles, not alloyed, not malleable, dutiable at 3 percent ad valorem, under item 657.09 of TSUS is sustained. All other claims are overruled.
+Judgment will be rendered accordingly.
