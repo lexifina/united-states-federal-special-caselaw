@@ -1,0 +1,56 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 95-06-00818"
+decided: "1996-02-21"
+citations: ["20 Ct. Int'l Trade 313", "917 F. Supp. 836"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitsubishi Electronics Industries Canada, Inc., plaintiff v. Ronald Brown, Secretary of Commerce, U.S. Department of Commerce, and United States, defendants, and International Brotherhood of Electrical Workers, Industrial Union Department, AFL-CIO, International Union of Electronic, Electrical, Salaried, Machine and Furniture Workers, AFL-CIO, International Association of Machinists and Aerospace Workers, and United Steelworkers of America, defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/20/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11635637
+cites_cases: ["19 C.F.R. § 353.25", "28 U.S.C. § 1581", "51 Fed. Reg. 45,785", "53 Fed. Reg. 429", "59 Fed. Reg. 66,906", "60 Fed. Reg. 27,720", "60 Fed. Reg. 34,968"]
+---
+
+# Mitsubishi Electronics Industries Canada, Inc. v. Brown
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+Plaintiff, Mitsubishi Electronics Industries Canada, Inc. (“Mitsubishi”), filed this action requesting the Court to order the Department of Commerce, International Trade Administration (“Commerce”) to (1) revoke the antidumping order for imports of color picture tubes (“CPTs”) from Canada issued on January 7, 1988; (2) instruct the United States Customs Service to terminate the suspension of liquidation; and (3) refrain from initiating any new administrative review or proceeding regarding CPTs from Canada. Defendants move to dismiss this action. Mitsubishi opposes defendants’ motion and requests, in turn, that the Court issue an order staying this action under Color Picture Tubes from Canada (“Color Picture Tubes”), Secretariat File No. USA-95-1904-03, which is presently pending before the bina-tional panel.
+Background
+On December 22, 1986, Commerce initiated an antidumping duty investigation into CPTs from Canada. See Initiation of Antidumping Duty Investigation; Color Picture Tubes from Canada, 51 Fed. Reg. 45,785 (1986).
+On January 7,1988, Commerce issued an antidumping duty order for CPTs from Canada. See Antidumping Duty Order and Amendment to Final Determination of Sales at Less Than Fair Value; Color Picture Tubes From Canada, 53 Fed. Reg. 429 (1988). January is the annual anniversary month of the Order for purposes of 19 C.F.R. § 353.25(d) (1995).
+As of January 1, 1993, the beginning of the fifth annual anniversary month, no review of the Order had been requested for the previous four annual anniversary months. Complaint ¶ 15. Because no annual reviews had been requested, on December 28, 1994, Commerce published a notice of intent to revoke the Order. See Intent to Revoke Anti-dumping Duty Orders and Findings and to Terminate Suspended Investigations, 59 Fed. Reg. 66,906 (1994).
+On May 25,1995, Commerce published a notice of intent not to revoke the Order. See Determination Not to Revoke Antidumping Duty Orders and Findings Nor To Terminate Suspended Investigations, 60 Fed. Reg. 27,720 (1995). In response, Mitsubishi initiated this action on June 22, 1995. On June 26, 1995, Mitsubishi also requested a binational panel review pursuant to Article 1904 of the North American Free Trade Agreement (“NAFTA”). See North American Free-Trade Agreement (NAFTA), Article 1904 Binational Panel Reviews; Request for Panel Review, 60 Fed. Reg. 34,968 (1995).
+Discussion
+Defendants move the Court to dismiss this action for lack of jurisdiction. According to defendants, Mitsubishi improperly asserts jurisdiction pursuant to 28 U.S.C. § 1581(c) (1994) and 19 U.S.C. § 1516a(1994). Defendants contend that the Court lacks jurisdiction because Mitsubishi has requested a binational panel review. Def.s’ Mem. Supp. Mot. Dismiss at 4-7.
+In opposing defendants’ motion to dismiss, Mitsubishi moves this Court to issue an Order staying this action under Color Picture Tubes which is a corresponding case pending before the binational panel. PI. ’s Resp. Def.s’ Mot. Dismiss and Pl.’s Mem. Supp. Mot. Stay at 1-4. The crux of Mitsubishi’s argument is that the Court possesses jurisdiction because the binational panel has not yet determined whether it will exercise jurisdiction over the action. Id. at 2-3.
+The statutory provisions governing the jurisdiction of the Court in this case are 28 U.S.C. § 1581(c) and 19 U.S.C. § 1516a. Section 1581(c) provides that “The Court of International Trade shall have exclusive jurisdiction of any civil action commenced under section 516A of the Tariff Act of 1930.” The relevant portions of section 516A of the Tariff Act, as amended, 19 U.S.C. § 1516a, are as follows:
+(g) Review of countervailing duty and antidumping duty determinations involving free trade area country merchandise
+(2) Exclusive review of determination by binational panels
+If binational panel review of a determination is requested pursuant to article 1904 of the NAFTA or of the Agreement [United States-Canada Free-Trade Agreement], then, except as provided in paragraphs (3) and (4)—
+(A) the determination is not reviewable under subsection (a) of this section, and
+(B) no court of the United States has power or jurisdiction to review the determination on any question of law or fact by an action in the nature of mandamus or otherwise.
+19 U.S.C. § 1516a(g).
+The exceptions to exclusive binational panel review are provided in 19 U.S.C. § 1516a(g)(3) & (4). Section 1516a(g)(3) states the following:
+(A) In general
+A determination is reviewable under subsection (a) of this section if the determination sought to be reviewed is—
+(i) a determination as to which neither the United States nor the relevant FTA [Free Trade Area] country requested review by a binational panel pursuant to article 1904 of the NAFTA or of the Agreement,
+(ii) a revised determination issued as a direct result of judicial review, commenced pursuant to subsection (a) of this section, if neither the United States nor the relevant FTA country requested review of the original determination,
+(iii) a determination issued as a direct result of judicial review that was commenced pursuant to subsection (a) of this section prior to the entry into force of the NAFTA or of the Agreement,
+(iv) a determination which a binational panel has determined is not reviewable by the binational panel,
+(v) a determination as to which binational panel review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA, or
+(vi) a determination as to which extraordinary challenge committee review has terminated pursuant to paragraph 12 of article 1905 of the NAFTA.
+The exception provided for in 19 U.S.C. § 1516a(g)(4) concerns actions involving constitutional issues.
+The statute clearly supports defendants’ position that this Court lacks jurisdiction to hear this case as none of the exceptions to the exclusive binational panel review is applicable. Since Mitsubishi requested a binational panel review pursuant to article 1904 of the NAFTA, the exception permitted by § 1516a(g)(3)(i) does not provide this Court with jurisdiction. Further, there has been no judicial review resulting in a determination, which eliminates the exceptions provided in § 1516a(g)(ii) & (iii) as possible bases for jurisdiction. The exceptions stated in § 1516a(g)(iv) & (v) also do not grant this Court jurisdiction since the binational panel has not yet decided that the determination is not reviewable, nor has it terminated the proceeding. In addition, as there has not been an extraordinary challenge committee review, § 1516a(g)(vi) does not provide a basis for jurisdiction. Finally, since there are no constitutional issues involved in this action, § 1516a(g)(4) does not apply to this case.
+There is no support in the statute for Mitsubishi’s position that a stay is appropriate. The statute grants exclusive jurisdiction to the bina-tional panel once a binational panel review is “requested.” 19 U.S.C. § 1516a(g)(2). The fact that the binational panel has not yet reached a decision is not enough, by itself, to give the Court a basis for jurisdiction.
+Conclusion
+In accordance with the foregoing opinion, this Court holds that it does not have jurisdiction to hear this case and defendants’ motion to dismiss this action for lack of jurisdiction is granted. Furthermore, plaintiffs motion to stay this action under Color Picture Tubes is denied. This case is dismissed.
+19 C.F.R. § 353.25(d)(4) provides in pertinent part:
+§ 353.25 Revocation of orders; termination of suspended investigation, (d) Revocation or termination based on changed circumstances. * * *
+(4)(i) If for four consecutive annual anniversary months no interested party has requested an administrative review, under § 353.22(a), of an order or suspended investigation, not later than the first day of the fifth consecutive annual anniversary month, the Secretary will publish in the Federal Register notice of “Intent to Revoke Order” or, if appropriate, “Intent to Terminate Suspended Investigation.”
+(ii) Not later than the date of publication ofthe notice described in paragraph (d)(4)(i) of this section, the Secretary will serve written notice of the intent to revoke or terminate on each interested party listed on the Department’s service list and on any other person which the Secretary has reason to believe is a producer or seller in the Unites States of the like product.
+(iii) If by the last day ofthe fifth annual anniversary month no interested party objects, or requests an administrative review under § 353.22(a), the Secretary at that time will conclude that the requirements of paragraph (d)(l)(i) for revocation or termination are met, revoke the order or terminate the suspended investigation, and publish in the Federal Register the notice described in paragraph (d)(3)(vii) of this section.
