@@ -1,0 +1,45 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 85-04-00628"
+decided: "1992-07-27"
+citations: ["16 Ct. Int'l Trade 633", "795 F. Supp. 453"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["St. Paul Fire & Marine Insurance Co., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/16/cases/0633-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6133585
+cites_cases: ["14 CIT 43", "15 CIT 658", "371 U.S. 178", "401 U.S. 321", "416 U.S. 939", "481 F.2d 1187", "489 F.2d 968", "689 F.2d 562", "729 F. Supp. 1371", "752 F.2d 630", "779 F. Supp. 1402", "962 F.2d 1043"]
+---
+
+# St. Paul Fire & Marine Insurance v. United States
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+This action is before the Court on plaintiffs motion, pursuant to Rule 15(a) of the Rules of this Court, to amend its original complaint to include additional claims which allegedly came to light during discovery. Defendant opposes the motion on the grounds that plaintiffs attempt to amend is untimely and would unduly prejudice defendant’s ability to present its case.
+Background
+Plaintiff, St. Paul Fire and Marine Insurance Company (“St. Paul”), acted as corporate surety for Opera Garment Inc. (“Opera”), the importer of record, under two term bonds covering the entries involved in this action, i.e. leather, fur and fabric coats.
+The garments were imported at full net invoiced value and then exported to Opera’s plant in Montreal, Canada, for alleged repair or alteration. Opera re-entered the merchandise for sale in the United States seeking treatment under item 806.20, Tariff Schedules of the United States (“TSUS”), which would require the importer to pay a duty only on the value of the repairs or alterations upon re-entry of the merchandise. The United States Customs Service (“Customs”) denied the importer’s application and liquidated the merchandise at full net invoiced value in accordance with Schedule 3 of the TSUS. Opera failed to pay the liquidated duties and plaintiff, as surety, tendered the amount due to Customs. Opera filed timely protests challenging Customs’ decision to deny item 806.20, TSUS, treatment. Customs denied Opera’s protests.
+Plaintiff then commenced this action challenging the denial of Opera’s protests of Customs’ decision to disallow item 806.20, TSUS, treatment for the subject merchandise, and the resulting classification at full Schedule 3 rates, by filing a summons on April 30,1985 and a complaint on April 29,1986. On August 22,1986, plaintiff began discovery by serving on defendant a first request for interrogatories and for production of documents. Defendant responded to these requests on September 1, 1987.
+Plaintiff now claims that certain information received from Customs through discovery revealed that Opera was under investigation by Customs for fraudulent or criminal conduct before and during the time of the subject entries. Plaintiff contends that Customs’ failure to disclose this information caused plaintiff to insure a risk it would not have otherwise insured and to pay the monies required under the surety bond. Consequently, nearly thirteen months after receiving defendant’s discovery responses, plaintiff moved on September 30, 1988 to amend its original complaint to include claims against the government for breach of obligations under the surety bond contract and to estop the government from retaining all monies paid.
+In opposition to plaintiffs motion to amend the complaint, defendant maintained that this Court lacked jurisdiction over the subject matter of the proposed amended complaint. This Court agreed with the defendant, finding a lack of subject matter jurisdiction over the issues raised in the amended complaint, and denied plaintiffs motion to amend the complaint. St. Paul Fire & Marine Ins. Co. v. United States, 14 CIT 43, 729 F. Supp. 1371 (1990).
+Plaintiff appealed and the United States Court of Appeals for the Federal Circuit reversed this Court’s decision by finding that this Court does have jurisdiction over the issues raised by plaintiff s amended complaint. St. Paul Fire & Marine Ins. Co. v. United States, No. 90-1343 (Fed. Cir. March 26, 1992).
+Defendant now raises its alternative argument against plaintiffs motion to amend, which this Court did not reach in its earlier decision. Defendant argues that the thirteen months between completion of discovery and the filing of plaintiffs motion to amend its complaint constitutes undue delay and that that delay will cause unfair prejudice to defendant. Defendant’s Opposition To Plaintiff’s Motion For Leave To Amend Complaint at 10-12. The defendant argues that it will be prejudiced because of the need to conduct discovery of both St. Paul and of Opera, a foreign company which may be bankrupt, in regard to the new claims. Id. at 11.
+Discussion
+The Supreme Court, in Foman v. Davis, held that under Rule 15(a) the requirement that leave to amend pleadings must be freely given must he balanced against numerous considerations protecting the rights of the opposing party. Foman v. Davis, 371 U.S. 178, 182 (1962). The court must consider whether there was “undue delay, bad faith or dilatory motive on the part of the movant, repeated failure to cure deficiencies by amendments previously allowed, undue prejudice to the opposing party by virtue of allowance of the amendment, futility of amendment, etc.” Id.; see Howey v. United States, 481 F.2d 1187, 1190 (9th Cir. 1973); Timken Company v. United States, 15 CIT 658, 659, 779 F. Supp. 1402, 1403-04 (1991).
+The United States Court of Appeals for the Federal Circuit recently stated “[ajlthough delay itself is an insufficient ground to deny amendment, if the delay is ‘undue’ the district court may refuse to permit amendment.” Datascope v. SMEC, Inc., 962 F.2d 1043, 1045 (Fed. Cir. 1992). The Court of Appeals has also stated “[a] litigant’s failure to assert a claim as soon as he could have is properly a factor to be considered in deciding whether to grant leave to amend.” Tenneco Resins, Inc. v. Reeves Bros., Inc., 752 F.2d 630, 634 (Fed. Cir. 1985) (citing Carson v. Polley, 689 F.2d 562, 584 (5th Cir. 1982)); see also Zenith Radio Corp. v. Hazeltine Research, Inc., 401 U.S. 321, 327 n.1 (1971).
+This Court finds that under the circumstances of this case a thirteen month delay from the close of discovery to the filing of the motion to amend, in the complete absence of any explanation for the length of the delay by St. Paul, constitutes “undue” delay.
+The Court also finds that this delay would cause unfair prejudice to the defendant. Allowing the amendments will require the re-opening of discovery and a “trial court may properly consider the possibility of prejudice to a party stemming from the burden of additional discovery after a long delay.” Tenneco, 752 F.2d at 634 (citing Troxel Mfg. Co. v. Schwinn Bicycle Co., 489 F.2d 968, 971 (6th Cir. 1973), cert. denied, 416 U.S. 939 (1974)).
+Therefore, plaintiffs motion to amend its complaint is denied.
+Order
+Upon consideration of plaintiffs motion to amend its complaint, and the defendant’s objection thereto, and all other papers and proceedings herein,
+It is hereby ordered that plaintiffs motion to amend its complaint is denied.
+Rule 15(a) of the Rules of this Court states in pertinent part:
+Otherwise a party may amend the party’spleadingonly by leave of courtor by written consent ofthe adverse party; and leave shall be freely given when justice so requires.
+TSUS (1982), Schedule 8, Part 1, provides the following:
+Articles returned to the United States after having been exported to be advanced in value or improved in condition by any process of manufacture or other means:
+806.20 Articles exported for repairs or alterations.A duty upon the value of the repairs or alterations * * *.
+Schedule 3 of the TSUS covers textile fibers and textile products.
