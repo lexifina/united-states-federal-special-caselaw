@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "68878; protests 60/6066, etc. (New York)"
+decided: "1964-11-12"
+citations: ["53 Cust. Ct. 308"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Polk’s Model Craft Hobbies, Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/53/cases/0308-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6586154
+---
+
+# Polk's Model Craft Hobbies, Inc. v. United States
+
+## Majority (Oliver, C.J.)
+
+Opinion by
+Oliver, C.J.
+In accordance with stipuation of counsel that the merchandise consists of miniature motors similar in all material respects to those the subject of Abstract 66961, the claim of the plaintiffs was sustained.
