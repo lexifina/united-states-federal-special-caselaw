@@ -1,0 +1,38 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 93-04-00234"
+decided: "1994-01-12"
+citations: ["18 Ct. Int'l Trade 14", "843 F. Supp. 1477"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Inland Steel Bar Co., plaintiff v. United States, defendant, and United Engineering Steels, Ltd., defendant-intervenor"]
+source_url: "https://static.case.law/ct-intl-trade/18/cases/0014-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6133209
+cites_cases: ["16 CIT 269", "17 CIT 722", "19 U.S.C. § 1516", "19 U.S.C. § 1520", "28 U.S.C. § 1581", "58 Fed. Reg. 6237", "732 F.2d 924", "826 F. Supp. 1442", "892 F.2d 1004"]
+---
+
+# Inland Steel Bar Co. v. United States
+
+## Majority (Carman, Judge:)
+
+Opinion
+Carman, Judge:
+Defendant-intervenor, United Engineering Steels (UES), moves this Court to order the Department of Commerce (Commerce) to instruct the United States Customs Service to (1) revise the cash deposit rate applicable to entries of the merchandise at issue in the underlying action and (2) refund past deposits made with respect to those entries. The Court has jurisdiction pursuant to 28 U.S.C. § 1581(c) (1988).
+Background
+On September 20,1993 this Court granted Commerce’s request for a voluntary remand of the final determination in Certain Hot Rolled Lead and Bismuth Carbon Steel Products from the United Kingdom, 58 Fed. Reg. 6237 (1993) (Final Determination). Commerce had concluded in the Final Determination “that benefits which constitute subsidies within the meaning of the countervailing duty (CVD) law [were] being provided to manufacturers, producers, or exporters in the United Kingdom of certain hot rolled lead and bismuth carbon steel products * * *.” Id. at 6238. Accordingly, Commerce required defendant-intervenor UES to make a cash deposit or provide a bond of estimated countervailing duties at the rate of 12.69%. Id. at 6246.
+On remand, Commerce concluded its Final Determination was not supported by substantial evidence and was not otherwise supported by the law. Remand Determination: Certain Hot Rolled Lead and Bismuth Carbon Steel Products from the United Kingdom at 2. After recalculating the benefit allocable to UES, Commerce determined UES received an ad valorem benefit of 4.59%. Id. at 4. UES filed this motion for a revised cash deposit rate and for refund of deposits on November 2, 1993.
+Contentions of the Parties
+UES complains it should not be required to pay deposits at a rate of 12.69% when Commerce has determined this rate was neither based on substantial evidence nor in accordance with law. Instead, UES argues, it should only be required to pay deposits based on the remand determination rate of 4.59%. UES maintains changing the deposit rate from 12.69% to 4.59% will not cause hardship to any party, and “may prevent irreparable harm to [UES].” UES Motion at 6. UES requests this Court to order Commerce to instruct Customs to revise the cash deposit rate on UES’ merchandise.
+Additionally, UES moves this Court to order Commerce to instruct Customs to refund deposits paid by UES in excess of the 4.59% rate. According to UES, it has deposited more than $3.5 million with Customs, of which over $2.2 million represents excess deposits. UES argues there would be no great administrative burden in processing the refund of excess duties because there have been only twelve entries to date.
+Inland Steel and Commerce oppose UES’ motion. They argue a rate reduction and refund of duties must await a final judgment. According to Inland Steel and Commerce, a revision of the deposit rates would result in an unnecessary administrative burden and would be contrary to case law. Additionally, Inland Steel and Commerce contend UES will not suffer irreparable harm because after the first administrative review Commerce will refund with interest any excess duties paid. They argue UES has not provided any support in its attached affidavit of its allegations of irreparable harm.
+Discussion
+The Court disagrees with UES’ arguments concerning the revision of the cash deposit rate and the refund of deposits. The refund of duties before liquidation is only permitted where there has been a clerical error. NTN Bearing Corp. of Amer. v. United States, 8 Fed. Cir. (T) 26, 29, 892 F.2d 1004, 1006 (1989) (citing 19 U.S.C. § 1520(a)(4) (1988)). Furthermore, this Court may only affect the administrative handling of the subject entries by “(1) a preliminary injunction pursuant to 19 U.S.C. § 1516a(c)(2), or (2) a final court decision adjudicating the legality, vel non, of the challenged determination. 19 U.S.C. § 1516(e).” Id., 892 F.2d at 1006 (emphasis in original) (footnote omitted) (quoting Melamine Chem., Inc. v. United States, 2 Fed. Cir. (T) 57, 69, 732 F.2d 924, 934 (1984)). The importance of waiting for final judgment before affecting the cash deposit rate was also addressed in Federal-Mogul Corp. v. United States, 17 CIT 722, 826 F. Supp. 1442 (1993). The Court stated in Federal-Mogul that it was necessary to enter final judgment on the issue of cash deposit rates before it could order the ITA to change the applicable rate. Id. at 725-26, 826 F. Supp. at 1446.
+Although Commerce has determined on remand the cash deposit rate on UES’ merchandise should be 4.59%, the correct deposit rate is still at issue in the underlying action. Because the Court has not issued its final judgment in this case with respect to the cash deposit rate, it would be contrary to law for this Court to grant UES’ motion.
+UES cites Consolidated Int’l Automotive, Inc. v. United States in support of its argument that the Court should amend the deposit rate in the instant case. 16 CIT 269, Slip Op. 92-54 (April 8, 1992). The Court finds UES’ argument without merit. Consolidated International is similar to the instant case in that the government requested and was granted a voluntary remand. Id. at 269-70, Slip Op. 92-54 at 2. Consolidated International, however, differs in a significant way: the Court dismissed the case. Id. at 270, Slip Op. 92-54 at 2. There was, therefore, no pending action as there is in the instant case. The Court ordered publication and an appropriate change in deposit rates to proceed at once in Consolidated International because “the publication of the new determination [did] not implement a court decision, final or otherwise, but rather represented Commerce’s] completely independent remand determination. ” Id. at 269, Slip Op. 92-54 at 3-4. Contrary to plaintiffs assertions, there was no interlocutory equitable relief granted in Consolidated International.
+Conclusion
+After considering all of defendant-intervenor’s arguments, the Court denies United Engineering Steels’ motion for a revised cash deposit rate and for refund of excess deposits.
+Schedule of Consolidated Cases
+United Engineering Steels Ltd. v. United States, Court No. 93-04-00235.
+Although UES has not styled its motion as one lor injunctive relief, such relief would not be available to it because, as Commerce points out, UES has made no showing of ivreparahle harm.
