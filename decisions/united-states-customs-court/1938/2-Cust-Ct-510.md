@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "40266"
+decided: "1938-12-30"
+citations: ["2 Cust. Ct. 510"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 799907-G of B. Altman & Co. (New York)."]
+source_url: "https://static.case.law/cust-ct/2/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6644581
+cites_cases: ["24 C. C. P. A. 117"]
+---
+
+# Protest 799907-G of Altman
+
+## Majority (Tilson, J.)
+
+Opinion by
+Tilson, J.
+From the record it was found that certain items consist of outerwear in chief value of wool similar to that involved in United States v. International Clearing House (24 C. C. P. A. 117, T. D. 48416). The claim under paragraph 1114 was therefore sustained.
