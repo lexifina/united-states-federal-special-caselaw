@@ -1,0 +1,53 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 91-01-00012"
+decided: "1997-05-07"
+citations: ["21 Ct. Int'l Trade 487", "964 F. Supp. 409"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Creswell Trading Co., Inc. South Bay Foundry 1989, D & L Supply Co., Southern Star, Inc., City Pipe & Foundry, Inc., Capitol Foundry of Virginia, Inc., Virginia Precast Corp., and Techsales, Inc., plaintiffs, and Crescent Foundry Co. P. Ltd., Select Steels, Ltd., RSI (India) Pvt. Ltd., Kejriwal Iron & Steel Works, Govind Steel Co., Ltd., R.B. Agarwalla & Co., Serampore Industries P. Ltd., Super Castings (India), Carnation Enterprises P. Ltd., Uma Iron & Steel Co., and Commex Corp., plaintiff-intervenors v. United States, defendant, and Allegheny Foundry Co., Campbell Foundry, Co., Deeter Foundry, Inc., East Jordan Iron Works, Inc., Lebaron Foundry, Inc., Municipal Castings, Inc., Neenah Foundry Co., Pinkerton Foundry, Inc., U.S. Foundry & Manufacturing Co., Vulcan Foundry, Inc., and Alhambra Foundry, Inc., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/21/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11501990
+cites_cases: ["20 CIT 1025", "936 F. Supp. 1072"]
+---
+
+# Creswell Trading Co. v. United States
+
+## Majority (DiCarlo, Senior Judge:)
+
+Memorandum Opinion and Judgment Order
+DiCarlo, Senior Judge:
+In Creswell Trading Co., Inc. v. United States, 20 CIT 1025, 936 F. Supp. 1072 (1996) [hereinafter Creswell IV], familiarity with which is presumed, the court remanded to Commerce the Final Results of Redetermination Pursuant to Court Remand, Creswell Trading Co. Inc. et al. v United States, Slip Op. 94-65 (Dep’t Comm. Feb. 13,1995) [hereinafter Second Remand Determination], In Creswell TV, the court addressed, inter alia, whether Commerce correctly determined that the Government of India’s decision not to include an ocean freight component in calculating a world market price for pig iron created a countervailable benefit to Indian steel exporters. This world market price was being calculated pursuant to India’s IPRS program, under which the Indian government provided a payment to users of domestically-produced pig iron upon export of their finished products, such as iron castings. This payment reimbursed the difference between the more expensive domestic pig iron being used and the lower priced pig iron available on the world market.
+The court held that “Commerce’s decision to impose a countervailing duty on the basis of the Indian government’s non-inclusion of ocean freight in its world price benchmark [was] unsupported by substantial evidence and [was] not in accordance with law.” Creswell IV, 20 CIT at 1032, 936 F. Supp. at 1080. The court further instructed Commerce to consider and explain whether the Indian government’s inclusion of an inland freight component made the Indian government’s provision of pig iron more favorable than pig iron commercially available to Indian exporters on the world market. Id.
+In its Final Results of Redetermination on Remand Pursuant to Creswell Trading Co., Inc. et al. v. United States, Slip Op. 96-137 (Dep’t Comm. Sept. 30, 1996) [hereinafter Third Remand Determination], Commerce determined that the terms of the Indian benchmark price were no more favorable than the world market FOB price with respect to the inclusion of inland freight. Third Remand Determination at 6-7. Commerce therefore found that no adjustment for inland freight was warranted. Defendant-Intervenors challenge this finding that no adjustment should be made for inland freight costs. (Domestic Indus.’ Resp. Concerning Results of Redet. on Remand at 1.)
+The pig iron package provided by the Indian government offers Indian castings exporters pig iron plus inland delivery to Calcutta’s railway station for the world FOB pig iron price. See Third Remand Determination at 6-7. The Indian castings exporters are responsible for the freight costs from the railway station to the castings foundry. See id. at 15-16. A foreign FOB pig iron package would provide pig iron plus inland delivery from the iron plant to the port for export. The Indian castings exporters would be responsible for the freight costs from the port to the castings foundry. Therefore, both pig iron packages provide inland delivery from the pig iron plant to a transport station in the country of production. N either pig iron package provides delivery to the castings foundries, the ultimate destination of the pig iron. Therefore, because both pig iron packages provide inland freight to the extent of delivery to a transport station in the country of production, from which the Indian castings exporters can arrange for shipment to their foundries, no adjustment for inland freight is required. The court finds Commerce’s decision not to make an adjustment for inland freight is supported by substantial evidence and is in accordance with law.
+In compliance with the court’s instructions, Commerce eliminated its previous ocean freight adjustment to the IPRS pig iron benchmark price and, upon review of the administrative record, determined that no adjustment was necessary to the benchmark price with respect to inland freight. Commerce has also corrected a previous error involving its wastage calculation, for which it had agreed a remand was required, and calculated the country-wide rate applicable for this remand determination. The revised rates are as follows:
+IPRS Program Ad Valorem Rate Comparison
+Rates contested in Creswell TV Current Redetermination Rate
+Carnation Enterprise Pvt. Ltd. 12.86% 10.90%
+Crescent Foundry Co. Pvt. Ltd. 24.81% 22.55%
+Govind Steel 39.50% 32.i
+Kejriwal Iron & Steel Works 12.30% 9.38%
+R.B. Agarwalla & Co. 7.41% 6.15%
+R.S.I. 7.18% 6.88%
+Serampore Industries Pvt. Ltd. 26.33% 19.74%
+UMA Iron & Steel Co./Commex 15.22% 12.42%
+Kajaria Castings Ltd. 39.17% 39.17%
+Super Castings (India) 22.93% 22.93%
+Revised Country-Wide Ad Valorem Rate Comparison
+1985 Administrative Review Current Redetermination Rate
+Carnation Enterprise Pvt. Ltd. 19.32% 12.08%
+Crescent Foundry Co. Pvt. Ltd. 36.40% 28.03%
+Govind Steel 78, 45.11%
+Kejriwal Iron & Steel Works. 27.37% 11.42%
+R.B. Agarwalla & Co. 9.81% 6.85%
+R.S.I. 9.06% 7.94%
+UMA Iron & Steel Co./Commex 27.37% 13.08%
+Kajaria Castings Ltd. 44. 44.84%
+Super Castings (India) 27.37% 29.40%
+Country-Wide Rate for All Others 27.37% 20.48%
+Id. at 9-10. Plaintiffs and Plaintiff-Intervenors further move this court to order Commerce to “calculate at this time the new IPRS benefit and the new country-wide rates for the 1986 through 1989 reviews.” (Pl.-Ints.’ Comments on Results of Redet. on Remand at 2; see also Response of Importers at 3-4.) The court declines to make such an order. First, as Commerce correctly noted, the present remand related to the 1985 review only. Second, as Commerce also correctly noted, because this court’s holding in the present case is subject to appeal, there does not presently exist a final and conclusive judgment regarding the interpretation of the Item (d) exception which is at the heart of the current litigation. Therefore, it would be premature for the court to order Commerce to recalculate the IPRS subsidies for the 1986 through 1989 review periods at this time. Because Commerce has complied with this court’s orders, it is hereby:
+Ordered that Commerce’s Third Remand Determination is sustained; and it is further
+Ordered that this action is dismissed.
