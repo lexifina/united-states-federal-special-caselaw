@@ -1,0 +1,52 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3844"
+decided: "1969-06-09"
+citations: ["62 Cust. Ct. 659"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Ford, Judges"]
+parties: ["Tokyo International Commerce Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0659-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6578959
+cites_cases: ["17 CCPA 1", "55 CCPA 69"]
+---
+
+# Tokyo International Commerce Co. v. United States
+
+## Majority (Fokd, Judge:)
+
+Fokd, Judge:
+The cases listed above were consolidated for the purpose of trial and involve the proper classification of certain tubular goods which were classified under item 688.30, Tariff Schedules of the United States, as iron or steel pipes or tubes prepared and coated or lined in any manner suitable for use as conduits for electrical conductors and assessed with duty at the rate of 10 per centum ad valorem.
+Plaintiff herein contends the imported merchandise is properly dutiable at the rate of 0.3 cent per pound under item 610.32 of the Tariff Schedules of the United States as welded, jointed or seamed steel pipes having the specifications as set forth below since the pipes do not meet the requisites of item 688.30, supra.
+The pertinent portions of the statutes involved herein provide as follows:
+Iron or steel pipes or tubes prepared and coated or lined in any manner suitable for use as conduits for electrical conductors, and iron or steel fittings therefor:
+688.30 Pipes or tubes- 10% ad val.
+Pipes and tubes and blanks therefor, all the foregoing of iron (except cast iron) or steel:
+Welded, jointed, or seamed, with walls not thinner than 0.065 inch, and of circular cross section:
+Other than alloy iron or steel:
+j}j *1* H» H* «i»
+610.32 0.375 inch or more in outside diameter- 0.3^ per lb.
+The record herein consists of the testimony of two witnesses, one called on behalf of plaintiff and one on behalf of defendant as well as four exhibits, two on behalf of each party. Plaintiff’s exhibit 1 is a representative sample of a segment of the 1-inch pipe imported. Plaintiff’s exhibit 2 is a pamphlet issued by the Underwriters’ Laboratories, Inc., UL6, Sixth Edition, setting forth standards for safety for rigid metallic conduit. Defendant’s exhibits A and B are segments of pipes or conduits which have affixed thereon Underwriters’ labels. In addition, the mill certification contained in the entry covered by protest 65/10105 was received in evidence without being marked .
+Mr. Philip D. Long, president of D. Eston, Inc., an importer of steel items, primarily tubular products, testified that he purchased the imported merchandise from plaintiff herein. His experience in purchasing and selling tubular steel products covers 7 years with the Eston firm and prior to that, he did similar work for 4 years with another firm. Mr. Long is also familiar with the manufacturing of pipe in the United States and he has over the last 3 years manufactured conduit pipe through a subsidiary, Western Conduit Company.
+Mr. Long identified plaintiff’s exhibit 1 as similar to the merchandise covered by the involved entries. He stated that exhibit 1 was a 1-inch pipe and that the importations at issue ranged in size from y2 inch through 2 inches in diameter. The pipe involved, upon importation, had an Underwriters’ Laboratories label on it.
+Mr. Long testified that he had visited the mill which manufactured the involved merchandise in 1958 and had made subsequent trips to the mill. He had observed the manufacturing process and stated that the pipe involved was manufactured according to the standard Fritz Moon procedure for butt welded mill pipe. The mill also manufactures gas and water pipe. The pipe at bar has been galvanized on the inside as well as the outside as all water pipe is galvanized and qualifies for use as gas or water pipe. Water pipe is suitable for use as conduit pipe but the reverse is not true. Gas and water pipe is hydrostatically tested and is 7 to 9 ounces heavier in the thickness of its walls and it has 2 ounces of zinc coating on it while conduit pipe has 1 ounce of zinc coating on it. The witness testified the mill certificate annexed to the invoices herein indicates the imported pipe met the ASTM 120 standard. This standard refers to physical, chemical, and hydrostatic test specifications for water and gas pipe.
+The witness testified while the imported merchandise was imported with Underwriters’ Laboratories labels, in his opinion, the merchandise did not meet the standards for such conduit since it did not have interior coatings. Underwriters’ Laboratories specifications for conduit pipe require a glossy clear lacquer or enamel or black coating on the interior. It was his opinion that the requirements were more than galvanization of the interior. The witness also testified he was familiar with the weight requirements for conduit pipe and that the minimum requirement based upon Underwriters’ Laboratories, Sixth Edition, specifications for conduit pipe was 79 pounds per 100 feet of %-incli pipe but there is no maximum weight figure for conduit pipe. Mr. Long testified that 1-inch nongalvanized pipe, according to ASTM standards, was 168 pounds per 100 feet, Mr. Long has also imported identical pipe from the same manufacturer which did not bear the Underwriters’ Laboratories label and that he started having the label put on in 1964.
+By virtue of his experience, the witness testified he had observed installation of the pipe he dealt in. He sells the imported pipe either as conduit or gas and water pipe. He reiterated that water pipe can be used for conduit pipe but that conduit pipe does not meet the specifications for water pipe as it is below weight specifications and is not hydrostatically tested nor does conduit pipe have enough zinc in its coating. The merchandise at bar would constitute good delivery of conduit pipe.
+The witness admitted the price at which conduit is sold to his customers is higher than the sales price of water pipe. His purchase price for conduit pipe and water pipe at the foreign mill was however the same. The market price for conduit pipe is generally higher since its use is a limited one and there is far more use of gas and water pipe.
+The next witness was called on behalf of defendant and is an inspector for the Underwriters’ Laboratories. Mr. Jack J. Sands testified that he 'had been employed by the Underwriters’ Laboratories for 19 years in the Los Angeles area. The witness identified the labels on defendant’s exhibits A and B as Underwriters’ Laboratories labels. He stated that the merchandise is required to meet the standards if a label is to be issued. The witness was completely familiar with the requirements of his company as they relate to the issuance of Underwriters’ Laboratories labels. He testified that the fact that the imported merchandise was labeled by his firm indicated that the articles at bar were conduit.
+On cross-examination, the witness testified that paragraphs 69 and 70 of Underwriters’ Laboratories Standards for Safety, Rigid Metallic Conduit, UL6, Sixth Edition, December 1956 (reprinted June, 1961), contain the specifications for the identification of conduit pipe and were in effect at the time of the importation herein. The witness examined defendant’s exhibits A and B which bear his company’s label for conduit pipe and stated that such exhibits could not be distinguished from ordinary commercial pipe.
+It is axiomatic in this field of jurisprudence that the classification is prima facie impressed with a presumption of correctness. This presumption carries with it the premise that the customs official found every fact to exist that is necessary to sustain his classification. United States v. Marshall Field & Co., 17 CCPA 1, T.D. 43309 (1929). In order to overcome this presumption, plaintiff herein has the twofold burden of affirmatively establishing the incorrectness of the classification and, in addition thereto, of proving bis claimed basis for classification. Hays-Sammons Chemical Co. v. United States, 55 CCPA 69, C.A.D. 935 (1968).
+Considering the latter portion of the burden first, it is apparent that in order for pipes of iron or steel to fall within the purview of item 610.32 of the Tariff Schedules of the United States, they must meet five criteria:
+1. The pipes must be welded, jointed or reamed.
+2. Have walls not thinner than 0.065 inch.
+3. Have circular cross section.
+4. Be other than alloy iron or steel.
+5. Have diameter of 0.375 inch or more in outside diameter.
+The record establishes the involved merchandise to be butt welded hence the first criterion has been met. An examination of plaintiff’s exhibit 1 confirms the fact that the imported merchandise has a circular cross section as required by item 3, supra. We may safely assume that the imported merchandise has an outside diameter of 0.375 inch or more since the smallest size of the imported pipe is y2 inch.
+Remaining, therefore, for consideration are the requirements set forth in items 2 and 4. With respect to item 2, there is not a scintilla of evidence relating to the wall thickness of the involved merchandise. Therefore, on this single factor alone, plaintiff has failed to sustain its burden of establishing the proper classification of the imported merchandise. In addition to the foregoing, the question of whether the involved pipe is composed of an alloy of iron or steel must be established. Headnote 2 (h) of schedule 6, part 2, subpart B, sets forth the various elements in percentage which is a guide to us in determining if iron or steel is an alloy. In the case at bar, we have certain information, a mill certification, which sets forth the components in protest 65/12468. This certificate was received in evidence without being marked. However, there is no such certificate in protest 65/10105. Therefore even if we were to ascertain that the merchandise covered by protest 65/12468 was not alloy iron or steel, we have no evidence with respect to the composition of the merchandise covered by protest 65/10105.
+It is.not necessary for us to consider the question of whether plaintiff negated the classification since there is a failure of proof in affirmatively establishing the proper classification.
+In view of the foregoing the protests are overruled.
+Judgment will be entered accordingly.
