@@ -1,0 +1,41 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "3075"
+decided: "1921-05-23"
+citations: ["11 Ct. Cust. 64"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Barber, and Martin, Judges; De Vries, Judge, participating in the decision by agreement of counsel."]
+parties: ["McGettrick et al. v. United States"]
+source_url: "https://static.case.law/ct-cust/11/cases/0064-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092835
+cites_cases: ["10 Ct. Cust. Appls., 31"]
+---
+
+# McGettrick v. United States
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court;
+Old jute bags imported at the ports of Bichford and St. Albans, Vt., and classified by the collector of customs as jute bags, made of plain woven fabrics of single jute yarns, were assessed for duty at 10 per cent ad valorem under paragraph 281 of the tariff act of 1913, which reads as follows:
+Par. 281. Bags or sacks made from plain woven fabrics, of single jute yarns, not dyed, colored, stained, painted, printed, or bleached, 10 per centum ad valorem.
+The importers protested that the importations were' entitled to free entry either as plain woven jute fabrics of single jute yarns under paragraph 408, or as paper stock under paragraph 566, or as rags under paragraph 586. The pertinent parts of the free list provisions upon which the importers relied are as follows:
+Free List.
+That on and after the day following the passage of this act * * * the articles mentioned in the following paragraphs, shall when imported * * * be exempt from duty.
+Par. 408. * * * Plain woven fabrics of single jute yarns by whatever name known, not bleached,- dyed, colored, stained, printed or rendered noninflammable by any process; * * *.
+Par. 566. Paper stock, crude, of every description * * * including jute * * * waste, * * * rope ends, waste rope, and waste bagging, and all other waste not specially provided for * * * used chiefly for paper making.
+Par. 586. Bags, not otherwise specially provided for in this section.
+The Board of General Appraisers, held, first, that about 27 per cent of all the importations were commercially available for use as bags and that such bags were dutiable at 10 per cent ad valorem under paragraph 281; second, that about 68 per cent of the importations were so worn, torn, cut, or slashed that they could no longer be used as bags and that although they contained sufficient sound cloth to make it commercially practicable to use them for patching cotton bale covers, they were dutiable under paragraph 384 as waste regardless o'f whether they were twilled, plain woven, colored or uncolored; third, that about five per cent of the goods were unfit for use as bags or as patching and were free of duty under paragraph 566 inasmuch as they were chiefly used for paper making.
+The Government accepted the decision of the Board as final, and the importers appealed from that part of it only which classified as waste not specially provided for all plain woven bags of single jute yarns no longer commercially suitable for use as bags and commercially available and chiefly used for patching cotton bale covers.
+The Government does not deny and indeed practically admits that the bags involved in the appeal were made of plain woven fabrics of single jute yarns within the meaning of the second clause of paragraph 408. Government counsel does contend, however, that due to cutting, wear, tear, and other damage, the bags and the fabrics of which they are composed have lost their status both as bags and fabrics and have been reduced to waste.
+We have no difficulty in agreeing with the Government that bags may be so cut, worn, aiid torn that they are useless as bags and are waste bags, and that the fabrics of which they are made may be so damaged that they are useless as fabrics and are waste fabrics. We can not, however, go so far as to say that bags which have become unavailable for use as bags have necessarily become unavailable for commercial use as fabrics. Bags which are simply cut down one side and through both ends, but not otherwise damaged, are evidently reduced to the original material out of which they were made, and while it must be admitted that bags so cut are no longer bags, it can hardly be said that the fabric of which they are chiefly composed is no longer a fabric. Apparently therefore the reduction of bags to waste does not necessarily imply that the fabric of which they are made has been brought to the same condition.
+The wear, tear, cutting, and other damage done to the bags in controversy reduced them to the condition of a mere material and whether that material was classifiable as a waste or as a fabric depended entirely on its commercial use.
+If the material was no better than rags or fragments or shreds of cloth and not chiefly used for paper making, it came within the designation of rags and was free of duty under paragraph 586 unless otherwise specially provided for. If it was commercially and chiefly used for paper making, it was paper stock and exempt from duty under the provisions of paragraph 566. If it was no longer commercially suitable for any textile purpose and not specially provided for as rags or paper stock or under some more specific designation, it might well be classed as a waste dutiable under paragraph 384. But if it was commercially and chiefly used as a textile — that is to say, commercially and chiefly used for the purpose for which it was originally manufactured — it was still a fabric, and if a fabric of single jute yarns, not further advanced than plain woven, it was entitled to free entry under the provisions of paragraph 408.
+As it is not disputed that the bags in issue on this appeal were commercially and chiefly used as textiles for. the repair of cotton bale covers, it follows that they are fabrics, and that such of them as are plain woven of single jute yarns not bleached, dyed, colored, stained, printed, or rendered noninflammable by any process are entitled to free entry.
+To hold otherwise would result in admitting free of duty, for the patching of cotton bale covers, absolutely new fabrics of single jute yarns not further advanced than plain woven, and the subjection to duty of fabrics of the very same kind when cut from old bags and commercially used for the very same purpose. As such a result as that is palpably at variance with the general and ordinary policy of tariff laws and with the special purpose to favor cotton producers manifested in paragraph 408, we have no hesitation in declining to give the statute a construction which makes possible such an anomaly.
+The case of Central Vermont Railway Co. v. United States (10 Ct. Cust. Appls., 31; T. D. 38260) is quite in line with what we have here said, and does not support the contention of the Government that the imported merchandise is waste. That case involved the classification of wool fabrics designed to be used as belts for paper-making machines and which had become so worn that they were no longer fit for the purpose for which they were manufactured. Although a small percentage of the worn woolen cloth belts was used in Canada as bed blankets or as horse blankets, the testimony definitely established that they were not specially desirable for such uses and that in this country they had no commercial cloth use whatever, but were employed exclusively in the manufacture of shoddy, to produce which commodity it was necessary to destroy the fabric.
+In this case, as the old jute bags were reduced to the textile material of which they were made and as such material was not manufactured into something else, but was chiefly used as a textile to patch cotton bale covers, it is clear that it retained its character as a fabric and therefore differed from the discarded wool belts which were no longer available for any commercial textile use.
+As to all bags in issue in this appeal made of plain woven single jute yarns not bleached, dyed, colored, stained, printed, or rendered noninflammable by any process, the decision of the Board of General Appraisers is reversed.
