@@ -1,0 +1,73 @@
+---
+court: "United States Customs Court"
+docket: "R.D. 11629; Entry Nos. 939254, 854895; 713819"
+decided: "1969-02-19"
+citations: ["62 Cust. Ct. 816"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reliance International Mfg., Ltd. v. United States"]
+source_url: "https://static.case.law/cust-ct/62/cases/0816-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6581312
+cites_cases: ["28 Cust. Ct. 656", "28 U.S.C. § 2633", "32 Cust. Ct. 657", "35 CCPA 60", "40 CCPA 38", "46 CCPA 92", "46 Cust. Ct. 762", "48 Cust. Ct. 714", "51 Cust. Ct. 456", "52 Cust. Ct. 660", "57 Cust. Ct. 575", "60 Cust. Ct. 733"]
+---
+
+# Reliance International Mfg., Ltd. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+The merchandise involved in these appeals for reappraisement, consolidated at the trial, consists of bird cages in various styles manufactured by Wagner & Keller and exported from West Germany. It was appraised on the basis of United States value, as that value is defined in section 402(e) of the Tariff Act of 1930, as amended by the Customs Administrative Act of 1938. Plaintiff claims that there is a foreign value, as that value is defined in section 402(c) of said tariff act, as amended, for some of the items covered by these appeals. It concedes that no evidence was presented to rebut the appraised values of the balance of the items.
+The following are the appraised values and the claimed values of the items in controversy.
+Appraised Claimed value value R59/9859 Description U.S. $ each German marks each
+#70 Iron bird cages, chromium plated with nickelled base, without d.b. 1.78 6. 50
+#113 ditto, galvanized copper plated with d.b. 8. 37 28. 30
+#89 with d.b. 6. 58 23. 80
+#4 u « a a without d.b. 2.16 6. 50
+R59/9872
+#70 Iron bird cages, chromium plated w/nickelled base, without d.b. 1.80 6. 50
+#110 Iron bird cages, chromium plated with d.b. 4.46 16. 50
+R59/9870
+#98 Combined bird cages with double bottom 7.17 28. 30
+Bird cages from Germany have been before this court in two previous cases. Chicago Bird & Cage Co. v. United States, 51 Cust. Ct. 456, Reap. Dec. 10625. Chicago Bird & Cage Co. et al. v. United States, 57 Cust. Ct. 575, R.D. 11206. The records in both of these cases have been incorporated herein. In both cases, the merchandise was appraised by the appraiser on the basis of United States value. In the first case, the court held that United States value had been negatived and that cost of production had been established. In the second case, it was held that the evidence was adequate to establish United States value on the basis of sales by wholesalers to retailers which were without apparent restriction.
+In the case last cited, the court said (p. 577-578) :
+It is not disputed and, indeed, it may be presumed from the appraiser’s finding of United States value that there was no foreign or export value for the merchandise covered by these appeals for reappraisement. Since the appraisement is clothed with a statutory presumption of correctness (28 U.S.C. § 2633), implicit in which is the finding of every fact essential to support the conclusion reached, and since, by the provisions of section 402(a) of the Tariff Act of 1930, United States value may not be invoked unless there was no foreign or export value, the appraise-ments in the present instance contemplate the absence of those alternative bases of value. A party challenging an appraisement may rely upon all presumptively correct facts not inconsistent therewith or with the challenge. United States v. A. N. Deringer, Inc., 46 Cust. Ct. 762, A.R.D. 127; Nicholas Gal (Globe Shipping Co., Inc.) v. United States, 28 Cust. Ct. 656, Reap. Dec. 8119, affirmed 32 Cust. Ct. 657, A.R.D. 39, appeal dismissed June 18, 1954; United States v. Fritzsche Bros., Inc., 35 CCPA 60, C.A.D. 371; United States v. Supreme Merchandise Company, 48 Cust. Ct. 714, A.R.D. 145.
+Plaintiff claims that in the instant case, since appraisement was also on the basis of United States value, it must be presumed that the appraiser found that no bird cages, such as, or similar to, those in question were freely offered for sale for home consumption to all purchasers. It contends, therefore, that if the record shows that any manufacturer made sales of bird cages which met the statutory requirements of foreign value, plaintiff is entitled to judgment. It claims that the record does establish such facts.
+It is to be noted that plaintiff contended in its original and amended statements under rule 15(d) of the rules of this court, that the correct foreign value was the entered value. Plowever, the merchandise was entered in United States dollars and neither the entered values nor the home consumption prices shown on the invoices conform to the claimed values in German marks listed above.
+In F. C. Gerlach & Sons, Inc. v. United States, 60 Cust. Ct. 733, R.D. 11462, alternate claims were made subsequent to the filing of the statement under rule 15(d) and the court noted that the statement did not set forth the unit value later claimed to be correct. It said that plaintiff’s dereliction was ground enough under the terms of the rule for the court to dismiss all claims subsequently argued which were not within the plain language of the statement filed. However, the court did consider the case on its merits.
+In the instant case also, the evidence presented has been considered. It is entirely documentary, consisting of the following:
+An affidavit of Wilfried Braun, manager and partner of the firm of Wagner & Keller, manufacturer of the imported merchandise, executed April 5, 1967. (Exhibit 1.)
+An affidavit of Fritz K. Werner, managing director of Karl Weis & Company, also a manufacturer of bird cages, executed April 7,1967. (Exhibit 2.)
+An affidavit of Rolf Blank, sales manager of the firm of Kapff Nachf., also a manufacturer of bird cages, executed April 13, 1967. (Exhibit 3.)
+A supplemental affidavit of Rolf Blank, executed June 7, 1967. (Exhibit!.)
+A supplemental affidavit of Fritz K. Werner, executed May 17,1967. (Exhibit 5.)
+A report of Treasury Representative Heinz L. Herz, dated June 25,19'56. (Exhibit A.)
+Attached to Mr. Braun’s affidavit are illustrations of certain bird cages made by the manufacturer. Mr. Braun states that they are all made of steel wire with chrome plated or brass plated steel 'bases and were offered to every reseller in the line regardless of whether he was a retail dealer, department store, jobber, or wholesaler. The items were sold at prices with different discounts which depended on the quantities purchased. Since under German law, invoices need be kept only for 7 years, affiant stated that his firm no longer had precise data to show the discounts at which most sales were made.
+He did remember cage No. 70 since it was a popular model and said it was offered and delivered in Germany in 1956 to retailers, department stores, jobbers and wholesalers, at the price of German marks 6.50 f.o.b. factory.
+Tending to refute affiant’s statement, however, are the invoices in R59/9859 and R59/9872, each of which contains a statement next to the listing of bird cage No. 70, “home consumption value; not sold in Germany.” The invoice statement in R59/9859 was signed by the manager of Wagner & Keller, and the invoice in R59/9872 was signed by Max Braun, the president.
+Furthermore, according to the report of Treasury Representative Herz (exhibit A), Mr. M. Braun visited his office on March 26,1956, and stated that sales were made only to selected purchasers and not to all purchasers, lie said that it was the manufacturer’s policy to attempt to prevent competition between retail outlets stocking its merchandise and to that end it would not sell to new customers in areas where it was already adequately represented. Attached to exhibit A are copies of letters indicating Wagner & Keller’s refusal to accept new customers in Nuremberg.
+In view of the uncorroborated statements of Wilfried Braun in his affidavit and the contradictory evidence contained in the invoices and in the agent’s report (exhibit A), I find that plaintiff has not sustained its contention that bird cage No. 70 was freely offered to all purchasers for home consumption within the meaning of the statute.
+As to the other items, plaintiff claims that it has established that similar bird cages were freely offered for home consumption by Karl Weis or Kapff Nachf. and that foreign value for the instant merchandise should be predicated upon the prices at which similar merchandise was offered by these firms.
+Similarity of the merchandise represented by the following model numbers is claimed:
+The invoice description of cage No. 4, involved m K59/9859, reads “iron bird cages, galvanized copper plated without d.b.,” whereas Mr. Werner stated in his affidavit that cage No. 497N was made of all steel wire and solid steel bottom and that the entire cage was plated with chrome. Cage No. 113, involved in K59/9859, is described on the invoice as “iron bird cages, galvanized copper plated, with d.'b.” Mr. Werner stated, on the other hand, that cage No. 3452/1 was made of all steel wire and solid steel bottom and that the entire cage was plated with galvanized copper. The letters “d.b.” apparently mean double bottom.
+Mr. Werner’s affidavit states that the list price of cage No. 497N was DM6.50 per cage and for cage No. 3452/1, DM28.30 per cage; that these were the prices at which his firm offered these cages to department stores, individual stores, chain stores, or wholesalers in West Germany; that discounts were offered depending upon the quantity purchased, but that anyone could buy any quantity at the list price. While four orders covering bird cages sold by Karl Weis are attached to the affiidavit, they are dated subsequent to the date of exportation of the claimed corresponding Wagner & Keller models, and are thus of little probative value. Mr. Werner’s statements alone are mere conclusions and not substantial evidence. Brooks Paper Company v. United States, 40 CCPA 38, C.A.D. 495; United States v. Baar & Beards, Inc., 46 CCPA 92, C.A.D. 705; Morris Friedman v. United States, 52 Cust. Ct. 660, A.R.D. 178.
+The evidence presented establishes neither that the bird cages offered by Karl Weis were similar to those involved herein nor that they were freely offered to all purchasers for home consumption in West Germany at the prices claimed.
+There remains for consideration the Kapff Nachf. merchandise claimed to be similar.
+Attached to the affidavit of Kolf Blank (exhibit 3) are clippings of pictures of bird cages sold by Kapff Nachf., but the source of these dippings is not indicated. The bird cages illustrated resemble in appearance those depicted in the illustrations of Wagner & Keller products, attached to exhibit 1. Mr. Blank’s affidavit states as to his firm’s cages:
+* * * These cages were made of iron wire provided with sheet metal bases. In this connection, all cages were offered for sale in chrome-plated and brass-plated type. I can confirm that the photostatic copies turned over to us were of the firm of Wagner & Keller have similarities as compared with our types and are made of the same material.
+In his supplemental affidavit (exhibit 4), Mr. Blank stated:
+There was annexed to said affidavit the catalogue of the years 1956 and 1957 showing the following four numbers at the following list prices:
+Anyone could purchase at the above prices. * * *
+No catalogue with dates or prices has been attached to either affidavit nor is there any evidence to corroborate the affiant’s bare conclusion that anyone could purchase at the prices stated. There is nothing to indicate whether the prices for the copper-plated cages were the same as or different from those for the chrome-plated cages. The foregoing evidence is insufficient to establish that the merchandise was similar to that involved herein within the meaning of the tariff statute or that it was freely offered to all purchasers for home consumption in West Germany.
+For the reasons stated, plaintiff has failed to sustain its burden of proof.
+On the record presented, I find as facts:
+1. That the merchandise involved herein consists of bird cages manufactured by Wagner & Keller and exported from West Germany.
+2. That said cages were appraised on the basis of United States value, as that value is defined in section 402(e), Tariff Act of 1930, as amended by the Customs Administrative Act of 1938.
+8. That the evidence does not establish that such merchandise was freely offered for sale for home consumption in West Germany to all purchasers in the usual wholesale quantities and in the ordinary course of trade at or about the period of exportation involved herein.
+4. That the evidence does not establish that merchandise offered by Karl Weis or Kapff Nachf. was similar to that involved herein, manufactured by Wagner & Keller, or that it was freely offered for sale for home consumption in West Germany to all purchasers in the usual wholesale quantities and in the ordinary course of trade at or about the period of exportation involved herein.
+I conclude as matters of law:
+1. That the presumption of correctness attaching to the appraiser’s findings of value herein has not been overcome.
+2. That the involved merchandise is properly dutiable on the basis of United States value, as that value is defined in section 402(e), Tariff Act of 1930, as amended, supra.
+3. That said values are the appraised values.
+Judgment will be entered accordingly.
