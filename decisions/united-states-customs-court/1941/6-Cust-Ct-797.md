@@ -1,0 +1,42 @@
+---
+court: "United States Customs Court"
+docket: "5126; Entry Nos. DCE 147, 201, 237, 258, 289, 342, 356, 450, 471, 517, 794, 296"
+decided: "1941-02-17"
+citations: ["6 Cust. Ct. 797"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Match Import Co., Inc., by Hipage Co., Agts. v. United States"]
+source_url: "https://static.case.law/cust-ct/6/cases/0797-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6699645
+cites_cases: ["18 C. C. P. A. 455"]
+---
+
+# Match Import Co. v. United States
+
+## Majority (Kincheloe, Judge:)
+
+Kincheloe, Judge:
+Tbe question involved in these appeals to reappraisement, all of wbicb were consolidated for tbe purposes of trial by consent of tbe parties, is tbe proper dutiable value of certain strike-on-box matches imported from Finland and Latvia during tbe years 1929, 1930, and 1931, and entered at tbe port of Norfolk, Ya.
+When tbe cases were called for bearing counsel for tbe plaintiffs limited tbe basis for these appeals to tbe claim that tbe appraisements were null and void for tbe reason that tbe collector failed to designate, and tbe appraiser failed to examine, 1 out of every 10 packages, as required by section 499 of tbe Tariff Acts of 1922 and 1930.
+Said section 499, so far as pertinent for tbe purpose of this case, reads as follows:
+* * * The collector shall designate the packages or quantities covered by any invoice or entry which are to be opened and examined for the purpose of ap-praisement or otherwise and shall order such packages or quantities to be sent to the public stores or other places for such purpose. Not less than one package of every invoice and not less than one package of every ten packages of merchandise, shall be so designated unless the Secretary of the Treasury, from the character and description of the merchandise, is of the opinion that the examination of a less proportion of packages will amply protect the revenue and by special regulation permit a less number of packages to be examined. * * *
+Tbe record herein discloses that tbe designation by tbe collector for tbe examination of tbe merchandise in question appears on tbe “Consumption of Entry Permit,” wbicb is included among tbe official papers of each of tbe appeals before me, and reads as follows, “Examine & Sample. Count 10% at pier.”
+Under article 688 of tbe Customs Regulations of 1923, certain articles, including matches, are required to be examined at tbe “importers’ stores or other suitable places, and not at tbe appraiser’s stores.” Acting under tbe authority conferred by tbe said article, tbe customs inspector at tbe pier, pursuant to tbe said designation and following tbe usual practice, took a sample of tbe various brands of matches embraced in each of the importations involved herein and submitted those samples to the appraiser for his appraisement.
+The amount and the manner in which the samples were drawn were explained at the trial by the customs inspector, who appeared as a witness on behalf of the plaintiff, in substance as follows: The matches as imported came packed in containers or cartons, five gross to each container or carton. Inside the container, each gross was separately wrapped in a piece of paper, and each dozen individual boxes was arranged in a separate package. The sample taken by the inspector consisted of 1 package, comprising 12 individual boxes. Referring, as an illustration, to reappraisement 99835-A I find from the consular invoice that the importation covered by that appeal consisted of
+4800 Containers “Three Pipes, black”.
+1660 Containers “Flaza, red”
+1206 Containers “Flaza, black”,
+1157 Containers “Three Pipes, red”,
+each 5 Gross — total 44115 Gross.
+First Class Qual. Safety Matches, average contents 50 matches per box.
+As testified to by the customs inspector, he withdrew only 1 package of 12 individual boxes of each of said brands, and submitted such samples to the appraiser for his appraisement. And the same action was taken in connection with the other importations involved herein.
+It is fairly established by the evidence that the appraisement of the instant merchandise was based upon the designation and examination as hereinabove outlined, and while it is obvious from the record that such examination did not constitute 10 per centum of any of the importations in question yet defendant contends it was sufficient to render a valid appraisement on the ground the merchandise in question is of a class that is governed by article 692 of the Customs Regulations of 1923, which provides as follows:
+The appraiser may make appraisement on samples of such merchandise as is, by commercial usage, bought and sold by sample.
+The samples shall be selected by a customs sampler, or other authorized customs officer, from the packages designated by the collector for examination, and shall be properly marked to insure identification.
+It will be observed that, under said article 692, the samples so selected must be withdrawn “from the packages designated by the collector for examination.” Thus the examination provided, thereby is correlated with that fixed under the provisions of section 499, swpra, in that the packages designated by the collector under the latter section form the basis for the selection of samples under said article 692. It therefore necessarily follows that where an examination by sample is made, samples shall be taken “from not less than one package of every invoice and not less than one package of every ten packages of merchandise.” As hereinabove set forth, there was no such examination of the instant merchandise.
+Oral testimony was offered by the respective parties on the question whether or not the matches in question are, by commercial usage, bought and sold by sample, and in their briefs both counsel have argued the point at great length. But, as I view it, it is unnecessary for me to consider whether the present merchandise is, by commercial usage, bought and sold by sample, and therefore within the scope of said article 692, until it is established that there has been compliance with the law governing proper designation and examination of imported merchandise for the purpose of appraisement.
+Judicial interpretation of the provisions of section 499, supra, has been before this court and the Court of Customs and Patent Appeals many times, and under a long line of decisions it is now settled law that it is an imperative duty of the collector to designate for examination 1 package of every 10 packages of imported merchandise, unless the Secretary of the Treasury by special regulation permits a less number, of packages to be examined, which he did not do in any of these appeals to reappraisement, and failure to do so is fatal to a. valid appraisement. United States v. Steffan, 18 C. C. P. A. 455, T. D. 44702; United States v. Davis, 20 id. 305, T. D. 46087; United States v. Gilson, id. 117, T. D. 45753; Tower v. United States, 21 id. 417 T. D. 46943; United States v. Daniel F. Young, Inc. (Minobu Trading Corp.) et al., 27 id. 124, C. A. D. 73.
+. An examination of each of the consular invoices covered by the appeals under consideration reveals that the packages or cartons containing the imported merchandise bore identifying numbers whereby a designation of the specific packages to be examined might well have been made, instead of the blanket designation of “count 10 percent” that was issued, and which certainly does not, in my judgment, meet the statutory requirements, under the cited authorities. Besides being convinced that the collector’s designation was defective, I am also satisfied that the examination of the instant merchandise for the purposes of appraisement falls far short of a compliance with the law on the subject.
+It is my conclusion that neither the mandatory provisions of section 499 of the Tariff Acts of 1922 and 1930, relating to the designation and examination of imported merchandise for appraisement purposes, nor the correlated provision in said article 692, with respect to such examination by sample, have been complied with herein, and I therefore hold, on the basis of the record before me and under the cited authorities, that the appraisement of the merchandise covered by the appeals in question is, in each instance, null and void ab initio. Judgment will be rendered accordingly.
