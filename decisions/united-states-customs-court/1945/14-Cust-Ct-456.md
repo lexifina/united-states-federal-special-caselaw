@@ -1,0 +1,27 @@
+---
+court: "United States Customs Court"
+docket: "6161; Entry No. 6308"
+decided: "1945-06-06"
+citations: ["14 Cust. Ct. 456"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. X. Huber Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/14/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6668215
+---
+
+# W. X. Huber Co. v. United States
+
+## Majority (OliveR, Presiding Judge:)
+
+OliveR, Presiding Judge:
+This appeal for reappraisement has been submitted for decision upon the following stipulation of counsel for the parties hereto:
+It is hereby stipulated by and between counsel for the plaintiff and the Assistant Attorney General for the United States, subject to the approval of the court:
+1. That the merchandise covered by the reappraisement appeal listed on the attached schedule A consists of cut diamonds exported from Belgium; that the unit values stated in the invoices, without the addition of buying commission, represent the prices at the various dates of exportation of such merchandise to the United States at which such or similar merchandise was freely offered for sale to all purchasers in the principal markets of the country from which exported in the usual wholesale quantities and in the ordinary course of trade for exportation to the United States; and that there were no higher foreign market values at the dates of exportation thereof.
+2. It is further stipulated that the merchandise and the issue covered by the appeal listed on the attached schedule are the same in all material respects as the merchandise and the issue the subject of the decisions in Reappraisement Appeal 134305-A, etc., of J. Seiler, Inc. v. United States, Reap. Dec. 5699, and Reappraisement Appeal 1339.19-A, etc., of W. X. Huber Co. et al. v. United States, Reap. Dec. 6052.
+3. It is further stipulated that the record in said cases, Reap. Dec.’s 5699 and' 6052, may be incorporated in the record in this case, and that it be deemed' submitted on this stipulation. ,
+4. It is further affirmed by the undersigned counsel for the plaintiff that he-has personally examined this appeal, and of his own knowledge certifies that it. has been duly signed and filed within the statutory time.
+On the agreed facts I find the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the merchandise here involved, and. that such value is the invoice unit value.
+Judgment will be rendered accordingly.
