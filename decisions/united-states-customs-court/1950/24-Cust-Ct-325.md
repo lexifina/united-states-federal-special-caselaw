@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "53863; protests 136716-K, etc. (New York)"
+decided: "1950-01-04"
+citations: ["24 Cust. Ct. 325"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Franam Corp. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/24/cases/0325-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6605009
+cites_cases: ["22 Cust. Ct. 33"]
+---
+
+# Franam Corp. v. United States
+
+## Majority (Ekwall, J.)
+
+Opinion by
+Ekwall, J.
+For the reasons stated in Austin, Nichols & Co., Inc. v. United States (22 Cust. Ct. 33, C. D. 1155), the claim of the plaintiffs was sustained.
