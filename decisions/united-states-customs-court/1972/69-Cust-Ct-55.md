@@ -1,0 +1,47 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4374"
+decided: "1972-08-30"
+citations: ["69 Cust. Ct. 55"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao, Fobd and Newman, Judges"]
+parties: ["Converse Rubber Company v. United States"]
+source_url: "https://static.case.law/cust-ct/69/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6569593
+cites_cases: ["49 CCPA 92", "54 CCPA 121", "63 Cust. Ct. 302", "65 Cust. Ct. 453"]
+---
+
+# Converse Rubber Co. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+This case is a rehearing, having originally been decided in 65 Cust. Ct. 453, C.D. 4121 (1970), and involves a multiple station rotary table injection molding machine which was classified under the provisions of item 678.35, Tariff Schedules of the United States, as machines used for molding or otherwise forming rubber or plastics articles and parts and assessed with duty at 11.5 per centum ad valorem. It is contended that said machine is entitled to entry free of duty under the provisions for shoe machinery and parts as provided for in item 678.10.
+In our original opinion we made the following observations:
+Based upon the record as made, plaintiff contends that it has established that the involved machine was chiefly used and in fact exclusively used in the manufacture of soles for sneakers. Plaintiff in fact, in a valiant effort, established that all of the machines of the exporter, Desma, in the 900 series were used chiefly, if not exclusively, in the manufacture of soles for sneakers.
+The provisions claimed, item 678.10, supra, covering shoe machinery is a use provision, C. H. Powell Company v. United States, 63 Cust. Ct. 302, C.D. 3912 (1969), as were the predecessor provisions in the Tariff Acts of 1913,1922 and 1930. United States v. Hudson Shipping Co., Inc., Barre Footwear Co., 49 CCPA 92, C.A.D. 802 (1962). E. Dillingham, Inc. v. United States, 54 CCPA 121 C.A.D. 922 (1967). Tariff classification controlled by use is subject to General Interpretative Kule 10(e) (1) which provides as follows:
+(e) in the absence of special language or context which otherwise requires—
+(i) a tariff classification controlled by use (other than actual use) is to be determined in accordance with the use in the United States at, or immediately prior to, the date of importation, of articles of that class or kind, to which the imported articles belong, and the controlling use is the chief use, i.e., the use which exceeds all other uses (if any) combined;
+Under the above rule of interpretation, it is incumbent upon the court to determine whether plaintiff has established the _ chief use of articles of the same class or kind involved at or immediately prior to the date of importation.
+It is evident that the imported machine is an injection molding machine which was used solely for producing soles for sneakers when the proper mold was attached. In addition, it is also apparent that with other molds, a variety of articles may be produced and without a mold, the machine could produce nothing.
+;ji % % * * *
+In spite of the convincing evidence of the intended and actual use, the court must determine the chief use of the class or kind of article imported as prescribed by General Interpretative Buie 10(e) (i). We are of the opinion that the class or_kind of article involved herein is a general purpose injection molding machine for the reasons set forth, supra.
+Based upon the decision in C.D. 4121, supra, plaintiff offered additional testimony in order to establish that the imported machine, while a molding machine, is itself a separate class or kind, to wit, a multiple station rotary table injection molding machine. The evidence presented on rehearing consisted of the testimony of two witnesses called in behalf of plaintiff and one called in behalf of defendant. Plaintiff’s testimony was directed towards identifying the various classes and kinds of molding machines which were designated as follows:
+1. Horizontal type single station depicted in exhibit 15 and marked ‘‘A”.
+2. Vertióle type single station depicted in exhibit 16.
+3. Shuttle type depicted in exhibit 17 and marked “A”.
+4. Kotary type such as involved in the instant case.
+The horizontal type single station press has great speed in plastics and automatically ejects the product which is dropped into a tote box or conveyor which removes the product from the machine. This type of machine is ideal for the housewares manufacturer such as Bubber Maid which manufactures plastic household items made on such machines which speed completion since the items are gravity dropped and conveyed away for shipping. This is an ideal and economical operation for such a company.
+On the other hand, the vertical type single station press is used by companies such as Cutler-Hammer or General Electric which molds an intricate electrical part where inserts are used. This type must be used in such application in order to permit the loading of inserts and the servicing of the mold.
+The shuttle type increased productivity and eased the handling of inserts. This increase was due to the fact that the operator could remove the product from one mold while the other mold was in the cure cycle.
+The rotary type such as is involved herein consists of 10 stations all serviced by one operator. By this system, the work of the 10 stations is brought to the operator. The platen of this machine is 161,4 by 20% inches and the molds have to be made specifically for this machine. Molds from other machines could not be used. Efforts were made to sell the machine to gasket and gear manufacturing companies and those manufacturing floor mats, scales, etc., but were unsuccessful because of the small size of the platen. A mat the size of 14 by 18 inches would be the largest size the machine is capable of producing and a 10-station machine costing $200,000 at that time was not economical for such production.
+In shoe soles however, the platen was uniquely suited for their production. Witness Selzer described this as follows:
+The shoe industry as a whole is confronted with the fact we are making size runs of the same item. Men’s shoes run from 614 to 12, probably a spectrum of 14 sizes. Children’s shoes are made 814 to 3, which is 16 sizes. Now, one of the problems faced with producing soling for the shoe industry is that you have to size out. In other words,. you have to be able and be capable of producing a spectrum of sizes or a complete size run of soles. The rotary concept of a machine using one injection head to feed ten stations serves the purposes of the shoe manufacturer to the best economic — actually, serves him in giving him a piece of equipment whereby he can produce what he needs as economically as possible. This is where the 905 found a home.
+While it is true that all the machines, i.e., horizontal, vertical, shuttle and rotary presses contain a press section, a place to mount the mold, a clamp to hold it and an injection end which prepares the material for injection in a mold, they all appear to be suited for various types of operation insofar as economics is concerned.
+In our original opinion, we held the Desma machine involved herein was at the time of importation chiefly if not solely used for the production of soles for shoes. However, under General Interpretative Rule 10 (e) (i), we beld it was incumbent for plaintiff to establish the chief use of the class or kind of article involved at or about the time of importation. We therein found the involved machine to be a general purpose injection molding machine since there was no evidence which commits its use to shoe manufacture.
+The amplified record in our opinion does change the factual situation as originally presented. While defendant’s exhibit A depicts various uses other than shoes, the present record establishes that by virtue of the small size of the platen, the production for all practical purposes of these, items is economically unfeasible except for the manufacture of soles for shoes. The question of economics appears to be a determining factor as to which type of molding machine will be used in a particular industry. Accordingly, we feel the multiple station rotary press is a class or kind unto itself. The use or operation of a rotary machine is not any more similar to the horizontal, vertical or shuttle type press than is a motorcycle to an automobile. While the Desma machine belongs to the broad class of injection molding machines, it is not a general purpose machine, according to the record, but it is a specialized machine particularly adapted for and used in the manufacture of shoes. United States v. Hudson Shipping Co., Inc., et al., 49 CCPA 92, 96, C.A.D. 802 (1962).
+In view of our original finding, that the chief use on or about the time of importation was for the production of soles for shoes, and talcing into consideration the legislative history affording duty free status for shoe machinery to enable the economical manufacture of shoes, we find the involved importation to be subject to classification under item 678.10 as shoe machinery as claimed. The provisions of item 678.10, supra, are more specific, under General Interpretative Hule 10(c), than are the provisions of item 678.35, supra. The claim in the protest is therefore sustained.
+Judgment will be entered accordingly.
