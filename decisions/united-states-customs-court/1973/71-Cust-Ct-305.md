@@ -1,0 +1,30 @@
+---
+court: "United States Customs Court"
+docket: "C.R.D. 73-39; Court No. 70/14952"
+decided: "1973-12-26"
+citations: ["71 Cust. Ct. 305"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Arthur J. Fritz & Co. Thomas Joseph Welsh Forest Products v. United States"]
+source_url: "https://static.case.law/cust-ct/71/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6572484
+cites_cases: ["63 F. Supp. 718", "71 Cust. Ct. 294"]
+---
+
+# Arthur J. Fritz & Co. v. United States
+
+## Majority (Newman, Judge:)
+
+Newman, Judge:
+Defendant has moved to strike the complaint filed in this action. The basis of the motion is that the complaint was filed by the firm of Glad & Tuttle, whereas the firm of Glad, Tuttle & White filed a notice of appearance for plaintiffs. Defendant contends that there is “no record of any notice of substitution filed with this Court replacing the firm of Glad, Tuttle & White, as attorney of record”. Admittedly, no notice of substitution, as provided for in rule 16.3 (f), has been filed.
+The Government’s position is that Glad, Tuttle & White is a law firm distinct and separate from Glad & Tuttle. In support of such position defendant states: “It is a general rule of partnership law that even if there are some partners in common, if there is a partner not common to iboth partnerships, the result is separate and distinct partnerships. Cf. Maryland, Casualty Co. v. Glassell-Taylor Co., 63 F. Supp. 718 (D.C. La., 1945)”.
+Thus, argues defendant, “when Mr. White entered into a partnership with Mr. Glad and Mr. Tuttle, the partnership of Glad, Tuttle & White was formed. This partnership is separate and distinct from that of Glad & Tuttle”. Further, defendant insists that it “is placed in a position wherein it does not know which firm to serve papers on, or if it should 'be forced to effect a duplicate service whenever this situation arises”.
+In opposition to defendant’s motion, Messrs. Glad & Tuttle represent : “The firm of Glad, Tuttle & White is identical to Glad & Tuttle insofar as a business entity remains so through time [sic], with the exception that Mr. White achieved partnership status during the year 1971. Before that Mr. Glad, Mr. Tuttle and Mr. White were members of the bar of this Honorable Court and they remain so today”. Moreover, it may be observed that the firm of Glad, Tuttle & White is located at the same office address as Glad & Tuttle.
+In Baruch Petranker Import Co., Inc., et al. v. United States, 71 Cust. Ct. 294, C.R.D. 73-33 (1973), the legal issue was the same as presented here, but the factual situation was the reverse. Thus, in the prior case, the protest was filed by Glad & Tuttle, whereas the complaint was filed by Glad, Tuttle & White. Under those circumstances, it was held:
+* * * there is nothing in rule 16.3 even remotely suggesting that the addition of a new partner to a law firm automatically “triggers” the provisions of paragraph (f) for notices of substitution and appearance without regard to whether a new and distinctly separate law firm has been created. Here the firm of Glad, Tuttle & White is represented to be “identical” to Glad & Tuttle except, of course, for the addition of Mr. White, a new partner, to the firm. Hence, if defendant’s interpretation of rule 16.3(f) were correct, it is apparent that Glad & Tuttle would be consenting to a substitution by virtually the same firm — an unjustifiable result.
+However, I wish to stress that despite the representations of plaintiffs’ counsel that in 1971 Glad & Tuttle became “Glad, Tuttle & White”, and the latter firm is “identical” to the former, the court s records show that many papers are currently being signed and filed by “Glad & Tuttle”, including the very complaint filed in this action (on October 31,1972), and the very response interposed in this matter (on October 19, 1973) in opposition to defendant's motion to strike!
+Although in Baruch Petranker, “Glad & Tuttle” and “Glad, Tuttle & White” were considered as the same law firm for purposes of rule 16.3, the inconsistency in the firm name of plaintiffs’ counsel causes much confusion respecting whether there is in fact one law firm using two names, or indeed two distinct and separate law firms, as asserted by defendant. Neither defendant nor the court should have to endure the confusion and chaos engendered by counsel’s heedlessly signing some papers as “Glad, Tuttle & White” and other papers as “Glad & Tuttle” in the very same action. Such careless practice — resulting in a spate of unnecessary motions — -will not be countenanced or condoned. But at this juncture of the case, I feel that justice would not be served by invoking the drastic remedy sought by defendant of striking the complaint.
+As stated in its memorandum, “[pjlaintiff [sic] has no objection to filing an amended complaint under the name of Glad & Tuttle [sic] or alternatively to Glad, Tuttle & White being deemed attorney of record”. However, this proposed solution of the problem created by plaintiffs’ counsel raises more questions than it resolves. Consequently, I shall treat mmo pro tune plaintiffs’ complaint as having been filed by Glad, Tuttle & White, strictly conditional upon the consistent use of only that firm name in all papers filed hereafter in this case. Accordingly, defendant’s motion to strike the complaint is denied, at this time.
+Rule 16.3(f) provides: “Substitution of Attorneys: A party to any action who may desire to substitute an attorney in place of the one of record may do so by filing a notice therefor expressing his consent, signed by himself and the attorney of record. The notice shall be substantially in the form as set forth in Appendix G. If the consent of the previous attorney of record is annexed to or endorsed on the notice, substitution shall be accomplished by an appropriate entry on the docket of the court. A notice of appearance shall be filed by the substituted attorney. * * *”
