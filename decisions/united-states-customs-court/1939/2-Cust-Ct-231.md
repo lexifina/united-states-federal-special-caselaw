@@ -1,0 +1,31 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 130"
+decided: "1939-03-16"
+citations: ["2 Cust. Ct. 231"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallinger, Judges"]
+parties: ["Scharf Bros. Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/2/cases/0231-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6628330
+cites_cases: ["21 C. C. P. A. 203"]
+---
+
+# Scharf Bros. Co. v. United States
+
+## Majority (Kincheloe, Judge:)
+
+Kincheloe, Judge:
+Thése suits, all of which were consolidated for the purposes of trial, relate to certain merchandise which was assessed with duty at the rate of 5 cents per pound and 20 per centum ad valorem under paragraph 1405 of the Tariff Act of 1930, as articles made from paper with wax-coated surface or surfaces,' and which is claimed by plaintiff, among other things, to be properly dutiable at 3 cents per pound and 15 per centum ad valorem under said paragraph, as paper with paraffin or wax-coated surface or surfaces.
+Plaintiff introduced the testimony of its treasurer, whose testimony relates only to the merchandise represented by the items enumerated in schedule A, attached hereto and made a part hereof. He stated that he saw the said merchandise at the time of importation; that it consists of wax-coated paper having printed thereon a gold star design about 3¾ to 4 inches wide; that said paper is used for wrapping candy; and that it was imported in continuous rolls with no line of demarcation to indicate where it should be cut and with no printed lettering, or words, or descriptive matter thereon.
+The tariff classification of such merchandise, in our opinion, is governed by our decision in the case of Phoenix Candy Co. v. United States, reported in Abstract 38199, wherein the merchandise consisted of wax-coated paper for wrapping candy, having on one surface certain designs or fancy effects, but with no mark to indicate where the paper may be cut for any particular wrapping purposes. The court held such merchandise to be merely paper material, and, as such properly dutiable at 3 cents per pound and 15 per centum ad valorem, under said paragraph 1405, as paper with a wax-coated surface.
+In the instant case, however, defendant has sought to inject a question with respect to the gold star that is printed on the paper. In his brief filed herein counsel for the defendant contends that if the metal star is placed on the paper after the wax coating is applied then the merchandise is properly dutiable at 5 cents per pound and 20 per centum ad valorem under the provision in said paragraph 1405 for articles made from paper “wholly or partly covered with metal or its solutions.” In raising that claim' defendant has assumed the burden of sustaining it. The only issue presented herein by the pleadings is whether the merchandise hereinabove specified is to be regarded as an article, or whether it is merely paper material. The presumption of correctness attaching to the collector's action applies only to the classification fixed by him, and will not extend to some additional classification urged by defendant, even though the new issue raised by defendant invokes a provision in the same paragraph under which the collector classified the merchandise. The rule, under such circumstances, is very aptly set forth by the Court of Customs and Patent Appeals in the case of United States v. White Sulphur Springs Co., 21 C. C. P. A. 203, T. D. 46728. We quote therefrom:
+Where a paragraph of a tariff act makes provision for two or more distinctly different kinds of merchandise and the collector of customs specifically classifies an importation as one of those kinds, the legal presumption that such classification is correct attaches, but such presumption of correctness is limited to the specific classification made, and, in case it be found that the merchandise is not such specific kind, it may not be hold that there is a legal presumption that it is some other kind which happens to be included in the same paragraph but of which the appraiser gives no description and the collector makes no mention in his classification.
+In all of the cases under consideration the appraiser describes the merchandise as “an article in chief value of paraffin or wax-coated paper,” and the assessment in each instance was made accordingly.
+The only attempt made by counsel for the defendant to establish the soundness of his contention was in his cross-examination of the plaintiff’s witness. On cross-examination the said witness testified that he never saw the paper in question manufactured; and that he did not know whether the gold star design was printed thereon before or after the wax coating was applied. Defendant offered no direct testimony to substantiate its claim. Hence the defendant utterly failed, within the rule laid down by our appellate court in the White Sulphur Springs Co. case, supra, to support its contention raised herein with reference to the placing of the metal on the paper under consideration.
+Since we are satisfied that the uncontradicted testimony of plaintiff’s witness brings the paper represented by the items enumerated in said schedule A, squarely within our decision in the Phoenix Candy Co. case, supra, we follow the ruling in that case and hold the said merchandise to be properly dutiable at the rate of 3 cents per pound and 15 per centum ad valorem under said paragraph 1405, as alleged by plaintiff.
+It Raving been agreed between counsel for tbe respective parties that tbe paper represented by the items enumerated in schedule B, attached hereto and made a part hereof, is similar in all material respects to that passed upon in the Phoenix Gandy Go. case, supra, we follow the decision in said case and hold the specified merchandise io be properly dutiable at the rate of 3 cents per pound and 15 per centum ad valorem under said paragraph 1405, as alleged by plaintiff.
+To the extent indicated the protests are sustained; in all other respects and as to all other merchandise they are overruled. Judgment will be rendered accordingly.
