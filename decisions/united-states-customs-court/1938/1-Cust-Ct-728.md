@@ -1,0 +1,41 @@
+---
+court: "United States Customs Court"
+docket: "4444; Entry No. 3963"
+decided: "1938-11-14"
+citations: ["1 Cust. Ct. 728"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mitsubishi Shoji Kaisha, Ltd. v. United States"]
+source_url: "https://static.case.law/cust-ct/1/cases/0728-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6708304
+---
+
+# Mitsubishi Shoji Kaisha, Ltd. v. United States
+
+## Majority (Evans, Judge:)
+
+Evans, Judge:
+This is an appeal to reappraisement from a finding of value made by the United States appraiser of merchandise at Seattle, Washington. The merchandise involved herein is described on the invoice as “Moon Star Brand Khaki cotton labour shoes, with brown rubber soles and heels.” It was described by plaintiff’s witness Toshio Hoshide as “a rubber-soled canvas shoe * * * being khaki in the canvas upper, with a brown rubber sole and heel.” It was invoiced at 70 sen per pair. The importer made a so-called duress entry on the basis of the American selling price, to meet advances made by the appraiser in similar cases. Under the so-called duress certificate his entered values were stated to be, for sizes 6% to 8, inclusive, $1.26 per pair less 8 per centum, less 5 per centum, less 5 per centum, and on sizes 2 to 6, inclusive, $1.18 per pair less 8 per centum, less 5 per centum, less 5 per centum. The total shipment consisted of 1,560 pairs of shoes. Acting under the proclamation of the President (T. D. 46158), made under authority of section 336 of the Tariff Act of 1930, the appraiser found the value of the merchandise to be that of the American selling price of like or similar shoes, said value being represented by the duress entered values as above set forth.
+There was received in evidence a sample of the instant merchandise marked Exhibit 1. There likewise was received without objection a sample of the shoe that formed the basis of the American selling price value, marked Exhibit 2, the latter being a shoe manufactured by the U. S. Rubber Co. under the trade mark name of Keds.
+The Government attorney in his brief stated the issue to be as follows:
+Whether Exhibit 1 is “like or similar” to Exhibit 2, within the meaning of section 336 of the Tariff Act of 1930, and, if not, whether the plaintiff has sufficiently proven the foreign or export value of merchandise such as or similar to Exhibit 1, which is the value at which the plaintiff claims duty should have been assessed.
+The importer in his brief assumes to connect this importation with an importation of merchandise made by one Samura at the port of Honolulu which was the subject of reappraisement 121957-A, decided November 1, 1938, Reap. Dec. No. 4437. He also assumes to call these rubber-soled shoes, Exhibit 1, tabi, based upon the testimony of one witness that that was the common name, from which he assumes to say that they are like or similar to the' tabi shoe involved in the Honolulu case. The only basis on which he can claim that such shoes are similar is that advanced in the instant case, as well as the Honolulu case, by the Government for holding that the imported shoes in each instance were similar to the American shoe, that is to say that because they are cloth top, rubber sole shoes, they are within the Presidential proclamation, T. D. 46158, sufra. The tabi in the Honolulu case is a split toe shoe and, in physical appearance, therefore not like the shoes-in question here.
+A large number of Japanese witnesses were called in the instant case by the importer. They testified generally to the characteristics of the imported shoe and to the fact that it was bought and used by Japanese laborers engaged in agricultural pursuits on the Pacific Coast. In fact, one witness, a representative of the selling agent of the importer, stated that this shoe is sold in the United States only on the Pacific Coast. The trade name of the imported shoe is Moon Star Brand and it bears a trade mark of a star within the two horns of a crescent. The upper is made of cotton drill and is lined with what appears to be a cheaper grade of cotton drill. The shoes are fastened in the back by means of three flat hooks that are intended to be caught under corded loops. It is claimed by a number of witnesses that this manner of attachment makes the shoe more or less dust proof, and further, that because of the flexibility of this particular type of shoe and its convenience it is preferred hy the Japanese laborer who buys the same to shoes of the type of Exhibit 2. The testimony indicates that shoes of the type of Exhibit 2 are not bought by this class of consumers.
+Exhibit 2 is a rubber-soled brown canvas top, lace in front shoe having corrugated soles with a hard rubber heel and a higher heel than is on Exhibit 1. It also has a tongue of the bellows type, that is, the tongue is attached on both sides of the front from top to bottom. Some of the American witnesses claimed that this bellows type tongue prevents dust from entering, and disputed the claim that the hooked fastening on the imported shoe made that shoe dust proof.
+The testimony, as well as a personal inspection, indicates that Exhibit 1, the imported shoe, is of inferior material to the American-made shoe.
+There was also received in evidence, over objection, Exhibit 6, a canvas top, hooked behind American-made shoe, being a shoe made by the U. S. Rubber Co., June 17, 1936, which, according to the testimony of one witness, was made pursuant to his request after he had purchased a shoe like the imported shoe (Exhibit 1) which he sent to the factory. His idea was to get a shoe that he could sell to the trade that was buying Exhibit 1. This exhibit was received on the theory that the manufacturer of the American made rubber soled shoe, taken as the basis for appraisement, had conceded by the manufacturing of Exhibit 6, that the earlier shoe (Exhibit 2) was not a like or similar shoe to the imported one. It occurs to the court that it is not what one manufacturer thinks or concedes about the likeness or similarity of these shoes, or what he does in his trade practice in order to meet competition that governs. The court is therefore of the opinion that the shoe has no competency as an exhibit, and the fact that this shoe was manufactured under the circumstances outlined can have very little weight in determining this case.
+From the evidence the court is of the opinion that the imported shoe is not like or similar to the American-made shoe (Exhibit 2) nor does it enter into competition therewith. I do not believe, however, that the importer has made a case for this reason. His witness Hoshida testified that the invoice price represented the foreign-market value. The United States examiner testified as follows:
+Q. Mr. Birks, if this merchandise were not dutiable under Presidential Proclamation at American selling price would you have appraised it at 68 sen per pair?—
+# # ‡ ‡ % * if.
+A. Prom what information I had at the time I would have appraised them at 68 sen per pair packed.
+Judge Cline asked the examiner:
+Do you know what the export value was?
+To this question he answered:
+No, I don’t know the export value at the time.
+There is nowhere in the record any testimony as to what was the export value of these shoes at the time of exportation. It is the duty of the court to find a value on appeal to reappraisement if the legal elements are present upon which to base a finding of value. This finding of value must be made in accordance with the statute. The statute (sec. 402 (a) of the Tariff Act of 1930) provides as follows:
+(a) Basis. — Por the purpose of this Act the value of imported merchandise shall be—
+(1) The foreign value or the export value, whichever is higher;
+There being no basis for determining whether an export value existed that was different from the foreign value, I am unable to declare whether the foreign value is the correct dutiable value or not. Nor do I find any testimony as to what constitutes the usual wholesale quantity of this merchandise. The importer not having met the burden of proof placed upon him, his appeal is dismissed.
+It is so ordered.
