@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "P67/352"
+decided: "1967"
+citations: ["59 Cust. Ct. 896"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kaytee Imports, Inc. v. United States, protests 63/15027, etc. (New York)."]
+source_url: "https://static.case.law/cust-ct/59/cases/0896-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6597575
+cites_cases: ["57 Cust. Ct. 348"]
+---
+
+# Kaytee Imports, Inc. v. United States
+
+## Majority (Watson, J.)
+
+Watson, J.
+In accordance witli stipulation of counsel that the merchandise covered by the foregoing protests consists of light sets similar in all material respects to those the subject of Gallagher & Ascher Company v. United States (57 Cust. Ct. 348, C.D. 2813), the claim of the plaintiff was sustained.
