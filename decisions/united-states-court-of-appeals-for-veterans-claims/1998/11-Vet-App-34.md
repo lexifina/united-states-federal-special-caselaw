@@ -2,7 +2,7 @@
 court: "United States Court of Appeals for Veterans Claims"
 docket: "97-947"
 decided: "1998-02-03"
-citations: ["11 Vet. App. 34", "11 Vet. App. 37"]
+citations: ["11 Vet. App. 34"]
 reporter: "vet-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cludie S. BLOUNT, Appellant, v. Togo D. WEST, Jr., Acting Secretary o
 source_url: "https://static.case.law/vet-app/11/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1590065
-cites_cases: ["1 Vet.App. 19", "10 Vet.App. 111", "2 Vet.App. 611", "3 Vet.App. 177", "3 Vet.App. 486", "38 C.F.R. § 3.273", "38 C.F.R. §§ 3.256", "38 U.S.C. § 1318", "38 U.S.C. § 1701", "38 U.S.C. § 240", "38 U.S.C. § 241", "38 U.S.C. § 3501", "38 U.S.C. § 410", "38 U.S.C. § 417", "38 U.S.C. § 503", "38 U.S.C. § 5101", "38 U.S.C. § 5110", "38 U.S.C. § 7252", "38 U.S.C. § 7721", "38 U.S.C. § 7722", "38 U.S.C. §§ 7252", "404 U.S. 71", "6 Vet.App. 136", "9 Vet.App. 334", "92 Stat. 1560"]
+cites_cases: ["10 Vet.App. 111", "3 Vet.App. 177", "38 C.F.R. § 3.273", "38 C.F.R. §§ 3.256", "38 U.S.C. § 1318", "38 U.S.C. § 1701", "38 U.S.C. § 240", "38 U.S.C. § 241", "38 U.S.C. § 3501", "38 U.S.C. § 410", "38 U.S.C. § 417", "38 U.S.C. § 503", "38 U.S.C. § 5101", "38 U.S.C. § 5110", "38 U.S.C. § 7721", "38 U.S.C. § 7722", "38 U.S.C. §§ 7252", "404 U.S. 71", "6 Vet.App. 136", "92 Stat. 1560"]
 ---
 
 # Blount v. West
