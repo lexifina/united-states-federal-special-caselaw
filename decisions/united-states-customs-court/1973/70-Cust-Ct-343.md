@@ -1,0 +1,30 @@
+---
+court: "United States Customs Court"
+docket: "C.R.D. 73-6; Court Nos. 68/17510, etc."
+decided: "1973-02-27"
+citations: ["70 Cust. Ct. 343"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bendix Mouldings, Inc., et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/70/cases/0343-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6572929
+---
+
+# Bendix Mouldings, Inc. v. United States
+
+## Majority (Boe, Chief Judge:)
+
+Boe, Chief Judge:
+In an effort to remove approximately 440 causes of action from the October and November 1970 Reserve Files, the plaintiffs filed individual complaints with respect thereto prior to the expiration of the period provided in the rules of the court for so doing. The defendant has filed in excess of 200 motions to dismiss certain of said causes of action, predicating its motions upon rules of this court, Nos. 14.6(b), 14.8 (b), 4.4 and 4.5B. In so doing, it contends that the causes of action filed by the plaintiffs have not been prosecuted with due diligence and should be dismissed for want of prosecution. In order to prevent delay and the unnecessary and unjustified repetition of effort on the part of counsel and this court resulting from the determination of each individual motion, the parties, by stipulation, have grouped the causes of action of plaintiffs into schedules and categories to which the respective motions to dismiss by the defendant have been directed. (Schedules “A” through “I” inclusive.)
+Although the Rules of the United States Customs Court find great similarity in the Federal Eules of Civil Procedure, the unique procedure in this court, prior to the enactment of the United States Customs Courts Act of 1970, has necessitated the inclusion of certain provisions in our present rules which do not have a similarity to the rules of procedure in any other court. This is particularly true with respect to rule 14.6. By the provisions thereof approximately 177,000 causes of action, pending before this court under the procedure in effect prior to the enactment of the Customs Courts Act of 1970-, were placed in a classification known as the October 1970 Reserve File. A period of two years — to and including October 31, 1972 — was provided by this rule during which the causes of action therein might be removed or otherwise be automatically dismissed upon the expiration of the time limit aforeref erred to.
+It is to this singular procedure, concerning which little precedent can 'be found elsewhere, that this court has been addressing itself from time to time in its endeavor to supervise the disposition of the voluminous number of actions which comprised the October 1970 Reserve File. Had the entire two-year period of time provided by rule 14.6 been utilized by many counsel to either abandon or remove the causes of action from the Reserve File, much needless effort in the presentation and determination of motions such as those in question and of similar character could be avoided.
+This court, however, is aware of the unanticipated and unique problems with which all counsel, as well as this court, have been confronted. Questions, therefore, such as whether the provisions of rule 14.6 have been complied with, or as to whether good cause may have been shown sufficient to justify an extension of time are not matters to which a uniform answer or determination can be made.
+With respect to the causes of action to which the instant motions have been directed, it will be noted that all complaints were filed before the expiration of the time period provided by rule 14.6. To have filed these pleadings well before the eleventh hour, indeed, would have permitted greater care and exactness in their preparation. Their inaccurate and incomplete presentation certainly does not redound to the credit of counsel who attest to the correctness by affixing their signature thereto.
+But does the repeated failure on the part of plaintiffs to include in their complaints the provisions required by rule 4.5 and does the failure of plaintiffs to designate in some of their complaints the name of the proper plaintiff constitute such a lack of due diligence as to justify dismissal under the provisions of rule 14.6 ? Were these questions to be determined with respect to a complaint or complaints not related to the October or November 1970 Reserve Files and the extraordinary value of complaints filed in connection therewith, tins court would be inclined to look with, greater favor on the contention of the defendant.
+However, as hereinbefore indicated, this court is not inclined to dismiss the plaintiffs’ causes of action where complaints therein, although incomplete and erroneous in part, were, in fact, filed prior to the expiration of the time limitation provided by rule 14.6. These causes of action had been placed automatically in the October 1970 Reserve File by the adoption of the rules of the court, effective October 1, 1970. Under the existing circumstances, as they relate solely to this proceeding, this court is unwilling to rule that in the causes of action to which defendant’s motions to dismiss have been directed, the defects in plaintiffs’ complaints, which may have been corrected by amendment or which will be corrected if amendment is permitted, are sufficiently prejudicial to either the defendant or this court to warrant dismissal of said causes of action under the provisions of rule 14.6.
+Accordingly, it is hereby ordered:
+1. That the amendments to the complaints of the plaintiffs filed prior or subsequent to the filing of defendant’s motions to dismiss are hereby accepted and allowed.
+2. That the plaintiffs shall have a period of 10 days from and after the entry of this order to correct, by amendment, any omissions in their complaints referred to in defendant’s motions to dismiss.
+3. That the motions of the defendant to dismiss the causes of action of the plaintiffs referred to in the schedules attached hereto and made a part hereof be and are hereby denied.
