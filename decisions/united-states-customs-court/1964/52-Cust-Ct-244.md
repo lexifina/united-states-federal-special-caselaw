@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "68254; protest 63/3717 (New York)"
+decided: "1964-01-20"
+citations: ["52 Cust. Ct. 244"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dansk Designs, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/52/cases/0244-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577964
+---
+
+# Dansk Designs, Inc. v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+Since the protest was filed more than 60 days after liquidation, it was dismissed as untimely, by virtue of section 514, Tariff Act of 1930.
