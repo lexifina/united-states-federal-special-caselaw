@@ -1,0 +1,30 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1612"
+decided: "1916-03-28"
+citations: ["7 Ct. Cust. 50"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Yeies, and. Martin, Judges."]
+parties: ["Bosch Magneto Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/7/cases/0050-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092643
+cites_cases: ["4 Ct. Cust. Appls., 398", "6 Ct. Cust. Appls., 85"]
+---
+
+# Bosch Magneto Co. v. United States
+
+## Majority (De Vkies, Judge,)
+
+De Vkies, Judge,
+delivered the opinion of the court:
+The importation was of wire. It is undisputed that it is composed of about 80 per cent platinum and about 20 per cent iridium.' It was classified for dutiable purposes under that provision of paragraph 114 of the tariff act of 1913 which provides for “ all other wire not specially provided for in this section.” The importers made protest, claiming the merchandise free of duty either under paragraph 517 or paragraph 578 of the said act. These paragraphs enact:
+517. Iridium, osmium, palladium, rhodium, and ruthenium and native combinations thereof with one another or with platinum.
+578. Platinum, unmanufactured or in ingots, bars, plates, sheets, wire, sponge, or scrap, and vases, retorts, and other apparatus, vessels, and parts thereof, composed of platinum, for chemical uses.
+Moved by the commendable industry and learning displayed by counsel for the importers, appellants, we have not without careful thought arrived at the conclusion herein opposing thé views so well asserted.
+Appellants produced testimony to show that there was in trade and commerce in this country an article generally and uniformly known as “ platinum wire.” A great preponderance of the testimony showed that the article classified by the trade as platinum wire contained from 1 to 25 per cent of iridium; that the iridium was much the more valuable metal. No serious contention was made by the protestants that the article was free of duty under paragraph 517. The language of that paragraph plainly excludes this merchandise.
+The board of general appraisers found as a fact that there was •not sufficient testimony establishing an eo nomine trade designation of platinum in wire, and concluded, as a matter of law, that the trade designation of platinum wire did not respond to the call of the statute for platinum in wire. See also Seligmann et al. v. United States (6 Ct. Cust. Appls., 85; T. D. 35336). The board read the provisions of paragraph 578, as providing for a description of platinum in various forms, including the form of wire. The board also, and we think properly, differentiated the case of the General Electric Co. v. United States (4 Ct. Cust. Appls., 398; T. D. 33839), which related to similar materials. In that case the merchandise consisted of a wire composed of platinum and nickel in two separate parts. It was composed of an outside sleeve of platinum with a nickeliferous core. It was, therefore, rather wire in platinum than platinum in wire. In this case the iridium and platinum are melted together. We think that the Congress did not intend to use the words “platinum * * * in * * * wire” in a commercial sense, and that reading the two paragraphs, 517 and 578, together this congressional purpose is made obvious. Paragraph 517 provides only for iridium and platinum metals in native combinations. This article is an artificial combination. Likewise, it is clearly manifest that while Congress, by paragraph 517, has provided free entry for iridium it is only in its native state and not in a manufactured condition, as, for example, when in the form of wire.
+The particular phrase is for “platinum * * ⅛ in * ⅛ ⅜ wire.” This is not a provision either per force the language used or the associate legislative context for a wire but for a metal, levying duty upon that metal when imported unmanufactured or in any of the prescribed forms, to wit, when in the form of “ingots, bars, plates, sheets, wire, sponge, or scrap.” This is not a provision for “ platinum wire.” The phrase is a precise provision for a metal when found in a certain form. Such obviously is not a commercial but a descriptive term. Platinum wire is an eo nomine designation of a kind of wire. That they do, and how they may, differ is herein demonstrated. Platinum wire, as stated, is a well-known article of trade which usually contains from 1 to 25 per cent in volume of iridium. Such merchandise responds in the trade to the call of “platinum wire.” But this record shows that the values of the two metals, platinum and iridium, in this wire are about equal, the latter being relatively the more valuable per unit of weight. It is not beyond this record to say that the iridium may be the more valuable of the two in such wire. We could no more say then that this is “platinum * * * in * * * wire” than we could say that it is iridium in wire. The naked truth is that it is neither, but is platinum and iridium in wire or in the form of wire. In order to be platinum (metal) in the form of wire or in any other prescribed form, or unmanufactured, clearly it must contain no substantial quantity of other metal. General Electric Co. v. United States, supra. What Congress here has made free of duty is the metal platinum in the form of wire, to respond to the call of which the imported merchandise should be descriptively substantially wholly of platinum. The article known in, or rather claimed by, trade and commerce as platinum wire, as shown by this record, is not such in that it is composed in a substantial part of iridium in a manufactured form to which Congress has not extended the privilege of free entry. Any other construction defeats the apparent legislative purpose, in that while Congress has (par. 517) accorded free entry to iridium only when in native combinations with platinum, the claimed construction accords it free entry also when in artificial combinations with platinum.
+Affirmed.
