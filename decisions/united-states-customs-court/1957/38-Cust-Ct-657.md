@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 8805; Entry No. 51"
+decided: "1957-05-21"
+citations: ["38 Cust. Ct. 657"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States v. John D. Winchester"]
+source_url: "https://static.case.law/cust-ct/38/cases/0657-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6653264
+---
+
+# United States v. Winchester
+
+## Majority (Olivee, Chief Judge:)
+
+Olivee, Chief Judge:
+This appeal for reappraisement relates to certain jade oxide that was exported from London, England, and entered at the port of Galveston, Tex.
+The case has been submitted on an agreed set of facts which establish that the proper basis for appraisement of the merchandise in question is export value, as defined in section 402 (d) of the Tariff Act of 1930, and that such statutory value for all of the items is “US $1.47 per pound, net, packed, less haulage of £4.39 (Pounds Sterling),” and I so hold.
+Judgment will be rendered accordingly.
