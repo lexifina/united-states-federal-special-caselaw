@@ -1,0 +1,30 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "97-1547"
+decided: "2000-06-29"
+citations: ["13 Vet. App. 543"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, IVERS, and STEINBERG, Judges."]
+parties: ["George T. JONES, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/13/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11209653
+cites_cases: ["10 Vet.App. 498", "106 Stat. 4506", "11 Vet.App. 113", "11 Vet.App. 497", "13 Vet.App. 190", "150 F.3d 1380", "1999 WL 757047", "28 U.S.C. § 2412", "8 Vet.App. 502", "9 Vet.App. 304"]
+---
+
+# Jones v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+Before this Court is the appellant’s January 11, 2000, application for attorney fees and expenses under the Equal Access to Justice Act, 28 U.S.C. § 2412(d) (EAJA), and the Secretary’s February 8, 2000, motion to dismiss that EAJA application. For the reasons that follow, the Court will grant the Secretary’s motion and dismiss the EAJA application.
+The appellant, veteran George T. Jones, filed pro se a Notice of Appeal as to a June 10,1997, decision of the Board of Veterans’ Appeals (BVA). On March 2, 1998, the Secretary filed the designation of the record. On April 6, 1998, Charles Tucker, Esq., filed a notice of appearance on behalf of the appellant; Mr. Tucker stated that he was “representing the appellant without charge to the appellant under the auspices of the Veterans Consortium Pro Bono Program.” After the transmittal of the record on appeal, the appellant through counsel filed a brief and a reply brief, and the Secretary filed a brief. On June 11, 1999, the case was submitted to a judge of this Court for single-judge disposition.
+On July 8, 1999, the Consortium notified the Court that Mr. Tucker had died on June 26, 1999, and that it was referring the case to another Consortium attorney. On July 20, 1999, Karen B. Levin, Esq., filed a notice of appearance for the appellant. On September 17, 1999, the Court issued a memorandum decision that vacated the June 1987 BVA decision and remanded the matter. Jones (George) v. West, 1999 WL 757047, at *4 (Vet.App. Sept.17, 1999). On October 12, 1999, the Court entered judgment, at which time the 60-day time period for any appeal began. U.S. Vet.App. R. 36. That 60-day judicial appeal period expired on December 13, 1999, at which time the judgment became final and the 30-day period for filing an EAJA application began. See 28 U.S.C. § 2412(d)(1)(B); Strouth v. Brown, 8 Vet.App. 502, 504 (1996). On January 11, 2000, Michael T. Imms, Esq., of Crawford, Wilson, Ryan & Agulnick, the law firm in which Mr. Tucker was a partner at the time of his death, filed an EAJA application allegedly on behalf of the appellant in this case. On February 8, 2000, the Secretary filed a motion to dismiss that EAJA application. No response to that motion has been filed. On April 27, 2000, this matter was referred to a panel for review.
+This Court has jurisdiction to award reasonable attorney fees and expenses pursuant to 28 U.S.C. § 2412(d)(2)(F) as amended by section 506 of the Federal Courts Administration Act of 1992, Pub.L. No. 102-572, § 506, 106 Stat. 4506, 4513 (1992). The January 11, 2000, EAJA application was filed within the 30-day EAJA application period set forth in 28 U.S.C. § 2412(d)(1)(B). That application has satisfied any jurisdictional content requirements that apply because it contained the following: (1) A showing that, by virtue of the Court’s remand, the appellant is a prevailing party within the meaning of the EAJA; (2) a showing that he is a party eligible for an award under the EAJA because his net worth does not exceed $2,000,000; (3) an allegation that the position of the Secretary was not substantially justified; and (4) an itemized statement of the fees sought. See 28 U.S.C. § 2412(d)(1)(A), (1)(B), (2)(B); Fritz v. West, 13 Vet.App. 190, 195 (1999); Chesser v. West, 11 Vet.App. 497, 499 (1998); Bazalo v. Brown, 9 Vet.App. 304, 308 (1996), rev’d on other grounds sub nom. Bazalo v. West, 150 F.3d 1380, 1384 (Fed.Cir.1998) (concluding that showing of net worth not jurisdictional requirement).
+In his motion to dismiss, the Secretary argues that the January 2000 EAJA application is invalid because Mr. Imms is not the appellant’s representative and thus cannot request EAJA fees and expenses on his behalf. Motion at 3. It is undisputed that Mr. Imms has not filed a notice of appearance on behalf of the appellant in this case, as required by Rule 46(d)(2)(A) of this Court’s Rules of Practice and Procedure (Rules). In addition, Mr. Imms has been neither admitted to practice before this Court under Rule 46(a) or (b), nor permitted to appear in this case before this Court pro hac vice under Rule 46(c). Hence, he lacks the status of a “practitioner”, who would be eligible to file a notice of appearance here. See U.S. Vet.App. R. 46(d)(1).
+The Court notes that the appellant in this case had been represented on a pro bono basis; that is, there can be no question whether the appellant might be able to use an EAJA award to reduce the amount of a contingency fee based on an award of past-due benefits that eventually might be due to his attorney, see Gaines (Jerry) v. West, 11 Vet.App. 113, 115 (1998) (per curiam order); Shaw v. Gober, 10 Vet.App. 498, 503-05 (1997). Because the appellant in this case cannot therefore be financially harmed by the dismissal of this EAJA application, the Court will dismiss the application as defective under Rule 46(d)(2)(A). The Court does not here decide the question whether the Court will dismiss an EAJA application, which is defective due to the lack of compliance with the Court’s Rules by the appellant’s attorney, where the appellant might be financially disadvantaged by such dismissal.
+On consideration of the foregoing, it is
+ORDERED that the January 11, 2000, EAJA application is DISMISSED.
