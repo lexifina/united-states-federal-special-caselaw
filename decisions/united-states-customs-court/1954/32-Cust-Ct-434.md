@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "57941; protest 203436-K (New York)"
+decided: "1954-03-25"
+citations: ["32 Cust. Ct. 434"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Continental Merchandise Co., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/32/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6616849
+cites_cases: ["28 U. S. C. § 2636", "30 Cust. Ct. 193"]
+---
+
+# Continental Merchandise Co. v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+It was stipulated that the merchandise and issues are the same in all material respects as those the subject of John P. Herber & Co., Inc. v. United States (30 Cust. Ct. 193, C. D. 1519). In accordance with stipulation of counsel and following the cited case, the protest was dismissed, and the matter was remanded to a single judge sitting in reappraisement for determination of the value of the merchandise in the manner provided by law (28 U. S. C. § 2636 (d)).
