@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "58341; protests 120487-K, etc. (Buffalo)"
+decided: "1954-08-26"
+citations: ["33 Cust. Ct. 345"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["C. J. Tower & Sons v. United States,"]
+source_url: "https://static.case.law/cust-ct/33/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6601782
+cites_cases: ["31 Cust. Ct. 13"]
+---
+
+# Tower v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+In accordance with stipulation of counsel that certain items of the merchandise are similar in all material respects to the Western white spruce lumber the subject of C. J. Tower & Sons v. United States (31 Cust. Ct. 13, C. D. 1538), the claim of the plaintiff was sustained as to said items.
