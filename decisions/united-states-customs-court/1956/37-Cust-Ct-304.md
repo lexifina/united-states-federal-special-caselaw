@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "60142; protest 183410-K (Baltimore)"
+decided: "1956-08-02"
+citations: ["37 Cust. Ct. 304"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Shapiro & Co., Inc., a/c Doherty Co., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/37/cases/0304-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6586382
+---
+
+# Samuel Shapiro & Co. v. United States
+
+## Majority (Laweence, J.)
+
+Opinion by
+Laweence, J.
+In accordance with stipulation of counsel that the merchandise consists of steel in coils the same in all material respects as that involved in Abstract 58580, the claim of the plaintiff was sustained.
