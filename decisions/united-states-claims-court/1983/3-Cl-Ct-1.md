@@ -1,0 +1,30 @@
+---
+court: "United States Claims Court"
+docket: "200-82C"
+decided: "1983-05-26"
+citations: ["3 Cl. Ct. 1"]
+reporter: "cl-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morris W. WILLIAMS, Plaintiff, v. The UNITED STATES, Defendant."]
+source_url: "https://static.case.law/cl-ct/3/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3522664
+cites_cases: ["183 Ct.Cl. 145", "201 Ct.Cl. 527", "204 Ct.Cl. 188", "210 Ct.Cl. 332", "228 Ct.Cl. 855", "28 U.S.C. § 2501", "38 U.S.C. § 3103", "391 F.2d 938", "536 F.2d 360", "66 Stat. 663", "66 Stat. 684", "66 Stat. 690", "91 Stat. 1106"]
+---
+
+# Williams v. United States
+
+## Majority (MAYER, Judge.)
+
+MEMORANDUM AND ORDER
+MAYER, Judge.
+Plaintiff brought this action on April 21, 1982, to recover unemployment compensation denied him by the California Department of Employment in 1955. He had applied for unemployment benefits in 1954 under the Veterans Readjustment Assistance Act of 1952, Pub.L.No. 82-550, 66 Stat. 663 (1952), but apparently was rejected because his discharge from the Air Force on December 7, 1954, was characterized as undesirable. In 1970, for reasons about which the record is silent, his discharge was upgraded to general. On December 26, 1979, plaintiff petitioned the Air Force Board for the Correction of Military Records (Board) to upgrade the discharge to honorable. The Board did so on April 7, 1981, but the December 7, 1954, discharge date was not changed. As a result of the upgraded discharge, plaintiff now seeks unemployment benefits and interest from 1955.
+The case is before the court on defendant’s motion to dismiss because the complaint is barred by the statute of limitations, and because if plaintiff has a claim it is against California, not the United States. The court concludes that plaintiff has failed to state a claim within the jurisdiction of this court.
+The statute of limitations is jurisdictional and will be strictly construed. Kirby v. United States, 201 Ct.Cl. 527, 539 (1973). A plaintiff must file a petition within six years of the accrual of his claim or an action on it will be barred, 28 U.S.C. § 2501, and the United States Court of Claims consistently held in military discharge cases that a claim accrues at the date of discharge. See Homcy v. United States, 210 Ct.Cl. 332, 336, 536 F.2d 360, 363 (1976); Mathis v. United States, 183 Ct.Cl. 145, 148, 391 F.2d 938, 939 (1968). Here, plaintiff was discharged in 1954, but did not file a complaint until more than 27 years had passed. Therefore, any claim which he may now assert concerning his discharge is barred by limitations unless the running of the statute was somehow tolled or began to run anew. Plaintiff has not suggested how the court might find this to be the case.
+Plaintiff is proceeding pro se and may not fully appreciate the jurisdictional principles which bind the court. Therefore, it has reviewed the claim to determine if any grounds by which he might avoid the six year time bar exist.
+Assuming without deciding that California’s refusal to pay plaintiff under the Veterans Readjustment Assistance Act gives rise to a claim against the United States rather than the state and that the Board might have ordered monetary relief, plaintiff has not said he asked the Board to order the benefits he now seeks when it upgraded his discharge. Nor has he said he asked that the effective date of his discharge be brought forward to 1981. Therefore, even if plaintiff were to argue that the Board stopped short of giving full relief, thereby invoking the “half-a-loaf doctrine,” see Homcy v. United States, 210 Ct.Cl. at 338, 536 F.2d at 364; Denton v. United States, 204 Ct.Cl. 188, 195 (1974), he could not prevail. He has suggested nothing indicating he did not receive the “full loaf” he requested from the Board or that it did not give him all the relief he was due. Id.
+The Board acts fully within its authority when it converts the character of a discharge retroactively to the original date. Therefore, a failure to update the discharge, whether requested or not, would not constitute grounds for relief, see Rumph v. United States, 228 Ct.Cl. 855, 858 (1981), even supposing a more recent discharge date might have brought his claim within the statute of limitations. And the fact that the Board reached a favorable decision on his discharge avails plaintiff little because resort to it was permissive, not mandatory. Presenting one’s case to the Board does not serve to extend the statute of limitations. Id.
+Plaintiff does not address the jurisdictional issues raised by defendant. He merely argues that a letter from the Air Force acknowledges past due benefits and that a provision of a Veterans Administration circular implementing Public Law No. 95-126, 91 Stat. 1106, codified at 38 U.S.C. § 3103, allows veterans prevented from receiving benefits because of character of discharge regulations in effect before October 8, 1977, ten years and one day from that date to seek those benefits. The letter from the Air Force, however, does not acknowledge past due benefits. It says plaintiff received mustering out pay in 1951 for an earlier honorable discharge, and that by law one receives mustering out pay only once. Veterans Readjustment Assistance Act of 1952, Pub.L. No. 82-550, § 503, 66 Stat. 690; see generally id. § 401(b), 66 Stat. 684. The circular provision plaintiff cites deals only with veterans education benefits, which are not at issue here.
+Accordingly, no basis for the exercise of this court’s jurisdiction having been shown, it is ORDERED that defendant’s motion to dismiss is GRANTED, the complaint to be dismissed with costs to the prevailing party.
+In his response to the motion to dismiss, plaintiff says “Paragraph 66 of 10 U.S.C. 1552” gives the court jurisdiction over his claim. This provision pertains to the correction ,of military records, but contains no paragraph 66.
