@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "54710; protests 137703-K and 138333-K (New York)"
+decided: "1950-10-03"
+citations: ["25 Cust. Ct. 283"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Samuel Riba and Samuel Riba, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/25/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6635853
+---
+
+# Riba v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+In accordance with stipulation of counsel that the' merchandise consists of gold- and silver-colored beads similar in all material respects to those the subject of Abstract 54251, the claim at 35 percent under paragraph 1503 was sustained.
