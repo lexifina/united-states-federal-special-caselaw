@@ -1,0 +1,34 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1705"
+decided: "1916-12-21"
+citations: ["7 Ct. Cust. 353"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Ducommun Hardware Co."]
+source_url: "https://static.case.law/ct-cust/7/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093467
+cites_cases: ["1 Ct. Cust. Appls., 142", "150 U. S., 70", "176 U. S., 156", "6 Ct. Cust. Appls., 243", "6 Ct. Cust. Appls., 444"]
+---
+
+# United States v. Ducommun Hardware Co.
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The merchandise involved in this case is pruning shears. The uncontroverted evidence is that they are used exclusively for pruning vineyards and orchards. There are also parts of such shears which, while not described in the evidence, from the papers in the case seem to consist of blades, bolts, and nuts. We assume for the purpose of decision that these blades, bolts, and nuts are entitled to the same classification as the pruning shears, if such shears are entitled to free entry, because there seems to be no controversy made on this question. The issue is whether these pruning shears are classifiable as agricultural implements within the provisions of .paragraph 391 of the tariff act of 1913, which reads as follows:
+Agricultural implements: Plows, tooth and disk harrows, headers, harvesters, reapers, agricultural drills and planters, mowers, horserakes, cultivators, thrashing machines, cotton gins, machinery for use in the manufacture of sugar, wagons and carts, and all other agricultural implements of any kind and description, whether specifically mentioned herein or not, whether in whole or in parts, including repair parts—
+Or are dutiable under paragraph 128, the relevant part of which provides for “scissors and shears and blades for the same, finished or unfinished, 30 per centum ad valorem.” In view of the conclusion reached in this opinion, we do not refer to the paragraph under which the bolts and nuts are claimed dutiable, except to say that it is 123 of the same act.
+The Board of General Appraisers sustained the protest, claiming all the merchandise classifiable under paragraph 391.
+The Government, while accepting for the purposes of this case the board's finding that the shears are agricultural implements, in substance contends that they are dutiable as shears, rather than as agricultural implements, upon the ground that the eo nomine provision for shears in paragraph 128 governs the classification.
+In United States v. Boker & Co. (6 Ct. Cust. Appls., 243; T. D. 35472) full consideration was given to the meaning of paragraph 391 and ifc was said in substance'that agriculture may extend into and include horticulture, viticulture, arbor culture, and other allied industries and pursuits, and embrace .such parts thereof as pertain to human and incidental animal subsistence; “the essential requirements of life (food) and possibly man’s comfort (raiment) and not merely the pleasurable pursuits; the necessities and not the essentially pleasurable or ornamental.” It was also said “that the use of the instrument must determine its classification * * * and that that use, and the determinative fact, is chief use.”
+The manifest purpose of the agricultural paragraph is to discriminate in favor of agriculture, and under the authority of the Boker case we think that, it being shown that these shears are not' only chiefly, but exclusively, used in agriculture as therein defined, their classification falls thereunder. The language of the paragraph is, after eo nomine mentioning certain articles, “and all other agricultural implements of any kind” and description, whether specifically mentioned herein or not, whether in whole or in parts, including repair parts.” While these pruning shears are not specifically mentioned in the paragraph, they are upon the record agricultural implements.
+That they are one kind of shears is also conceded, but it is apparent from common knowledge that there are many kinds of shears that are not agricultural implements in any sense, and perhaps that there are still others which, while they may be incidentally used for agricultural purposes, are not exclusively or chiefly devoted to that use. As to such shears the eo nomine provisions of paragraph 128 would doubtless be applicable. The rule of eo nomine application, as we have had occasion many times to remark, is but a rule of construction designed to aid in ascertaining the legislative intent, and while of high importance, is never controlling when it clearly appears that Congress intended a particular article to be otherwise classifiable, and we think this is such a case.
+The instant case is not like that of Quirk v. United States (6 Ct. Cust. Appls., 444; T. D. 35983), cited by the Government, because there the Question was whether pruning knives and budding knives which had folding or other than fixed blades, were dutiable under paragraph 128 of the act of 1913 or as agricultural implements under paragraph 391. There was no proof of chief use. It was held that the very precise description of paragraph 128 of “pruning knives and budding knives * * * and of knives by whatever name known, including such as are denominatively mentioned in this section, which have folding or other than fixed blades or attachments” furnished the rule for classification when contrasted with the general term “agricultural implements,” the record containing, as stated, no proof as to chief use. The provisions for “shears” in that paragraph, however, lack many very specific features that attach to the knives thereunder made dutiable. There is no language in the paragraph defining more closely “shears” than the word itself, and we think it may well be concluded that from “shears” thus described, those which are shown to be used chiefly as agricultural implements may be excluded and the same classified under paragraph 391.
+Neither do we think the case of; Chew Hing Lung v. Wise, collector (176 U. S., 156), is controlling. There the question of chief use in determining the dutiability of an article when the competing provision was an eo nomine one, was not in issue, and the court said “the ease is not within the principle decided in Magone v. Heller (150 U. S., 70).” We think the reasoning ofthe Magone case, which it is unnecessary to discuss, conduces to the conclusion we reach in the case at bar. See also United States v. Horrax (1 Ct. Cust. Appls., 142; T. D. 31187).
+If it be conceded that the instant question is not wholly free from difficulty, it is settled law that the doubt must be resolved in favor of the importers.
+The judgment of the Board of General Appraisers is affirmed.
