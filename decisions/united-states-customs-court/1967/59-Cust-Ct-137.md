@@ -1,0 +1,90 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3096"
+decided: "1967-08-28"
+citations: ["59 Cust. Ct. 137"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Ford, Judges"]
+parties: ["Viking Importrade, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/59/cases/0137-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573431
+cites_cases: ["26 Cust. Ct. 77", "33 CCPA 118", "41 CCPA 161", "43 Cust. Ct. 388", "44 Cust. Ct. 10", "46 Cust. Ct. 514", "48 Cust. Ct. 348", "54 Cust. Ct. 450", "6 Cust. Ct. 156", "82 Treas. Dec. 305", "91 Treas. Dec. 150"]
+---
+
+# Viking Importrade, Inc. v. United States
+
+## Majority (Kao, Chief Judge:)
+
+Kao, Chief Judge:
+The imported merchandise involved in this protest consists of articles invoiced as “little spreaders, stainless steel with cream colour plastic handle,” which were classified by the then collector of customs at the port of New York as table knives within the purview of paragraph 355 of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T.D. 51802, and, accordingly, assessed with duty at the rate of 2 cents each, plus 12½ per centum ad valorem.
+It is claimed by the plaintiff that these articles are properly dutiable at the rate of 17 per centum ad valorem as household utensils within the scope of paragraph 339 of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108, or, in the alternative, at the rate of 19 per centum ad valorem as manufactures of metal, not specially provided for, under the provisions of paragraph 397 of the Tariff Act of 1930, as modified by said sixth protocol.
+The defendant alternatively contends that the merchandise falls within the purview of the provisions of paragraph 355, supra, for “similar knives.”
+The pertinent provisions of the statutes involved herein read as follows:
+Paragraph 355 of the Tariff Act of 1930, as modified :
+Table, butchers’, carving, cooks’, hunting, kitchen, bread, cake, pie, slicing, cigar, butter, vegetable, fruit, cheese, canning, fish, carpenters’ bench, curriers’, drawing, farriers’, fleshing, hay, sugar-beet, beet-topping, tanners’, plumbers’, painters’, palette, artists’, shoe, and similar knives, forks, * * * all the foregoing, finished or unfinished, not specially provided for:
+*******
+With handles of hard rubber, solid bone, celluloid, or any pyroxylin, casein, or similar material:
+Table, carving, cake, pie, butter, fruit,
+cheese, and fish_ 2‡ each and
+12½% ad val.
+Other_ 8‡ each and
+35% ad val.
+Paragraph 339, Tariff Act of 1930, as modified by T.D. 54108:
+Table, household, kitchen, and hospital utensils, * * * not specially provided for, whether or not containing electrical heating elements as constituent parts:
+*******
+Not plated with platinum, gold, or silver, and not specially provided for, composed wholly or in chief value of— *******
+Other- 17 % ad val.
+Paragraph 397, Tariff Act of 1930, as modified by T.D. 54108:
+Articles or wares not specially provided for, whether partly or wholly manufactured:
+*******
+Composed wholly or in chief value of iron, steel, copper, brass, nickel, pewter, zinc, aluminum, or other base metal (except lead), but not plated with platinum, gold, or silver, or colored with gold lacquer:
+‡ ⅜ ⅝ ⅜ ⅜ * ⅜
+Other * * *- 19% ad val.
+The record in this case consists of the oral testimony of one witness and two exhibits introduced by the plaintiff. The defendant introduced no evidence.
+A sample of the imported merchandise was received in evidence and marked exhibit 1. It is in the form of a very small knife having a handle to which a blade is permanently attached. The handle is cylindrical in shape and is about 2 inches long and ¾ of an inch in diameter. The blade, about 2 inches long and from ¾ to ⅜ of an inch wide, is partially beveled at the bottom; it is inflexible, flat, and the front, top, and bottom sides are blunt. It was stipulated that it is in chief value of steel, not plated with platinum, gold, or silver or colored with gold lacquer.
+Exhibit 2 is an ordinary lead pencil which the witness was apparently unable to sharpen with the use of exhibit 1.
+The sole witness in the case, Mr. Alfred E. Knobler, the president of the importing firm, testified that he is the overall manager of the firm and is involved in the design, importation, and sales of its products; that he helped originate and design exhibit 1 as a complement to his firm’s line of bar accessories, specifically for use as a spreader of various types of party goods and cocktail foods; that he has used it himself and seen others use it in the home as a spreader of a variety of things including mustard, cocktail dips, and cheese spreads; that he has helped to train sales personnel in the manner in which the item should be sold; that he sells the product to buyers who represent gift departments of department stores throughout the country; and that from his knowledge and experience said item is sold as a spreader of various types of party goods and cocktail foods.
+The witness then testified that he never attempted to cut anything ■with it since the article has a blunt edge and is incapable of cutting.
+Based upon the foregoing, it is contended by the plaintiff that the imported merchandise in question is designed, sold, and chiefly used in the home as a spreader of party goods and cocktail foods and, therefore, falls within the purview of paragraph 339, supra,, as a household utensil; that in order for the article to be classified as a table knife under paragraph 355, supra, it must be designed, capable of being used, and chiefly used as a cutting instrument or have a sharp edge for cutting.
+The brief filed oil behalf of the plaintiff sets forth the dictionary definitions of the term “knife” and invites our attention to several cases, referred to infra, which hold that knives are cutting instruments.
+The defendant argues that there is no requirement that a table knife be used as a cutting instrument and quotes the following definition of “table knives” as it appears in Webster’s New International Dictionary, 1956 edition, page 1369:
+1. * * * b Specif., a table knife, usually of silver or steel with a silver, bone, or pearl handle. There are three sizes of ordinary table knives, dessert hnife, breakfast knife, and dinner knife, the first being the smallest. Still smaller is the sharp-pointed fruit knife. There are several types of serving knives, or servers, many with spatulalike blades.
+Spatula is defined as follows at page 2412, Webster’s New International Dictionary, supra:
+1. An implement shaped like a knife, flat, thin, and somewhat flexible, for spreading paints, fine plasters, drugs in compounding prescriptions, certain foods in cooking processes, etc. * * *
+Therefore, contends the defendant, since a spatula is used for spreading materials there is no requirement that a table knife be used as a cutting instrument.
+Defendant urges alternatively that, if the importations do not fall within the term “table knives,” they are “similar knives” within the contemplation of paragraph 355.
+Moreover, argues the defendant, chief use as a cutting instrument is not a characteristic of all of the enumerated knives under paragraph 355, supra.
+The parties are also at odds with respect to the physical characteristics of the sample in evidence. The plaintiff contends that an examination of the sample reveals that the sides of the blade are blunt and that they do not contain a cutting edge and that the handle is too small to be firmly gripped for cutting purposes. The defendant, on the other hand, contends that one side of the blade is partially beveled at the bottom and though blunt, the blade is designed for use in cutting soft substances.
+Both parties conducted trial demonstrations. As hereinabove observed, plaintiff’s witness attempted to sharpen a pencil with the use of the sample apparently without success. Counsel for the defendant used the exhibit to cut or sever a pat of butter, and spread it on a piece of bread.
+In a classification case such as this it is well-settled law that it is necessary for the importer to prove not only that the action taken by the collector was erroneous, but that the claim relied upon is correct. United States v. Gardel Industries, 33 CCPA 118, C.A.D. 325.
+To support a claim that an article is a household utensil within the purview of paragraph 339, as modified, supra, it is incumbent upon a protestan! to establish that the article is chiefly used in the household.
+Chief use is a question of actual fact which must be established on the basis of positive testimony representative of an adequate geographical cross-section of the country. L. Tobert Co., Inc., American Shipping Co. v. United States, 41 CCPA 161, C.A.D. 544.
+It is true as plaintiff suggests that use may be established from the testimony of one witness and that importers engaged in marketing are generally possessed of knowledge of how their merchandise is used. However, an examination of the testimony of the plaintiff’s witness, Mr. Knobler, with respect to the use of the instant merchandise shows that it was limited to his own personal use and his observation of use in four or five homes. His testimony of instructions to salesmen and the exhibition of the article at trade shows does not possess sufficient probative value to establish chief use of the item by the ultimate consumer.
+However, we are of the opinion that, even if the instant record did establish the chief use of the instant articles as a spreader of soft party goods and cocktail foods in the household, they would not be removed from classification within the enumerated knife provisions of paragraph 355, supra.
+The enumerated knife provisions in paragraph 355, supra, have been the subject of consideration of this court in several cases.
+In B. Westergaard & Co. v. United States, 26 Cust. Ct. 77, C.D. 1302, an implement for cutting cheese not in the form of a conventional knife was held to be a cheese knife within the eo nomine designation for cheese knives in paragraph 355, supra. In Geo. G. Wagner Co. and Frank P. Dow Co., Inc. v. United States, 48 Cust. Ct. 348, Abstract 66486, an article having a partially serrated edge, which was shown to be chiefly used as a cake or pie server was held to be a knife, and in William Adams, Inc. v. United States, 6 Cust. Ct. 156, C.D. 452, certain articles invoiced as “leaf pattern 'butter spreaders,” were held to be within the eo nomine provision for butter knives in said paragraph 355.
+In the Wagner case, the court, after quoting the aforementioned definition of the term “table knife” cited by the defendant herein, said: “* * * it would seem that within the common meaning of the term ‘knife’, there are included several types of serving knives or servers.”
+In the Adams case, the controverted articles were invoiced and referred to as butter spreaders or. butter knives and the court said:
+From this record we are satisfied that the so-called butter spreaders in question are knives in the ordinary meaning of that term. They have a handle and a blade, and, being used for the purpose of cutting as well as spreading butter, in our opinion they come within the eo nomine provision in said paragraph 355 for butter knives.
+The chief use of the importation in the Westergaard case was as a cutter. The chief use of the article in the Wagner case was as a server and in the Adams case the chief use of the article was as a spreader.
+It is apparent from the foregoing that the term “knife”, as used in the enumerated provisions of paragraph 355, has been broadly interpreted and would embrace an implement chiefly used either for serving or for spreading purposes and only incidentally possessing the capacity to cut. Therefore, we are not impressed with plaintiff’s argument that the chief use of all of the enumerated knives in paragraph 355 must be as cutting instruments.
+Plaintiff’s position that the subject instrument can spread soft foods and party goods but cannot cut them is, therefore, not of determinative significance here.
+Moreover, one of the enumerated knives in paragraph 355, supra, .is a “palette” knife. Such a knife is defined as follows in Webster’s New international Dictionary at page 1757 :
+palette knife. A knife, having a very flexible steel blade and no cutting edge, used by painters to mix colors, by printers for distributing ink; etc.; a spatula.
+According to the common meaning of the term “spatula” as quoted hereinabove, the reference is to an article used for spreading, not for cutting. By definition, a palette knife is one which has no cutting edges, but is nevertheless specifically termed a knife. As a spatula its use is for spreading, not for cutting.
+It is obvious, therefore, that the enumerated knife provisions of paragraph 355 are not limited to instruments which are used solely for cutting purposes. The cases of M. Pressner & Co. v. United States, 44 Cust. Ct. 10, C.D. 2145, and Paul E. Sernau, Inc. v. United States, 46 Cust. Ct. 514, Abstract 65737, which construed the provisions for hunting knives in paragraph 355, and pocket knives in paragraph 354, respectively, though seemingly suggestive of a contrary view, are distinguishable in that both cases were concerned with specific articles, namely, hunting knives and pocket knives, which are by definition essentially cutting instruments.
+An examination of the instant “little spreader” reveals that it is in the form of a knife. It has a handle and a blade. The blade, permanently embedded into the handle is blunt and inflexible. It has been demonstrated that, although it cannot sharpen a pencil, it is capable of being used to cut butter and spread it on a piece of bread.
+We find the' importation essentially similar in use and characteristics to the controverted articles in the Adams case. In the Adams case, the articles were invoiced and referred to as butter spreaders as well as butter knives. Similarly, in the case at bar, the articles are invoiced as “little spreaders.”
+Based on the above considerations, a review of the record and a physical examination of the exhibit satisfy us that the articles at bar are similar to butter knives, and are, therefore, properly embraced by the provision in said paragraph 355 for similar knives.
+Consequently, it is unnecessary for us to consider plaintiff’s claim for alternative classification of the merchandise, as articles of metal not specially provided for.
+In disposing of the primary issue in this case, we are mindful of similar conclusions reached in the interpretation of the provisions of said paragraph 355 with respect to forks.
+In Air Express International Corp. and Braniff International Airways v. United States, 54 Cust. Ct. 450, Abstract 69359, the involved articles were 3½ inches in overall length and consisted of a handle with a shank 2½ inches long and two prongs ⅝ of an inch in length. It was contended that the said merchandise was of such fragile construction as to be of no use other than as a novelty item. Since, however, the article appeared to possess sufficient strength to pick up a cherry or pierce a small cocktail frankfurter, the court held it to be a fork within said paragraph 355.
+In Fred Roberts Co. v. United States, 43 Cust. Ct. 388, Abstract 63483, the involved article was used to hold down a roast to facilitate carving. It was contended that by virtue of its design, appearance, and use, it was not a fork. This court held to the contrary, stating:
+It must be remembered, moreover, that the provision for forks, both as originally enacted in paragraph 355 of the Tariff Act of. 1930, and as modified by the Torquay protocol, supra, is an extremely broad one. As applied to forks generally recognized as susceptible of use in the household, there are included, table, carving, cooks’, cake, pie, slicing, vegetable, fruit, cheese, and fish forks. Obviously, Congress was not legislating simply with respect to the common variety of table fork used during the service and eating of meals. It is clear that within this comprehensive enumeration, there exists such a diversity of size, shape, and use as to make only the broadest of definitions truly applicable.
+We adhere to the views there expressed and are of opinion that comparable reasoning is applicable in the case at bar.
+We are equally convinced that the articles in issue are not provided for in paragraph 355, as modified, supra, as table knives. By definition, as hereinabove quoted, a table knife ordinarily signifies a dessert, breakfast or dinner knife. Since tire provision in issue enumerates many other knives which might ordinarily be expected to be found upon a table during the service of a meal, the term “table knife” is tautological unless it is limited in concept to those knives which the dictionary labels table knives. That the subject knives differ from dessert, breakfast, and/or dinner knives is clearly evident from the appearance of the exhibit before us. They are not table knives, and were improperly so classified.
+We are, therefore, constrained to overrule all claims in the protest without affirming the action of the collector of customs.
+Judgment will be entered accordingly.
