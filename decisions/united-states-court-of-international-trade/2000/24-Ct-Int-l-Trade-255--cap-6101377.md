@@ -1,0 +1,32 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 99-10-00628"
+decided: "2000-04-17"
+citations: ["24 Ct. Int'l Trade 255"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elkem Metals Co., et al., plaintiffs v. United States of America, et al., defendants"]
+source_url: "https://static.case.law/ct-intl-trade/24/cases/0255-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6101377
+cites_cases: ["1 CIT 65", "1996 WL 469015", "21 CIT 198", "28 U.S.C. § 1581", "462 F. Supp 966", "473 F. Supp. 798", "5 CIT 3", "64 Fed. Reg. 47,865", "764 F.2d 1577", "81 Cust. Ct. 168", "82 Cust. Ct. 351", "958 F. Supp. 624"]
+---
+
+# Elkem Metals Co. v. United States
+
+## Majority (Eaton, Judge:)
+
+Memorandum Opinion and Order
+Eaton, Judge:
+The Court has exclusive jurisdiction over this consolidated action, commenced under 19 U.S.C. § 1516a(a) and 28 U.S.C. § 1581(c), in which the Plaintiffs contest the Defendant United States International Trade Commission’s (“ITC”) negative injury determination upon reconsideration in Ferrosilicon from Brazil, China, Kazakhstan, Russia, Ukraine, and Venezuela, 64 Fed. Reg. 47,865 (Sept. 1, 1999).
+Before the Court is Plaintiff Elkem Metals Company’s (“Elkem”) Motion to Compel Production of Documents (“Motion to Compel”) contained in the administrative record (“Record”). According to the documents submitted by the parties at the December 13, 1999 filing of the Record, the ITC withheld all of the items contained on certified list (“CE’) No. 3 claiming that they represented the “privileged portion” of the Record. (Def.’s Opp’n. Mot. Compel at 1.) On December 22, 1999, Elkem filed a request with the ITC for a list of the legal privileges asserted, and an explanation of how these privileges applied to each individual item contained on CL No. 3. The ITC responded on January 14, 2000, alleging that twenty-four of the items fisted in CL No. 3 were protected by the deliberative process privilege, and that twenty-one of those items were also protected by the attorney-client privilege and the attorney work-product privilege.
+On February 7, 2000, Elkem filed the instant motion challenging the ITC’s assertion of privilege, and requesting production of item nos. 9, 10, 16, 18, 19, and 25 from CL No. 3. Elkem does not “challenge” the ITC’s assertion of the attorney-client and the attorney work-product privileges, however, it still opposes the ITC’s assertion of the deliberative process privilege and requests production of all of the items fisted in its February 7, 2000 Motion To Compel. (Pl.’s Reply Supp. Mot. Compel at 2.)
+In its Opposition to Motion to Compel Production of Privileged Documents, the ITC argues that the withheld items are subject to the deliberative process privilege because they contain “predecisional and deliberative documents.” (Def.’s Opp’n. Mot. Compel at 10.) The ITC supports this assertion with an affidavit from its Vice Chairman, Marcia E. Miller, which states that the items in question were
+prepared solely for the internal use of the Commission and their staffs, and reflect advisory opinions, discussions of strengths and weaknesses of various arguments, pro-con type analysis, or recommendations that are an integral part of the process by which procedural and final determinations in these investigations were formulated.
+(Miller Aff. ¶ 7.) The ITC’s assertions, coupled with the attached affidavit from Vice Chairman Miller attesting to the deliberative nature of the documents, effectively invoke the deliberative process privilege. See NEC Corp. v. United States, 21 CIT 198, 211, 958 F. Supp. 624, 636 (1997);Melamine Chemicals v. United States, 1 CIT 65, 66 (1980); SCM Corp. v. United States, 82 Cust. Ct. 351, 359, 473 F. Supp. 798, 799 (1979); Sprague Electric Co. v. United States, 81 Cust. Ct. 168, 171, 462 F. Supp 966, 969 (1978). In situations such as the case at bar, where a party has formally invoked the deliberative process privilege, it is proper for the court to conduct an in camera review of the withheld documents to determine: (1) whether the items in question contain deliberative material; and (2) whether the government’s interest in confidentiality outweighs the litigant’s need for public disclosure. See Zenith Radio Corp. v. United States, 764 F.2d 1577, 1580-81 (1985); Chevron Standard, Ltd. v. United States, 5 CIT 3,4 (1983); Armtek Corp. v. United States, 1996 WL 469015 *2 (WD.N.Y. June 20, 1996).
+After careful consideration of Elkem’s present Motion to Compel and its alternative request for in camera review, the ITC memorandum in opposition thereto, and all other memoranda and affidavits submitted herein, this Court concludes that an in camera review is necessary to confirm the deliberative nature of the withheld items, and to determine whether the ITC’s interest in confidentiality outweighs Elkem’s need for disclosure. Accordingly, it is hereby
+1. ORDERED that the ITC is directed to provide the Court with copies of the documents from CL No. 3 listed as item no. 9 (except that the “Recommendation” described in the affidavit of Lyn M. Schlitt dated February 22, 2000 at paragraph 3(a) may be deleted and that the portion of 9(b) consisting of Memorandum GC-94-012 may be deleted, provided, however, that the attachment thereto entitled “Notice of Amended Final Determination of Sales at Less Than Fair Market Value: Ferrosilicon From Brazil” dated February 15, 1994 shall he supplied to the Court), item no. 10 (except for those portions for which no privilege is claimed and except for General Counsel Memorandum GC-v-172), item no. 16 (except for General Counsel Memorandum GC-v-224), item no. 18, item no. 19, and item no. 25; and it is further
+2. ORDERED that within thirty (30) days of the entry of this order, the Secretary of the ITC shall prepare and transmit under seal to the Honorable Leo M. Gordon, Clerk of the United States Court of International Trade, a certified copy of the documents listed above.
+The Record in the case at bar is composed of several “certified lists” that catalog various “items” that the ITC reviewed in rendering its negative injury determination,
+In its January 14,2000 response, the ITC stated that item no, 20 of CL No. 3 would be released, thereby narrowing the number of withheld documents from twenty-five to twenty-four.
