@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "49592"
+decided: "1944-06-30"
+citations: ["13 Cust. Ct. 253"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 104807-K of Somerset Importers, Ltd. (New York)."]
+source_url: "https://static.case.law/cust-ct/13/cases/0253-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6620412
+---
+
+# Protest 104807-K of Somerset Importers, Ltd.
+
+## Majority (Oliver, P. J.)
+
+Opinion by
+Oliver, P. J.
+At the trial the collector’s letter and statement of goods in warehouse referred to therein were admitted in evidence without objection of the Government. In view thereof the claim at % cent per pound -was sustained.
