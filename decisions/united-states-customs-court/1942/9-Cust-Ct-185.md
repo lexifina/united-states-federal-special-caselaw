@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 689"
+decided: "1942-10-07"
+citations: ["9 Cust. Ct. 185"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallingeb, Judges"]
+parties: ["Peet & Powers, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/9/cases/0185-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6616532
+cites_cases: ["25 C. C. P. A. 168", "8 Ct. Cust. Appls. 273"]
+---
+
+# Peet & Powers, Inc. v. United States
+
+## Majority (Dallinger, Judge:)
+
+Dallinger, Judge:
+This is a suit against the United States, arising at the port of New York, brought to recover certain customs duties alleged to have been improperly exacted on a particular importation consisting of 25 Lister' alignment indicators. Duty was levied there on at the rate of 45 per centum ad valorem under paragraph 397 of the Tariff Act of 1930 as manufactures of metal not specially provided for. It is claimed that said articles are properly dutiable at the rate of 27 / per centum ad valorem under paragraph 372 of said act as machines not especially provided for.
+In support of said claim the plaintiff-corporation called as a witness its service manager who was familiar with the internal mechanism of the imported articles by reason of the fact that for a period of years he had made such repairs thereto as did not require the services of a watchmaker.
+He produced one of the articles (plaintiff's exhibit 1 herein) and explained to the court that the deyice was equipped with various extension fittings for use with different sized crankshafts; that it is used on the crank webs of crankshafts of Diesel engines to detect any misalignment of bearings; that it is placed between the crank webs or counterbalances on the crankshaft, and the shaft revolved, the webs being deflected inwards (when they are in .the bottom position) if the outboard bearing is low; that this deflection will push in the contact points of said indicator which will then register the amount of deflection in one one-thousandths of an inch; and that by raising the outboard bearing until no deflection is shown it is indicated that the crankshaft is properly aligned.
+The witness pointed out that the deflection of the crankshaft pushes in the plunger of the imported indicator; that the plungers, which are held in place by a spring, turn four gears inside the indicator, which in turn operates a needle on the dial, thereby transforming straight-line motion into radial motion, so that the precise distance the plungers have moved may be recorded on the dial.
+A picture of the imported article with some of its extension fittings was admitted in evidence as plaintiff's illustrative exhibit A, the fittings thereon being indicated by the letter A. In the same printed, folder which contains said picture is an illustration (fig. B-2257) which shows the use of the imported article. The illustration was admitted in evidence as plaintiff’s illustrative exhibit B. In their operation, the witness stated, the imported articles utilize the force of the deflection in the crankshaft which is out of line to activate the needle of the dial.
+On cross-examination, the witness stated that the imported device does not readily come apart; that the end with the thumbscrew is the end which receives the pressure, an extension fitting being inserted at the other end; that a quadrant rack (gears) transmits and magnifies the straight motion; that the dial is calibrated in thousandths of' an inch; that the gears are graduated and calibrated so that a movement of one one-tb.ousand.th of an inch moves the pointer one division on the dial; that the device does not transmit any motion beyond itself and is used only for measuring; that when it is placed, between the webs of the crankshaft and the crankshaft is revolved, the operator can determine the position where the webs are closest together and farthest apart; that the closeness is indicated when the imported device is squeezed; and that the imported device is never used when the Diesel engine is running, but only when the crankshaft is turned by hand.
+In answer to a question by the court, the witness stated that there is a force or energy applied by the Diesel engine to the plunger; that the plunger is not pushed in by hand; and that when the engine turns it causes a pressure on the plunger which in turn transmits that motion to the gears.
+The Government called no witnesses.
+From the uncontradicted evidence we are satisfied that the imported article is a machine as that term has been judicially defined in Simon, Buhler & Baumann (Inc.) v. United States, 8 Ct. Cust. Appls. 273, T. D. 37537, to wit, “a mechanical contrivance for utilizing, applying, or modifying energy or force or for the' transmission of motion.”
+The imported article utilizes the energy or force generated by the misalignment of the crankshaft bearings in the Diesel engine causing a transmission of motion which results in indicating on the dial the measurement or extent of the misalignment.
+In the syllabus to the decision in United States v. L. Oppleman, Inc., 25 C. C. P. A. 168, T. D. 49271, the appellate court thus described the function of aneroid barometers which were held to be machines:
+* * * . The barometers are used in homes, offices, and elsewhere for determining the weight pr pressure of the atmosphere, by means of the air pressure acting upon a diaphragm, creating motion therein, which motion in turn is transmitted to other movable parts of the contrivance, finally causing a needle to show on the face of a dial whether the air pressure is falling or rising.
+Affirming this court’s conclusion that such aneroid barometers were machines in the tariff sense of the term, the appellate court said “We are in entire accord with the reasoning and conclusion reached by the trial court.”
+On the established facts and the law applicable thereto we hold that these Lister alignment indicators are machines within the meaning of paragraph 372 of the Tariff Act of 1930, and as such are properly dutiable thereunder at the rate of 27 % per centum ad valorem as machines not specially provided for, as alleged by the plaintiff. That claim is therefore sustained; but as to all other merchandise the claims are overruled. Judgment will be rendered accordingly.
