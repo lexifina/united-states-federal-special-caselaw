@@ -1,0 +1,29 @@
+---
+court: "United States Customs Court"
+docket: "5541; Entry No. 834197, etc."
+decided: "1942-01-05"
+citations: ["8 Cust. Ct. 575"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Titan Shipping Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/8/cases/0575-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6683801
+---
+
+# Titan Shipping Co. v. United States
+
+## Majority (Oliver, Presiding Judge:)
+
+Oliver, Presiding Judge:
+These appeals to reappraisement have been submitted for decision upon the following stipulation of counsel for the parties hereto:
+It is hereby stipulated and agreed by and between Paul P. Rao, Assistant Attorney General, attorney for the defendant and Mary Rehan, attorney for the plaintiffs, subject to the approval of the Court, that the merchandise covered by the reappraisements enumerated above consists of bottles similar in all material respects to the merchandise the subject of United States vs. Guerlain, Inc. described in C. A. D. 146.
+It is further stipulated and' agreed that the said merchandise was appraised upon the cost of production under Section 402 (f) of the Tariff Act of 1930.
+It is further stipulated and agreed that the issue with respect to said merchandise covered by the reappraisements enumerated above is the same as the issue involved in the ease of United States vs. Guerlain Inc. supra.
+It is further stipulated and agreed that:
+The appraised value of the merchandise here involved, less the additions made by the importer on entry under duress to meet the advances of the appraiser in similar cases, is equal to the cost of materials, fabrication, manipulation, or other processes employed in manufacturing or producing such merchandise, plus the usual general expenses, plus the cost of all containers, coverings, and other costs, charges and expenses incident to placing the merchandise in packed condition ready for shipment to the United States, and plus an addition for profit equal to the profit which ordinarily is added to the cost of merchandise of the same character by manufacturers or producers in the country of manufacture, who are engaged in the manufacture of merchandise of the same class or kind.
+The reappraisements are waived as to all merchandise excepting bottles.
+Upon the stated facts, the cases are submitted.
+On the agreed facts, I find the cost of prodnction, as that value is defined in section 402 (f) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the merchandise here involved, and that as to the bottles such values are the appraised values, less the additions made by the importer on entry under duress to meet the advances of the appraiser in similar cases.
+The appeals having been waived insofar as they relate to all other merchandise, to that extent the appeals are hereby dismissed. Judgment will be rendered accordingly.
