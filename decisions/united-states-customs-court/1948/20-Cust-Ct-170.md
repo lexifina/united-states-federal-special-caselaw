@@ -1,0 +1,37 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1103"
+decided: "1948-04-30"
+citations: ["20 Cust. Ct. 170"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Ekwall, and Johnson, Judges"]
+parties: ["Pacific Trading Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/20/cases/0170-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6600266
+cites_cases: ["3 Cust. Ct. 280", "38 Treas. Dec. 577", "4 Ct. Cust. Appls. 264"]
+---
+
+# Pacific Trading Co. v. United States
+
+## Majority (Eicwall, Judge:)
+
+Eicwall, Judge:
+This case involves an entry of frozen frogs which was imported at the port of Los Angeles, Calif., and entered on a pro forma invoice. They were held by this court in Abstract 48522 to be properly dutiable at 10 per centum ad valorem as nonenumerated unmanufactured articles under paragraph 1558 of the Tariff Act of 1930, rather than at 6 cents per pound as frozen meat under paragraph 706 of the same law, as classified by the collector. The collector, in conformity with the judgment of this court, reliquidated upon the value expressed on the entry which was in United States dollars. Against said reliquidation the instant protest was filed claiming that the entry in dollars was due to a clerical error and that the proper currency was Japanese yen. Additional allegations were made in the pleading as follows:
+* * * This erroneous value did not come in question at time of liquidation, inasmuch as duty was then assessed at a specific rate; but in reliquidating the entry under above-quoted judgment, which called for assessment of an ad valorem rate, you calculated duty on the basis of that value, with no allowance for aforesaid error in the value set forth in the entry and the pro forma invoices.
+(4) Under date of March 21, 1944, you were requested to reliquidate on account of above-mentioned clerical error, on the basis of the value in yen instead of the dollar value, and on April 1, 1944, you formally denied that request.
+(5) No notice of appraisement was issued by you in accordance with section 501, Tariff Act of 1930, and article 862, CR 1937.
+In an amendment to the pleadings it is claimed:
+The appraisement was invalid and void for failure to appraise in yen, the currency in which the merchandise in question was usually bought and sold in the country of exportation.
+Plaintiff further contends in the pleadings that in reliquidating the entry the collector should have used the yen value of the merchandise, as shown by extracts from the consular invoices, rather than the dollar value set forth in the entry. This contention is made by virtue of sections 514 and 520 of the said tariff act involving clerical error. It is also alleged in the pleadings that no valid .appraisement or entry of the merchandise was made, and that the appraisement should be set aside and the case referred to a single judge for determination of value.
+Said sections 514 and 520 provide, among other things,’ for protest against the collector’s “refusal to reliquidate any entry for a clerical error discovered within one year after the date of entry, or within sixty days after liquidation or reliquidation when such liquidation or reliquidation is made more than ten months after the date of entry,” and also for refunds in cases of clerical error.
+From the evidence produced at the trial it appears that the customs broker made entry on the basis of two fro forma invoices and bond was given for the production of consular invoices, as provided in Article 282, Customs Regulations of 1937, in effect at that time. Certified extracts from the consular invoices were produced in satisfaction of the terms of the bond and are before us as exhibits 1 and 2. In said exhibits the value of the frogs is stated in yen, whereas in the entry the values are stated in United States dollars at the same figures. The “Summary of Entered Value, Examination, and Ap-praisement” shows values in United States dollars and the red-ink check under the column “Appraised” indicates that the goods were appraised as entered.
+The customs broker whose firm made the entry testified that he was instructed to enter in yen, but that United States dollars were used instead, because “the clerk who typed up these pro forma invoices for entry made the mistake, and entered the unit price in dollars.” From the extracts from the consular invoices, which are part of the official papers, we note that as to the case of 25 containers numbered 618 the typewritten portion is made out in a unit value of yen which is carried out in yen. As to 2 packages covering 50 containers each, both the unit and total values are given in United States dollars. The consumption entry contains the same figures expressed in United States dollars.
+This court and the Court of Customs and Patent Appeals have held on numerous occasions that whether or not an error is clerical within the meaning of the statute depends upon the intention of the person making such entry, and further upon whether the person responsible for the error was one upon whom a duty devolved to use judgment. J. J. McQuillan v. United States, 18 C. C. P. A. (Customs) 215, T. D. 44401; United States v. Wyman & Co., 4 Ct. Cust. Appls. 264, T. D. 33485; Cheney Bros. v. United States, 38 Treas. Dec. 577, T. D. 38468; H. A. Gogarty, Inc. v. United States, 3 Cust. Ct. 280, C. D. 254.
+In the instant case there is no evidence as to the intent of the person who made the entry. In fact, the only explanation of the mistake was given by the customs broker in whose office the entry was made that “the clerk who typed up these pro forma invoices for entry made the mistake, and eiitered the unit price in dollars.” The said clerk was not produced as a witness; therefore, the court was not given the benefit of his testimony as to whether he was given instructions and faded to follow them, or, if given instructions, whether he understood them, or whether he believed that his judgment was better than that of his superior. Neither are we informed as to whether he overlooked the important items of currency or what his intention was in making the extracts as he did.
+We therefore find the evidence insufficient to sustain the claim of clerical error.
+In regard to plaintiff’s claim that the appraisement is invalid in that the appraiser faded to appraise in yen, the currency in which he alleges the merchandise was usuady bought and sold in the country of exportation, we find that the proof fails to sustain that claim. Nor was a notice of- appraisement necessary in this case under section 501, as amended by the Customs Administrative Act of 1938. The appraised value is not higher than the entered value, nor did a change in classification result in the appraiser’s finding of value. From testimony adduced at the hearing it may be that the appraiser faded to follow the statute in his determination of value. However, in view of our finding that no clerical error has been proven, no useful purpose would be served by remanding the case to a single judge in order to arrive at the dutiable value, as provided in section 501 (c), as amended, for the reason that the collector'is required to assess duty at not less than the entered value.
+Upon the record we overrule plaintiff’s claims.
+Judgment will be rendered in favor of the defendant.
