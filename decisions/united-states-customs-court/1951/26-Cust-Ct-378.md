@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "55328; protest 161582-K (Los Angeles)"
+decided: "1951-03-08"
+citations: ["26 Cust. Ct. 378"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["New York Merchandise Co., Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/26/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6640261
+---
+
+# New York Merchandise Co. v. United States
+
+## Majority (Mollison, J.)
+
+Opinion by
+Mollison, J.
+Following the authorities cited in Abstract 15400 the court dismissed the protest.
