@@ -1,0 +1,29 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 91-11-00825"
+decided: "1999-04-01"
+citations: ["23 Ct. Int'l Trade 213", "46 F. Supp. 2d 1051"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UMA Iron & Steel Co., et al., plaintiffs v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/23/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9455971
+---
+
+# UMA Iron & Steel Co. v. United States
+
+## Majority (DiCarlo, Senior Judge:)
+
+JUDGMENT ORDER
+DiCarlo, Senior Judge:
+The United States Department of Commerce submitted its Results of Redetermination in accordance with this Court’s Remand order of May 13,1994, in the case of Uma Iron and Steel Co., et al. v. United States, Consolidated Court No. 91-11-00825. The Department of Commerce requested this remand pursuant to the remand from the Court in Creswell Trading Company, Inc., et al. v. United States, Consol. Court No. 91-01-00012, Slip Op. 98-87. In its Redeter-mination of the 1988 administrative review, Commerce recalculated the company-specific subsidy rates by revising the rates relating to India’s International Price Reimbursement Scheme (IPRS). The rates, however, did not change. Accordingly, the rates applicable to the 1988 period of review are as follows:
+Uma Iron & Steel Co. 10.03%
+Govind Steel 14.08%
+All Others 4.10%
+These rates have been stipulated to and accepted by all parties to this action.
+The Court having reviewed the Redetermination Results, Commerce having complied with the Court’s Remand, and the parties having stipulated to the rates, it is hereby
+Ordered that the Redetermination Results are affirmed; and it is further
+Ordered that the rates listed above shall be the rates for the 1988 period, and it is further
+Ordered that, as the parties have stipulated that they will not litigate any other issues, this action is dismissed.
