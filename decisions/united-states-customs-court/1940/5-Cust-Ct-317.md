@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "44335"
+decided: "1940-09-18"
+citations: ["5 Cust. Ct. 317"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 847548-G, etc., of John Thallon & Co., Inc. (New York)."]
+source_url: "https://static.case.law/cust-ct/5/cases/0317-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6668904
+cites_cases: ["4 Cust. Ct. 343"]
+---
+
+# Protests 847548-G of John Thallon & Co.
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+In accordance with stipulation of counsel and on the authority of Stokby v. United States (4 Cust. Ct. 343, C. D. 358) it was held that the merchandise is properly dutiable at 3)4 cents per pound under paragraph 703, Tariff Act of 1930, on the basis of the net weight of the contents of the cans less 10 percent allowance for the gelatinous material.
