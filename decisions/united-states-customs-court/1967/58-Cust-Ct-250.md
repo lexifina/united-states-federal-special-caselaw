@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2949"
+decided: "1967-04-10"
+citations: ["58 Cust. Ct. 250"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Kao and Ford, Judges"]
+parties: ["Freedman & Slater, Inc., a/c Robert Bosch Corp. v. United States"]
+source_url: "https://static.case.law/cust-ct/58/cases/0250-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6574577
+---
+
+# Freedman & Slater, Inc. v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+It appearing at the call of this case for trial on January 9, 1967, that the matter had previously come on to be heard on numerous occasions, and continued at the request of counsel for the plaintiff, or suspended pending the outcome of the trial of protest 272102-K and/or protest 61/2223, and there being no evidence that counsel intended in good faith to proceed with the trial, the court, sua sponte, ordered its dismissal. The case is therefore dismissed.
+Judgment will be entered accordingly.
