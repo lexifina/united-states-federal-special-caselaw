@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "53494; protests 81367-K, etc. (New York)"
+decided: "1949-08-15"
+citations: ["23 Cust. Ct. 151"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Yardley & Co., Ltd. v. United States,"]
+source_url: "https://static.case.law/cust-ct/23/cases/0151-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6621064
+cites_cases: ["36 C. C. P. A. 121"]
+---
+
+# Yardley & Co. v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+In accordance with stipulation of counsel that the merchandise consists of bottles the same in all material respects as those passed upon in Griffon Importing Co. v. United States (36 C. C. P. A. 121, C. A. D. 408), the claim of the plaintiff was sustained.
