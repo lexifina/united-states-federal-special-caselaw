@@ -1,0 +1,55 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 03-00123"
+decided: "2004-03-04"
+citations: ["28 Ct. Int'l Trade 324"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carolina Tobacco Company, plaintiff, v. United States Customs Service, defendant."]
+source_url: "https://static.case.law/ct-intl-trade/28/cases/0324-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8209554
+cites_cases: ["10 CIT 493", "177 F. Supp. 2d 1336", "19 C.F.R. § 113.13", "19 C.F.R. §§ 24.3", "19 U.S.C. § 1623", "28 U.S.C. § 1581", "5 U.S.C. § 706", "640 F. Supp. 266"]
+---
+
+# Carolina Tobacco Co. v. United States Customs Service
+
+## Majority (Musgrave, Senior Judge.)
+
+OPINION
+Musgrave, Senior Judge.
+Plaintiff Carolina Tobacco Company (“Carolina”) brings this action challenging the determination by the United States Customs Service, now organized as the Bureau of Customs and Border Protection, (“Customs”) that it must increase the amount of its continuous bond from $80,000 to $3 million. Carolina asserts that Customs failed to consider the factors set forth in 19 C.F.R. § 113.13 and merely followed a formula set forth in Customs Directive 99-3510-04. Customs contends that it is given discretion under 19 U.S.C. § 1623(a) to set a bond amount necessary to protect the revenue and it argues that the Regulation and Directive are a reasonable interpretation of the statute. Presently before the Court is Customs’ motion for judgment upon the agency record pursuant to CIT Rule 56.1. For the reasons which follow, Customs’ motion is granted.
+Jurisdiction and Standard of Review
+Carolina invokes the jurisdiction of this court under 28 U.S.C. § 1581(i). The scope and standard of review for actions brought under § 1581(i) are provided in 5 U.S.C. § 706. See Defenders of Wildlife v. Hogarth, 25 CIT _, _, 177 F. Supp. 2d 1336, 1343 (2001). “The court must “hold unlawful and set aside agency action, findings, and conclusions found to be — (A) arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law. . . .’”Id. quoting 5 U.S.C. § 706(2)(A). The scope of review in a § 1581(i) action is limited to the administrative record. Id.
+Background
+Since 1998 Carolina has been in the business of manufacturing and importing “value priced” cigarettes and has had an $80,000 continuous bond since early 1999. In its original bond application Carolina represented that for the year 1999 — 2000 it expected to make 5 dutiable entries valued at $500,000 and 50 duty-free entries valued at $5 million. Def.’s Br. at 8. In 2000-2001 the value of the tobacco products Carolina imported increased to $8.2 million and in 2001-2002 the value increased to $13.8 million. Id. at 9. Carolina never updated its bond application to reflect the increased value of its imports and the accompanying increase in its duty and tax liability. Id.
+On September 17, 2002 Customs notified Carolina via letter that its bond amount had been “determined to be inadequate to ensure compliance with Customs laws and regulations.” Administrative Record Document (“AR”) 2. Customs instructed Carolina to replace its $80,000 bond with a $3 million bond within 60 days. Id. Although Customs’ letter stated that its determination was based on 19 C.F.R. § 113.13, Carolina avers that the decision was based solely on Customs Directive 99-3510-04 (July 23, 1991), without consideration of the guidelines set forth in 19 C.F.R. § 113.13(b). Those guidelines state that:
+In determining whether the amount of a bond is sufficient, the port director . . . should at least consider:
+(1) The prior record of the principal in timely payment of duties, taxes, and charges with respect to the transaction(s) involving such payments;
+(2) The prior record of the principal in complying with Customs demands for redelivery, the obligation to hold unexamined merchandise intact, and other requirements relating to enforcement and administration of Customs and other laws and regulations;
+(3) The value and nature of the merchandise involved in the transaction(s) to be secured;
+(4) The degree and type of supervision that Customs will exercise over the transaction(s);
+(5) The prior record of the principal in honoring bond commitments, including the payment of liquidated damages; and
+(6) Any additional information contained in any application for a bond.
+Nevertheless, Customs Directive 99-3510-04 (July 23, 1991) instructs that:
+The bond limit of liability amount shall be fixed in an amount the district director may deem necessary to accomplish the purpose for which the bond is given. ... To assist the director in fixing the limit of liability amount, the following formula shall be used.
+None to $1,000,000 duties and taxes — the bond limit of liability amount shall be fixed in multiples of $10,000 nearest to 10 percent of duties, taxes and fees paid by the importer or broker acting as importer of record during the calendar year preceding the date of the application.
+Over $1,000,000 duties and — taxes the bond limit of liability shall be fixed in multiples of $100,000 nearest to 10 percent of duties, taxes and fees paid by an importer or broker acting as importer of record during the calendar year preceding the date of application.
+In either of these two categories a bond may be demanded with a limit of liability amount greater than that computed using this formula, provided sufficient evidence of high risk is on-hand to support the higher amount.
+The total duties, taxes and fees paid by Carolina in the previous year were $25,982,838.52, and 10% of that figure rounded to the nearest $100,000 yielded a bond amount of $3 million. Pl.’s Reply Br. at 4.
+Arguments
+In support of its motion for judgment on the agency record, Customs relies on 19 U.S.C. § 1623(a), which provides:
+In any case in which bond or other security is not specifically required by law, the Secretary of the Treasury may by regulation or specific instruction require, or authorize customs officers to require, such bonds or other security as he, or they, may deem necessary for the protection of the revenue or to assure compliance with any provision of law, regulation, or instruction which the Secretary of the Treasury or the Customs Service may be authorized to enforce.
+The Secretary of the Treasury may also “prescribe the conditions and form of such bond.” 19 U.S.C. § 1623(b)(1). Customs states that 19 C.F.R. § 113.13 was issued pursuant to 19 U.S.C. § 1623. Def.’s Br. at 3. Customs also explains that “[d]uring the notice and comment period preceding the issuance of 19 C.F.R. § 113.13, [it] noted requests that it codify a consistent bond formula and explained that it would accomplish this goal by use of Directives.” Id. at 4.
+Concerning Directive 99-3510-04, Customs states that:
+The 10 percent formula represents Customs’s assessment of the security necessary to accomplish the statutory goals “in most situations” — i.e., law abiding importers. Indeed, 19 C.F.R. §§ 24.3 & 142.14, when read together, create at least a four-week lag time between the first withdrawal of merchandise and the date Customs may take action against that importer. During that entire time period, the importer remains free to withdraw merchandise for consumption and, thus, the 10 percent formula provides the Government with security during the intervening period.
+Def.’s Br. at 15-16 (citation omitted) (footnote added). Contrary to Carolina’s assertion that the Directive ignores the guidelines set forth in 19 C.F.R. § 113.13, Customs asserts that “implicit in the Directive is an analysis of the regulation’s factors that relate to the value and nature of the merchandise involved and the level of supervision.” Id. at 17. Customs states that this is a “permissible interpretation of its own regulation” and “merely provides port directors with a consistent basis for risk assessment.” Id. (citation omitted).
+Carolina’s central argument in opposition to Customs’ motion for judgment on the agency record is that Customs failed to make an individualized assessment of the risk Carolina posed to the revenue.
+Defendant’s directive here is inconsistent with the plain language of 19 C.F.R. § 113.13(b), which mandates an individualized assessment of each importer and its activity rather than application of a generalized formula. In light of the fact that the regulation specifically spells out six factors that must be considered in setting the bond, there is no room for defendant to enact and apply a formula that says the “general rule” is 10% of the previous year’s duties, taxes and fees; indeed, any “formula” approach is inherently inconsistent with the regulation mandating individualized assessment. Contrary to defendant’s argument, the 10% formula is not a permissible interpretation of its own regulation that requires individual assessments, not “general rules” or “formulas.”
+Pl.’s Br. at 10. Because the Directive is inconsistent with the Regulation, Carolina argues that Customs’ “action in applying the 10% formula without performing an individual analysis of plaintiff and its activities is arbitrary, capricious and contrary to law.” Id. at 18.
+Analysis-
+As Customs has argued, and as this court previously recognized in Hera Shipping, Inc. v. Carnes, 10 CIT 493, 496, 640 F. Supp. 266, 269 (1986), “[t]he grant of authority for requiring bonds and setting their amount is strongly stated and comprehensive.” Although the guidelines set forth by 19 C.F.R. § 113.13 and the instructions contained in Customs Directive 99-3510-04 appear to contemplate different schemes for establishing an importer’s bond requirement, the methodologies are not necessarily inconsistent. The Court is satisfied with Customs’ explanation that, due to the lag time before it could stop an importer from withdrawing merchandise for consumption, a 10 percent bond is a necessary minimum amount of protection for the revenue. See Def.’s Br. at 15-16. Moreover, the Court finds reasonable Customs’ explanation at oral argument of the interplay between the Directive and the Regulation, namely that the 10 percent bond is required when the importer has a favorable review under 19 C.F.R. § 113.13 and an even higher bond would be required if analysis under these guidelines indicated that the importer posed a greater risk to the revenue. See also Def.’s Reply Br. at 12. Nevertheless, the Court is sympathetic to Carolina’s position where, despite its excellent history of making timely payments to Customs, its manner of doing business and even its ability to do business, is threatened by the higher bond requirement. Be that as it may, the regulatory framework Customs has established is not unreasonable given the discretion ceded to it by Congress in 19 U.S.C. § 1623(a).
+Conclusion
+For the foregoing reasons, Customs’ motion for judgment upon the agency record is granted.
+19 C.F.R. § 24.3 concerns the ordinary payment of Customs bills and § 142.14 concerns the delinquent payment of Customs bills.
