@@ -1,0 +1,34 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 98-05-02185"
+decided: "2000-05-03"
+citations: ["24 Ct. Int'l Trade 306"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mannesmann-Sumerbank Boru Endustrisi T.A.S., Borusan Birlesik Boru Fabrikalari A.S., and Borusan Ithalat Ihracat Ve Dagitim A.S., plaintiffs v. United States of America, defendant, and Allied Tube & Conduit Corp. and Wheatland Tube Co., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/24/cases/0306-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6102485
+cites_cases: ["23 CIT 1052", "51 Fed. Reg. 40,837", "61 Fed. Reg. 30,366", "63 Fed. Reg. 18,885", "64 Fed. Reg. 16,924", "86 F. Supp. 2d 1266"]
+---
+
+# Mannesmann-Sumerbank Boru Endustrisi T.A.S. v. United States
+
+## Majority (Goldberg, Judge:)
+
+Opinion and Order
+Goldberg, Judge:
+In its opinion, Mannesmann-Sumerbank Boru Endustrisi T.A.S. v. United States, 23 CIT 1052, 86 F. Supp. 2d 1266 (1999), the Court reviewed the Department of Commerce’s (“Commerce”) Cer tain Welded Carbon Steel Pipe and Tube and Welded Carbon Steel Line Pipe from Turkey; Final Results and Partial Recission of Countervailing Duty Administrative Reviews, 63 Fed. Reg. 18,885 (April 16, 1998) {“Final Results”). The Court remanded a portion of the Final Results to Commerce with instructions to “include plaintiffs’ foreign exchange gains in the denominator of the subsidy margin or provide an adequate explanation of how this case differs from prior determinations.” Mannesmann-Sumerbank, 23 CIT at 1064, 86 F. Supp. 2d at 1277. The Court further instructed Commerce that “[ijf [it] takes the latter course of action, it must also explain why Turkish GAAP and plaintiffs’ accounting methods are unreliable or distortive.” Id.
+In order to “weigh the policy implications of this issue against its overall countervailing duty practice,” Commerce requested, and was granted, an extension of time in which to file its remand determination. Motion for Extension of Time of 2/16/00. On March 17, 2000, Commerce submitted its Final Results of Redetermination on Remand (“Remand Results”) to the Court.
+In the Remand Results, Commerce chose not to recalculate the subsidy margin. Instead, it asserts that its long-standing policy has been to exclude foreign exchange gains from the denominator. Further, Commerce asserts that this policy is reasonable. Because Commerce fails to adequately substantiate its practice or its reasonableness, however, the Court once again remands the Final Results.
+In the Remand Results, Commerce states that its long-standing policy has been to exclude foreign exchange gains and losses from the denominator of the subsidy equation. See Remand Results, at 3. Yet, it does not point to a single previously published source to illustrate its avowed practice. In fact, Commerce asserts that “this aspect of our calculations is not directly addressed in the public notices describing our investigative or review results.” Remand Results, at 3.
+Nonetheless, Commerce counsels the Court to ignore both Final Affirmative Countervailing Duty Determination: Certain Pasta (“Pasta”) from Turkey (“Pasta From Turkey”), 61 Fed. Reg. 30,366, (June 14, 1996) and Final Affirmative Countervailing Duty Determination; Brass Sheet and Strip From Brazil (“Brass Sheet”), 51 Fed. Reg. 40,837 (Nov. 10, 1986) because they are “not reflective of general Department practice. ’’Remand Results, at 3. In discussing Brass Sheet, Commerce rationalizes that the determination is 14 years old, and thus “it is difficult to determine why exchange rate gains were included in the sales denominator.” Id. at 6. And with respect to Pasta from Turkey, Commerce acknowledges that “the Department departed from its practice without a substantive explanation.” Remand Results, at 8. While these two determinations do not definitively establish Commerce’s prior practice, they are the only published sources available to the Court to assess that practice. And, notably, they both contradict Commerce’s avowed policy.
+Moreover, when discussing the reasonableness of its avowed policy, Commerce claims that “companies do not routinely adjust the booked value of their sales for exchange rates and losses,” and that companies that do otherwise are “exceptions.” Remand Results, at 4. Yet Commerce provides no support for this assertion. Nor does Commerce supply the basis for its rationale that “the U.S. Customs Service uses the F.O.B. value of imports to establish the CVD duties an importer must pay at the time the goods enter the country.” Remand Results, at 5.
+Finally, although this case involves the 1996 administrative review, Commerce notes in the Remand Results that it indexed the numerator and denominator of the subsidy calculation in the 1997 administrative review. See Remand Results, at 7 n.3. In the Preliminary Results of that review, Commerce explains that “[i]ndexing the benefit and the sales figure will neutralize any potential distortion in our subsidy calculations caused by high inflation and the timing of the receipt of the subsidy.” Certain Welded Carbon Steel Pipes and Tubes and Welded Carbon Steel Line Pipe from Turkey; Preliminary Results of Countervailing Duty Administrative Reviews, 64 Fed. Reg. 16,924, 16,926 (Apr. 7,1999).
+In light of Commerce’s position in the Remand Results that its policy of excluding foreign exchange gains and losses from the denominator of the subsidy equation is reasonable, Commerce’s reference to its 1997 determination raises a question for this review. That is, given the “potential [for] distortion” described above, whether Commerce’s decision to exclude foreign exchange gains and losses in this case is still reasonable considering (1) there was high inflation and (2) Commerce did not index the numerator and denominator of the subsidy calculation (as it did in the later review).
+Because Commerce has failed to substantiate its practice or its reasonableness, this Court remands. It is hereby
+Ordered that Commerce’s determination, in the Final Results, to exclude plaintiffs’ “kur farki” accounts from the denominator of the subsidy equation is remanded in conformance with the original remand instructions;
+Ordered that Commerce shall, within thirty (30) days of the date of this Order, issue a remand determination;
+Ordered that the parties may, within ten (10) days of the date on which Commerce issues its remand determination, submit memoranda addressing Commerce’s remand determination, not to exceed five (5) pages in length; and it is further
+Ordered that the parties may, within ten (10) days of the date on which memoranda addressing Commerce’s remand determinations are filed, submit response briefs, not to exceed five (5) pages in length.
