@@ -1,0 +1,49 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 761"
+decided: "1943-04-21"
+citations: ["10 Cust. Ct. 235"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Keefe, and Ekwall, Judges"]
+parties: ["Golding Bros. & Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/10/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6617084
+cites_cases: ["12 Ct. Cust. Appls. 145", "59 Treas. Dec. 509", "73 Treas. Dec. 1378"]
+---
+
+# Golding Bros. v. United States
+
+## Majority (Ekwall, Judge:)
+
+Ekwall, Judge:
+In this case the plaintiff challenges the legality of a liquidation made by the collector of customs at New York on an entry of cotton goods which had been the subject of a reappraisement proceeding that covered (a.) additions to make market value by the appraiser on certain items, and (b) additions made by the importer on certain other items to meet advances made by the appraiser on prior importations of what are said to be similar goods, which prior importations were claimed to be the subject of pending reappraise-ments. No testimony was offered and the facts have been gleaned from the papers transmitted by the collector with the protest, comprising the entry and invoice and papers attached to the latter, together with a copy of a memorandum from the collector’s office transmitted with the protest and other papers mentioned. For greater clarity we shall narrate the events in the chronological order of their happening.
+Attached to the invoice in which entry was made was a certificate —a so-called “duress certificate” — stating that the additions made on entry by the importer were so made “because of advances by the appraiser in similar cases now pending on appeal for reappraisement.” The certificate refers to the reverse side thereof where there is a rubber-stamp notation consisting of 4 columns, the first of which contains 11 numbers which may be entry numbers, the second has 11 names which sound like names of vessels, the third of which lists 11 dates which are not explained, and the fourth has 11 numbers which are entirely me'aningless to the court and which are nowhere explained. There were no numbers of pending reappraisements given in the certificate.
+Appraisement was duly had and, so far as we can judge, the appraiser approved the entered value of the items on winch the importer had added, but he advanced a number of other items on which the importer had made no addition. The dates of exanimation are given on the summary sheet as March 6, 1937, and March 10, 1937, respectively. Two notices of the appraisement were sent to the importer. One was headed “Notice to importer of appraisement,” and dealt with the merchandise that was entered with additions made by the importer to meet previous advances by the appraiser. The other was headed “notioe to importer of advance in value upon ap-praisement,” and dealt with the merchandise which was the subject of advances made by the appraiser on this particular shipment. Both notices gave the entry number, date of entry and the name of the importing vessel.
+Next in order of time came the appeal to reappraisement filed by the importer within the statutory time, to wit, on June 14, 1937. It is in the following language:
+* * * ■» * * St*
+.Pursuant to the provisions of Section 501 of the Tariff Act of 1930; J^hereby
+appeal from the appraisement by the United States Appraiser to a reappraisement by a Judge of the United States Customs Court, upon certain on all additions made on the entry to meet appraisers advance on cotton cloth, imported by ” in the S. S. Black Gull, entered 2/15/37, 19_Entry No. 827854, Collector’s Appeal No. 01867
+(Underscoring supplied).
+Respectfully,
+Golding Bros. Co., Inc.
+* * * * * * *
+This appeal is on a printed form and tbe words underscored above are those inserted in typewriting by the persons who prepared the appeal. There was no other appeal to reappraisement filed on this entry. In other words, no reappraisement was requested in respect to the items which the appraiser had advanced. The appeal concerned itself with those items only upon which the importer had added to meet advances previously made by the appraiser on earlier shipments. There is no need here to resort to forced construction. The purpose and purport of the appeal is plain and unambiguous.
+Said appeal came on to be heard before a single judge sitting in reappraisement and was submitted to him, together with 18 other appeals, for decision upon a written stipulation joined in by the respective counsel. The decision of the single judge followed the terms of the stipulation and was reported as Reap. Dec. 4222, 73 Treas. Dec. 1378. He found values as follows:
+As to all items advanced in value by the appraiser, the entered values, plus 10 per centum, packing included.
+As to all items where additions have been made by the importer on entry to meet advances made by the appraiser, the appraised values, less any additions made by the importer on entry to meet advances made by the appraiser, plus 10 per centum, packing included. * * *.
+The finding as set forth in the first paragraph above-quoted was made in spite of the fact that no appeal was before him from the advances made by the appraiser on this particular entry. It is apparent that the attention of the court was not drawn to this circumstance. To this extent the stipulation would seem to be misleading.
+The entry was liquidated on May 24, 1938, and within the statutory time the protest which is now before us was filed. In transmitting the protest to this court for decision the collector’s office attached a memorandum which we have not seen but a copy of which is furnished with the brief of the Assistant Attorney General in the instant case. In that memorandum the collector states:
+Our liquidation was based on the final appraised value as to the duress items, and on the appraised value of all other items.
+We understand that to mean that he liquidated the items which had been advanced by the appraiser on the basis of the value fixed by the appraiser and not at the value set forth in the stipulation and adopted by the single judge, and also that he liquidated the items on which the importer had added at the value found by the reappraisement judge. This seems to agree with the recital of facts on the first page of the brief filed by counsel for the plaintiff. In spite of that the protest filed by counsel for the plaintiff deals exclusively with, and is rested wholly on, section 503 (b) of the Tariff Act of 1930, which is the law governing the liquidation of entries whereon the importer has made additions on entry, to equal advances made on previous entries by the appraiser in similar cases then pending on reappraisement, that is, so-called duress entries. The protest states:
+Your failure to reduce the entered value in accordance with the final appraised value as found by the United States Customs Court in reappraisement and your assessment of duty upon the entered value is illegal and erroneous.
+This results in a curious situation. Counsel for the plaintiff, the importer, have filed a protest that obviously deals only with additions made by the importer on entry and undertake to support it by a brief which seeks to show that the appeal to reappraisement (which likewise dealt only with additions made by the importer on entry) should be interpreted to relate to additions to the entered value made by the appraiser. On the other hand, the brief for the Government is devoted entirely to showing that the so-called duress certificate attached to the invoice on which entry v/as made was not in accordance with the statute and that, therefore, the action of the collector “in taking duties on the basis of the entered value was proper and in accordance with the statute.’'
+We are inclined to agree with the Government’s position as a correct statement of law. The decisions support it. See Ono Trading Co. v. United States, 23 C. C. P. A. (Customs) 124, T. D. 47991, following M. Bernstein v. United States, 18 C. C. P. A. (Customs) 193, T. D. 44379. In a decision of this division of the court in the case of Chas. Bloom v. United States, 59 Treas. Dec. 509, T. D. 44669, “duress” certificates that did not cite the reappraisement docket numbers of the reappraisements alleged therein to be pending were held to be of no effect.
+The brief on behalf of the Government further states:
+The importer’s duress certificate in the instant case was void. Therefore, the appeal to reappraisement affected only those items which had been advanced by the appraiser.
+"With the first sentence above-quoted we agree, but we cannot follow the reasoning exhibited in the second sentence. The appeal to reap-praisement affected those items that were named on it, and those only, and they were not the ones which had been advanced by the appraiser. It is unnecessary to repeat what we have said above.
+In regard to the action of the collector in talcing duty upon the appraised value of the items that were advanced by the appraiser, notwithstanding the decision of the judge in reappraisement, we may point out that the protest does not specify any complaint as to that, but we may say that we are of opinion that it was legal and proper inasmuch as the judge in reappraisement did not have jurisdiction because the appeal before him did not cover those items. Lack of jurisdiction may be urged at any time prior to final judgment. United States v. Robinson & Co., 12 Ct. Cust. Appls. 145, T. D. 40062.
+For the foregoing reasons the protest should be and the same is hereby overruled and the decision of the collector will stand.
+Judgment will be rendered accordingly.
