@@ -1,0 +1,26 @@
+---
+court: "United States Customs Court"
+docket: "7160; Entry No. 709667"
+decided: "1947-04-08"
+citations: ["18 Cust. Ct. 544"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["R. Maes Export & Import Corp. v. United States"]
+source_url: "https://static.case.law/cust-ct/18/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6683807
+---
+
+# R. Maes Export & Import Corp. v. United States
+
+## Majority (Kinchedoe, Judge:)
+
+Kinchedoe, Judge:
+This appeal for reappraisement has been submitted for decision upon the following stipulation of counsel for the parties hereto:
+It is hereby stipulated and agreed, subject to the approval of the court, that the issues in the appeal for reappraisement listed above are the same in all material respects as the issues decided in Reap. Dec. No. 6283, Stephen Rug Mills v. United States, and that the record in said case may be incorporated herein.
+It is further stipulated and agreed, subject to the approval of the court, that the market value or price at the time of exportation of the merchandise involved in this case, at which such or similar merchandise was freely offered for sale to all purchasers in the principal markets of the country from which exported, in the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States, is the invoiced value therein.
+It is further stipulated and agreed, that there was no foreign value for the merchandise herein at the time of exportation.
+It is further stipulated and agreed, that this case may be submitted on the foregoing stipulation.
+On tbe agreed facts I find the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the merchandise here involved, and that such value is the invoiced value.
+Judgment will be rendered accordingly.
