@@ -1,0 +1,70 @@
+---
+court: "United States Court of Claims"
+decided: "1867-12"
+citations: ["3 Ct. Cl. 99"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Adolphus Brandeis et al. v. The United States."]
+source_url: "https://static.case.law/us-ct-cl/3/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3526248
+---
+
+# Brandeis v. United States
+
+## Majority (Nott, J.,)
+
+Nott, J.,
+delivered the opinion of the court:
+This is an action brought to recover $31,382 17 damages for the non-acceptance of 39,227 bushels of corn by the defendants during the year 1805.
+On the 31st of December, 1864, Messrs. Brandéis & Crawford, merchants, at Louisville, proposed in writing to deliver 150,000 bushels of com during the months of January and February, 1865, at Cairo, Illinois, for $1 55 per bushel, and 150,000 bushels along the lower Ohio river, at $1 58 per bushel. The proposal was accepted by Captain He Wolf, a quartermaster of the United States, with the following proviso :
+“ The above proposition is accepted with the understanding that no purchases are to be made on the line of the Illinois Central railroad, as an arrangement has been made with Colonel William Myers, chief quartermaster at St. Louis, that he shall have exclusive control of operations along said railroad line.
+“D. O. De Wolf,
+“Captain and Assistant Quartermaster
+But the claimants, at the time the proposal was accepted, informed the quartermaster that they had already purchased 140,000 bushels of corn, a part of which was along the line of the Illinois Central railroad ; and thereupon, as a part of the same transaction, the quartermaster gave them orders on the superintendent of the road in the following form :
+“Office Assistant Quaetermaster,
+“Louisville, December 31, 1864.
+“ Sir : Messrs. Brandéis & Crawford; of this city, have contracted to deliver corn at Cairo. They are purchasing through Messrs. , George M. Hord & Co., of Chicago.
+“ Please give Hord & Co. transportation to Cairo for all com they have purchased, on account of Brandéis & Crawford, at Chicago, and on the line of the road.
+“Very respectfully, your obedient servant,
+“D. O. De Wolf,
+“ Captain and Assistant Quartermaster.
+“W. R. Arthur, Esq.,
+“Superintendent Illinois Central Railroad, Chicago, Illinois.”
+The claimants proceeded under their contract and delivered all of the Ohio river corn, at $1 58 per bushel. They also delivered a part of the Cairo corn at that place, and made repeated efforts to procure transportation on the railroad for the remainder, but the road was in the possession of the government and tasked to its utmost capacity. In the words of General Robert Allen, chief quartermaster of the valley of the Mississippi:
+“It was no fault of Messrs. Brandéis & Crawford that they did not deliver tlie full amount of com which they agreed to at Cairo within the time presented, for the Illinois Central railroad, along which this corn would have had to pass, was all the while at work to its full capacity in transporting supplies for the government, which took precedence of any demands which they might make for transportation on their private account.”
+Captain De Wolf raised no objection to this delay, and the claimants offered to change the place of delivery and deliver this corn along the lower Ohio at the contract price, which was three cents per bushel less than was paid for the other corn delivered at the same place. Captain De Wolf accepted the offer and agreed to the change, as is shown by the testimony of both the claimants, by the testimony of George S. Allison, cashier of the Second National Bank at Louisville, by the testimony of W. C. Mitchell, a clerk in the quartermasters’ department, and by the fact that it was received and receipted for as corn, bearing the Cairo price of $1 55, though it is denied by Captain De Wolf in an official report bearing date 14th of April, 1865.
+The claimants proceeded to deliver on the lower Ohio, and nothing occurred to affect the contract till the 11th of April, 1865, when they received, on the surrender of Lee’s army, the following notice:
+“Office Assistant QuarteRMáster,
+“Louisville, April 11, 1865.
+“Gentlemen:, You are hereby notified that, in accordance with orders from General Robert Allen, chief quartermaster, I will receive no grain from any contractor after the 10th instant.
+“ Very respectfully, your obedient servant,
+“D. O. De Wolf,
+“Captain and Assistant Quartermaster.
+“ Messrs. Brandéis & Crawford,
+“Louisville, Kentucky.”
+And again on the first of May the following :
+“Office Assistant Quartermaster,
+“Louisville, Kentucky, May 1, 1865.
+“Gentlemen: Captain Flanigan telegraphs to General Allen that it is impossible for him to receive your twelve cars com at Cairo; that he- is filled up and cannot make room for another bushel.
+“ General Allen informs me that he was not aware that you had delivered so much as you bave, and instructs me to notify you that the corn at Cairo cannot he received under any circumstances.
+“I am, gentlemen, very respectfully, your obedient servant,
+“D. O. De Wolf,
+“Captain and Assistant Quartermaster.
+“Messrs. Brandéis & Crawford.”
+Subsequently the claimants stored large quantities of corn along the lower Ohio, and made repeated applications to the quartermaster to receive it. Only 17,000 bushels were accepted, leaving a residue of 39,227 bushels unaccepted and not delivered.
+The first question which arises on these facts is the much-disputed and still unsettled point as to purchase without previous advertisement pursuant to the act of 2d March, 1861, (12 Stat. L., p. 220.) But here the evidence of the chief quartermaster, General Allen, and his associates, shows conclusively that the corn was needed immediately for the army of General Thomas, then preparing for the great battle of Nashville; that serious apprehensions were felt that a sufficient supply could not be procured; and, in short, that a public exigency of the gravest character did exist, which fully excused and justified the purchase of Captain De Wolf.
+The legality of the contract being established, the question recurs as to its violation. The case seems to stand thus : the vendors made a proposal which the vendees accepted, with a condition annexed, and to this condition the vendors agreed, an exception being made and assented to by the vendees. It was all one transaction and one agreement, though made up of these successive parts.
+The exception thus agreed upon was that the claimants should be allowed to ship the corn already by them purchased along the line of the Illinois Central railroad by that road to Cairo. The road was in possession of the defendants, and without their consent the corn could not be transported. But, according to the chief quartermaster, the road was tasked to its utmost capacity in carrying government, stores, and could not be yielded to contractors. This seems to have excused the vendors from performance in the eyes of Captain De Wolf at the time, for they were not called to account for any delinquency, and their deliveries, when they could be made, were received sometimes, and at others declined upon other grounds. But the vendors were suffering loss by the delay. One lot of com had reached Decatur, on the Illinois Central railroad, and lay there, for want of transportation, till it became worthless. They accordingly offered to deliver on the lower Obio instead of Cairo; and as, by the terms of the. same contract, it appears that corn delivered on the lower Ohio was worth three cents per bushel more than corn delivered at Cairo, this change must he deemed liberal on the part of the contractors, and as inuring chiefly to the benefit of the defendants.
+It is not necessary to determine whether the agreement of Captain De Wolf that the claimants should have transportation over the Illinois Central railroad bound the defendants, but it certainly excused the claimants, so far as time was concerned ; for the least effect that could be given to that provision of the contract would be to say that it made the delivery within the prescribed time conditional. It was as if Brandéis & Crawford said: “We will deliver this corn during January and February, if we can transport it on the Illinois Central railroad; and if we cannot by that road during those months, then so soon afterward as transportation can be procured.” Neither is it necessary to determine whether the subsequent agreement to change the point of delivery is established by sufficient and competent 'evidence, nor to weigh the somewhat conflicting evidence upon this point ; for it is undeniable that the vendors lost no time in forwarding, and striving to forward their corn to Cairo by the Illinois Central railroad, as it was their right to do, and that they were hindered and delayed by the acts of the defendants. The offer to change 'the point of delivery was not an obligation on their part, but an excess of zeal.
+The first violation of the contract, therefore, was on the part of the defendants. It consisted in the -refusal to receive the corn of the 11th April. And the violation became more plain and decided by the refusal of the 1st May to receive the corn' at the very point agreed upon originally, and with no better excuse than the utter inability of the defendants to receive it there. The liability of the defendants then accrued, and all subsequent acts of the claimants were gratuitous.
+The only excuse offered by Captain De Wolf for this violation of the contract is in his report of 14th April, 1865. There is a subsequent communication in the .defendants’ record, dated the 15th January, 1866, and bearing the semblance of a report, but as it was not made until after Captain De Wolf had left the service, it is not an official report, and cannot be admitted in evidence.
+In this report of April 14, 1865, Captain De Wolf says:
+“ These proposals were accepted by me with a proviso that no corn ' would be received, either at Cairo or Evansville, if purchased on the line of the Illinois Central railroad, as Colonel Myers, chief quartermaster at St. Louis, had control of all corn operations on the line of that road, and must not be interfered with. Messrs. Brandéis & Crawford commenced delivering- corn at Cairo, representing that it had been purchased in Chicago, and for some time I was ignorant of the fact that it had been purchased at any other point. Complaint was made by Colonel Myers that parties were interfering with his arrangements on the line of the Central railroad, and purchases being-made by parties who were furnishing me with corn.”
+And from this he concludes :
+“I am unable to see, from' any order or agreement, that Brandéis & Crawford have any right to expect the government agents to receive any more corn from them at Cairo, as they failed to comply with the terms prescribed in the acceptance of their proposal.”
+But the evidence does not sustain this conclusion, for in the first place it establishes the fact that the claimants did not move any corn from along the line of the Illinois Central railroad, except that which they had previously purchased, and for which the letter of Captain De Wolf to the superintendent of the railroad bad been written; and in the second place, the letters of Captain De Wolf to the claimants negative this assertion. In that of 11th April he says nothing of forfeiture or violation on the part of the claimants, and in that of May 1st he places the fault on the defendants. Instead of saying that the government storehouses at Cairo were filled up, and that the quartermaster there could not make room for another bushel, Captain De Wolf should have said, and would have said, “Your violation of yo.ur contract relieves the United States from receiving more corn, and I do not feel authorized to waive the forfeiture which you incurred.” The best explanation of Captain De Wolf’s course that could be given is sketched by his superior officer, General Allen, in his report to the Quartermaster General, and the thorough knowledge of his duties and the groat ability of that experienced officer entitle his opinion to great weight. He says :
+“Captain De Wolf, in his official action, appears to have been governed by extreme caution, and to have been embarrassed in a two-fold action. He was anxious, on the one hand, to prevent the accumulation of a large surplus of corn, consequent upon the unforeseen cessation of hostilities, believing that he could not save it from damage in bulk, while he appears conscious that the contractor may have grounds for complaint. If he took the corn from the contractors it would spoil on his hands. He permits, if lie does not request, the contractor to hold back his corn — keep it in the ear — and deliver i't as he wants it. In the interim the time specified for delivery in the original agreement expires, and before tbe com is actually wauted months elapse. The captain becomes alarmed at the repeated extension of time, and the corn, meanwhile, depreciates in price.”
+We are, therefore, of the opinion that the claimants should recover. With respect to the measure of damages, it is, of course, the difference between the contract price and the value at the time the defendants refused to receive. The. best evidence of this would be the price at which the corn actually was sold, but this the claimants do not give. They, indeed, say: “We were compelled to dispose of it at a price whereby we have sustained a loss of fully 80 cents per bushel on said 39,227 bushels.” But there is such a withholding of time, place, and circumstances in the testimony that we do not feel warranted in resting a judgment upon it. The evidence of the other witnesses clearly shows that the price of corn was from- 70 to 80 cents per bushel at that time, and we feel authorized to allow the claimants only the lowest damages they have proved, viz : 75 cents per bushel.
+The judgment of the court is that the-claimants recover $29,420 25.
