@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "96-1171"
+decided: "1997-12-31"
+citations: ["11 Vet. App. 6"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, FARLEY, and IVERS, Judges."]
+parties: ["Jack E. CHANDLER, Petitioner, v. Hershel W. GOBER, Acting Secretary of Veterans Affairs, Respondent."]
+source_url: "https://static.case.law/vet-app/11/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1590129
+cites_cases: ["10 Vet.App. 175", "106 Stat. 4506", "28 U.S.C. § 2412", "554 F.Supp. 36", "587 F.Supp. 1216", "628 F.Supp. 996", "722 F.2d 1081", "8 Vet.App. 504", "856 F.2d 606", "928 F.2d 1206"]
+---
+
+# Chandler v. Gober
+
+## Majority (IVERS, Judge:)
+
+IVERS, Judge:
+On April 1, 1997, this Court denied the veteran’s petition for extraordinary relief in the nature of mandamus in which the veteran contended that the Department of Veterans Affairs (VA) had taken more than two and one-half years after remand to formulate a decision which still had not been rendered. See Chandler v. Brown, 10 Vet.App. 175 (1997). On April 21, 1997, the petitioner filed an application for an award of attorney fees and expenses under the Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412. The Court has jurisdiction to award attorney fees pursuant to section 506 of the Federal Courts Administration Act, Pub.L. No. 102-572, § 506, 106 Stat. 4506, 4513 (1992) (found at 28 U.S.C. § 2412 note), which amended 28 U.S.C. § 2412(d)(2)(F) to make EAJA applicable to this Court. For the reasons set forth below, the Court will deny the petitioner’s application for attorney fees and expenses.
+I. BACKGROUND
+In September 1996 the petitioner sought extraordinary relief in the nature of mandamus, contending that the adjudication of his claims remanded by the Court in May 1994 had been unreasonably delayed. The petition sought a Court order compelling the Secretary to award service connection for his claimed disabilities or, in the alternative, an order directing the BVA to render an immediate decision regarding the remanded claims.
+In the Secretary’s answer to the petition, he provided an almost month-by-month account for what had transpired in the remanded appeal for the past almost two and one-half years. The Secretary’s response averred reasonable efforts to develop the record and adjudicate the claims. The most recent delay regarding the appeal involved the Secretary’s efforts to obtain records from the Reserve Component of the Personnel Administration Center in St. Louis, Missouri. As the Secretary explained in his response, efforts had begun in March 1996 to obtain those records. In addition, follow-up inquiries had been made in July and September 1996. The Secretary acknowledged that development and adjudication had been time consuming, but argued that much of the delay was due .to factors outside the Secretary’s control, specifically, the Reserve Component of the Personnel Administration Center.
+While the petition was pending before this Court, the regional office (RO) issued a Supplemental Statement of the Case (SSOC), noting that the veteran’s claims had been adjudicated and denied. On April 1, 1997, the Court denied the veteran’s petition as moot. Chandler, supra.
+II. ANALYSIS
+Pursuant to 28 U.S.C. § 2412(d)(1)(B), a party seeking EAJA fees and other expenses must submit to the Court “an application for fees and other expenses which shows that the party is a prevailing party and is eligible to receive an award.... ” To be considered a “prevailing party” pursuant to EAJA it must be shown that the litigant prevailed (1) by succeeding on the merits; (2) as the result of the suit’s “catalytic effects”; or (3) by application of the “inevitable victory” test. Lematta v. Brown, 8 Vet.App. 504, 507 (1996) (citations omitted). Furthermore the veteran has the burden of demonstrating prevailing party status to the Court. Lematta, supra (citing Environmental Defense Fund, Inc. v. Watt, 554 F.Supp. 36 (D.C.N.Y.1982)), aff'd, 722 F.2d 1081 (2nd Cir.1983).
+The veteran concedes that the Court denied his petition. However, citing Lematta, the veteran asserts that he is a prevailing party because the filing of the petition was the “catalyst” which led to VA issuing an SSOC. Pursuant to the catalyst theory, an EAJA applicant may become a prevailing party “when plaintiffs lawsuit acts as a ‘catalyst’ in prompting defendants to take action to meet plaintiffs claims ... despite the lack of judicial involvement.” Lematta, 8 Vet.App. at 509 (citations omitted).
+In response, the Secretary argues that the catalyst theory is unavailing for two reasons. First, issuance of an SSOC was not the relief sought in the petition. The petition sought a Court order compelling the Secretary to award service connection or alternatively, an order directing the BVA, not the RO, to enter an immediate decision. Second, because the record shows regular and continued efforts by the RO to develop the claims, there is no evidence that the petition actually served as a catalyst triggering either the issuance of the SSOC or RO action different than would have been undertaken otherwise. As to the first argument, the Court notes that the petition also asked for “speedy resolution of his claim.” Petition at 4. Nevertheless, for the reasons stated in the following paragraph, the Court need not address whether issuance of the SSOC partially constituted the relief sought.
+“ ‘[T]he mere existence of a temporal coincidence ... cannot alone suffice’ to engage the gears of the catalyst test.” Langton v. Johnston, 928 F.2d 1206, 1225 (1st Cir.1991) (quoting Martinez v. Rhode Island Housing & Mortgage Finance Corp., 628 F.Supp. 996, 1001 (D.R.I.1986)). Furthermore, it has been held that the “mere filing of a lawsuit is not, as a matter of law, a sufficient catalyst for a plaintiff to be deemed a prevailing party under 28 U.S.C. § 2412(d).” Finn v. United States, 856 F.2d 606, 608 (4th Cir.1988); see also Correa v. Heckler, 587 F.Supp. 1216, 1221 (S.D.N.Y.1984). The Court notes that the Secretary was following the course he had been pursuing prior to the filing of the petition. In addition, the Court notes that the Secretary had no control over the custodian of the records requested, i.e., the Reserve Component of the Personnel Administration Center, and had no way of determining when those records would become available. Thus, the petition was not the catalyst for the issuance of the SSOC.
+Finally, the Court notes that victory has neither been attained nor assured in this case. Therefore, the “inevitable victory” test is not an available basis in this case for the petitioner to be considered a prevailing party. See Lematta, 8 Vet.App. at 510.
+Based on the above, the Court holds that the veteran has not shown himself to be a prevailing party pursuant to the requirements set out in 28 U.S.C. § 2412(d)(1)(B).
+III. CONCLUSION
+For the reasons stated above, the petitioner’s application for attorney fees and expenses is DENIED.
