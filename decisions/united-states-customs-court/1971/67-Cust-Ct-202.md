@@ -1,0 +1,59 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4274"
+decided: "1971-09-22"
+citations: ["67 Cust. Ct. 202"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Richardson and Landis, Judges, and Rosenstein, Senior Judge"]
+parties: ["Continental Ore Corporation v. United States"]
+source_url: "https://static.case.law/cust-ct/67/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6572121
+cites_cases: ["201 F. Supp. 319", "27 CCPA 46", "308 U.S. 589", "46 Cust. Ct. 348", "46 Cust. Ct. 473", "47 Cust. Ct. 215", "48 Cust. Ct. 1", "54 Cust. Ct. 290", "54 Cust. Ct. 316", "54 Cust. Ct. 322", "56 Cust. Ct. 191", "60 S. Ct. 115", "62 Cust. Ct. 559", "84 L. Ed. 493"]
+---
+
+# Continental Ore Corp. v. United States
+
+## Majority (Landis, Judge:)
+
+Landis, Judge:
+These cases involve entries which the collector liquidated at Eagle Pass, Texas on December 13, 1958. Upon review and denial of protests against the liquidations, filed at Eagle Pass on March T, 1957,19 U.S.C.A., section 1514, the entries and accompanying pEipers were transmitted to this court. 19 U.S.G.A., section 1515.
+At a session of this court at Laredo, Texas in March 1969, defendant moved to dismiss the protests on the ground that the protests, received March 7, 1957, were filed more than sixty days after the liquidations on December 13,1956 and, therefore, were untimely under section 514 of the Tariff Act of 1930, 19 U.S.C.A., section 1514. The judge at Laredo granted the motion, dismissed the protests, and gave plaintiff thirty days leave to vacate and set aside the dismissal if, upon investigation and examination into the facts, plaintiff was able to determine there was a justiciable issue as to timeliness.
+Upon plaintiff’s motion to set aside the dismissal alleging that a timely protest in the form of a letter was filed on January 10, 1957 against the liquidations of December 13, 1956, and defendant’s objection thereto, an order was entered on June 20, 1969 vacating and setting aside the dismissal of the protests and restoring the cases to the Laredo docket for all purposes.
+On call of the cases at Laredo on November 24, 1969, defendant renewed its motion to dismiss the protests as untimely, plaintiff objected and, on hearing then had, adduced evidence concerning the delivery of the alleged protest on J anuary 10,1957.
+The protests filed March 7, 1957 are concededly untimely under section 514 which states that a liquidation shall “be final and conclusive upon all persons * * * unless the importer, * * * within sixty days after, but not before such liquidation, * * * file[s] a protest in writing with the collector setting forth distinctly and specifically, and in respect to each entry, payment, claim, decision, or refusal, the reasons for the objection thereto.”
+The letter dated January 10, 1957, which plaintiff contends constitutes a timely protest under section 514 against the December 13, 1956 liquidations, and which was addressed to the Collector of Customs, Eagle Pass, Texas, recites as follows:
+J anuary 10,1957
+Dear Sir
+We refer to your notices, Customs Form 5107, money due in connection with the following Consumption Entries covering fluorspar imported through this Port for our account :
+Receipt # Entry No. Date Amount
+809402 1479-E 233.28
+809403 1710-E 243. 45
+809404 1750-E 299. 04
+809405 1768-E 224.
+809406 1797-E 239.33
+$1, 239. 96
+We are tendering herewith, check No. 61247 for the amount stated above. This amount is being paid under protest and we will subsequently file formal protests against the liquidations of these entries.
+Respectfully yours,
+CONTINENTAL ORE CORPORATION,
+T. H. Gonzales, Atty-in-fact.
+gc
+end.
+cc: Continental Ore Corporation
+New York, N.Y.
+Fluorita de Mexico, S.A.
+Muzquiz, Coah., Mexico.
+Mr. Gustavo Caballero, an assistant to Mr. T. H. Gonzales, custom-nouse broker who serviced the involved entries for plaintiff, testified that he had been in the employ of Mr. Gonzales for 34 years. He stated that upon receiving the customs notice of increased duties due on the relevant entries, he prepared an original and one copy of the letter dated January 10, 1957; that he delivered the original to the customs cashier at the Eagle Pass customhouse with a check for the amount of the increased duties, and that he prepared the letter and paid the increased duties on instruction from plaintiff to protest the liquidation of the entries. It is stipulated that the entry documents in this proceeding individually bear customs stamp of increased duties “Paid” January 10,1957.
+On cross-examination Mr. Caballero testified that when he delivered correspondence to customs officials he did not get a receipt for the correspondence; that he personally delivered the formal protest documents stamped “Received” March 7,1957, Eagle Pass, Texas, that he has copies of the formal protest documents which bear the same stamp, and that he usually filed protests with the deputy collector at Eagle Pass and retained a receipted copy.
+It is a fact that the collector has searched but is unable to locate the original of the letter dated January 10,1957. The fact, of course, that the collector cannot locate the letter is not fatal to plaintiff’s contention that it constituted a valid protest under section 514. B. R. Anderson & Co. v. United States, 47 Cust. Ct. 215, 219, C.D. 2304, 201 F. Supp. 319 (1961). Plaintiff’s evidence establishes that the letter was delivered. The only question there can be, in our opinion, is whether the letter written by a customhouse broker experienced in the matter of preparing and filing a protest under section 514, should be considered as intending on January 10,1957 to protest the liquidations of the entiles referred to in the letter.
+It is true that there are cases in this court which have held letters to customs officials to be timely protests. Cf. Atlantic Linen Importing Co. v. United States, 54 Cust. Ct. 290, Abstract 68985 (1964); Norwood Imports v. United States, 48 Cust. Ct. 1, C.D. 2306 (1961). In those cases the record has invariably shown that customs officials considered the letter was a protest and fairly understood the objection. More frequently than not, however, when the collector has considered the letter to be a protest and transmitted it to this court under section 515, even upon views most liberally held (see How-Tex Peanut Company v. United States, 54 Cust. Ct. 316, Abstract 69066 (1965), concurring opinion) the letter of protest has been dismissed when it appears that the letter was not intended as a protest, Salvador Rosa v. United States, 54 Cust. Ct. 322, Abstract 69074 (1965), or because the grounds of the purported protest were not sufficiently stated. Cf. Broderick & Bascom Rope Co. v. United States, 62 Cust. Ct. 559, C.D. 3826 (1969); Wieboldt International Div., Wieboldt Stores, Inc. v. United States, 56 Cust. Ct. 191, C.D. 2626 (1966); Garod Radio Corporation v. United States, 46 Cust. Ct. 473, Abstract 65612 (1961); The A. W. Fenton Co. v. United States, 46 Cust. Ct. 348, Abstract 65189 (1961).
+A customhouse broker experienced in filing protests, who writes a letter which puts the collector in the equivocal position of guessing how he should consider the letter under section 514, must do so at the peril that the collector will not consider the letter as a protest. If the collector does not consider the letter as a protest under section 514 then, in our opinion, for plaintiff to prevail there must be some showing that in the sense conveyed by the letter and the circumstances attending its delivery by the .customhouse broker the letter was intended as a protest under section 514.
+The letter of January 10,1967 states that the increased duties were “being paid under protest” and that “subsequently * * * formal protests against the liquidations of * * * [the] entries” would be filed. The collector disregarded the letter as a protest under section 514. When it is established, as it is in this record, that the letter was prepared and delivered by an experienced customhouse broker, we cannot find or say that the collector should have considered the letter as a protest. The letter was not filed in the usual manner that the customhouse broker filed protests with the deputy collector at Eagle Pass, Texas and retained a stamped “received” copy. The letter stated no grounds for objections as required by section 514, and in the manner of the protests received March 7, 1957, prepared and filed by the customhouse broker.
+In Broderick & Bascom Rope Co. v. United States, supra, Judge Richardson discussed why a party cannot in one voice protest and, in another voice, counsel the collector to a course of inaction as follows:
+* * * As our appeals court said in Lamborn & Co., Inc. v. United States, 27 CCPA 46, 49, C.A.D. 60, Cert. denied, 60 S. Ct. 115, 308 U.S. 589, 84 L. Ed. 493, “A protest is a statutory pleading, and under section 514 of the Tariff Act of 1930 the protest must be directed solely to decisions of the collector with respect to the matters set forth in said section.” In the case at bar the protest, in any event, goes no further than to put the collector on notice of the pendency of a proceeding before his superiors affecting the classification of the involved merchandise and to counsel restraint on the part of the collector in the matter. Whatever may be the virtues of such an undertaking on the part of the plaintiff, it is clear to us that the course of inaction urged upon the collector by the so-called protest is in plain derogation of the statutory obligations and powers of the collector in protest proceedings. The instant protest, conferring no jurisdiction upon the collector to take any action respecting the classification of the involved merchandise, confers no jurisdiction upon this court to review the collector’s classification of such merchandise. [62 Cust. Ct. at page 562.]
+The letter of January 10, 1957, written without setting forth the grounds for objection, conveyed a sense of inaction to the collector, that is, that the collector do nothing pending the filing of formal protests. Inaction, as Judge Richardson stated, is a derogation of the obligations and powers of the collector under section 514. On this record, the collector did not err when he disregarded the letter as a protest under section 514. See Salvador Rosa v. United States, supra.
+The protests received March 7,1957 were filed more than sixty days after the liquidation of the protest entries on December 13,1956. The motion to dismiss the protests as untimely under section 514, therefore, is granted.
+Judgment will so enter.
+Exhibit 2 is a carbon copy of the letter, received in evidence for the reason that customs was unable to find the original letter.
