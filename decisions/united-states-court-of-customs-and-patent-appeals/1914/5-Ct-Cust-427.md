@@ -1,0 +1,48 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1415"
+decided: "1914-11-18"
+citations: ["5 Ct. Cust. 427"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Sheldon & Co."]
+source_url: "https://static.case.law/ct-cust/5/cases/0427-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3878821
+cites_cases: ["1 Ct. Cust. Appls., 205", "1 Ct. Cust. Appls., 64", "112 U. S., 495", "170 U. S., 621", "3 Ct. Cust. Appls., 54", "96 U. S., 148"]
+---
+
+# United States v. Sheldon & Co.
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The issue here is as to the sufficiency of certain protésts, the material parts of which are hereinafter set forth. All these protests contain a column entitled "Description of merchandise,” in which is inserted a statement as to the number of cases or other packages, followed by the words which are hereinafter quoted as describing the merchandise.
+Protest 725587/32983 describes the merchandise as “cardboard” and alleges dutiability as "mftrs. of cardboard” at 35 per cent ad valorem under paragraph 415.
+Protest 722623/30607 describes the merchandise as "mf. cardboard” and alleges dutiability as "mf. cardboard n. s. p. f.” at 35 per cent ad valorem under paragraph 415.
+Protest 707123/16073 describes the merchandise as “cardboard” and alleges dutiability as "mfrs. of paper n. s. p. f.” at 35 per cent ad valorem under paragraph 415, or as "articles composed in chief value of paper with coated surface” under paragraph 411.
+Protest 685077/74 describes the merchandise as "mf. cardboard” and alleges dutiability as "mftrs. of cardboard” at 35 per cent ad valorem under paragraph 415, or as "articles composed in chief value of paper with coated surface n. s. p. f.” under paragraph 411.
+Protest 693549/5322 describes the merchandise as "cardboard” and alleges dutiability as "mftr. .of paper n. s. p. f.” at 35 per cent ad valorem under paragraph 415, or as "articles composed in chief value of paper with coated surface” under paragraph 411.
+Protest 699602/7427 describes the merchandise as "mf. cardboard” and alleges dutiability as "mfr. of paper n. s. p. f.” at 35 per cent ad valorem under paragraph 415, or as " articles composed in chief value of paper with coated surface n. s. p. f.” under paragraph 411. . ,
+Protest 683507/52750 describes the merchandise as “mftr. paper” and alleges dutiability as “mftrs. of paper n. s. p. f.” at 35 per cent ad valorem under paragraph 415, or as “articles composed in chief value of paper with coated surface” under paragraph 411.
+No claim is made that the merchandise is dutiable under paragraph 411, which is referred to in some of the protests.
+Giving to the various abbreviations their natural import it is manifest that these protests fall into the following classes, so far as they contain a description of the importations and the claim as to proper classification:
+(a) Three of the protests describe the merchandise as cardboard or manufactures of cardboard and aver that it is dutiable as “manufactures of cardboard.”
+(5) Two of the protests describe the merchandise as cardboard and aver that it is dutiable as a "manufacture of paper n. s. p. f.”
+(c) One of the protests describes the merchandise as a manufacture .of cardboard and claims it is dutiable as a “manufacture of paper u. s. p. f.”
+(d) One of the protests describes the merchandise as a manufacture of paper dutiable as a “manufacture of paper n. s. p. f.”
+And all the protests refer to paragraph 415 as the one under which the merchandise is claimed to be dutiable and all claim 35 per cent ad valorem as the proper rate of duty.
+Paragraph 415 specifically provides, among other things, for cardboard, which is declared to be dutiable at 35 per cent ad valorem. It also contains two other provisions for the same rate of duty, one upon certain press boards or press paper, and the other upon certain wrapping paper, with a further proviso that certain paper, embossed, die .cut, or stamped into designs or shapes, or certain other forms, is dutiable at the same rate.
+Paragraph 420 provides that manufactures of paper or of which paper is the component material of chief value, not specially provided for, shall be dutiable at 35 per cent ad valorem.
+Each of these seven protests bears a different date, and five contain an alternative claim in substance that the merchandise is dutiable as in chief value of surface-coated paper under paragraph 411.
+It is unnecessary to review at length the great number of authorities in which the question of the sufficiency of protests has been considered.
+It was held in substance in Bliven v. United States (1 Ct. Cust. Appls., 205) that one cardinal rule in construing a protest is that it must show fairly that the objection afterwards made at the trial was in the mind of the party at the time the protest was made and was brought to the knowledge of the collector to the end that he might ascertain the precise facts and have an opportunity to correct the mistake and cure the defect if it was one that could be obviated. This, in effect, has long been the doctrine enunciated by the Supreme Court of the United States. Davies v. Arthur (96 U. S., 148), Arthur v. Morgan (112 U. S., 495), United States v. Salambier (170 U. S., 621). See also Carter v. United States (1 Ct. Cust. Appls., 64; T. D. 31033) and Sonneborn’s Sons v. United States (3 Ct. Cust. Appls., 54; T. D. 32348).
+In the various cases where this principle has been upheld it will appear that in some the correct paragraph has been cited without mentioning the rate of duty; again, the correct rate has been mentioned without referring to the paragraph; and other discrepancies and infirmities have been considered and discussed. It has, however, uniformly been considered, as already suggested, that one great rule of construction is that at the time he malees his protest the importer must have in mini the objection afterwards made at the trial and must sufficiently, in view of all the circumstances,.call the collector’s attention thereto, so that he may consider and pass upon the same; and the determination of this case must stand or fall upon the application of that rule.
+It is conceded here that the importers did not select the proper paragraph, but it was held by the board and is claimed by the importers that this was an inadventence; in other words, that the importers really meant to refer to paragraph 420 instead of 415. As already suggested, each of these protests bears a different date and five make an alternative claim under paragraph 411. As a matter of inference or argument the claim of the protestants would be more persuasive if it appeared that the alleged inadvertence had occurred but once; but when we find, as here, seven protests bearing different dates, none however greatly removed from another in point of time, all having been made between December 19, 1912, and October 10, 1913, and all relating to the same class or kind of merchandise, it is strongly suggestive not of an inadvertence but of a deliberate purpose to claim under paragraph 415, and that this was the paragraph which was in the minds of the protestants at the time the protests were made, was the one upon which they then relied, and intended to rely at the trial. This view is strengthened by the fact that five of the protests, in the alternative, claim under paragraph 411, which tends to show that the protests were carefully and not hurriedly drawn. It is hard to believe that the claim under paragraph 415 was inadvertenly made.
+Was the collector’s attention fairly directed to paragraph 420? Of course the number of the paragraph to which he was referred was 415.- He was advised, as evidently the entries in the case had advised him, that the merchandise was claimed to be in every case but one, cardboard or a manufacture of cardboard; that in three of the protests it was claimed to be dutiable as a manufacture of cardboard and in the other four as. a manufacture of paper n. s. p. ,f- The exhibits in the case which are before us show that the background or the basic material is a relatively thick piece of cardboard upon which are raised letters said to be.of metal. As to the composition of these letters no question is made. Paragraph 415 contains no express provision for manufactures of cardboard nor manufactures of paper by that name, but does contain, as already pointed out, a provision for cardboard and various forms of boards and paper with four separate provisions for duty at the rate of '35 per cent ad valorem, which is the identical rate claimed in the protests.
+We think under the terms of the protests the attention of the collector was not directed to paragraph 420 just as we think-that the provisions of paragraph 420 were not in the minds of the importers when the protests were made.
+This view is somewhat confirmed by the fact that paragraph 420 refers to manufactures of paper or manufactures of which paper is the component material of chief value. The protests do not claim the merchandise to be manufactures of which paper is the component material of chief value, but simply as manufactures of paper, while the merchandise itself shows, the evidence is, and the report of the appraiser in each case was, that the merchandise was a manufacture of paper and something else.
+We think is was error to hold these protests sufficient, and the judgment of the Board of .General Appraisers is reversed.
