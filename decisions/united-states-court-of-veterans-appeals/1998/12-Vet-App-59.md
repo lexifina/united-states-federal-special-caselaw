@@ -1,0 +1,39 @@
+---
+court: "United States Court of Veterans Appeals"
+docket: "97-192"
+decided: "1998-12-08"
+citations: ["12 Vet. App. 59"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and KRAMER, FARLEY, HOLDAWAY, IVERS, STEINBERG, and GREENE, Judges."]
+parties: ["Virginia D. TRILLES, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/12/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11581394
+cites_cases: ["11 Vet.App. 80", "2 Vet.App. 21", "38 C.F.R. § 3.356", "38 C.F.R. § 3.6", "38 U.S.C. § 101", "38 U.S.C. § 3503", "38 U.S.C. § 5303", "38 U.S.C. § 6103", "38 U.S.C. § 6104", "7 Vet.App. 80", "9 Vet.App. 353", "9 Vet.App. 484"]
+---
+
+# Trilles v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+Virginia D. Trilles appeals a November 14, 1996, Board of Veterans’ Appeals (Board) decision that determined that no new and material evidence had been presented to reopen a claim for revocation of the forfeiture of VA benefits (except insurance benefits) under the provisions of 38 U.S.C. § 6103.
+The appellant was married to the decedent veteran, Zosimo Trilles, when he died in a Japanese prisoner of war camp in May 1942. In 1956, the appellant filed a claim for benefits as the widow of the veteran, and she received dependency and indemnity compensation as the veteran’s unremarried widow.
+In April 1988, the Veterans’ Administration (now Department of Veterans Affairs) Compensation and Pension Service issued a decision that in violating 38 U.S.C. § 3503(a) (now 38 U.S.C. § 6103(a)) the appellant had “forfeited all rights[,] claims and benefits to which she might otherwise be entitled.” In 1989, the appellant filed an appeal with the Board. A 1990 Board decision found that “the appellant, beyond a reasonable doubt, knowingly and deliberately, made and submitted to ... VA false statements concerning her marital relationship with [another man] in obtaining VA benefits to which she had no legal entitlement,” concluded that “the appellant had forfeited all rights, claims and benefits under all laws administered by ... VA (except laws pertaining to insurance benefits),” and denied revocation of forfeiture.
+The Board, in the November 1996 decision on appeal, determined that no new and material evidence had been presented to reopen her previously and finally disallowed claim for revocation of forfeiture. This appeal followed. The appellant is not represented.
+On May 19, 1998, the case was assigned to a panel. On August 5, 1998, there was a call for en bane review. Upon further consideration, the Court has determined the need for additional briefing addressing the following questions:
+(1) Whether a VA benefits recipient, residing outside the United States, who is found by VA under 38 U.S.C. § 6103(a) to have committed fraud or submitted a false statement in connection with receipt of benefits, is permanently barred from all rights, claims, and benefits under all laws administered by the Secretary (except laws pertaining to insurance benefits).
+(2) If permanently so barred, may one nevertheless seek readjudication — through reconsideration, reopening, or some other process — of the forfeiture decision after the decision has become final? If so, what procedure is available, if 38 U.S.C. § 6103(a) otherwise forfeits all rights and claims under all such laws administered by the Secretary?
+(a) Current caselaw identifies a forfeited recipient as one who is no longer a benefits-eligible claimant. Villeza v. Brown, 9 Vet.App. 353, 357 (1996). Thus, one who has forfeited benefits under section 6103(a) must establish “status” anew. If one is permanently barred, how can that burden be met? See Villeza, supra; cf. Tulingan v. Brown, 9 Vet.App. 484, 487 (1996) (forfeiture under 38 U.S.C. § 6104(a)). See generally Laruan v. West, 11 Vet.App. 80, 86 (1998) (en banc) (holding that preponderance of evidence is necessary to prove veteran status).
+(b) What is the authority for the current procedure that allows one who has forfeited benefits under section 6103(a) to file a claim for revocation of forfeiture? An application to reopen a previous forfeiture decision? A claim based on clear and unmistakable error? Why is the decision on whether a forfeiture should be remitted or revoked not reviewed by the Director, Compensation and Pension Service, the person who made the initial forfeiture decision?
+(3) What is the answer to each of the foregoing questions in terms of the process for imposing and revoking bars to benefits under 38 U.S.C. § 5303 based upon the circumstances specified in 38 U.S.C. § 5303(a), which “bar all rights ... under laws administered by the Secretary based on the period of service from which [the person is] discharged or dismissed?”
+Further, two judges of the Court wish the parties to address the following matter:
+The Court stated in Villeza, 9 Vet.App.at 357, that a person seeking to restore status as a “benefits-eligible claimant” after a forfeiture has been imposed under 38 U.S.C. § 6103(a) must do so “by a preponderance of the evidence.” This evidentiary standard was drawn from Aguilar v. Derwinski, 2 Vet.App. 21, 23 (1991) (holding that purported widow of veteran must establish “survivor” status with “preponderating evidence”), and Sarmiento v. Brown, 7 Vet.App. 80, 84 (1994) (applying Aguilar to determination of “veteran” status). Those two eases were recently reaffirmed by the full Court in Laruan v. West, 11 Vet.App. 80, 86 (1998) (en banc). To assist in the determination of what application the preponderanee-of-the-evidence burden of proof should have to the question of status as a “benefits-eligible claimant” for purposes both of challenging a proposed forfeiture under 38 U.S.C. §§ 6103, 6104, or 6105 (or a proposed bar to benefits under 38 U.S.C. § 5303) and of seeking to revoke a forfeiture (or a bar) so imposed, please provide an analysis of the basis for the burden to present preponderance of the evidence in terms of all applicable law, regulation, legislative and regulatory history, and historical precedent in connection with the VA benefits adjudication system (and that of all predecessor agencies) and the extent to which this analysis supports or does not support application of a preponderance-of-the-evidence burden to establishing “veteran” status (including status as a “veteran” by virtue of “active military, naval, or air service” during a period of active or inactive duty for training as defined in 38 U.S.C. § 101(24) and 38 C.F.R. § 3.6(a) (1998)), “survivor” status, and “dependent” status (including status as a so-called “helpless child” under 38 U.S.C. § 101 (a)(4)(A)(ii) and 38 C.F.R. § 3.356 (1998)), as well as status as a “benefits-eligible claimant,” Villeza, supra. See Laruan, 11 Vet.App. at 86-91 (Kramer and Steinberg, JJ., dissenting).
+Accordingly it is sua sponte
+ORDERED that this case will be decided by the full Court. It is further
+ORDERED that, not later than 60 days after the date of this order, the Secretary file a memorandum on the issues stated above. It is further
+ORDERED that, not later than 60 days after service of the Secretary’s memorandum, the appellant may file a memorandum addressing the same issues stated above. It is further
+ORDERED that, not later than 30 days after the Secretary’s memorandum is filed, any interested individual or entity may submit a memorandum, as amicus curiae, on the issues stated above. Any amicus curiae interested in submitting a memorandum should file with the Court, and serve on the parties, a notice of such intention not later than 15 days after submission of the Secretary’s memorandum.
