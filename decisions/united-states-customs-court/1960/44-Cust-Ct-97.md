@@ -1,0 +1,33 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2158"
+decided: "1960-03-23"
+citations: ["44 Cust. Ct. 97"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["The American Import Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/44/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6576882
+cites_cases: ["11 Ct. Cust. Appls. 68", "8 Ct. Cust. Appls. 211"]
+---
+
+# American Import Co. v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+The merchandise the subject of tills protest consists of woven rattancore or reed cornucopias, which were assessed with duty at the rate of 50 per centum ad valorem under the provision in paragraph 411 of the Tariff Act of 1930 for “baskets * * * wholly or in chief value of * * * wood * * * not specially provided for.” Various claims are made in the protest as filed and by amendment thereof, but the only claim pressed by the plaintiff is that for duty at the rate of 16% per centum ad valorem under paragraph 412 of the said act, as modified by T.D. 52373 and T.D. 52476 for “manufactures of wood * * * not specially provided for.”
+Inasmuch as articles made of rattancore or reed, in the absence of more specific provision, are classifiable under the provision for manufactures of wood, not specially provided for, in paragraph 412, supra (Calif-Asia Co., Ltd. v. United States, 39 C.C.P.A. (Customs) 133, C.A.D. 475), in their briefs, the parties have recognized that the only issue is whether the imported articles are within the meaning-of the term “baskets,” as used in paragraph 411, supra.
+We think it is apparent from the testimony given by the witnesses: called at the trial of the issue, and from an examination of exhibit 1,. which is a sample of the imported merchandise received in evidence without objection, that cornucopias such as those here involved are-designed and used as display items to symbolize abundance and plenty. They are chiefly used in windows and counters of stores, and for dining table centerpieces in homes, and, in such use, they generally, although not always, contain artificial or natural fruits or flowers: or nuts or the things concerning which it is desired to convey the idea of abundance or plenty, so arranged that some are contained in the cornucopia and others appear to have spilled out of the-cornucopia. The record indicates that there may be fugitive or unusual use at times for the purpose of carrying or transporting" things, but it is clear that in design and use generally the article is-used for display as above indicated.
+In the case of United States v. Byrnes & Co., 11 Ct. Cust. Appls. 68, T.D. 88728, cited in the briefs filed on behalf of both parties, the predecessor of our appellate court laid down a definition of the term “basket,” in connection with the provision in paragraph 175 of the Tariff Act of 1913 corresponding to the provision in paragraph 411 of the present act, as follows:
+In substance, all tbe dictionaries and encyclopedias define a basket as a vessel of varying capacity, made of flexible materials such as osiers, cane, twigs, and rushes, commonly interwoven and bound at the top, used for the purpose of holding, protecting, or carrying any commodity. We think such a definition •correctly expresses the common understanding of the meaning of the word.
+An examination of plaintiff’s exhibit 1, offered and received in evidence without objection as a sample of the cornucopias at bar, shows without question that it is in form a vessel, made of an interwoven flexible material, and bound at the top. The dispute between the parties seems to center about its use as such a vessel which holds, protects, or carries any commodity.
+Both the evidence and the nature of the article itself establish that in its ordinary use the article at bar is not used for carrying or transporting anything. While it has the capability of being used for •such purpose, it certainly was not designed nor is likely to be used for that purpose. The same may be said as to its design and use for protecting anything. Consequently, if it may be said to be a “basket” in ordinary parlance it must be because it is designed and used to hold commodities or things.
+We are of the opinion that both the testimonial evidence and the real evidence represented by the sample establish that the article was actually designed and is used to “hold” commodities or things and fulfills in that respect the use element of the definition of baskets, hereinbefore quoted. While one witness testified that in some window display uses the cornucopia may be in the background and empty, while the commodity as to which it is desired to indicate abundance and plenty is in the foreground, the usual and ordinary use indicated by the record is one in which some of the commodity is contained or held in the cornucopia while some appears to be spilling out of it. We think that in their use as window or counter display equipment the cornucopias at bar may be likened to floral display baskets, functioning as the holder for at least part of the article displayed.
+Moreover, it appears that when used as a table centerpiece and holding some kind of food, such as fruit, candy, or nuts, the diners may partake of the contents much the same as if they were contained in any other holder such as a basket or tray or dish which might be used to have the function of holding such food.
+The fact that an article is not denominated a basket does not appear to affect its classification under the provision therefor in the tariff act. In the Byrnes case, supra, and in Morimura Bros. v. United States, 8 Ct. Cust. Appls. 211, T.D. 37438, articles which served the purposes of trays, vases, fern pots, jardinieres, etc., were held to be baskets because in form, shape, construction, and use they had the attributes of baskets, as we think do the articles at bar.
+The decision of our appellate court in United States v. Quon Quon Company, 46 C.C.P.A. (Customs) 70, C.A.D. 699, relating to table tops made of interwoven flexible materials, and held not to be baskets, is illustrative of the distinction between articles having all of the attributes of baskets, including use, and those whose design and use have little or no relation to those of baskets, although possessing other basket characteristics.
+We are satisfied that the collector correctly classified the cornucopias at bar as baskets, and judgment will issue overruling the protest claims accordingly.
