@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "R66/58"
+decided: "1966-11-09"
+citations: ["57 Cust. Ct. 851"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["BefoRb Chief Judge Rao,"]
+parties: ["Kurt Orban Co., Inc. v. United States, reappraisements R59/9729, etc. (Jacksonville)."]
+source_url: "https://static.case.law/cust-ct/57/cases/0851-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6603773
+cites_cases: ["52 CCPA 20"]
+---
+
+# Kurt Orban Co. v. United States
+
+## Majority
+
+In accordance with stipulation of counsel that the issues of fact and law are the same in all material respects as those in Kurt Orban Company, Inc. v. United States (52 CCPA 20, C.A.D. 851), the court found and held that export value, as that value is defined in section 402 (b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, T.D. 54165, is the proper basis of value for the galvanized wire and round steel wire in issue and that said value is the appraised value, less inland freight and f.o.b. charges of $11 per metric ton.
