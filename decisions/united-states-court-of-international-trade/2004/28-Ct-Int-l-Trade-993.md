@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 02-00646"
 decided: "2004"
-citations: ["28 Ct. Int'l Trade 993", "28 Ct. Int'l Trade 1231", "28 Ct. Int'l Trade 987"]
+decided_precision: "year"
+citations: ["28 Ct. Int'l Trade 993"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["United States, Plaintiff, v. Optrex America, Inc., Defendant."]
 source_url: "https://static.case.law/ct-intl-trade/28/cases/0993-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8215432
-cites_cases: ["1 CIT 21", "10 CIT 323", "122 F.3d 1409", "136 F.R.D. 542", "164 F.R.D. 589", "18 CIT 352", "19 U.S.C. § 1592", "218 F.R.D. 599", "32 F.3d 851", "329 U.S. 495", "39 Fed. Cl. 290", "42 Fed. Cl. 405", "421 U.S. 132", "449 U.S. 383", "45 F.R.D. 363", "516 U.S. 1071", "53 F.R.D. 480", "55 F.3d 827", "58 Fed. Cl. 570", "636 F. Supp. 476", "644 F. Supp. 1160", "66 F.R.D. 570", "68 F.R.D. 574", "709 F.2d 485", "764 F.2d 1577", "83 F.R.D. 260", "95 F.R.D. 299"]
+cites_cases: ["10 CIT 323", "164 F.R.D. 589", "18 CIT 352", "329 U.S. 495", "39 Fed. Cl. 290", "42 Fed. Cl. 405", "45 F.R.D. 363", "53 F.R.D. 480", "636 F. Supp. 476", "644 F. Supp. 1160", "66 F.R.D. 570", "709 F.2d 485", "83 F.R.D. 260", "95 F.R.D. 299"]
 ---
 
 # United States v. Optrex America, Inc.
