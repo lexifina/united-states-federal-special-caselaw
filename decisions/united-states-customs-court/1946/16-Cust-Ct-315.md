@@ -1,0 +1,31 @@
+---
+court: "United States Customs Court"
+docket: "6249; Entry No. 512"
+decided: "1946-01-21"
+citations: ["16 Cust. Ct. 315"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Crafts of the World v. United States"]
+source_url: "https://static.case.law/cust-ct/16/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6658727
+---
+
+# Crafts of the World v. United States
+
+## Majority (Eicwall, Judge:)
+
+Eicwall, Judge:
+This is an appeal from a finding of value on certain Royal Doulton earthenware, described as Toby Jugs and Toby Figures, which were imported from Canada during the month of September 1943. Entry was made at the invoice prices. Appraisement was made at an advance of 50 per centum on the basis of export value. It is contended by the importer, the plaintiff herein, that tbe-invoice prices represent both foreign value and export value, which; he claims are the same.
+At the hearing the examiner and acting appraiser at San Francisco,, the port of entry, was called as a witness on behalf of the plaintiff-He testified that bis appraisal was made on tbe basis of export value as that value is defined in section 402 (d) of tbe Tariff Act of 1930, and that sucb value was higher than tbe foreign value. His appraisal was based upon tbe price list which was received in evidence as plaintiff’s exhibit 1. This witness further identified the merchandise listed on the invoice with the descriptions and prices set forth in exhibit 1 by means of a list which was offered and received in evidence as plaintiff’s exMbit 2.
+Plaintiff also produced Mr. Mayorcas, the buyer for the importing corporation, who stated that he had held that position for 4 years; that he had traveled all over Canada buying merchandise for the importer from May to July 1944; that he bought the instant merchandise from Cassidy’s, Ltd., in Vancouver, and that similar merchandise was sold. throughout Canada by various wholesalers including Parsons & Steiner of Toronto, who are the representatives of the manufacturer, Doulton & Co. of Burslem, England; Marsh & McLennan of Winnepeg; Marshall-Wells of Edmonton; Archibald & .'Shepherd, G. R. Gregg & Co., and Woodward’s. The witness stated that the prices at which these figures could be purchased by any business man (which the court understands to mean wholesale buyer) in Canada were the retail prices set by Doulton in the price list (exhibit 1) less 33}í per centum; that this discount is -accorded to all retailers buying either directly from Doulton in England or through their agents, Parsons & Steiner of Toronto; that he bought Royal Doulton figures for export to. the United States from Marshall-Wells Gregg & Co., Archibald & Shepherd, Cassidy’s, and Woodward’s at prices the same as the catalog prices (exhibit 1) less 33}( per centum. He produced invoices of such sales which were received in evidence and marked collective' exhibits 3, 4, and 5. He further testified that the price is the same regardless of the quantity; and that he knew of no restriction imposed by any of these firms with respect to the exportation of merchandise such as is covered by the invoices.
+It was also stated by this witness that the Doulton Co. controls or determines the price at which their merchandise shall be retailed or offered for sale to the consumer, as well as the prices at which wholesalers sell the articles in Canada; that the prices stated in exhibit 1 are the prices at which the goods must be sold to a consumer at retail; that department stores, gift shops, and retailers buy at the prices shown on the price list (exhibit 1) less 33K per centum. The prices to jobbers were the same except that they received an additional 10 per centum for handling.
+Mr. Joseph M. Gilbert testified that he was associated with the importer, Crafts of thó World, but his testimony added nothing to that of the last-named witness.
+The Government offered and there was received in evidence over objection on the part of counsel for the plaintiff, a report of a Treasury representative dated April 8, 1943, 6 months prior to the date of exportation of the instant merchandise.
+An analysis of the above testimony demonstrates that the foreign market is controlled by the manufacturer in that the prices for resale are restricted. Therefore there is no freely offered price for this merchandise in the home market for home consumption. Plaintiff’s-witness Mavorcas, also testified that the Doulton Co. controls the price at which wholesalers sell the articles in Canada.
+I have examined the Treasury representative’s report (collective exhibit 6), but inasmuch as it is dated 6 months prior to the date of exportation of the instant merchandise and in fact relates to information obtained during the month of March 1943 and the early part of April, I find that it is of little probative value, being too remote.
+The record clearly shows that there is no foreign value for this merchandise because there is no freely offered price for the same. We must then turn to export value under the statute as defined in section 402 (d). This value was used as the basis of the appraisement according to the testimony of the acting appraiser at the port of entry. However, it appears that the appraiser determined such value to be the invoiced values plus 50 per centum. From the testimony of importer’s witness Mayorcas, it is apparent that the wholesale price for export is represented by the prices in the Royal Doulton price list (exhibit 1) less a discount of 33% per centum. This testimony is corroborated by exhibits 4 and 5, being invoices from the Canadian firms of Archibald & Shepherd and Woodward Stores, Ltd. There is no evidence that the price for export is a controlled price. It further appears from the evidence that the Canadian purchase tax of 25 per centum applies only to retail sales.
+I find from the record that the merchandise consisting of Toby Jugs and Toby Figures is properly dutiable upon the basis of the export value as such value is defined in section 402 (d), supra.
+I further find that the export values for the various items are the-values as invoiced and entered.
+Judgment will be rendered accordingly.
