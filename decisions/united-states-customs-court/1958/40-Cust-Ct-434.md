@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "61530; protest 301915-K (New York)"
+decided: "1958-01-31"
+citations: ["40 Cust. Ct. 434"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Best Foods, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/40/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6590682
+---
+
+# Best Foods, Inc. v. United States
+
+## Majority (Donlon, J.)
+
+Opinion by
+Donlon, J.
+Plaintiff having raised no objection, the motion was granted on the ground that the protest was prematurely filed.
