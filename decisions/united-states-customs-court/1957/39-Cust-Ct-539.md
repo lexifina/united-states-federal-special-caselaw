@@ -1,0 +1,24 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 8868; Entry No. 13100, etc."
+decided: "1957-06-25"
+citations: ["39 Cust. Ct. 539"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bert Friedberg & Company et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/39/cases/0539-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6641693
+cites_cases: ["36 Cust. Ct. 596"]
+---
+
+# Bert Friedberg & Co. v. United States
+
+## Majority (Oliver, Chief Judge:)
+
+Oliver, Chief Judge:
+The appeals for reappraisement listed in schedule “A,” hereto attached and made a part hereof, relate to various classes of merchandise exported from France and entered at the port of San Francisco.
+The cases have been submitted for decision on a written stipulation wherein the parties agree that the issues involved herein are the same in all material respects as those which were the subject of the decision in Bert Friedberg & Company v. United States, 36 Cust. Ct. 596, Reap. Dec. 8590, the record in which was incorporated herein by consent. In that case, the court held foreign value, as defined in section 402 (c) of the Tariff Act of 1930, as amended, to be the proper basis for appraisement of the merchandise there under consideration, and that such statutory value did not include the so-called “French sole or unique tax.”
+An agreed set of facts, included in the stipulation of submission, establishes that the proper basis for appraisement of the merchandise involved herein is statutory foreign value, and that such value for each of the items in question is the appraised value “less the additions made by the importer on entry because of advances by the appraiser in similar cases,” and I so hold. . ,
+Judgment will be rendered accordingly.
