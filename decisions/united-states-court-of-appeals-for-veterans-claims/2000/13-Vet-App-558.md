@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "96-1730"
+decided: "2000-07-21"
+citations: ["13 Vet. App. 558"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and KRAMER and STEINBERG, Judges."]
+parties: ["John W. CALDWELL, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/13/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11210110
+cites_cases: ["12 Vet.App. 304", "1999 WL 185039", "1999 WL 446864", "1999 WL 504193", "2000 WL 943559", "28 U.S.C. § 2412", "38 U.S.C. § 7291", "38 U.S.C. § 7292", "630 F.Supp. 322", "922 F.2d 1202"]
+---
+
+# Caldwell v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+This matter is before the Court on an application for attorney fees and expenses under the Equal Access to Justice Act, 28 U.S.C. § 2412(d) (EAJA).
+In the merits litigation, the appellant, veteran John W. Caldwell, appealed through counsel an August 27, 1996, Board of Veterans’ Appeals (BVA or Board) decision that denied a claim of clear and unmistakable error (CUE) in several Department of Veterans Affairs (VA) regional office (RO) decisions between April 1982 and September 1991 and that determined that an effective date earlier than November 9, 1992, for the assignment of a 100% disability rating for a claim for service connection for a low back injury was not warranted.' On March 26, 1999, the Court in a single-judge order affirmed that BVA decision in part as to the CUE claim and vacated it in part and remanded the earlier-effective-date matter for readjudication. Caldwell (John) v. West, No. 96-1730, 1999 WL 185039, at *4 (Vet.App. Mar. 26, 1999). On May 28, 1999, the appellant filed a Notice of Appeal to the United States Court of Appeals for the Federal Circuit (Federal Circuit) as to the CUE claim, see Caldwell (John) v. West, No. 96-1730, 1999 WL 504193, at *1 (Vet.App. June 30, 1999).
+On June 4, 1999, the appellant filed a motion for issuance of a mandate on the remanded issue, and the Secretary did not file an opposition. On June 30, 1999, the Court granted the appellant’s motion, and that same day the Clerk of the Court issued the mandate as to the remanded issue only. Isaac v. West, No. 96-739, 1999 WL 446864, at *1 (June 9, 1999); see also Norris (David) v. West, 12 Vet.App. 304, 305 (1999) (per curiam order). That mandate permitted the remand proceedings to move forward at the Board as to the earlier-effective-date claim. On July 26, 1999, the appellant filed an EAJA application. The Secretary filed on September 24, 1999, a motion to hold that application in abeyance, and the appellant has filed a reply in opposition to that motion. On June 16, 2000, the Federal Circuit dismissed the appellant’s appeal as to the CUE claim. Caldwell v. West, Fed. Cir. No. 99-7125 (appeal dismissed June 16, 2000). On June 22, 2000, the Court consolidated this case with Isaac v. West, U.S. Vet.App. No. 96-739, and submitted this case to Chief Judge Nebeker and Judges Kramer and Steinberg, the panel on the Isaac case. On July 3, 2000, the appellant filed a response to the Court’s June 22, 2000, order. On July 10, 2000, the Court dismissed the EAJA application in the Isaac case. Isaac v. West, No. 96-739, 2000 WL 943559, at *1 (July 10, 2000) (per curiam order).
+In his July 3, 2000, response, the appellant requests clarification from the Court as to the consolidation of this case with the Isaac case and thus its referral to a panel; he argues that, because the Federal Circuit’s June 16, 2000, dismissal renders as moot the Secretary’s September 1999 motion to stay proceedings, there is no longer a need for panel action. However, the Court does not agree. The Court notes that the appellant will have a full opportunity to present to the Court his arguments on this issue in a supplemental memorandum pursuant to this order.
+The Secretary argues that only one EAJA application is contemplated by the language of the EAJA and that consideration of an application prior to the conclusion of all matters appealed would violate principles of judicial economy and piecemeal litigation. The Court notes that “where not all issues in a case have been disposed of’, the Court will “[i]n the interests of judicial economy” hold an EAJA application “in abeyance until all issues on appeal have been resolved”. Internal Operating Procedures IX.(c), 10 Vet.App. CDXXI, CDXXVIII-CDXXIX (1997).
+As to the plain language of the EAJA, the Court notes that the Secretary relies principally on' two cases in his motion: Dole v. Phoenix Roofing, Inc., 922 F.2d 1202 (5th Cir.1991), and Claassen v. Heckler, 630 F.Supp. 322 (D.Kan.1986). Although these cases may suggest that ordinarily a civil action with multiple claims is not finally resolved until the court of original jurisdiction has decided the entire case and issued a final judgment, neither case dealt with a situation where a court had remanded one matter, another matter was appealed, and the court had issued a mandate as to the remanded matter. Accordingly, the Court is in need of further briefing in connection with this point. Specifically, the Court wishes the following questions to be addressed with citations to relevant federal caselaw under the EAJA and other analogous federal attorney-fee laws:
+(1) Did the appellant’s appeal to the Federal Circuit only of the CUE claim prevent the running of the 60-day appeal period under 38 U.S.C. § 7292(a), Fed. R. App. P. 4(a)(1)(B), and Rule 36 of this Court’s Rules of Practice and Procedure (Rules) as to the remanded earlier-effective-date claim and thus delay as to that claim a final judgment pursuant to 28 U.S.C. § 2412(d)(2)(G) and 38 U.S.C. § 7291 that would have triggered the 30-day EAJA application period under 28 U.S.C. § 2412(d)(1)(B) and Rule 39(a)?
+(2) If not, did the running of the appeal period as to the remanded claim (or the June 30, 1999, issuance of the mandate as to that claim), in effect, constitute a severance of the two claims and allow judgment to become final as to that claim, thereby triggering the 30-day EAJA application period as to that claim?
+On consideration of the foregoing, it is
+ORDERED that, not later than 30 days after the date of this order, the Secretary file, and serve on the appellant, a memorandum addressing the above questions. It is further
+ORDERED that, not later than 30 days after service of the Secretary’s memorandum, the appellant file, and serve on the Secretary, a memorandum in response. It is further
+ORDERED that, not later then 20 days after service of the appellant’s memorandum in response, the Secretary may file a reply.
