@@ -1,0 +1,50 @@
+---
+court: "United States Customs Court"
+docket: "R.D. 11523; Entry No. 947"
+decided: "1968-05-20"
+citations: ["60 Cust. Ct. 866"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hub Floral Mfg. Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/60/cases/0866-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6590756
+cites_cases: ["3 Ct. Cust. Appls. 343", "31 Cust. Ct. 481", "42 CCPA 175", "53 Cust. Ct. 423", "54 CCPA 129"]
+---
+
+# Hub Floral Mfg. Co. v. United States
+
+## Majority (DoNXON, Judge:)
+
+DoNXON, Judge:
+The issue here is whether Decorator Supply Co., Ltd., was the bona fide buying agent of plaintiff in the purchase of the merchandise at bar, certain plastic artificial flowers from Hong Kong imported at Boston on June 30, 1964.
+Appraisement was on the basis of export value, under section 402 (b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956. It was stipulated in court that these plastic artificial flowers are not among the articles enumerated in the Final List of the Secretary of the Treasury (T.D. 54521), issued pursuant to the Customs Simplification Act of 1956.
+Plaintiff argues that a sum, equivalent to 5 percent of invoiced price, which plaintiff paid to Decorator Supply Co., Ltd., was in fact a buying commission and, as such, that it ought not be added to invoice price in appraising dutiable value.
+Defendant concedes that this is a case in which plaintiff’s burden of proof is limited, under the so-called separability rule, to the single issue as to the alleged buying commission. United States v. Gehrig, Hoban & Co., Inc., 54 CCPA 129, C.A.D. 924.
+It is also well established that a tona -fide buying commission should not be added to price, when merchandise is appraised on the basis of export value. In Haddad & Sons, Inc. v. United States, 53 Cust. Ct. 423, Reap. Dec. 10825, Judge Ford said: '■'■Bona -fide buying commissions do not constitute part of the value of merchandise for appraisement purposes.” (P.425.)
+The question to be decided here is, therefore, whether the proofs of record, by a fair preponderance of all the evidence, show that Decorator Supply Co., Ltd., was, in the transaction at bar, plaintiff’s tona fide buying agent.
+Plaintiff's case consists of the official papers introduced into evidence and testimony adduced by Mr. Robert A. Maltz, who identified himself as one of the partners of plaintiff partnership. Defendant introduced into evidence a report, dated March 11, 1966, of Mr. Perry J. Spanos, acting senior customs representative at Hong Kong.
+Testifying for plaintiff, Mr. Maltz said that he was in Hong Kong before plaintiff placed its order for the merchandise at bar, probably about 6 months before; that at that time he visited the showroom of Decorator Supply Co., Ltd., and there inspected samples of merchandise shown him as being available for export; that his firm had not previously done business with Decorator and he placed no order at the time of his Hong Kong visit; that it was agreed then between himself and Decorator that, if plaintiff should decide to do business with Decorator, plaintiff would pay Decorator a commission of 5 percent and Decorator would perform such services as checking the packing and delivery, pushing the manufacturer to get speedy delivery, seeing that colors are right and that all necessary papers are sent to plaintiff; that, after his return to the United States, he discussed his Hong Kong trip with his father (also a partner) and showed him the samples he had obtained from Decorator; that his father then would visit the Far East; that witness signed a document intended to establish with Decorator its relation as plaintiff’s buying agent, but lie could not say whether the document he received back from Hong Kong was, in fact, signed by any one who was authorized to sign for Decorator; and that the course of business which plaintiff followed with Decorator was the same as its course of business with others in Hong Kong, Japan, Taiwan and Korea.
+Mr. Maltz either could not or did not say whether the merchandise at bar was owned by and bought from Decorator. Whether the order was placed by his father on some later visit, or how it was placed, does not appear. In significant particulars, either the memory of the witness was faulty or the questions put to him failed to elicit meaningful proofs.
+The customs report which defendant introduced into evidence is of doubtful value to defendant’s case. The reported investigation of Decorator’s business and practices was made by tbe Hong Kong customs representative in 1966. The transaction at bar was in 1964. There is nothing to show that there was any inquiry by the customs agent, or statements by any one representing Decorator, as to 1964 business and practices. If plaintiff’s proofs had overcome the presumption of correctness that attaches to the appraisement, it would be necessary to consider whether a report of conditions subsequent to 1964 would be adequate to rebut a prima facie case. However, plaintiff’s proofs do not overcome the presumption. Plaintiff has not made a prima facie case. Hence, the evidence offered in rebuttal need not be weighed.
+It is of the essence of the buying agent relationship that the agent shall purchase the imported merchandise, acting as the buyer’s representative, from the one who sells that merchandise to the buyer. While the proofs establishing these facts may, and obviously do, differ in different transactions, certainly it should be shown, as a minimum of proof, that when the goods were ordered there was known to be a seller who is not the alleged buying agent. Whatever else may be said of proofs, Mr. Maltz was quite clear that he did not know or treat with any one in the transaction at bar, save only Decorator Supply Co., Ltd.
+In United States v. Nelson Bead Co., 42 CCPA 175, C.A.D. 590 (cited in briefs by both plaintiff and defendant), the issue chiefly discussed by our appeals court was whether sales through buying agents, or commissionaires, or direct sales by the manufacturers, were such sales in the ordinary course of trade as old section 402(d) contemplated. With careful reasoning, explained in its opinion, the court affirmed the majority of the appellate division, citing with approval the following language from the division opinion:
+We are of opinion that the weight of the evidence sustains the finding that direct sales by the manufacturers were not made in the ordinary course of trade, and that the usual and ordinary method of purchasing-glass prisms was through the intervention of a buying agent who received a bona fide buyer’s commission for the services he rendered in facilitating delivery to his principal of the goods which were ordered in the foreign market. * * * [United States v. Nelson Bead Co., 31 Cust. Ct. 481, A.R.D. 36, at p. 485; cited idem, 42 CCPA 175, C.A.D. 590, at p. 182.]
+Here there is no issue as to whether sales through a buying agent were or were not made in the ordinary course of trade. That issue is not before the court here.
+As to bona fides, our appeals court, in Nelson Bead Co., supra, said:
+Whether a buying commission is bona fide depends upon the facts of each particular case. United States v. Bauer et al., 3 Ct. Cust. Appls. 343, T.D. 32627. [P. 183.]
+The substantial evidence of bona fides of the buying agency in tbe Nelson Bead case was summarized, in Judge Worley’s opinion, from the testimony of record of seven witnesses and numerous documentary exhibits, as follows:
+From that record it appears that in the purchase of crystal lighting-glassware such as that at bar, American buyers enlist the services of Czechoslovakian commissionaires who take prospective purchasers from one factory to another, help them transact business with the manufacturers, receive the purchased goods, inspect them, prepare invoices, and handle other details in connection with exportation of the merchandise to this country. For those services they receive a commission from the importer of 15 per centum of the invoice unit prices charged by the manufacturer. The commissionaires represent the purchasers only, are paid by them, are recognized by the manufacturers as representatives of the purchasers, 'and are not retained either directly or indirectly by the manufacturers, nor do they receive from the latter any fee or other compensation. * * * [P.176.]
+I find that the evidence adduced by plaintiff is insufficient to overcome the presumption of correctness that attaches to the appraisement at bar.
+I find as facts:
+1. That the merchandise consists of plastic artificial flowers from Hong Kong imported at Boston on June 30,1964.
+2. That the merchandise was appraised on the basis of export value, as defined in section 402(b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956.
+3. That the merchandise is not among the articles enumerated in the Final List of the Secretary of the Treasury (T.D. 54521) issued pursuant to the Customs Simplification Act of 1956.
+4. That on the record and under the so-called separability rule (United States v. Gehrig, Hoban & Co., Inc., 54 CCPA 129, C.A.D. 924) plaintiff’s burden of proof here is limited to proofs that Decorator Supply Co., Ltd., of Hong Kong, was the bona fide buying agent of plaintiff in the transaction at bar.
+5. That plaintiff’s oral and documentary evidence fails to establish, by a fair preponderance of proofs, that Decorator Supply Co., Ltd., was in fact plaintiff’s bona fide buying agent in the transaction at bar.
+I conclude as a matter of law:
+1. That export value, as defined in section 402 (b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, is the proper basis for valuing the entry merchandise.
+2. That plaintiff has not established that the appraised value is incorrect.
+3. That the appraised value is the export value.
+Judgment will be entered accordingly.
