@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-1257"
+decided: "1992-02-24"
+citations: ["3 Vet. App. 29"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before FARLEY, Associate Judge."]
+parties: ["James C. SIMMONS, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/3/cases/0029-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6461175
+cites_cases: ["1 Vet.App. 140", "1 Vet.App. 171", "1 Vet.App. 23", "1 Vet.App. 49", "333 U.S. 364", "38 U.S.C. § 5108", "38 U.S.C. § 7104", "38 U.S.C. § 7261", "470 U.S. 564", "899 F.2d 3", "92 L.Ed. 746"]
+---
+
+# Simmons v. Derwinski
+
+## Majority (FARLEY, Associate Judge:)
+
+MEMORANDUM DECISION
+FARLEY, Associate Judge:
+In its decision of August 6, 1990, the Board of Veterans’ Appeals (Board or BVA) upheld the denial of appellant’s claim to a compensable rating for residuals of rheumatic fever. In addition, the Board held that its previous decision of June 12, 1986, denying service connection for arte-riosclerotic heart disease with myocardial infarction and congestive heart failure was final and that the evidence subsequently submitted by appellant did not establish a new factual basis for the grant of service connection. A timely appeal to this Court followed. On June 28, 1991, appellant filed a brief. On September 5, 1991, the Secretary of Veterans Affairs (Secretary) filed a motion for summary affirmance, for acceptance of this motion in lieu of a brief, and for a stay of proceedings.
+With respect to appellant’s claim to a compensable rating for residuals of rheumatic fever, the Board made a factual determination that the criteria for a com-pensable rating have not been met. In reviewing a finding of fact made by the Board, the Court can only “hold unlawful and set aside such finding if the finding is clearly erroneous.” 38 U.S.C. § 7261(a)(4) (formerly § 4061(a)(4)); Gilbert v. Derwinski, 1 Vet.App. 49, 52-53 (1990). “A finding is ‘clearly erroneous’ when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.” United States v. United States Gypsum Co., 333 U.S. 364, 395, 68 S.Ct. 525, 542, 92 L.Ed. 746 (1948); see also Gilbert, 1 Vet.App. at 52. In determining whether a finding is clearly erroneous, “this Court is not permitted to substitute its judgment for that of the BVA on issues of material fact; if there is a ‘plausible’ basis in the record for the factual determinations of the BVA ... we cannot overturn them.” Gilbert, 1 Vet.App. at 53. We are unable to conclude that the Board erred in denying appellant’s claim to a compensable rating for residuals of rheumatic fever.
+With respect to the Board’s holding that evidence submitted subsequent to the 1986 BVA decision did not establish a new factual basis for the award of service connection for arteriosclerotic heart disease with myocardial infarction and congestive heart failure, a more detailed discussion is required. Under 38 U.S.C. § 7104(b) (formerly § 4004(b)) a final decision by the BVA on a given claim may not be subsequently reopened in order to allow that claim. The exception to this rule is 38 U.S.C. § 5108 (formerly § 3008) which states:
+If new and material evidence is presented or secured with respect to a claim which has been disallowed, the Secretary shall reopen the claim and review the former disposition of the claim.
+In Manio v. Derwinski, 1 Vet.App. 140 (1991), this Court established that the BVA must perform a two-step analysis when the veteran seeks to reopen a claim based upon new and material evidence.
+First, the BVA must determine whether the evidence is ‘new and material’. 38 U.S.C. § [5108]. Second, if the BVA determines that the claimant has produced new and material evidence, the case is reopened and the BVA must evaluate the merits of the veteran’s claim in light of all the evidence, both new and old.
+Id. at 145 (citation omitted). In Colvin v. Derwinski, 1 Vet.App. 171 (1991), the Court said that “[n]ew evidence is not that which is merely cumulative of other evidence on the record. Material evidence is relevant and probative of the issue at hand.” Id. at 174 (citations omitted). The Court held that “to justify a reopening on the basis of new and material evidence, there must be a reasonable possibility that the new evidence, when viewed in the context of all the evidence, both new and old, would change the outcome.” Id.
+The BVA, in its 1990 decision, correctly concluded that, as a matter of law, the documents submitted by appellant subsequent to the 1986 BVA decision (R. at 154-70) may have been new but were not material to the issue of whether appellant’s arteriosclerotic heart disease, congestive heart failure and myocardial infarction were actually or presumptively service-connected. The BVA found the statement of Dr. Mark James that appellant’s “rheumatic heart disease ... did indeed weaken his heart, and perhaps even predisposed [appellant] to a certain degree to the above mention [sic] coronary artery disease” (R. at 158) to be speculative, noting that service connection cannot be established upon speculation. James C. Simmons, BVA 9026918, at 6 (Aug. 6, 1990). The Court agrees that this statement is not of the calibre envisioned by Congress or this Court as comprising “new and material evidence” warranting the reopening of a claim. The BVA was thus warranted in denying a reopening of appellant’s claim.
+Upon consideration of the record, the brief of appellant, and appellee’s motion for summary affirmance, it is the holding of the Court that appellant has not demonstrated that the Board of Veterans’ Appeals committed either factual or legal error which would warrant reversal. Gilbert v. Derwinski, 1 Vet.App. 49 (1990); see also Anderson v. City of Bessemer City, 470 U.S. 564, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985); Danville Plywood Corp. v. United States, 899 F.2d 3 (Fed.Cir.1990). Summary affirmance is appropriate when, as here, the issue is of relative simplicity and the outcome is not reasonably debatable. Frankel v. Derwinski, 1 Vet.App. 23 (1990).
+Therefore, the Secretary’s motion is GRANTED and the August 6, 1990, decision of the BVA is AFFIRMED.
