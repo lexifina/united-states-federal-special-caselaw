@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "59058; protests 237217-K, etc. (San Francisco)"
+decided: "1955-05-12"
+citations: ["34 Cust. Ct. 374"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["China Dry Goods Co. and Frank P. Dow Co., Inc., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/34/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6638597
+---
+
+# China Dry Goods Co. v. United States
+
+## Majority (Rao, J.)
+
+Opinion by
+Rao, J.
+In accordance with stipulation of counsel that the merchandise consists of floor coverings, composed wholly or in chief value of rush and not of grass or of rice straw, which do not have a felt base, the same in all material respects as those the subject of Abstracts 57889 and 57890, the claim of the plaintiffs was sustained.
