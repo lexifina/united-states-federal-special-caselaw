@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 412"
+decided: "1940-12-20"
+citations: ["6 Cust. Ct. 8"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brown and Walker, Judges; Oliver, P. J., not participating"]
+parties: ["Midwest International Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/6/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6613545
+cites_cases: ["12 Ct. Cust. Appls. 571", "121 U. S. 609", "207 U. S. 556"]
+---
+
+# Midwest International Co. v. United States
+
+## Majority (Walker, Judge:)
+
+Walker, Judge:
+This is a suit against the United States arising at the port of Chicago for the recovery of money claimed to have been improperly exacted on an importation of drawn worm gut from Spain. The collector assessed duty thereon under the provision in paragraph 1533 of the Tariff Act of 1930 for manufactures of worm gut, not specially provided for, at the rate of 40 per centum ad valorem. Alternative claims are made in the protest for free entry under the provision in paragraph 1813 of the same act for worm gut, unmanu-factured, or for duty at the rate of 10 or 20 per centum under paragraph 1558, or at the rate of 35 per centum under paragraph 1535 as amended by the British Trade Agreement reported in T. D. 49753. While none of the other claims were waived, the claim chiefly relied upon is that for free entry under paragraph 1813.
+The only witness called on the trial of the issue was plaintiff’s witness, the importer of the merchandise, who testified that for a period of at least 50 years he was quite familiar with fishing tackle and. gut and material used in making leaders, and that be bad purchased merchandise similar to that here in issue for a number of years. He further testified that silkworm gut is produced by taking caterpillars or worms, which are fed on mulberry bushes, and, after they are matured, throwing them into a vat or' vats of acetic acid to kill and harden them. They are then taken by the head and tail and stretched. This process produces the gut, the witness said.
+The gut is then dried on boards and when thoroughly dried is further processed by scouring off the outer shell from the gut. It is again thoroughly dried and bleached or colored. This latter is for the purpose of making it more nearly conform to the color of the water, thereby making it somewhat invisible in an aim to deceive the fish. It is then cut into strands, 16 inches long in the case of the importation at bar, and trimmed prior to importation. The strands are then drawn through a steel plate, this also prior to importation, for the purpose of making it uniformly round and even and for reducing its diameter to one of several sizes so that it may be made into leaders used in fly fishing. There is no question but that the articles as imported are not leaders, the making of leaders being done after importation.
+Leaders, the witness said, are made in various lengths of from 3 to 6 and to 9 feet, and in their manufacture strands of the imported articles in different thicknesses are used in order to secure a taper from the heavier to the finer strands. Loops are put on both ends of the leader for the purpose of attaching the same to the line and fly, or whatever lure may be used.
+The principal question involved in the case is whether the imported articles are dutiable under paragraph 1533, which provides for—
+Catgut, whip gut, oriental gut, and manufactures thereof, and manufactures of worm gut, not specially provided for,—
+or are entitled to free entry under paragraph 1813, which provides for—
+Worm gut, unmanufactured.
+and to reach a conclusion upon the subject it becomes necessary to determine from the facts here elicited, first, whether the imported articles were subjected to manufacturing processes, and, if so, whether they were thereby made into new articles distinct from the material from which they were fashioned.
+Assisting the court to determine this question, we cite the following authorities: Hartranft v. Wiegmann, 121 U. S. 609, 30 L. Ed. 1012, Anheuser-Busch Brewing Association v. United States, 207 U. S. 556, 52 L. Ed. 336, and Kleinberger & Katz v. United States, 12 Ct. Cust. Appls. 571, T. D. 40798.
+It must not be overlooked that the provision in paragraph 1813 on which plaintiff chiefly relies is for “worm gut, immanufactured”. The evidence shows that the articles were bleached or colored, and drawn through a steel plate after they had arrived at the stage of becoming worm gut. We 'are satisfied that these processes were not, as in the case of Hartranft v. Wiegmann, supra, merely for the purpose of getting the imported product by itself, but were- in fact manufacturing processes which took the worm gut in issue out of the class of unmanufactured gut. Plaintiff’s claim under paragraph 1813 is therefore untenable.
+Examination of the alternative claims made by the plaintiff discloses that the claim for duty at the rate of 10 per centum under paragraph 1558 as nonenumerated unmanufactured articles is likewise untenable for the same reason, and since the merchandise in its imported state has not been dedicated to the manufacture of leaders it cannot be considered to be entitled to classification as leaders, finished or unfinished, and the claim under paragraph 1535 as modified by the British Trade Agreement, T. D. 49753, cannot be sustained.
+The only claim remaining to be considered is that for duty at the rate of 20 per centum ad valorem under paragraph 1558 as nonenu-merated manufactured articles. We recognize that a distinction may exist between an article manufactured and a manufacture of that article. This distinction is most clearly expressed by the language of the late Presiding Judge Graham of the Court of Customs and Patent Appeals in the case of Kleinberger & Katz v. United States, supra, when he said:
+Viewing the ease at bar by the light of these decisions, it must appear that the goods in question are not manufactures of leather. That they have been processed and subjected to manufacturing is obvious; but there may be, and often is, a clear distinction between an article which has been manufactured and a manufacture of certain material. The one phrase imports a processing operation; the other imports a completed article of commerce.
+Discussing a situation involving the use of the phrase “manufacture of” articles, the Supreme Court in the Anheuser-Busch case, supra, said:
+Manufacture implies a change, but every change is not manufacture, and yet every change in an article is the result of treatment, labor, and manipulation. But something more is necessary, as set forth and illustrated in Hartranft v. Wiegmann (121 U. S. 609). There must be transformation; a new and different article must emerge, “having a distinctive name, character or use.”
+After testing the evidence adduced in this case by the foregoing excerpts from opinions of higher courts we are satisfied that the articles in issue, by reason of the manufacturing effort applied to them, have acquired at least a new character and use. By reason of having been drawn through a steel plate their form has been changed from articles with uneven diameter to articles of uniform diameter in several specific sizes, and they have been changed in hue by bleaching or coloring. Therefore their character, as to form and color, has been changed, and a new use has been acquired, viz, the manufacture of leaders for fishing. It is quite obvious that in its original state as worm gut the imported article would not have been suitable for such purpose.
+The classification made by the collector of the articles as manufactures of worm gut was therefore correctly made, and judgment will issue in favor of the defendant.
