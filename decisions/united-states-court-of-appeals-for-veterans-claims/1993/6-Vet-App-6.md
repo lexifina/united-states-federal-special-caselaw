@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "91-1582"
+decided: "1993-09-14"
+citations: ["6 Vet. App. 6"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and MANKIN and STEINBERG, Judges."]
+parties: ["Antonio R. RAMIREZ, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/6/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6438890
+cites_cases: ["1 Vet.App. 140", "1 Vet.App. 171", "1 Vet.App. 178", "3 Vet.App. 535", "38 U.S.C.A. § 7104", "38 U.S.C.A. § 7261", "38 U.S.C.A. § 7262", "4 Vet.App. 467", "5 Vet.App. 95"]
+---
+
+# Ramirez v. Brown
+
+## Majority (MANKIN, Judge:)
+
+MANKIN, Judge:
+Antonio R. Ramirez appeals the August 2, 1991, Board of Veterans’ Appeals (BVA or Board) decision which determined that new and material evidence had not been submitted to reopen his claim for service connection for left ear hearing loss. The Secretary of Veterans Affairs (Secretary) filed a motion for summary affirmance. The Court has jurisdiction pursuant to 38 U.S.C.A. § 7262(a) (West 1991). We vacate the BVA decision and remand for proceedings consistent with this opinion.
+I. BACKGROUND FACTS
+Antonio Ramirez served on active duty from August 1967 to August 1961. His entrance and separation medical examinations revealed that his hearing was 15/15 bilaterally. On January 25, 1989, appellant filed an ■ application for compensation benefits for his hearing loss, noting that he had been treated for this disorder in 1961. The Veterans’ Administration (now Department of Veterans Affairs) Regional Office (RO) denied his claim for service connection. Appellant wrote to the RO, stating that he was a gunner while in the service, and that during ^service he did not wear ear protection because it was not available. He contends that this lack of protection caused his hearing loss and ringing of the ears, which began three months after discharge. The RO denied service connection again, based upon a finding that appellant did not have any service medical records showing treatment or diagnosis of hearing loss.
+Appellant presented several physicians’ statements, dated in March 1990, in support of his claim. Dr. German Bay indicated that he had treated Mr. Ramirez in November 1961 for pain, occasional ringing, and persistent weakness of left ear hearing. His oto-scopio examination had revealed normal findings. Dr. Jose Abad stated that he had treated appellant in January 1962 and October 1966 for pain, ringing, and difficulty of hearing in the left ear. Dr. Abad had also conducted an otoscopic examination resulting in normal findings. Dr. Joven Negos stated that he had treated appellant from 1967 to 1980; he provided medical records and opined that with evidence now on hand, “there is no doubt, whatsoever, that [the veteran’s] hearing defect on the left was [n]oise [i]nduced and far and [beyond] reasonable doubt, [s]ervice connected.” Dr. Salvador Samala, who examined appellant in 1981, noted that past history revealed Mr. Ramirez had been subjected to “extremes from [c]annon blast” during service and reported his “Impression” as: “Hearing Loss, Left Ear, Traumatic in nature.” Last, Dr. Daniel Sim, of the Eye, Ear, Nose, and Throat Clinic, reported that he had examined appellant in 1982 and 1990, and had found sensorineural hearing loss “characteristic of Noise-induced Hearing Loss.” He found that appellant’s left ear showed mild to moderate sensorineural loss. Dr. Sim stated:
+A mere confirmation or denial of the existence of a hearing problem at the time of discharge can not be a basis for confirmation or denial of the existence of a Noise-induced Hearing Loss at the time of discharge .... The hearing test (?) with a score of 15/15 (?) can not [sic] stand the scrutiny of a decent otologist.
+The RO and BVA denied appellant’s claim in March and August 1990.
+To reopen his claim, Mr. Ramirez submit-* ted a January 1991 letter from Dr. Nolito Pascual. Dr. Pascual stated:
+[Hjaving reviewed the previous [diagnosis [and] findings of the other doctors who had examined [appellant] [and] my findings [and] laboratory examination, revealed, that the main caused [sic] of his chief complaints was caused by his duty while in the active naval service which he was assigned as loader of big ammunitions [and] the impact of the discharged [sic] and firing has resulted the inner portion of his left ear of being defective.
+The RO issued a confirmed decision. Although the BVA found Dr. Pascual’s report to be “new,” service connection was denied because the Board determined that the evidence was not material. Antonio R. Ramirez, BVA 91-30218, at 4 (Aug. 2, 1991).
+II. ANALYSIS
+The issue before the Court is whether material evidence was presented subsequent to the August 1990 BVA decision. If there was such evidence, the Board was in error in not reopening appellant’s claim. However, if the newly submitted evidence was not “new and material,” the 1990 decision denying service connection was final and the Board could not reopen the claim. See 38 U.S.C.A. § 7104(b) (West 1991). Material evidence is relevant to and probative of the issue at hand and must be of sufficient weight or significance that the new evidence, when viewed in the context of all the evidence, both new and old, would possibly change the outcome. Colvin v. Derwinski, 1 Vet.App. 171, 174 (1991); Cox v. Brown, 5 Vet.App. 95, 98 (1993). The question whether evidence is material is a conclusion of law which this Court reviews de novo under 38 U.S.C.A. § 7261(a)(1) (West 1991). See Smith v. Derwinski, 1 Vet.App. 178, 180 (1991); Colvin, supra.
+The Court holds that Dr. Pascual’s 1991 opinion corroborating Dr. Negos’ firm medical opinion that the veteran’s hearing loss was noise induced as a result of service is relevant to and probative of the issue of service connection. See Guerrieri v. Brown, 4 Vet.App. 467, 470 (1993); Paller v. Principi, 3 Vet.App. 535 (1992). Here, the probative value of the 1991 medical opinion evidence is based on the physician’s examination of appellant, the laboratory findings, his knowledge and skill in analyzing the current examination data and the previous medical findings of other medical experts, and the medical conclusion that the physician reaches. See Guerrieri, 4 Vet.App. at 470-71. Based on these findings, Dr. Pascual’s opinion adds significantly to the probative value of the sum total of evidence in support of appellant’s claim. Because the Court holds that the evidence submitted is material, we remand this matter to the Board to reopen and readjudicate appellant’s claim in light of all the evidence, both new and old. See Manio v. Derwinski, 1 Vet.App. 140, 145 (1991).
+III. CONCLUSION
+Accordingly, the Secretary’s motion is DENIED, the BVA decision is VACATED, and the matter is REMANDED for proceedings consistent with this opinion.
