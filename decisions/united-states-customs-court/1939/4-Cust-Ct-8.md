@@ -1,0 +1,45 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 269"
+decided: "1939-12-21"
+citations: ["4 Cust. Ct. 8"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Brown and Evans, Judges"]
+parties: ["Wo Kee & Co. et al. v. United States"]
+source_url: "https://static.case.law/cust-ct/4/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6616012
+cites_cases: ["62 Treas. Dec. 617"]
+---
+
+# Wo Kee v. United States
+
+## Majority (Brown, Judge:)
+
+Brown, Judge:
+This case, brought and tried in Los Angeles and New York, has been litigated before. The issue is between the following paragraphs:
+Paragraph 721 (e) of the Tariff Act of 1930 reading
+Oysters, oyster juice, or either in combination with other substances, packed in air-tight containers, 8 cents per pound, including weight of immediate container.
+under which the collector took duty, and paragraph 1761 reading
+Shrimps, lobsters, and other shellfish, fresh or frozen (whether or not packed in ice), or prepared or preserved in any manner (including pastes and sauces), and not specially provided for.
+The issue was decided first in Ueland v. United States, 62 Treas. Dec. 617, not appealed. It later went to the Court of Appeals in Shun Yuen Hing & Co. v. United States, 23 C. C. P. A. (customs) 316, T. D. 48178, the record in which case is incorporated into the case at bar.
+The method of manufacture there set forth is as follows (p. 317):
+Oysters, salt, and water are used only. First the oysters are removed from the shell, then put in a pan. Salt and water are added. The mixture is steamed for three hours. The oysters are then removed. The water left in the pan is placed in earthenware jars where it is kept for two months. After two months the skim is removed and the remainder, which is the oyster sauce, is packed in bottles or cans.
+In that case Judge Hatfield said:
+It is contended by counsel for appellants that the provision for oysters, or oyster juice, or either in combination with other substances, when packed in airtight containers, contained in paragraph 721 (e) supra, was intended by the Congress to be restricted to such oysters, or oyster juice, as retained their identity and character, and that the language “in combination with other substances”, contained in the paragraph, was not intended to extend the scope of the provision to articles manufactured from either oysters or oyster juice; that the involved merchandise is a “sauce” manufactured from oysters or oyster juico, and, therefore, is not included within those provisions, but, on the contrary, is specifically provided for as a “sauce” under paragraph 1761, supra.
+After citing authorities he concluded as follows:
+It will be observed that paragraph 1761 provides, among other things, for “shellfish, * * * prepared or preserved in any manner (including pastes and sauces).” Obviously, the Congress understood that the “pastes and sauces” provided for therein were certain specified forms of shellfish, prepared or preserved.
+According to the testimony in this case, oysters were included in the mixture during the steaming process, but were removed after the steaming process. Whether the steaming process dissolved a portion of the oysters, does not appear, and, so far as we can ascertain from the record, the involved merchandise is nothing more than oyster juice in combination with salt and water, steamed. Accordingly, the involved merchandise is not oysters, prepared or preserved in the form of a sauce or otherwise, arid, therefore, is dutiable under the provisions of paragraph 721 (e), as held by the collector and the trial court. See Alexander & Baldwin, Ltd. v. United States, supra; Nootka Packing Co. et al. v. United States, supra.
+In so holding, it should be understood that we are limiting our decision in this case to the record before us and the precise issues involved.
+The importer attempts to make a new case upon expert testimony to the following effect:
+Dr. Gurchot, a fully qualified and experienced scientist, testified for the plaintiffs. He subjected a portion of the official sample in the case, which he had received in the presence of the court, to a microscopic examination which to the best of his knowledge was the only method of identifying the origin of the animal products from which the exhibit might have been made. He found that all the samples contained cellular structures characteristic of shellfish. They consisted of muscle bundles (about 2 per centum), epithelial layers (about 1 per centum), connective tissue cells (about 10 per centum), epithelial tissue from the gills (about 2 per centum), blood vessels in small tubes (about 1 per centum), epithelial tissue characteristic of glands (about 50 per centum), and an unspecified amount of cellular debris of all sorts. Some of these structures are to be found “pretty nearly all over the shellfish organism” while others can be identified with definite parts of the shellfish such as the mantle, the gills, and the body proper, as can be more readily seen by reference to the diagrams which were submitted as Illustrative Exhibits A and B.
+From this plaintiffs’ counsel argues in bis brief as follows:
+The testimony offered in this case presents a different problem than that previously presented to this court in connection with the classification of oyster sauce. In the case of Walter T. Ueland et al. v. United States, T. D. 46025 (not appealed) the contention was that paragraph 721 (e) provided for oysters or oyster juice and since the imported product consisted of both it was not subject to duty thereunder, but this Court held that Congress had intended no such technical distinction. In the case of Shun Yuen Hing & Co., et al.. v. United States, T. D. 47697, there was no showing that any oysters appeared in the final product as imported and the merchandise was held not to be oysters, prepared or preserved in the form of sauce or otherwise as claimed under paragraph 1761.
+Under the record as now more fully presented, the question arises whether the imported merchandise can be said to fall within the eo nomine classification for oysters or whether it has not been so advanced as to be excluded from that classification. The eo nomine classification ranks high in the order of relative specificity, which is one of the cardinal rules governing customs jurisprudence; but there comes a time in the processing of a product that it loses its eo nomine characteristics and enters into another category. As this Court stated many years ago when holding bean cake, bean stick and potato cake made from soya beans to be a nonenumerated manufactured article rather than vegetables prepared: “it would be a somewhat violent construction, for example, to classify-a cake baked from meal produced by grinding corn as a prepared vegetable, on the ground that it was prepared corn.” (Wing Sing Wo., et al., G. A. 5361, T. D. 24513).
+With this contention we are unable to agree. In our opinion, after careful consideration, we tbink that this testimony does not substantially change either the factual or legal situation. We feel that a sauce so manufactured, even where the integuments, etc., are not distinguishable from those of other shellfish, does not fall outside of paragraph 721 (e). It is a very specific provision relating to oysters and oyster juice and their combinations, much more specific than shellfish sauce is.
+We think that Congress intended to include articles like that before us, even if the integuments, etc., cannot be certainly distinguished as those of the oyster.
+If we sustained the claim that this comparatively simple process of preparation removed the resulting article beyond the stage of “oysters or oyster juice or either in combination with other substances” we would create a distinction too fine to have been in the mind of Congress in framing this paragraph. The claimed construction would take out of paragraph 721 (e) articles very similar in kind to those it was admittedly designed to cover. The process described in the incorporated record produces a product, which, from every practical point of view, is very similar to and not far removed from oyster juice itself, which is plainly within the paragraph. Nor do we think that the testimony taken in New York on transfer there tending to show an administrative practice to describe it as “oyster sauce” or to sell it commercially as “oyster sauce” would lead to a different result in the form the issue arises here under the 1930 act. The alternative claims under other paragraphs not being pressed are also overruled.
+Because he heard most of the testimony taken at Los Angeles on circuit duty there which is claimed to set up a new factual situation, Judge Evans is assigned to constitute division one together with the writer for the determination of this case.
+Judgment will therefore issue in favor of the Government overruling the protest.
