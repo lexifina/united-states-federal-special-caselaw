@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "66518; protest 60/6079 (New York)"
+decided: "1962-03-05"
+citations: ["48 Cust. Ct. 358"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wedemann & Godknecht, Inc., a/c Masurel Mills, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/48/cases/0358-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6590866
+cites_cases: ["47 C.C.P.A. 47"]
+---
+
+# Wedemann & Godknecht, Inc. v. United States
+
+## Majority (Ford, J.)
+
+Opinion by
+Ford, J.
+In accordance with stipulation of counsel that the merchandise consists of filaments similar in all material respects to those the subject of United States v. Steinberg Bros. (47 C.C.P.A. 47, C.A.D. 727), the claim of the plaintiff was sustained.
