@@ -1,0 +1,53 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 79-9-01390"
+decided: "1982-09-07"
+citations: ["4 Ct. Int'l Trade 100"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before: Rao, Judge."]
+parties: ["Ivy International, Ltd., plaintiff v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/4/cases/0100-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6097107
+cites_cases: ["17 CCPA 1", "426 F. Supp. 556", "428 F. 2d 860", "432 F.2d 1403", "505 F.2d 1288", "565 F.2d 674", "57 CCPA 127", "58 CCPA 17", "62 CCPA 14", "64 Cust. Ct. 316", "65 CCPA 22", "77 Cust. Ct. 72"]
+---
+
+# Ivy International, Ltd. v. United States
+
+## Majority (Rao, Judge:)
+
+Rao, Judge:
+This case, involves the proper classification of woven fabric manufactured in Prato, Italy by Lanificio Cecchi Lido & Figli, s.n.c. and imported by plaintiff during 1975-78 at the Port of New York. It is described on the commercial invoices as “Kitty” and “Tiger” 59 inch, 30% polyester, 60% acrylic, 10% rabbit hair, 8V2-9 ounce or 9y2 ounce per yard fabric.
+The United States Customs Service (hereinafter Customs) classified the merchandise under item 338.30 of the Tariff Schedules of the United States (TSUS), as modified by Presidential Proclamation 3822, T.D. 68-9, as woven fabrics of man-made fibers containing not over' 17% of wool by weight and not of glass at a duty rate of 13 cents per pound and 22.5% ad valorem.
+It is plaintiffs claim that the merchandise is properly classifiable under item 339.10, TSUS, as woven fabric of textile materials, not covered by subparts A through E of Part 3 of Schedule 3, other, at a duty rate of 8.5% ad valorem. Plaintiff claims that the imported fabrics are in chief value of rabbit hair and that, therefore, the classification by Customs of the merchandise as being in chief value of man-made fibers is erroneous.
+The issue is whether the fabrics are in chief value of man made fibers or in chief value of rabbit hair. In order to prevail, the plaintiff must show that the value of the rabbit hair exceeds the value of each other single component material of the fabric. Additionally, the value of each of the components is to be ascertained at the time when it has reached such condition that nothing remains to be done to it except putting the components together. N Erlanger Blumgart Co. v. United States, 57 CCPA 127, 428 F. 2d 860, C.A.D. 991 (1970). The values to be considered are the values of the rabbit hair, the polyester and the acrylic immediately prior to weaving, since the fibers and the rabbit hair are spun and then woven to make the completed article that is imported. N. Erlanger Blumgart Co., supra, at 129.
+Plaintiff relies on the testimony of Lamberto Cecchi, one of the partners of Lanificio Cecchi Lido & Figli, s.p.a., the manufacturer of the fabrics. He holds a doctor’s degree in economics from the University of Florence in Italy and participates in all phases of the production of fabrics of the firm, but is especially involved in marketing and selling (R.6). He is thoroughly familiar with the fabrics in question, it being his idea to create them for then current fashions (R.12).
+Dr. Cecchi testified that the “Kitty” and “Tiger” fabrics were composed of acrylic and polyester fibers and rabbit hair, spun together to create a yarn which was then woven into the instant fabrics. The cost of the acrylic fibers was 300 lire per kilogram, the cost of the polyester fibers was 400 lire per kilogram and the cost of the rabbit hair was over 8,000 lire per kilogram (R.16). The prices for both fibers and the rabbit hair varied during the years that these fabrics were produced and the prices established by Dr. Cecchi’s testimony were averages (R.53).
+Dr. Cecchi also testified as to the costs of the various other processes required to prepare the components for weaving, such as the cost for spinning the fibers and the rabbit hair, which was allocated according to weight. This amount was 450 lire. After allowing for losses in blending and weaving, a cost for each component ready for weaving was arrived at:
+Acrylic — 482.0 lire
+Polyester — 274.2 lire
+Rabbit Hair — 1,342.0 lire
+On cross-examination, Dr. Cecchi admitted that he did not have invoices for all the rabbit hair used in the imported fabrics (some farmers would not give receipts and did business only on a cash basis), and had not included the cost of dyeing (R.48). He did not know whether the taxes paid on the raw materials were included in the calculations presented to the court (R.53).
+Defendant utilized the testimony of two witnesses, Richard Lutzer and Thomas Johnidis, in rebutting plaintiffs case.
+Mr. Lutzer is chief of the textile branch, United States Customs Service Laboratory, New York, N.Y. He supervised the taking of samples from entries of the imported merchandise and their analy-ses by laboratory technicians (R.67). He also devised tests to determine the component materials in the samples and to remove artificial coloring (R.68).
+In addition to testifying as to the tests that were performed, Mr. Lutzer testified that the percentage of rabbit hair found in the test samples ranged from a low of 6.5% to a high of approximately 10% (R.75) and that the predominant colors of the rabbit hair found in the samples were gray and brown (R.76).
+Mr. Johnidis is a dye analyst with the U.S. Customs Service Laboratory in New York. In his opinion, the gray and brown rabbit hair found in the samples was in its natural state, containing natural pigmentation (R.85). Although he knew that white rabbit hair was always more expensive than brown or gray, he did not know the prices (R.88).
+The laboratory reports of the analyses done on the samples of the merchandise support the above testimony. Many of the reports contain a statement that “the tests performed on the submitted samples indicate the presence of naturally dark low grade rabbit hair.” Whether or to what extent this presence of dark rabbit hair precludes the presence of white rabbit hair cannot be determined from the laboratory reports or from the testimony.
+It is axiomatic in Customs law that the plaintiff shoulders the burden of proving that the classification of the merchandise by the Customs Service was erroneous. Mego Corp. v. United States, 62 CCPA 14, C.A.D. 1137, 505 F.2d 1288 (1974). Additionally, the classifying official is presumed to have found every fact to exist that is necessary to sustain the classification. United States v. Marshall Field & Co., 17 CCPA 1, T.D. 43309 (1929), W. A. Gleeson v. United States, 58 CCPA 17, C.A.D. 998, 432 F.2d 1403 (1970).
+The extent of plaintiffs burden of proof is that the court must be persuaded, by the preponderance of the evidence that the Customs classification is incorrect and that the claimed classification is correct in order for plaintiff to prevail. Ameliotex, Inc. v. United States, 77 Cust. Ct. 72, C.D. 4673, 426 F. Supp. 556 (1976), aff’d, 65 CCPA 22, C.A.D. 1200, 565 F.2d 674 (1977). Whether plaintiff has sustained the burden is often a difficult and close question, particularly when the defendant does not rely on the presumption of correctness but comes forward with evidence in support of the classification. Id.
+In this case, although the question of whether plaintiff has established its claim by a preponderance of the evidence is a close one, this court holds that it has not. Its sole witness, Dr. Cecchi, testified that white rabbit hair, with an average cost of 8,500 lire per kilogram, was used in manufacturing the “Kitty” and “Tiger” fabric at issue.
+However, the laboratory tests done on actual samples from importations of these fabrics establish that the rabbit hair present in these fabrics is dark and low grade. These reports were received into evidence and are to be accorded their natural probative effect. Romicks International, Inc. v. United States, 64 Cust. Ct. 316, C.D. 3997 (1970). In addition, the New York Customs Laboratory official charged with supervision of laboratory tests on fabric testified concerning the tests used to determine the amount, color, and quality of rabbit hair present in the samples. Cross-examination of this witness did not establish any defect in the procedures employed in the test methodology nor in the number of tests run on merchandise from the involved entries and this court finds that the tests are sufficient to establish the composition of the fabric involved herein.
+Plaintiff takes the position that statements in the laboratory reports stating that the rabbit hair is “low grade” is opinion evidence only. While it may be true that the term “low grade” was not defined or explained by defendant’s witnesses, plaintiff did not overcome the evidence that dark rabbit hair is less valuable than white rabbit hair. Nor did Dr. Cecchi’s testimony explain the presence of dark rabbit hair or the effect of the presence of dark rabbit hair on the value of the fibers in determining component in chief value.
+It is the opinion of this court that plaintiffs prima facie case was rebutted by defendant’s witnesses and evidence.
+Therefore this court sustains the classification by defendant and the complaint is dismissed.
+General headnotes and rules of interpretation [TSUS]
+9. Definitions. For the purposes of the schedules, unless the context otherwise requires—
+(f) * * * when used between the description of an article and a material, * * *
+(i) “of' means that the article is wholly or in chief value of the named material;
+10. General Interpretative Rules. For the purposes of these schedules—
+(f) an article is in chief value of a material if such material exceeds in value each other single component material of the article.
+Dr. Cecchi also testified that the imported fabrics contained some wool (R.13). While most of the samples tested by the Customs Laboratory did not contain wool, a few contained a small amount of wool or other fibers. This can be explained by Dr. Cecchi’s testimony that sometimes cloth was purchased to obtain the fibers (R.45).
+In allocating the cost of spinning to the component fibers plaintiff attributes 283.5 lire to the acrylic fiber, 141.8 lire to the polyester fiber and 56.3 lire to the rabbit hair. These amounts total 481.6 lire or 31.6 lire more than plaintiffs cost of spinning (See plaintiffs brief, page 6).
+The accuracy of these figures is doubtful since they are based on the fabrics being 63% acrylic, 31.5% polyester and 12.5% rabbit hair and on the erroneous allocation of the spinning costs. (See plaintiffs brief, page 6.)
