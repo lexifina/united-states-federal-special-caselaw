@@ -1,0 +1,29 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "97-786"
+decided: "2001-04-16"
+citations: ["14 Vet. App. 321"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HOLDAWAY, IVERS, and GREENE, Judges."]
+parties: ["Patrick F. D’AMICO, Appellant, v. Anthony J. PRINCIPI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/14/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11107765
+cites_cases: ["1 Vet.App. 308", "1 Vet.App. 90", "10 Vet.App. 251", "108 Stat. 4645", "12 Vet.App. 369", "14 Vet.App. 280", "209 F.3d 1322", "212 F.3d 1255", "38 C.F.R. § 19.9", "38 U.S.C. § 5101", "38 U.S.C. § 5107", "38 U.S.C. § 5108"]
+---
+
+# D'Amico v. Principi
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+On April 7, 2000, the U.S. Court of Appeals for the Federal Circuit (Federal Circuit) vacated this Court’s March 23, 1999, opinion, which affirmed the Board of Veterans’ Appeals’ (Board) February 27, 1997, decision that determined that Mr. D’Amico had not submitted new and material evidence to reopen a previously disallowed claim for VA benefits, and remanded the case. See 209 F.3d at 1327-28. In its decision, the Federal Circuit noted that on remand the following questions would be before this Court:
+[Wlhether it was proper for the Board to apply the new and material standard of section 5108 to [the appellant’s 1992 application for service-connected disability benefits when the claim that was denied in 1979 sought only loan guarantee benefits; whether the 1979 decision ever became final; whether [the appellant] is entitled to some medical benefits under the 1979 decision; whether the Agency failed to comply with its duty to assist [the appellant] when it processed his claim for loan guarantee benefits; and whether the Agency failed to comply with its duty to assist [the appellant] when it processed his claim for disability benefits.
+D’Amico v. West, 209 F.3d 1322, 1327 n. 4 (2000). On remand, this Court instructed the parties to submit additional briefing addressing the issues presented by the Federal Circuit, and how those questions presented by the Federal Circuit affected the claims on appeal. The appellant responded, arguing that a remand to the Board was required in order to determine whether or not a claim was ever filed in 1977 or 1978, and if so, whether that claim was final if he never received notice of the 1979 administrative hearing. Whether or not the appellant actually applied for benefits at that time is uncertain from the record. While there is an administrative decision which references both a request from a VA hospital for verification of service and character of discharge, and a request from a VA loan guarantee department as to the appellant’s eligibility, there is no evidence that the appellant actually applied for either of these benefits. This question is critical to the resolution of the appellant’s claim and to a resolution of the questions asked by the Federal Circuit, for if there was no previous claim filed, the Board could not have made a determination under the new and material standard of 38 U.S.C. § 5108. That standard of review presupposes a claim which is final. Whether a claim was filed and finally decided requires a factual determination which this Court is barred from making. See Hensley v. West, 212 F.3d 1255 (Fed.Cir.2000). For this Court to infer that the appellant had in fact made such applications, without any evidence clearly demonstrating siich, is impermissible. Id. Clearly a remand is appropriate under these circumstances.
+In addition, the Secretary correctly argues that a remand is also required under the recently enacted Veterans Claims Assistance Act of 2000, Pub.L. No. 106-475, 114 Stat.2096 (Nov. 9, 2000) (VCAA). The VCAA revised and amended 38 U.S.C. § 5107 to eliminate the requirement that a claimant present a “well-grounded” claim, changed the definition of who constituted a “claimant,” and amended § 5103 and added § 5103A to reaffirm and further expound upon the Secretary’s duties to inform and assist a claimant. These VCAA amendments are retroactive and “potentially applicable to claims pending on the date of the VCAA’s enactment.” Holliday v. Principi, 14 Vet.App. 280, 286 (2001). On March 2, 2001, the Secretary finally submitted a response to this Court’s June 28, 2000, briefing order, conceding that a remand was required under the VCAA and this Court’s holding in Karnas v. Derwinski, 1 Vet.App. 308 (1991) (holding that where a statute or regulation changes during the appellate process, the version more favorable to the claim shall apply unless Congress provides otherwise or authorizes the Secretary to do so and he does so). Therefore, in view of the fact that both parties’ position is that a remand for read-judication is necessary, albeit for different reasons, the Court will grant remand.
+On remand, the appellant is free to submit additional evidence and argument necessary to the resolution of his claim. See Kutscherousky v. West, 12 Vet.App. 369 (1999) (per curiam order). The Board shall proceed expeditiously. See Veterans’ Benefits Improvement Act, Pub.L. No. 103-446, § 302, 108 Stat. 4645, 4658 (1994) (found at 38 U.S.C. § 5101 note) (requiring the Secretary to provide for “expeditious treatment” of claims remanded by the Board or Court); Drosky v. Brown, 10 Vet.App. 251 (1997). If the circumstances warrant, the Board is authorized and obligated to remand the claim to the VA regional office for further development. See 38 C.F.R. § 19.9(a) (2000) Littke v. Derwinski, 1 Vet.App. 90, (1990).
+Upon consideration of the foregoing, it is
+ORDERED that the Board’s February 27, 1997, decision is VACATED, and the matter REMANDED to the Board for re-adjudication.
