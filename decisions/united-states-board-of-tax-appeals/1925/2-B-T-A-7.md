@@ -1,0 +1,27 @@
+---
+court: "United States Board of Tax Appeals"
+docket: "1444"
+decided: "1925-06-09"
+citations: ["2 B.T.A. 7"]
+reporter: "bta"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Sternhagen, Trammell, and Phillips."]
+parties: ["Appeal of FRANK G. SHATTUCK CO. AND GARRET REALTY CORPORATION."]
+source_url: "https://static.case.law/bta/2/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6085236
+---
+
+# Appeal of Frank G. Shattuck Co.
+
+## Majority (Phillips:)
+
+OPINION.
+Phillips:
+This appeal involves the proper treatment to be accorded the alterations or improvements made upon leased premises by a tenant when the landlord and tenant are affiliated corporations. The Commissioner in determining the tax treated these improvements in precisely the same manner as if the two corporations were not affiliated. He ruled that the improvements made by the Shat-tuok Company resulted in the creation of a capital asset which it must depreciate over the term of the lease. He also ruled that these improvements resulted in income to the Garret Eealty Corporation to the extent of the cost of the improvements less depreciation at 2 per cent to the termination of the lease (at which time the landlord would obtain possession of the property), and he prorated the resulting balance over the period of the lease. On this basis he included $7,099.54 as income to the Garret Realty Corporation for 1920. The net result of allowing such depreciation to the tenant and including such amount as income to the landlord is do allow the two companies, on their consolidated return, depreciation on the cost of the improvements at the rate of 2 per cent.
+The taxpayer contends that improvements made to leased property by a tenant without any requirement or provision in the lease for such improvements can not be construed as additional rental or income to the landlord. It asks that the landlord shall not be required to include any of these alterations as income to it and that the tenant be permitted to depreciate the improvements over the period of the lease; the net result of which would be that at the termination of the lease period the consolidated corporations would have the building with these improvements written off on their books by the depreciation allowed.
+The taxpayer also contends that if these alterations did result in income to the landlord it was not to the extent of the cost of the improvements. In the view we take, none of these contentions is material.
+The law provides that affiliated corporations shall make a consolidated return. To consolidate is defined as “ to combine; to cause to become united; to merge.” The two corporations are to be regarded as one business unit. Improvements made by the tenant upon property of the landlord constitute inter-company transactions and the benefits of such improvements are used in the business enterprise conducted by this business unit. The cost of the improvements is to be prorated over their estimated life and a deduction taken in the consolidated return upon that basis whether made by the landlord or by the tenant. In this case the Commissioner has determined that the application of a depreciation rate of 2 per cent is proper.
+The Commissioner in this case determined that the landlord received income from these alterations and he apportioned such income over the life of the lease pursuant to article 48 (b) of Regulations 65. To test this theory, when applied to a consolidated return, let us assume that the landlord had exercised the option granted it by article 48 (a) of Regulations 65 to report the value of these improvements as income in the year 1920 and that such improvements had resulted in income to it of $110,000 as the Commissioner contends. It is evident that the invested capital of the tenant for subsequent years would not be decreased and that the invested capital of the landlord would be increased by $110,000 of surplus or undivided profits; in other words, if we do not eliminate these alterations as an inter-company transaction the two corporations have duplicated the item of improvement expenditures in the consolidated invested capital by $110,000. Certainly no such result was intended by Congress when it provided for a consolidated return.
+Now let us test the taxpayer’s contention in a slightly different manner. It claims that these improvements which it has made did not result in any income to the landlord and that they must be depreciated and written off during a period of seven years, because this is the length of the tenant’s lease, although they have a substantially greater useful life. The result will be that at the end of seven years this business unit will have the building with the improvements (which admittedly have a substantial value for this particu-' lar business) but will have written off such improvements from its books. We do not believe that this result was intended when a provision was made for a consolidated return. It was intended that what was in fact one business should make one return and be taxed upon the basis of the consolidated income. The improvements and alterations made by one of the units of the consolidation should be depreciated over the life of such improvements and not merely over the life of the lease. The ultimate result arrived at by the Commissioner in this case is the same as that at which we have arrived.
