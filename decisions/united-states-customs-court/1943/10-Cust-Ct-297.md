@@ -1,0 +1,51 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 770"
+decided: "1943-05-19"
+citations: ["10 Cust. Ct. 297"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Walker and Cole, Judges; Cole, J., not participating"]
+parties: ["Border Brokerage Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/10/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6618650
+cites_cases: ["47 Stat. 260", "5 Cust. Ct. 161", "52 Stat. 570"]
+---
+
+# Border Brokerage Co. v. United States
+
+## Majority (Walker, Judge:)
+
+Walker, Judge:
+The merchandise the subject of this protest consists of sawed timber which was imported into the United States from Canada through the subport of Blaine, Wash., in -April 1941. Duty was assessed thereon at the rate of 50 cents per thousand feet, board measure, under paragraph 401 of the Tariff Act of 1930, as modified by the trade agreement with Canada reported in T. D. 49752, and, in addition, at the rate of $1.50 per thousand feet, board measure, under the provisions of section 601 (c) (6), of the Revenue Act of 1932 (47 Stat. 260) as amended by section 704 of the Revenue Act of 1938 (52 Stat. 570) and the aforesaid trade agreement with Canada.
+No question is raised as to the duty imposed under the provisions of paragraph 401, supra, but it is claimed that the assessment under the Revenue Act of 1932 is prohibited by article VII of the Canadian Trade Agreement referred to, and is not authorized by section 704 of the Revenue Act of 1938.
+As originally enacted, the pertinent provisions of the Revenue Act of 1932 read as follows:
+SEC. 601. EXCISE TAXES ON CERTAIN ARTICLES.
+(a) In addition to any other tax or duty imposed by law, there shall be imposed a tax as provided in subsection (c) on every article imported into the United States unless treaty provisions of the United States otherwise provide.
+* * * * * * *
+(e) There is hereby imposed upon the following articles * * * imported into the United States, a tax at the rates hereinafter set forth, to be paid by' the * * * importer:
+* # * * * * *
+(6) Lumber, rough, or planed, or dressed on one or more sides * * * $3. per thousand feet, board measure * * *.
+The foregoing section was amended by section 704 of the Revenue Act of 1938, the pertinent portions of which read as follows:
+SEC. 704. AMENDMENTS TO TAX ON LUMBER.
+(1) Section 601 (c) (6) of the Revenue Act of 1932 is further amended by adding at the end thereof the following: “* * *. As used in this paragraph, the term ‘lumber’ includes sawed timber.”
+(b) Each sentence of the amendment made by subsection (a) shall become effective (1) on the sixtieth day after the date of the enactment of this act unless in conflict with any international obligation of the United States or (2) if so in conflict, then on the termination of such obligation otherwise than in connection with the undertaking by the United States of a new obligation which continues such conflict.
+In the cáse of Laurence Phillips Lumber Co. v. United States, T. D. 49624, this court held that the provision in section 601 (c) (6) of the Revenue Act of 1932, ag originally enacted, for “lumber” did not include timber. Section 601 (c) (6), supra, was modified by the provisions of what may be called the first Canadian Trade Agreement, made in 1935 and reported in T. D. 48033, but, so far as material here, the said modification repeated the language of the Revenue Act of 1932 and was silent on the question of whether the term-“lumber” included timber. '
+A new trade agreement between the United States and Canada was concluded on November 17, 1938, replacing.the 1935 agreement. This second trade agreement, which is reported in T. D. 49752, took effect January 1, 1939, or more than 2 years prior to the instant 'importation, and with respect to the provisions of section 601 (c) (6) of the Revenue Act of 1932, provided for a tax of $1.50 per thousand feet, board measure, on the following articles:
+Lumber, including sawed timber, rough, or planed or dressed on one or more sides, except flooring made of maple, birch, and beech, and except lumber and timber of Northern white pine (pinus strobus), Norway pine (pinus resinosa), Western white spruce, balsa, teak, cedar commercially known as Spanish cedar, lignum-vitae, lancewood, ebony, box, granadilla, mahogany, rosewood, satinwood, Japanese white oak, or Japanese maple. [Italics added.]
+From the foregoing we think a complete picture is presented showing the intent on the part of Congress by the enactment of section 704 of the Revenue Act of 1938, to tax timber under the provisions of section 601 (c) (6), supra, as soon as the international obligations of the United States prohibiting such a change in customs treatment might permit. Since in the Laurence Phillips Co. case, supra, it was hold that the term “lumber” as used in the Revenue Act of 1932, supra, did not include timber, it would appear that the United States was, in effect, prohibited from imposing such tax on timber during the life of the first Canadian Trade Agreement, for in article IY thereof it was provided as follows:
+ARTICLE IY
+Articles the growth, produce or manufacture of Canada, enumerated and described in Schedule II [not.e — including lumber] annexed to this Agreement, shall, on their importation into the United States of America, be exempt from ordinary customs duties in excess of those set forth and provided for in the said Schedule. The said articles shall also be exempt from all other duties, taxes, fees, charges, or exactions, imposed on or in connection with “importation, in excess of those imposed on the day of the signature of this Agreement or required to be imposed thereafter under laws of the United States of America in force <?n the day of the signature of this Agreement.
+tfc ‡ H; * * * #
+Recognizing this prohibition, section 704 of the Revenue Act of 1938 expressly provided that the amendment of section 601 (c) (6) of the Revenue Act of 1932, relating to the inclusion of timber in the term “lumber,” should not become effective if in conflict with any international obligation of the United States (e. g\, the first Canadian Trade Agreement) until the termination of such obligation “otherwise than in connection with the undertaking by the United States of a new obligation which continues such conflict.”
+The new obligation, i. e., the second Canadian Trade Agreement, did not continue such conflict, but, on the contrary, contained a provision entirely in harmony with the expressed intent of Congress to impose the same tax on sawed timber as was imposed on lumber.
+On behalf of the plaintiff it is urged that article YII of the second Canadian Trade Agreement continued the prohibition of article IV of the first Canadian Trade Agreement with respect to the taxability of timber. The said article YII reads as follows:
+-Article VII
+1. Articles the growth, produce, or manufacture of Canada enumerated and described in Schedule II annexed to this Agreement shall, on their importation into the United States of America, be exempt from ordinary customs duties in excess of those set forth and provided for in the said Schedule, subject to the conditions therein set out. The said articles shall also be exempt from all other duties, taxes, fees, charges, or exactions, imposed on or in connection with importation, in excess of those imposed on the day of the signature of this Agreement or required to be imposed thereafter under laws of the United States of America in force on the day of the signature of this Agreement.
+2. Schedule II shall have full force and effect as an integral part of this Agreement.
+It is argued on behalf of the plaintiff that on the day of signature of the agreement (November 17, 1938) the first Canadian Trade Agreement was in force and effect and that tax under the Revenue Act of 1932 could not.be imposed upon timber because of the provisions of article IY of said agreement, quoting, in this regard, the provision of paragraph 1 of article VII of the second Canadian Trade Agreement exempting the articles described in schedule II thereof from “all other duties, taxes, fees, charges, or exactions, imposed on or in connection with'importation, in excess of those imposed on the day of the signature of this agreement.” This entirely overlooks the alternative provision in said article VII which exempts such articles only from duties, etc., “in excess of those imposed on the day of the signature of this agreement or required, to be imposed thereafter under laws of the United States of America in force on the day of the signature of this Agreement.” [Italics added.]
+On the day of the signature of the agreement section 704 of the Revenue Act of 1938 was a law of the United States in force. True, so far as its provisions affected the taxable status of timber they were suspended from operation, but the happening of the contingency provided for in said section, i. e., the termination of the international obligation which barred the operation, occurred when the first Canadian Trade Agreement was superseded by the second on January 1, 1939. The tax on timber was one “required to be imposed” after the day of the signature of the second agreement under a law of the United States of America “in force on the day of the signature.”
+Reading section 704 of the Revenue Act of 1938 together with the provisions of the second Canadian Trade Agreement, the conclusion is inescapable that both the Congress and the negotiators of the agreement for both parties intended the tax imposed on lumber to apply also to sawed timber. In this, the situation at bar differs from that which obtained in the case of Seaboard Lamber ,Sales Co., Ltd. v. United States, 5 Cust. Ct. 161, C. D. 391, construing another provision of section 704 of the Revenue Act of 1938.
+We find that the action of the collector in assessing tax on the timber here involved under the provisions of section 601 (c) (6) of the Revenue Act of 1932, as amended,, was correct, and judgment will therefore issue overruling the protest in all respects.
