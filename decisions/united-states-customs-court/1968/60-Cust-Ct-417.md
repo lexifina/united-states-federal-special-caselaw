@@ -1,0 +1,55 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3404"
+decided: "1968-04-16"
+citations: ["60 Cust. Ct. 417"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Bao and Ford, Judges"]
+parties: ["Fred Baumgarten v. United States"]
+source_url: "https://static.case.law/cust-ct/60/cases/0417-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577170
+cites_cases: ["30 CCPA 150", "41 Cust. Ct. 67", "45 Cust. Ct. 250", "47 CCPA 88"]
+---
+
+# Baumgarten v. United States
+
+## Majority (Rao, Chief Judge:)
+
+Rao, Chief Judge:
+This protest involves certain merchandise identified on the entry as “1 case Manicure Sets in leather containers, other”. The sets consist of a pair of hand scissors and a letter opener fitted into a leather case. The said merchandise was classified under item 651.75 of the Tariff Schedules of the United States as sets which contain two or more articles provided for in subpart E, part 3, schedule 6 of the said tariff schedules. Duty was assessed at the converted rate of 74.26 per centum ad valorem by virtue of headnote 5, sub-part E, part 3, schedule 6 of the Tariff Schedules of the United States, on the basis of the rate applicable to the component subject to the highest rate of duty, to wit, the scissors.
+Plaintiff claims that the proper rate of duty of the imported merchandise is 20 per centum ad valorem by reason of the provisions of item 651.11 of said tariff schedules for sewing sets, and pedicure or manicure sets, and combinations thereof, in leather cases.
+The plaintiff alternatively contends that the duties assessed under item 651.75 of the Tariff Schedules of the United States were improperly computed at the converted ad valorem rate applicable to scissors.
+The pertinent text of the statutes above referred to is here set forth:
+Tariff Schedules of the United States:
+Classified:
+Item 651.75 Sets (except sewing sets, pedicure or manicure sets, and combinations thereof) which include two or more of the tools, knives, forks, spoons, or other articles provided for in different rate provisions of this subpart— The rate of duty applicable to that article in the set subject to the highest rate of duty.
+Claimed:
+Sewing sets, and pedicure or manicure sets, and combinations thereof, in leather cases or other containers of types ordinarily sold therewith in retail sales:
+Item 651.11 In leather containers- 20% ad val.
+Other relevant provisions included in subpart E, part 3, schedule 6:
+Scissors and shears (except machines and except shears provided for in any of the foregoing provisions) , and blades therefor:
+$$$$$$$
+Item 650.91 Valued over $1.75 per dozen_ 100 each + 22.5% ad val.
+Hand tools (including table) kitchen, and household implements of the character of hand tools) not specially provided for, and metal parts thereof:
+# # # # # # ❖
+Other hand tools:
+*******
+Other:
+Of iron or steel:
+* ******
+Item 651.47 Other_ 17 % ad val.
+Headnote 5, subpart E, part 3, schedule 6:
+For the purposes of determining the rate of duty applicable to sets provided for in item 651.75, a specific rate of duty or a compound rate of duty for any article in the set shall be converted to its ad valorem equivalent rate, i.e., the ad valorem rate which, when applied to the full value of ths article determined in accordance with section 402 or 402(1) (a) of this Act, would provide the same amount of duties as the specific or compound rate.
+The record in this case consists of the testimony of the plaintiff and a representative sample of the merchandise admitted into evidence as plaintiff’s exhibit 1. The latter consists of a pair of scissors and a letter opener fitted into a leather sheath. The scissors are approximately 4 inches in overall length, with two metal blades having sharp inside edges. The blades, approximately 2y2 inches in length, are shaped and come to an end at a sharp point. They are joined together by a small metal pin. The letter opener, also described as a “small hand tool” or “paper knife”, is also approximately 4 inches in overall length. It is in one piece, having a handle and a blade. The blade portion is approximately 2% inches in length, two-sided, and markedly thinner at the edge than in the center, but not sharp. It is tapered and comes to a sharp point. The sheath is long enough to contain the blades of both articles in separate slots. It widens at the top to form a shield, 1% inches in its widest width, to accommodate the finger holes of the scissors.
+The plaintiff, appearing on his own behalf, without benefit of counsel, testified that at the time in issue he was engaged in business under his own name and for his own account. He stated that he imported the merchandise at bar as a combination of a sewing set and a manicure set, and that it consisted of a pair of scissors and a small letter opener fitted into a leather case. He described the scissors as “the regular scissors used in any sewing kit” and referred to the letter opener as “office supplies”, which he believed were not provided for in the subpart invoked by the customs authorities.
+To a certain extent, the statements of the witness during the course of trial constituted an explanation of his legal position in this action and possessed no evidentiary value. In substance he urged, both at the trial and in his brief, that the scissors and letter opener in their case are a combination within the scope of item 651.11 of the tariff schedules; that the combination is not two tools enumerated in different provisions of subpart E of said schedules; and that the rate and amount of duties were erroneously computed.
+Counsel for the Government takes issue with all of the premises relied upon by plaintiff and contends both that the classification of the subject importation within the scope of item 651.75 was proper and that, in any event, it had not been negatived by plaintiff’s proof.
+It is, of course, a well-settled proposition in customs jurisprudence that the collector’s classification of imported merchandise is presumptively correct and that the burden rests with the party challenging it to show, not only that it was erroneous, but that some other action •was proper. Joseph E. Seagram & Sons, Inc. v. United States, 30 CCPA 150, C.A.D. 227; Atlantic Aluminum & Metal Distributors, Inc. v. United States, 47 CCPA 88, C.A.D. 735.
+Upon the basis of the record here presented and our own examination of the merchandise in issue, we are constrained to hold that plaintiff herein has failed to discharge this burden.
+There is no evidence to show that the set before us is a sewing set, a pedicure set, or a manicure set, and there is nothing particularly characteristic about the appearance of the article, nor apparently does plaintiff so claim, to identify it as such. Accordingly, if it is to find classification within the purview of item 651.11, it must be by reason of the language “combinations thereof”.
+Seemingly, plaintiff would have us conclude that the scissors are typical sewing or manicuring scissors and that, since they are combined with another article — a small letter opener — they are such combinations as are provided for in the item in question. We camiot agree, however, that the language employed in the provision lends itself to this interpretation. The use of the word “thereof”, if it is to be given its common meaning of “of that”, can only have significance if it specifically relates the word “combinations” to the items previously enumerated, and in that context, the term “combinations thereof” can only be construed to mean combinations of articles contained in sewing, pedicure, or manicure sets. Indeed, it is open to question not necessary to be determined here, whether the phraseology and punctuation of this provision was designed to restrict the scope of the designated combinations to combinations of pedicure and manicure sets only.
+The record is barren of evidence that either the scissors or the letter opener is an article of the kind usually to be found in a sewing, pedicure, or manicure set. Notwithstanding prior judicial considerations of the classification of sewing sets (Cross Co. v. United States, 8 Cust. Ct. Appls. 196, T.D. 37413), and manicure sets (S. S. Kresge v. United States, 45 Cust. Ct. 250, Abstract 64484), this court may not judicially notice what are the components of either or whether a particular kind or style of scissors is a usual component of any of tire sets provided for in said item 651.11. The term “scissors” is generic, and it embraces many different kinds. John H. Graham & Co., Inc. v. United States, 41 Cust. Ct. 67, C.D. 2022. Consequently, we are unable to conclude that the sets at bar are sewing sets, manicure sets, or pedicure sets, or combinations thereof within the purview of the provision relied upon by the plaintiff, and since he has not established the correctness of his affirmative claim, he has failed to sustain the burden of proof which he has assumed. Therefore, whether or not the then collector of customs acted properly in assessing duty upon the merchandise at bar within the purview of item 650.91 of the tariff schedules at the rate of 74.26 per centum ad valorem cannot materially affect the result in this case. The presumption of correctness has not been overcome. All claims in the instant protest are, therefore, overruled.
+Judgment will be rendered accordingly.
