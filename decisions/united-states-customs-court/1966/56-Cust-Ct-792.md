@@ -1,0 +1,59 @@
+---
+court: "United States Customs Court"
+docket: "A.R.D. 205; Entry Nos. 36022; 37281"
+decided: "1966-03-24"
+citations: ["56 Cust. Ct. 792"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Donlon and Richardson, Judges"]
+parties: ["Haddad & Sons, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/56/cases/0792-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6580660
+cites_cases: ["31 Cust. Ct. 465", "50 Cust. Ct. 406", "50 Cust. Ct. 574", "54 Cust. Ct. 600"]
+---
+
+# Haddad & Sons, Inc. v. United States
+
+## Majority (Donlon, Judge:)
+
+Donlon, Judge:
+This is an application for review of the decision of the trial judge, holding that appellant (plaintiff below) had failed to prove the amount of the export value which it claims for this merchandise. Haddad & Sons, Inc. v. United States, 54 Cust. Ct. 600, Reap. Dec. 10942. There is no allegation of error in the findings of the trial judge that export value is the proper basis for appraisement and that the applicable law is section 402(b) of the Tariff Act of 1980, as amended by the Customs Simplification Act of 1956.
+The merchandise consists of cotton hooked rugs, 19 by 29 inches in size, which were exported from Japan. In R.59/13067, they were exported on March 31,1958; and in R59/13080, on February 25,1959.
+Plaintiff below claimed, in its statement filed pursuant to rule 15(d), that export value is “the invoice unit price, ex-factory, plus packing where packing is not included in said invoice price.” This is an insufficient statement under rule 15(d), as it does not specify whether the importer does or does not claim that packing is included in price.
+However, official entry papers, including the invoices, are in evidence. They serve to fill out appellant’s claim specification, as follows:
+R59/13067 — ex-factory price is stated to be 14 cents per square foot, plus $63 “Bales and Packing” and $3.36 “Cost of Label.”
+R59/13080 — -ex-factory price is stated to be 14 cents per square foot, plus Yen 18,870 “Bale and Packing” and Yen 350 “Cost of Label.”
+That is to say, the basic ex-factory price claimed is 14 cents per square foot, plus the above-enumerated dutiable charges that are not included in this price. Appraisement was at 17 cents per square foot, net packed.
+On review argument, appellant has modified its claim in R59/13080 from 14 cents to 15 cents per square foot, ex-factory, plus packing.
+Section 402(b), which the trial judge found to be the appropriate statutory basis for appraisement of these rugs, provides as follows:
+(b) Expoet Value. — For the purposes of this section the export value of imported merchandise shall be the price, at the time of exportation to the United States of the merchandise undergoing appraisement, at which such or similar merchandise is freely sold or, in the absence of sales, ofered for sale in the principal markets of the country of exportation, m the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States, plus, when not included in such price, the cost of all containers ana coverings of whatever nature and all other expenses incidental to placing the merchandise in condition, packed ready for shipment to the United States. [Emphasis added.]
+It appears to be conceded both that the appraisement was on the basis of a so-called MITI, or check, price and that this basis was erroneous, inasmuch as there was in fact no MITI price for cotton rugs of the size of these rugs.
+It appears to be the gist of appellant’s grievance with the decision of the trial judge, that the proofs adduced do adequately sustain the burden of proving sales price; but this the proofs do not show.
+Mr. Moysh Haddad testified for plaintiff on trial. He identified himself as secretary and treasurer of plaintiff. He has been a buyer for his company for over 20 years and, in his work, has made two or three trips to Japan every year, starting in 1947. He is familiar with these cotton hooked rugs, having purchased them from Kamitani Sangyo, in Sakai, a town about 15 miles outside the city of Osaka. The terms of sale were discussed with Mrs. Kamitani. The agreed sale price was 14 cents. This agreement was not reduced to writing. Delivery of the rugs was taken by the purchaser’s agent, Tosho Co., Ltd. Price was not based on quantity and no restrictions were tied to the sale. Mr. Haddad said that Sakai is a center for manufacture of cotton hooked rugs, and that there were many sellers there at the time when he bought these rugs from Kamitani. At the time he purchased these rugs he discussed possible purchase transactions with other manufacturers. The agreed price (14 cents) for the rugs did not include delivery, packing, or any other charges.
+A representative of Tosho Co., Ltd., was present when Mr. Haddad bought these rugs from Kamitani. Mr. Haddad outlined the services which Tosho Co., Ltd., furnish as agents of the buyer.
+Haddad & Sons, Inc., have purchased rugs from other manufacturers at various times. Mr. Haddad identified some of the manufacturers from whom he bought. When asked “did they offer to sell to you at any price,” he replied merely that they offered to sell at ex-factory prices.
+As to the export charges which are recited in the invoices, Mr. Haddad said that there was no agreement to pay such charges to Kamitani. He explained how he prepares a master letter of credit, drawn to Tosho Co., Ltd., in payment for merchandise which he buys in Japan. All charges are paid to Tosho Co., Ltd., who, in turn, invoice the merchandise to Haddad & Sons, Inc. The price paid for the rugs was an ex-factory price.
+On cross-examination Mr. Haddad testified that the only memorandum of the Kamitani sale was an entry in a book kept by Tosho Co., Ltd. Kamitani is a small company. This purchase order was not for the entire stock of that supplier. These rugs were not a stock item, but were manufactured on Mr. Haddad’s order. He did not know the prices at which other manufacturers were selling cotton hooked rugs; he only knew the prices which they quoted him. He did not know whether Kamitani sold cotton hooked rugs to anyone else “at higher or lower price, or at the same price.”
+The affidavit (exhibit 5) of Takashi Kamitani, managing director of Kamitani Sangyo KK, verified January 22, 1963, before the Vice Consul of the United States in Osaka, sufficiently establishes that Kamitani sold cotton rugs, in 1958 and 1959, on an ex-factory basis; that is, “for pick-up at the factory.” Affiant states that Kamitani “was willing to sell the same cotton rugs to any buyer wlio will pay the same price in full at time of pick-up at the factory” and, also, that “in 1958 and 1959 [Kamitani] did sell 100% cotton rugs sizes 19" x 29" to any other buyers for export to the United States and the sales were made in the usual custom at ex-factory prices for pick-up at the factory by the buyer if full payment was made at date of pick-up.”
+The difficulty in appellant’s case is that its proofs do not conform to the requirements of amended section 402 (b). Under the new law, we never get to consideration of offers to sell, in arriving at export value, save only in the absence of freely made sales. Here there were sales during this period, both by Kamitani, a small manufacturer, and by the other manufacturers located in the same important center of the Japanese cotton hooked rug industry.
+We know there were sales. The record is clear on that point. We do not know, for the proofs fail to state, the price or prices at which sales were made. Mr. Haddad said he did not know the sales prices, except to his firm. The record shows that 14 cents was a bargained price, obtained after shopping other suppliers. Nowhere does the record show the price or prices at which cotton hooked rugs, in sizes 19 by 29 inches, “were freely sold ... in the principal markets of the country of exportation, in the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States . . . .”
+There is proof of offers; but as stated in W. J. Byrnes & Company v. United States, 50 Cust. Ct. 406, Reap. Dec. 10451 (application for review dismissed, United States v. W. J. Byrnes & Company, 50 Cust. Ct. 574, A.R.D. 158), “. . . actual sales, if the merchandise is freely sold, are the sole measure of export value. If there are no actual ‘free’ sales, and only in that event, then offerings for sale are the measure of export value under the new law.” (50 Cust. Ct. 406, at p. 410; emphasis added.)
+The record shows that sales of cotton hooked rugs were freely made in Japan in 1958 and 1959. Indeed, appellant argues that sales were freely made, and the Kamitani affidavit supports this contention. Therefore, the statutory provision which is applicable, in the absence of free sales, is not applicable here.
+What appellant asks is that, on a record which shows sales freely made, but without proof of the sales prices, we should accept the prices at which rugs were freely offered by Kamitani. This is not such proof as section 402(b) requires.
+It is too well established to require citation of authorities, that plaintiffs in reappraisement have a double burden of proof. This was succinctly stated in West End Auto Wrecking Co., Inc. v. United States, 31 Cust. Ct. 465, A.R.D. 31, as follows:
+It is well recognized that the party appealing for a reappraisement has the twofold burden of not only overcoming the statutory presumption of correctness attaching to the value found by the appraiser, but also of establishing the correct dutiable value of the merchandise in order to prevail. Sears, Roebuck & Co. v. United States, 31 C.C.P.A. (Customs) 36, C.A.D. 246; Harry Garbey v. United States, 24 C.C.P.A. (Customs) 48, T.D. 48332.
+As we find no substantial evidence to support the contention of the appellant, we are unable to find an export value for the merchandise different from the value returned by the appraiser.
+W e make the following findings of fact:
+1. The merchandise covered by these consolidated appeals for re-appraisement consists of cotton hooked rugs, size 19 by 29 inches, exported from Japan on or about March 31, 1958, and February 25, 1959.
+2. Said merchandise was appraised at $0.17 per square foot, net, packed, on the basis of export value, as that value is defined in section 402(b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956.
+3. It is the claim of the plaintiff that the proper export value of said merchandise is $0.14 per square foot, as to some of these rugs, and $0.15 per square foot as to other rugs, in each case ex-factory, plus cost of packing and labeling.
+4. The record shows that sales of such or similar rugs were freely made in Sakai, the principal market in Japan, at or about the times of exportation of these rugs.
+5. The record is insufficient to show the prices at which such sales were made.
+We, therefore, conclude:
+1. That export value, as that value is defined in section 402(b) of the Tariff Act of 1930, as amended by the Customs Simplification Act of 1956, is the proper basis for the determination of the value of the merchandise covered by these consolidated appeals for reappraisement.
+2. That such export value is the price at which the merchandise was freely sold to all purchasers in the usual wholesale quantity in the ordinary course of trade for export to the United States at or about the time of exportation of this merchandise.
+3. That plaintiff below has not established, by sufficient proofs, the values it claims, or any other values than those found by the appraiser.
+4. The export value of the rugs of these appeals for reappraisement is the appraised value.
+The judgment below is affirmed.
