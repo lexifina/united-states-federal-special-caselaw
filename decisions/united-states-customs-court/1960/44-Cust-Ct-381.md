@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "63935; protest 58/14163 (San Francisco)"
+decided: "1960-03-09"
+citations: ["44 Cust. Ct. 381"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Pelton Enterprises, Inc., and Hoyt, Shepston & Sciaroni v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6602026
+cites_cases: ["11 Ct. Cust. Appls. 499", "120 U.S. 264", "14 Ct. Cust. Appls. 112", "153 U.S. 32", "159 U.S. 500", "223 U.S. 501", "28 Cust. Ct. 8", "86 Treas. Dec. 121", "91 Treas. Dec. 150"]
+---
+
+# Pelton Enterprises, Inc. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+The merchandise under consideration consists of 100 womout :and obsolete print rollers, which were assessed with duty at 57 per centum ad 'valorem and $5 each under paragraph 395 of the Tariff Act of 1930, as modified 'by the Sixth Protocol of Supplementary Concessions to the General Agreement •on Tariffs and Trade, 91 Treas. Dec. 150, T. D. 54108, which provides as follows:
+(Print rollers, of whatever material composed, with raised _ _70/ . patterns of brass or brass and felt, finished or unfin- 'P c /o ished, used for printing, stamping or cutting designs. va ’
+Plaintiffs contend that the involved print rollers in their condition as im-iported are incapable of being used as print rollers for printing, stamping, or •cutting designs and that they are “waste,” properly dutiable at 4 per centum :ad valorem under paragraph 1555 of the Tariff Act of 1930, as modified by the ’Torquay Protocol to the General Agreement on Tariffs and Trade, 86 Treas. Dec. 121, T. D. 52739, which provides as follows:
+'Waste, not specially provided for_4% ad val.
+The record in the instant case consists of the testimony of one witness and a. ■sample of the merchandise, similar in all material respects to that covered by •the instant importation, which was received as plaintiffs’ illustrative exhibit 1.
+The witness called on behalf of plaintiffs, after having established his qualifications in the wallpaper field, including manufacturing, designing, coloring, ■and familiarity -with the production and distribution.problems for a period of approximately 30 years, testified that he is familiar with the merchandise covered by the importation under consideration; that he examined all of the rollers and found them to be obsolete, wornout, and consisting of odd rollers; that, in order to print wallpaper, the manufacturer must have 12 rollers of the same pattern; ■that, in his examination of the merchandise, he found only two matching rollers; that the merchandise could not be used for the printing of wallpaper for the .additional reason that the printing machines in use today use a different process of manufacture; that the roller is made from aluminum rather than wood. The witness further testified that the printing machines are handmade in England •and Germany, and the rollers must be made for the particular size of the machine •in order to be used as a print roller; that the roller must be exact and perfect in order to obtain a clear print; that the patterns of the imported rollers are -quite low and would not produce a clean cut; that the imported rollers had a high percentage of warpage, which would prevent their use as print rollers and -some had cracks. It was further stated that exhibit 1 could not be used for the printing of linoleum, since the rollers for the production of linoleum.are ap•proximately 6 feet long, whereas the involved articles are approximately 20 inches long.
+The only purpose for which the print rollers were suitable, in the opinion of ■the witness, and for which they were imported, was for the manufacture of /lamps or bookends. It was stipulated by and bétween counsel for the respective ■parties that the subject print rollers were not lamps in their condition as imported and were in chief value of brass and not plated with platinum, gold, ■silver, or colored with gold lacquer.
+The term “waste” for tariff purposes has been the subject of frequent judicial expression. In the case of Harley Co. v. United States, 14 Ct. Cust. Appls. 112, T.D. 41644, the court stated:
+In the tariff sense, waste is a term which includes manufactured articles -which ’ ihave become useless for the original purpose for which they were made and fit only for remanufacture into something else. It also includes refuse, surplus, and useless stuff resulting from manufacture or from manufacturing processes and commercially unfit, without remanufacture, for the purposes for which the original material was suitable and from which material such refuse, surplus, or unsought residuum was derived. The latter class of waste might be appropriately designated as new waste and includes such things as tangled spun thread, coal dust, broken or spoiled castings fit only for remanufacture. T.D. 33376; Willets v. United States, 11 Ct. Cust. Appls. 499, 500, 501; Sohlesinger v. Beard, 120 U.S. 264; Seeberger v. Castro, 153 U.S. 32; Patton v. United States, 159 U.S. 500, 505, 509; Latimer v. United States, 223 U.S. 501-503.
+Subsequently, in the case of United States v. C. J. Tower & Sons, 31 C.C.P.A. (Customs) 185, C.A.D. 271, the court, in citing the Harley case, supra, made the following observation:
+As appears from the quoted statement in the Harley Co. case, supra, there are two kinds of waste; namely, one, a manufactured article which, because of use or otherwise, has become useless for the purpose for which it was designed and is fit only for remanufacture; and, two, so-called “new waste,” which is refuse material resulting from a manufacturing process and which is commercially unfit without remanufacture for the purpose for which the original material was suitable.
+The above cases were cited with approval in a more recent decision of this court in the case of The Midwest Waste Material Co. and E. J. Keller Co., Inc. v. United States, 28 Cust. Ct. 8, C.D. 1382.
+Based upon the foregoing decisions and the record made herein, we are of the opinion that the involved print rollers in their condition as imported are incapable of being used as print rollers for printing, stamping, or cutting designs, within the purview of paragraph 395 of the Tariff Act of 1930, as modified, supra. We are further of the opinion that the subject merchandise, by virtue of its condition as imported, is a manufactured article which has become useless for the original purpose for which it was made, is fit only for remanu-facture into something else, and is, accordingly, properly dutiable as “waste,” as that term is utilized in paragraph 1555 of the Tariff Act of 1930, as modified, supra, as claimed herein by plaintiffs.
+To the extent indicated, the specified claim in the above suit is sustained; in all other respects and as to all other merchandise, all the claims are overruled.
+Judgment will be rendered accordingly.
