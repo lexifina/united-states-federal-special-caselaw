@@ -1,0 +1,27 @@
+---
+court: "United States Customs Court"
+docket: "58184; petitions 6905-R and 6906-R (Pittsburgh)"
+decided: "1954-06-10"
+citations: ["32 Cust. Ct. 533"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mine Safety Appliances Company v. United States,"]
+source_url: "https://static.case.law/cust-ct/32/cases/0533-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6651434
+---
+
+# Mine Safety Appliances Co. v. United States
+
+## Majority (Johnson, Judge:)
+
+Johnson, Judge:
+These are petitions filed under authority of section 489 of the Tariff Act of 1930 for the remission of additional duties assessed for undervaluation of importations of certain instruments, called cascade impactors, designed to measure dust particles in the air after an explosion.
+Three witnesses testified for the petitioner and the appraiser testified for the respondent. Prom the evidence, it appears that the petitioner’s experience in importing merchandise is confined solely to these cascade impactors; that since the year 1949 until August and November 1951, the dates of the entries in question, there had been seven shipments, and the price during that period had doubled. However, there was no coordination between the purchasing department of the petitioner and the department handling import entries. The filing of entries was left to the petitioner’s customhouse broker, who, before making entry, had noticed a discrepancy in prices and had called the chief clerk to' determine if the invoice prices represented the proper values. Upon being told by such party that they were correct, so far as he knew, entry was made at the invoice prices. The broker apparently did not pursue his inquiry further, except to submit the invoices and the submission sheets to the appraiser. Receiving negative answers as to any knowledge of an increase in value, the broker filed the entries upon the basis of the invoice prices.
+When the invoices came before the appraiser, it became apparent to him that something was 'wrong with the invoice prices because there were two different prices for the identical article upon one of the invoices. He went to the chief clerk of the petitioner, inquired about the items, and asked him to produce the file, which was then obtained from the purchasing department and submitted for his inspection. He discovered among the papers that there was a notification to the effect that the price had increased on July 2, 1951. Upon the basis of such information, the appraiser made his advance in value. It also developed that, since the occasion of the advance in value by the appraiser and the accompanying additional value for undervaluation assessment, the petitioner had coordinated his purchasing and receiving departments in order that the receiving department might be alerted as to the proper values at which to enter its merchandise.
+All of petitioner’s witnesses testified that, in making entry at a value less than the final appraised value, they had no intention to defraud the revenue of the United States or to conceal or misrepresent the facts of the ease or to deceive the appraiser as to the value of the merchandise.
+It is apparent from the evidence that the petitioner’s employee who had charge of the filing of entries did not have the slightest conception of the responsibility resting upon him to enter merchandise at the proper market value on the date of shipment. Nor did the purchasing department of the petitioner seem to realize that the value on the date of shipment, rather than the purchase price, is the only value which is of interest to the Government, or else the importing department would have been advised by the purchasing department as to a change in price.
+Section 489, providing for the remission of additional duties, was written into the Tariff Act of 1930 to provide honest importers an opportunity to establish that the undervaluation of merchandise imported by them was without any intention to defraud the revenue. Each case, therefore, must rest upon the facts presented therein.
+The court is of opinion in the circumstances presented that the petitioner, in making entry at less than the market value, was without intention to defraud the revenue of the United States or to conceal or misrepresent the facts of the case or to deceive the appraiser as to the value of the merchandise. When the same invoice has identical items thereon at different prices, causing the appraiser to make inquiry concerning which was the correct price, there certainly was no intent on the part of the petitioner to attempt to deceive or defraud the revenue. One would ordinarily attempt fraud and deceit through the means of concealment. Although ignorance of the law is not to be accepted as an excuse for the utter disregard thereof, nor is carelessness in making entry to be condoned, a finding of mere carelessness or gross ignorance in making entry at improper values should not be used as a criterion in determining whether there is an intent on the importer’s part to defraud, particularly when the invoices before the appraiser lead him to believe that a mistake must have been made as to the identical items thereon at lower prices, giving him an opportunity to ascertain from the petitioner the proper market value.
+For the reasons stated, judgment will be entered in favor of the petitioner granting the petition.
