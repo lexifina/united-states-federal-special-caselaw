@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "60662; protests 240410-K, 241081-K, and 242324-K (New York)"
+decided: "1957-04-17"
+citations: ["38 Cust. Ct. 475"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Keuffel & Esser Co. v. United States,"]
+source_url: "https://static.case.law/cust-ct/38/cases/0475-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6605390
+cites_cases: ["28 U. S. C. § 2636", "30 Cust. Ct. 193"]
+---
+
+# Keuffel v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that the issues are the same in all material respects as those the subject of John P. Herber & Co., Inc. v. United States (30 Cust. Ct. 193, C. D. 1519), the protests were dismissed, and the matters were remanded to a single judge sitting in reappraisement for determination of the value of the merchandise in the manner provided by law (28 U. S. C. § 2636 (d)).
