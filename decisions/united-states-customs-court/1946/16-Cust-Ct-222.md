@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "50879"
+decided: "1946"
+citations: ["16 Cust. Ct. 222"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 111751-K, etc., of C. J. Tower & Sons (Buffalo)."]
+source_url: "https://static.case.law/cust-ct/16/cases/0222-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6615312
+cites_cases: ["14 Cust. Ct. 94"]
+---
+
+# Protests 111751-K of C. J. Tower & Sons
+
+## Majority (Cline, J.)
+
+Opinion by
+Cline, J.
+It was stipulated that the merchandise is the same in all material respects as that passed upon in C. J. Tower & Sons v. United States (14 Cust. Ct. 94, C. D. 919). In accordance therewith the claim for free entry was sustained.
