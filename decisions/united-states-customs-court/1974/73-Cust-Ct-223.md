@@ -1,0 +1,72 @@
+---
+court: "United States Customs Court"
+docket: "C.R.D. 74-8; Court Nos. 66/36724, etc."
+decided: "1974-08-06"
+citations: ["73 Cust. Ct. 223"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gimbel Bros., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/73/cases/0223-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6571147
+cites_cases: ["297 F. Supp. 181", "62 Cust. Ct. 231", "66 Cust. Ct. 233", "66 Cust. Ct. 69", "67 Cust. Ct. 19", "69 Cust. Ct. 329"]
+---
+
+# Gimbel Bros. v. United States
+
+## Majority (Maletz, Judge:)
+
+Maletz, Judge:
+This is a motion by plaintiff for summary judgment in four consolidated actions. The question involved concerns the proper tariff classification of merchandise imported in 1964 and 1965 which, the parties agree, consisted of and was described in the invoices as:
+Racing car set with over & under track chicane, lap counter, start & finish gates, 2 Cooper sports racing cars, 20 pcs. track, spare contacts; Stock car road set with two (2) switches, remote control and with triple oval layout track; and Mini-Sport El.
+The imported merchandise was assessed at the rate of 35 percent ad valorem under item 737.90' of the tariff schedules, as modified, as “[t]oys * * * not specially provided for: [o]ther.” It is claimed to be dutiable at the rate of 10 percent ad valorem under the provisions of item 734.20 of the tariff schedules, as modified, for “[gjame machines * * * having mechanical controls for manipulating the action, and parts thereof.”
+To the extent relevant to the present motion, the recoi'd consists of the pleadings; two affidavits executed by William M. McDuffee, who has been plaintiff’s buyer of toys for some 36 years; interrogatories directed by defendant to plaintiff and answered by McDuffee; and the deposition of McDuffee taken by defendant.
+Plaintiff contends that on the basis of this record, there is no genuine issue as to any material fact and that plaintiff is entitled to judgment as a matter of law. Defendant ai-gues to the contrary that the record fails to establish the exact nature of the importations and that they are chiefly used as game machines. Thus, in defendant’s view, genuine issues of fact remain and summary judgment must be denied.
+In this setting, we ixow proceed to examine the record starting with McDuffee’s first affidavit which was executed in November, 1970. In that affidavit, McDuffee deposed that he purchased racing and stock car sets (including those involved here) in Hong Kong and Japan for the plaintiff-importer during 1964 — 65; that he was personally familiar with these sets and had viewed them in operation at various stores of the plaintiff; that plaintiff’s records showed that two of the protests here involved concerned the racing car sets which were imported from Hong Kong, one protest concerned the stock car road sets which were imported from Japan, and one protest concerned the Mini-Sport El sets which were imported from West Germany; and that he was personally familiar with the West German sets, although he did not purchase them.
+McDuffee further deposed that “all the above-mentioned sets consist of two cars, start and finish gates, lap counters, tracks of various shapes, aixd manipulative controls”; that “the above sets are games to be played by two players, each controlling his own vehicle”; that the purpose of the game is for one player to cause his particular vehicle to reach the finish gate before his opponent”; that “[e]ach player may regulate the speed of his vehicle by a manipulative device so that the vehicle’s speed may be increased, maintained or decreased, as desired by the player”; and that “[t]he game requires a degree of skill and dexterity on the -part of each player or the vehicle will leave the track before coming to the finish gate.”
+McDuffee also deposed that samples of the imported items were not available since all had been sold; and that the “Kader Road Racing Set, No. 3755” — a sample of which, it was stated, accompanied the affidavit — was currently being sold in plaintiff’s stores and was the same in all material respects as the imported items.
+A second affidavit of McDuffee, executed in July, 1972, was substantially similar to bis earlier affidavit witb the exception that in the latter affidavit McDuffee deposed that the “High Rev Dune Buggy Race Set” — a sample of which accompanied the affidavit — was currently being sold in plaintiff’s stores and was the same in all material respects as the imported items and was illustrative thereof.
+In answer to defendant’s interrogatories, McDuffee stated that the only document in existence which described the importations was an advertisement in the New York Daily News of September 27, 1964 which contained a photograph of the Kader set as ássembled and stated in part:
+[S]pectacular racing fun and thrills for kids and' adults
+* * * * * * *
+20-piece race set with 2 racing cars! It’s battery operated
+6-feet long, 2-feet wide “figure 8” over-and-under track
+2 colorful Cooper racing cars
+2 individual push-button speed controls
+automatic lap counter
+starting gate and finish line
+guard rails and crash bails
+On his deposition, McDuffee testified that “a racing car set is a competitive game consisting of two or more cars with track and * * * usually powered by electric or battery”; that a “stock car road set is exactly the same”; that he purchased items on the basis of actual samples and on the basis of his background and knowledge; that recently he had received from plaintiff’s agent in Hong Kong a Kader Road Racing set which, in his view, was the same as that in question here; that the speed of a racing car is increased or decreased by a control; that each car of a two-car set contains a control for the competitor; that the imported stock racing car sets made in Japan by Yonezawa were racing car sets; that the imported Mini-Sport El set made in Germany was not identical to but was in the same category as the Kader set in issue since it was a racing car set; that the sets as imported contained specific playing rules; that competition is involved whenever a set contains two cars, two tracks, two controls, and mechanical, battery or electric power; that there was no essential difference among the three types of importations in issue since they consisted of two or more cars, start and finish lines or gates, tracks of various shapes and kinds, and some kind of manipulative control on each car; and that many children merely let the vehicles travel around the track at the same time and “practice for when they meet a competitor.”
+An examination of the “Kader Road Racing Set” (defendant’s exhibit D) and of the “High Rev Dune Buggy Race Set” reveals that they are of plastic material and, except for the size of their component parts, are essentially the same with respect to their characteristics and nature of operation. Each set contains two racing cars, unassembled prefabricated tracks, a plunger control mechanism in each car, and a battery box. When assembled and the batteries installed, the cars move along the tracks at the desired rate of speed by the manipulation of the plunger control device.
+The Kader set which is contained in the record has accompanying instructions which read in pertinent part:
+The principal technique of operating a road racing car lies in the adequate control of its speed — that is, while the car is kept running at full speed, it is alertly guided against derailment. There will be an unbounded fun, if a game is played by two or more for a certain number of laps. * * *
+Racing Rules
+(1) After the appointment of a referee and the agreement on the number of competitors, the number of laps to be completed and the requisites for winning the game, the participating competitors may choose the car and the track in the presence of the Referee.
+(2) The competing cars shall be placed at the Start Sign (before the Lap Counter) and start running immediately after the Referee says: “Go”.
+* * * * * * *
+(5) During the course of racing, either of the competitors shall not do anything to obstruct the other’s car. Any such performance shall be considered as an offence against this rule. The Referee shall, thereupon, warn the competitor for correction. When such offence occurs three times, the results earned by the offender shall be nullified and the other competitor shall be declared as the winner.
+(6) The above are only for reference; competitors may make their own rules.
+The High Rev Dune Buggy Race set similarly contains racing instructions. These read in pertinent part, as follows:
+Suggested Competitions
+Championship Racing
+Start and Finish at the Start/Finish sign and count your own laps. Replace your own car if it spins off on a corner. The first to pass the finish sign wins.
+Handicap Racing
+Establish, your own handicap depending on the skill of the driver and the degree of tune of the car. The limit car starts from the start line and the handicap car starts from a measured distance behind the start line. The first past the finish sign wins.
+Time Trials
+Use either track, race one car for ten laps and time with a watch or clock. Record the time taken and see if you can improve your time as you gain more experience and skill.
+* * * * * * *
+Hints eoR Racing Deivees
+You will find, as all racing car drivers do, that you will have to reduce speed going into a comer, otherwise the car will spin off the track. Considerable skill can be developed in the fascinating study of where to shut off power and to re-apply power in cornering. Racing drivers do several practice laps before a race to find out the exact place before entering a corner where they should reduce speed. It is equally important to increase speed as soon as your car has actually started to turn the corner, if you want to win a race. Good racing drivers say that it is best to go slow into a corner and very fast out of it.
+Against this background, we consider now the legal aspects. At the outset, it is to be noted that “the common meaning of the term ‘game’ for tariff purposes refers to a competition or contest which involves skill, chance or endurance or any combination of these three elements, and which is played according to rules with the objective of winning.” Mego Corp. v. United States, 67 Cust. Ct. 19, 24, C.D. 4246 (1971). Further, “it is clear that the game provisions * * * are use provisions — which means that the articles must be chiefly used as games in order to be so classified.” Id. at 25. See also e.g., Western Importing Company v. United States, 62 Cust. Ct. 231, 234, C.D. 3734, 297 F. Supp. 181, 183-4 (1969). Thus in the present case, it was incumbent upon plaintiff to éstablish that the imported merchandise was chiefly used as a game machine or game.
+In this connection, the only evidence bearing even remotely on the use of the importations was (i) McDuffee’s statement in his affidavits that he had “viewed them in operation in various * * * [plaintiff’s] stores” and (ii) his deposition testimony that many children merely let the vehicles travel around the track at the same time and “practice for when they meet a competitor.” Such evidence, of course, falls far short of establishing chief use.
+There are, however, instances where examination of a sample shows that it has such particular characteristics and design features as to limit it to sole and exclusive use as a game. Thus, in Montgomery Ward & Co. v. United States, 66 Cust. Ct. 233, C.D. 4195 (1971), the court determined that the imported “Mother Hen Target Game Set” which, consisted of a target board, a spring-activated gun with ' plastic darts'arid four round eggs was classifiable as game equipment because it resulted in a “score” measuring one’s skill or luck or combination thereof against a given set of rules. Of special significance was the court’s conclusion that “examination of the sample, including the instructions, makes it apparent that the importation in question * * * is by its nature a game * * * [and that] there can be no conceivable use for it other than as a game.” 66 Cust. Ct. at 238.
+In the present case, by contrast, examination of the samples fails to show that the only conceivable use of the importations is as a game or game machine. No doubt the importations are used as a game. However, it is equally apparent from an examination of the samples that the imported merchandise is capable of being used not as a game but as a toy for the amusement of children or adults. For example, it seems clear that just as children or adults derive amusement from controlling the movement of electric trains along the tracks, so here they would derive similar amusement from merely controlling the cars’ movement along the tracks. It also seems clear that many children would derive amusement from the sets by letting one or two cars simply travel around the track. In short, neither the samples nor the evidence in the record establishes that the importations were chiefly used as games or game machines. Accordingly, plaintiff’s motion for summary judgment is denied.
+The racing car sets were manufactured by Kader Industrial Co., Ltd., Hong Kong.
+The stock car road sets were manufactured by Yonezawa of Tokyo.
+The Mini-Sport El sets were manufactured by the Hans Biller Company of- West Germany.
+At an earlier stage of this litigation, the court, oyer plaintiff’s objections, granted defendant’s cross-motion for an order extending its time to respond to plaintiff’s motion for summary judgment until 30 days after notifying the court that it had completed its discovery. See Gimbel Bros., Inc v. United States, 69 Cust. Ct. 329, C.R.D. 72-25 (1972).
+The record4 does not contain a sample of the “Kader Road Racing Set, No. 3755.”
+A sample of the "High Rev Dune Buggy Race Set” is contained in the record.
+This Kader set is contained in the record as defendant’s exhibit D to McDuffee’s deposition.
+In view- of this conclusion, it is unnecessary to reach the question as to whether here, in the absence of samples of the actual importations, the present record is sufficient to inform the court as to the essential characteristics of the imported stock car road sets and the Mini-Sport El sets. See e.g., New York Merchandise Co., Inc. v. United States, 66 Cust. Ct. 69, C.D. 4169 (1971).
