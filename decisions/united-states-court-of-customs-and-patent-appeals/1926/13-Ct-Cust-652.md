@@ -1,0 +1,50 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2657"
+decided: "1926-03-27"
+citations: ["13 Ct. Cust. 652"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["American Burtonizing Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/13/cases/0652-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6094892
+cites_cases: ["104 Pa. St. 117", "13 Ct. Cust. Appls. 328", "17 Neb. 424", "2 Alaska 332", "47 Treas. Dec. 264"]
+---
+
+# American Burtonizing Co. v. United States
+
+## Majority (Bland, Judge,)
+
+Bland, Judge,
+delivered the opinion of the court:
+Certain tank filling machines, called zymateurs, composed of metal were, by appellant, imported from France. The appraiser reported the merchandise in question as not being legally marked, according to tbe requirements of section 304 of tbe Tariff Act of 1922, tbe pertinent portion of wbicb reads as follows:
+Sec. 304. (a) That every article imported into the United States, which is capable of being marked, stamped, branded, or labeled, without injury, at the time of its manufacture or production, shall be marked, stamped, branded, or labeled, in legible English words, in a conspicuous place that shall not be covered or obscured by any subsequent attachments or arrangements, so as to indicate the country of origin. Said marking, stamping, branding, or labeling shall be as nearly indelible and permanent as the nature of the article will permit. Any such article held in customs custody shall not be delivered until so marked, stamped, branded, or labeled, and until every such article of the importation which shall have been released from customs custody not so marked, stamped, branded, or labeled, shall be marked, stamped, branded, or labeled, in accordance with such rules and regulations as the Secretary of the Treasury may prescribe. Unless the article is exported under customs supervision, there shall be levied, collected, and paid upon every such article which at the time of importation is not so marked, stamped, branded, or labeled, in addition to the regular duty imposed by law on such article, a duty of 10 per centum of the appraised value, thereof, or if such article is free of duty there shall be levied, collected, and paidl upon such article a duty of 10 per centum of the appraised value thereof, *******
+In addition to tbe regular duty tbe collector assessed 10 per cent um on the appraised value under tbe provisions of said section. Tbe importer protested tbe additional duty of 10 per centum, which protest tbe Board of General Appraisers overruled. From the judgment of tbe Board of General Appraisers tbe importer appealed to this court.
+Tbe only marking on tbe machines, wbicb is claimed to comply with tbe marking section, was in tbe form of a metal plate, which, bore tbe following words:
+Societe d’Appareillage et Forges de Villers-Cotterets (Aisne).
+Counsel for appellant cite tbe Century Dictionary definition of the-word “indicate,’' wbicb is as follows:
+to point out; show; suggest; to give a suggestion of; serve as a reason or ground for inferring, expecting, using, etc.; merely suggest; hint.
+Three decisions Charlton v. Kelly, 2 Alaska 332, 534, State v. Loveless, 17 Neb. 424, 426, and Coyle v. Commonwealth, 104 Pa. St. 117, 133, are cited, which, according to tbe contention of appellant,, support tbe dictionary definition of tbe word “indicate.” From: this premise it is ingeniously argued that tbe word “ Aisne” certainly “indicates” France. Attention is called to tbe fact that since the-World War this Department in France is known throughout the-world.
+It is furthermore contended by importer that tbe case of Vandegrift & Co. v. United States, 13 Ct. Cust. Appls. 328, T. D. 41235, is. not decisive of tbe issue at bar, in so far as in that case tbe word! “Napoli” was an Italian name, the English equivalent of which was. "Naples,” whereas in the case at bar “Aisne” is both the French and English name of the Department. T. D. 40729, A. H. Ringk & Co. v. United States, 47 Treas. Dec. 264, is also relied upon by appellant.
+Obviously, the purpose of section 304, which goes into great detail as to how the marking shall be done, was to require a marking such as would be understood by purchasers of foreign-made goods as giving definite and reliable information as to the country of origin. It is not reasonable to suppose that Congress, by the use of the word “indicate,” meant only that the words used should hint at the country of origin. The object sought to be obtained by the legislature could best be obtained by an indication which was clear, plain, and unambiguous and which did more than merely hint at the country of origin. We do not think that Congress intended that American purchasers, consumers, or users of foreign-made goods should be required to speculate, investigate, or interpret in order that they might ascertain the country of origin.
+The word “Aisne” on the plate, to some, might indicate that something about the importation had something to do with a part of France. Doubtlessly, the word, if used alone, to many, would convey no information whatever, and since the word is placed in parentheses and is used in connection with a number of French words which have no meaning to one not familiar with the French language, and since there is no word or words used in connection with the word ‘ ‘Aisne ” which indicates why it is found on the plate, it is doubtful if it, in any sense, indicates the country of origin. If the word “France” was substituted on this plate for the word “Aisne,” it would not be certain that the goods could be said to be marked to indicate the country of origin. We are not deciding this question, however, but make reference to the fact only in view of the reliance, by importer, upon the Board of General Appraisers’ decision, T. D. 40729, supra.
+In the board’s decision last referred to, a copper plate on the imported merchandise contained the following inscription:
+Maschinenfabrik Otto Pieron
+Abt. Rudolph & Kuhne
+Bocholt I. W. — Berlin
+Maschine No. 1745, 1923 2 Atm
+The collector refused to accept such marking and required the word “Germany” to be used. In that case the appraiser had indicated in his report that he might have accepted as sufficient the words, “made in Berlin” had they been used. The board decided that “The word ‘Berlin’ would have been judicially recognized as in Germany, if it had not been connected and confounded with the other foreign words and characters, evidently not understood by the customs officer, and not understood by us. * * *” Surely it can not be seriously contended that this decision supports the contention of appellant in the case at bar.
+In Vandegrift v. United States, supra, the merchandise consisted of round cheeses weighing from 17 to 20 pounds each, which had been marked by attaching thereto circular metallic tags about 234 inches in diameter. Around the upper half of the periphery of the exposed face of the tag was printed: “PRODUZIONE SPECIALE.” Within the semicircle made by these two words the following words appeared:
+DELIA DITTA
+FRANCESCO
+ALBANO
+NAPOLI
+The lower half of the exposed face contained a picture representing sheep. Immediately thereunder, in letters smaller than any other on the face of the tag appeared the words: “Trade Mark Copyright 1922.” And around the periphery of the lower half of such face were the words: “MADE FROM PARTIALLY SKIMMED MILK.” The court said:
+The contention of the Government is that the provision of the statute, that the country of origin shall be indicated in legible English words, is plain and unambiguous and that the word “ Napoli” on these tags does not comply therewith.
+We think this contention must be upheld. “Napoli” is not, nor is it claimed to be, an English word. The board found it was a Latin word, the English equivalent of which is “Naples.” Of itself, “Napoli” does not indicate the country of origin of the cheeses to which the tags are affixed. The other matters appearing on the face of the tag throw no light whatever upon the question of the country of origin, if, indeed, they do not render it obscure. Those sufficiently learned to know that “Napoli” means Naples when translated into English, may, perhaps, assume that that city was the place where the cheeses received some treatment, but it can not be said that the country of origin is indicated thereby. To hold that it sufficiently indicates such country would be to say that the name of any foreign city, great, or small, insignificant or important, well or little known, marked, stamped, or branded upon merchandise, with no other words whatever to indicate that the merchandise itself was there produced or manufactured, would be a compliance with the statute.
+We tbink this court, by its decision, in this case, settled the issue in the case at bar. In the instant case, as in the Vandegrift case, the words and characters used in connection with the word which is claimed to “indicate,” would be calculated to confuse one seeking to determine the country of origin, rather than to inform him. In the instant case, there is nothing to indicate that the goods were made in France, or for that matter in Aisne.
+An examination of the plate might suggest to some the possibility that either the goods, or the manufacturer of the goods, or the seller of the goods, or someone else connected with the goods, were in some way connected with a department in France. While ’we are not holding that the plate, in order to comply with the statute, should have contained the words, "made in France,” we can see no good reason why these words were not used if a good faith effort was made to comply with the marking statute in question.
+We do not believe that the plate in question is in compliance with the requirements of the section, and the judgment of the Board of General Appraisers is affirmed.
