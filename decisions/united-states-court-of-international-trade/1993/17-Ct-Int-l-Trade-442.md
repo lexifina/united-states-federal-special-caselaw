@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Consolidated Court No. 91-07-00530"
 decided: "1993-05-25"
-citations: ["17 Ct. Int'l Trade 442", "822 F. Supp. 782", "17 Ct. Int'l Trade 440", "839 F. Supp. 864"]
+citations: ["17 Ct. Int'l Trade 442", "822 F. Supp. 782"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Federal-Mogul Corp., plaintiff and plaintiff-intervenor, and Torringt
 source_url: "https://static.case.law/ct-intl-trade/17/cases/0442-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6133429
-cites_cases: ["12 CIT 343", "12 CIT 825", "15 CIT 124", "16 CIT 654", "16 CIT 861", "17 CIT 251", "17 CIT 88", "19 C.F.R. § 353.22", "19 U.S.C. § 1675", "219 U.S. 498", "28 U.S.C. § 1581", "28 U.S.C. § 2640", "305 U.S. 197", "410 U.S. 113", "416 U.S. 312", "54 Fed. Reg. 12,742", "55 Fed. Reg. 23,575", "56 Fed. Reg. 11,186", "56 Fed. Reg. 29,621", "56 Fed. Reg. 31,378", "56 Fed. Reg. 31,692", "56 Fed. Reg. 31,754", "57 Fed. Reg. 28,360", "57 Fed. Reg. 29,700", "685 F. Supp. 1252", "696 F. Supp. 665", "760 F. Supp. 200", "799 F. Supp. 116", "802 F. Supp. 453", "813 F. Supp. 856", "98 Stat. 3031"]
+cites_cases: ["12 CIT 343", "16 CIT 654", "16 CIT 861", "17 CIT 251", "17 CIT 88", "19 C.F.R. § 353.22", "19 U.S.C. § 1675", "219 U.S. 498", "28 U.S.C. § 1581", "28 U.S.C. § 2640", "305 U.S. 197", "410 U.S. 113", "416 U.S. 312", "54 Fed. Reg. 12,742", "55 Fed. Reg. 23,575", "56 Fed. Reg. 11,186", "56 Fed. Reg. 29,621", "56 Fed. Reg. 31,378", "56 Fed. Reg. 31,692", "56 Fed. Reg. 31,754", "57 Fed. Reg. 28,360", "57 Fed. Reg. 29,700", "685 F. Supp. 1252", "799 F. Supp. 116", "802 F. Supp. 453", "813 F. Supp. 856", "98 Stat. 3031"]
 ---
 
 # Federal-Mogul Corp. v. United States
