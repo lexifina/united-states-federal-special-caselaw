@@ -1,0 +1,35 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1382"
+decided: "1914-05-28"
+citations: ["5 Ct. Cust. 336"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["United States v. Elgin National Watch Co."]
+source_url: "https://static.case.law/ct-cust/5/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3880052
+cites_cases: ["1 Ct. Cust. Appls., 494", "150 U. S., 70", "26 Treas. Dec., 946"]
+---
+
+# United States v. Elgin National Watch Co.
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The single question here is whether the provision in paragraph 449 of the tariff act of 1909 for "imitation precious stones, including pearls and parts thereof, for use in the manufacture of jewelry, doublets, artificial, or so-called synthetic or reconstructed pearls and parts thereof, rubies, or other precious stones, 20 per cent ad valo-rem, ’ ’ under which the merchandise hereinafter described was assessed, should govern its classification or whether it should be classified under the provision in paragraph 192 of the same act for "all jewels for use in the manufacture of watches, * * * 10 per cent ad valorem,” as claimed by the importer and held by the Board of General Appraisers.
+Upon the hearing of the protest by the board, an examiner at the port of Chicago, where the merchandise was entered, testified on behalf of the importer. The Government was represented by its special attorney, but called no witnesses. Before being sworn the examiner said in substance, as representing the appraiser, he would admit that the claim in the protest was well founded, and that similar merchandise was now being passed as claimed by the importer in this case. This fact was referred to in the board’s opinion as making in favor of the importer’s claim. We can not, however, consider this as an admission against the Government, because there is nothing to show either that the examiner or appraiser represented the Government at the hearing or had authority to make such an admission.
+The merchandise was returned by the appraiser as reconstructed precious stones, and was described by him as reconstructed ruby watch jewels. The collector evidently construed the quoted part of paragraph 449 as providing for reconstructed or synthetic rubies or other precious stones without limitation as to use or otherwise.
+The examiner testified before the board that he was familiar with the merchandise, and that it was “watch jewels” made of reconstructed precious stones. We assume that the merchandise is watch jewels made of reconstructed rubies. This seems to be the purport of the board’s opinion, and the Government claims such to be the fact.
+The Government contends that the provision for reconstructed rubies in paragraph 449 eo nomine describes the merchandise and is more specific than the term “all jewels for use in the manufacture of watches” in paragraph 192. The importer submits upon the record and the board’s opinion.
+It is urged by the Government that the provision for “all jewels for use in the manufacture of watches” was in prior tariff laws; that a specific reference to reconstructed rubies was first made in the act of 1909, as a result of litigation over the classification of such merchandise; and that it must be presumed that Congress thereby designed to withdraw from the then existing provision for “all jewels for use in the manufacture of watches, ” such as were made of reconstructed rubies.
+A reference to preceding tariff laws discloses that in the acts of 1890 and 1894 jewels to be used in the manufacture of watches were given free entry, while in the act of 1897 the identical provision was made therefor that appears in paragraph 192, above quoted. The provision in the act of 1909 for reconstructed rubies and other like articles appears to be the first legislative action relating directly to that subject. Prior thereto reconstructed or synthetic rubies seem to have been held by the board to be dutiable either directly or by similitude as imitation precious stones. G. A. 5394 (T. D. 24601), G. A. 6336 (T. D. 27278), and G. A. 3317 (T. D. 16729). So far as we can learn, these cases did not involve reconstructed ruby watch jewels.
+It may be assumed that Congress in the act of 1909 undertook to settle the classification of these synthetic or reconstructed stones of the character named in paragraph 449, the classification of which in a measure was unsettled and had been somewhat in litigation. Bub the legislative history we have referred to indicates that jewels for watches, not only in prior tariff laws but in the act of 1909 also, were considered as entitled to preferential treatment, as compared with other articles of the same 'material not designed for use as watch jewels. The specific mention of synthetic or reconstructed rubies in the act of 1909 does not, therefore, in our opinion, signify any intention on the part of Congress to depart from its long-continued favorable treatment of-watch jewels. It is safe to assume that not all synthetic or reconstructed rubies are used for watch jewels, and hence the provision for such articles finds scope for application if watch jewels of reconstructed rubies are excluded therefrom.
+The two paragraphs of the act of 1909, for the purposes of this case, should, we think, be construed together and as if reading substantially as follows: "Reconstructed rubies shall be dutiable at twenty per centum ad valorem, provided that all jewels composed of reconstructed rubies for use in the manufacture of watches shall nevertheless be dutiable at ten per centum ad valorem.”
+The merchandise here is watch jewels made of reconstructed rubies. Just how far they have been processed to fit them, for that use the evidence does nob show, except that the witness testified they were "watch jewels.” The official samples before us are minute articles, each having a hole in the center presumably designed to receive the mechanism of the watch which is appropriate therefor. The record does not suggest, and it is not claimed, that they are suitable for any other purpose, and we think their condition and the witness’s statement that they are "watch jewels” support the conclusion that they can not in their present condition be practically devoted to any other use or purpose.
+We think these watch jewels are more specifically provided for in paragraph 192 than in paragraph 449. The cases of Magone v. Heller (150 U. S., 70) and Athenia Steel & Wire Co. v. United States (1 Ct. Cust. Appls., 494; T. D. 31528) may be referred to in this connection.
+We have carefully examined the cases cited by the Government in support of its contention here and are unable to find therein any reasoning or adjudication that requires a different disposition of this case than that already indicated.
+The judgment of the Board of General Appraisers is affirmed.
