@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-975"
+decided: "1992-10-05"
+citations: ["3 Vet. App. 305"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, Associate Judge."]
+parties: ["Joseph F. MERSON, Appellant, v. Anthony J. PRINCIPI, Acting Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/3/cases/0305-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6472537
+cites_cases: ["1 Vet. App. 49", "1 Vet.App. 127", "1 Vet.App. 155", "1 Vet.App. 93", "2 Vet.App. 625", "38 C.F.R. § 4.21", "38 C.F.R. § 4.97", "38 U.S.C. § 7104", "38 U.S.C. § 7252"]
+---
+
+# Merson v. Principi
+
+## Majority (KRAMER, Associate Judge:)
+
+MEMORANDUM DECISION
+KRAMER, Associate Judge:
+Appellant appeals a decision of the Board of Veterans’ Appeals (BVA or Board), dated May 23, 1990 (BVA decision), which denied: an increased rating for a chronic obstructive pulmonary disease (COPD), currently rated 60% disabling (Issue 1); an effective date prior to February 17, 1988 for that rating (Issue 2); and a total disability rating due to unemployability attributable to service connected disabilities (Issue 3). The Court has jurisdiction of the case under 38 U.S.C. § 7252(a) (formerly § 4052(a)). The Court vacates and remands the BVA decision with respect to all three issues.
+Issue 1
+Prior to a rating decision of September 15, 1987, appellant was rated for his COPD under 38 C.F.R. § 4.97, Diagnostic Code (DC) 6600 (Bronchitis) (1991). The 1987 rating decision changed the DC to 6603 (Emphysema) (1991). Appellant contends that his diagnostic code should not have been changed, and that if he were rated under DC 6600 rather than DC 6603, he would have qualified for a 100% rating. While it is uncontested that not all of the symptomatology required for the 100% rating is present (i.e., “rightsided heart involvement”), 38 C.F.R. § 4.97, Diagnostic Code (DC) 6600 (1991), appellant argues that 38 C.F.R. § 4.21 (1991) relaxes the need for all required symptomatology to be demonstrated. The Secretary of Veterans Affairs (Secretary) responds that as the issue of appropriate diagnostic code was not raised before the BVA, it is not properly before the Court. See Branham v. Derwinski, 1 Vet.App. 93, 94 (1990).
+While the BVA decision did not discuss the possible applicability of any diagnostic code other than 6603, the issue of the severity of appellant’s COPD was certainly before the Board. Therefore, unlike Branham, where the BVA decision dealt solely with waiver of home loan indebtedness and appellant sought to introduce the new issue of release of indebtedness on appeal, the issue both before the BVA and here on appeal deals with the degree of disability arising from appellant’s COPD. In Pernorio v. Derwinski, 2 Vet.App. 625 (1992), the Court held that remand was appropriate in order for the BVA to explain why a particular diagnostic code was applied. Moreover, the Court has held that the BVA is to address “all issues reasonably raised from a liberal reading of appellant’s substantive appeal.” Myers v. Derwinski, 1 Vet.App. 127, 129-30 (1991). If more than one diagnostic code might reasonably apply to the same condition, and the application of one rather than another might result in a more favorable result for the veteran, the BVA must consider each, and state its reasons or bases for the diagnostic code selected for application, 38 U.S.C. § 7104(d)(1) (formerly 4004(d)(1)); Gilbert v. Derwinski, 1 Vet. App. 49, 57 (1990), including, where appropriate, a discussion of 38 C.F.R. § 4.21 (1991).
+Issue 2
+The BVA found that “[COPD] was no more than moderate prior to February 17, 1988.” Joseph F. Merson, BVA 90-16612, at 9 (May 23, 1990). In doing so, however, the BVA erroneously failed to discuss at least three documents which may indicate the condition was more severe: a pulmonary function lab report from Coaldale State General Hospital, dated December 2, 1985, which noted “[se]vere obstructive airways disease [with] significant improvement [with] bronchodilator” (R. at 18); a pulmonary interpretation report from the VA Medical Center, Wilkes Barre, Pennsylvania, dated April 1, 1986, which stated, “[t]here is a severe obstructive lung defect” (R. at 24); and an October 27, 1986 letter from Narciso C. Bauzon, M.D. which noted, and apparently endorsed, the Coal-dale report (R. at 36). 38 U.S.C. § 7104(d)(1) (formerly 4004(d)(1)); Gilbert, 1 Vet.App. at 57; Webster v. Derwinski, 1 Vet.App. 155, 159 (1991).
+Issue 3
+In reaching its decision that the appellant was not unemployable, the BVA stated, “[t]he demonstrated functional impairment associated with the [COPD] disorder would not ... rule out sedentary forms of work in keeping with the veteran’s past employment history.” Merson, BVA 90-16612, at 8. In so stating, however, the BVA erroneously failed to consider or analyze adequately the evidence referenced in the appendix to the Secretary’s brief; the evidence referenced in appellant’s brief (Br. at 7-10); and all relevant parts of the decision of the Social Security Administration, recommending that appellant is entitled to “disability” (only partly included in the record on appeal, R. at 180-83), any other relevant decisions of the Administration, and all medical records relevant to any such decisions. 38 U.S.C. § 7104(d)(1) (formerly 4004(d)(1)); Gilbert, 1 Vet.App. at 57; Webster, 1 Vet.App. at 159. The Court notes that because of the limited inclusion of the Recommended Social Security decision in the record, it is unclear why the appellant was disabled after June 18, 1987, but not before, or the extent that disability was attributable only to certain conditions (for which appellant is service connected.)
+For the reasons stated, the BVA decision is vacated and remanded for proceedings consistent with this decision. Upon remand, as the last evidence of record is dated 1989, appellant is free to present additional evidence to the BVA. If appellant presents such evidence, the BVA is free to order a new medical examination, if it chooses to do so.
