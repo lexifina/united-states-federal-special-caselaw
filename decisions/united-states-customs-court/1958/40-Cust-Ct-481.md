@@ -1,0 +1,27 @@
+---
+court: "United States Customs Court"
+docket: "61657; protest 303730-K (Boston)"
+decided: "1958-03-11"
+citations: ["40 Cust. Ct. 481"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wool Distributing Corporation v. United States,"]
+source_url: "https://static.case.law/cust-ct/40/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6603945
+---
+
+# Wool Distributing Corp. v. United States
+
+## Majority (Wilson, Judge:)
+
+Wilson, Judge:
+The merchandise at bar consists of 50 bales scoured combing wool which was assessed with duty on the basis of clean content at the rate of 27% cents per pound under paragraph 1102 (b) of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, T. D. 51802.
+At the trial, the case was submitted on the following stipulation entered into between counsel for the respective parties:
+Me. Ziegel: It is stipulated and agreed that the sworn weights covered by the weight certificate of T. McDonough, sworn weigher, represent the individual bale weights as detailed therein of the 50 bales herein, with a total gross weight of 10,659 pounds, and represent the normal increase in weight at the time of importation over the shipped weight.
+Further, that the tare of said 50 bales is 400 pounds, and that the weight return of the sworn weigher, said McDonough, may be received in evidence, and the weight of 10,659 pounds may be used as the basis of reliquidation.
+Me. Sklaeoff: So stipulated, * * *.
+Accepting this stipulation as a statement of fact, we hold the merchandise in question properly dutiable under paragraph 1102 (b) of the Tariff Act of 1930, as modified by the General Agreement on Tariffs and Trade, T. D. 51802, at the rate of 27% cents per pound of clean content on the basis of a total gross weight of 10,659 pounds with an allowance for tare.
+The protest is sustained to the extent indicated. In all other respects and as to all other merchandise, all the claims are overruled.
+Judgment will issue accordingly.
