@@ -1,0 +1,59 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "5334"
+decided: "1969-10-23"
+citations: ["57 C.C.P.A. 1", "416 F.2d 973"]
+reporter: "ccpa"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rich, Almond, Baldwin, Lane, Associate Judges, and Jones, Judge, sitting by designation."]
+parties: ["The United States v. Rudolph Miles"]
+source_url: "https://static.case.law/ccpa/57/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092458
+cites_cases: ["345 U.S. 59", "61 Cust. Ct. 245", "80 Stat. 218"]
+---
+
+# United States v. Miles
+
+## Majority (Almond, Judge,)
+
+Almond, Judge,
+delivered the opinion of the court:
+The United States appeals from the decision and judgment of the United States Customs Court, Third Division, holding that the involved merchandise, consisting of copper scrap, entered for consumption after February 8, 1966, should be reliquidated free of duty under Public Law 89-468, 80 Stat. 218, as claimed by appellee. The merchandise had been classified under item 612.10 of the Tariff Schedules of the United States as copper waste and scrap and assessed with duty at 1.7 cents per pound on 99.6% of the copper content.
+Liquidation of the involved entries was effected between March 7 and April 25, 1966. Request to reliquidate pursuant to Public Law 89-468 was filed on July 11, 1966 and denied on July 15, 1966, as being untimely. The protest in issue followed.
+The statutes involved are:
+■Schedule 6, Subpart O, Tariff Schedules of the United States.
+Copper waste and scrap:
+612.10
+Other_ 1.7^ per lb. on 99.6% of the copper content.
+Public Law 89-468, 80 Stat. 218, which provides in relevant part as follows:
+AN ACT
+To amend the Tariff Schedules of the United States to provide that certain forms of copper be admitted free of duty.
+Be it enacted 6y the Senate and House of Representatives of the United States of America im, Congress assembled, That subpart B of part 1 of the appendix to the Tariff Schedules of the United States (19 U.S.C., see. 1202) is amended by—
+(a) amending items 911.10, 911.11, to read as follows : and 911.12
+911.10
+Copper waste and scrap_ Free
+SBC. 2. The amendments made by the first section of this Act shall apply to articles entered, or withdrawn from warehouse, for consumption after February 8, 1966.
+Approved June 23,1966.
+Section 520(c) of the Tariff Act of 1930, as amended, 19 U.S.C. 1520(c) :
+(c) Notwithstanding a valid protest was not filed, the Secretary of the Treasury may authorize a collector to reliquidate an entry to correct—
+(1) a clerical error, mistake of fact, or other inadvertence not amounting to an error in the construction of a law, adverse to the importer and manifest from the record or established by documentary evidence, in any entry, liquidation, appraisement, or other customs transaction, when the error, mistake, or inadvertence is brought to the attention of the customs service within one year after the date of entry, appraisement, or transaction, or within sixty days after liquidation or exaction when the liquidation or exaction is made more than ten months after the date of the entry, appraisement, or transaction * * * .
+Also involved is section 514 of the Tariff Act of 1930, as amended, 19 USC 1514, relating to protest against collector’s decisions. Insofar as here material, this section provides that all decisions of the collector including, as here, his liquidation or reliquidation of any entry shall upon the expiration of sixty days thereafter be final and conclusive unless the party aggrieved thereby shall within sixty days file a protest in writing with the collector setting forth distinctly and specifically the reasons for objection thereto.
+The facts upon which the decision below was predicated were stipulated by the parties and are, in material substance, as follows:
+That the merchandise involved in the instant protest is copper scrap exported from Mexico, and entered for consumption between February 9, 1966 and April 18, 1966; that the entries were liquiated between March 7 and April 25, 1966; that on July 11, 1966 plantiff requested reliquidation of the subject entries and others on the ground that Public Law 89-468 was applicable; that on July 15,1966 the district director denied reliquidation as to the entries here involved on the ground that the liquidation had become final by virtue of the provisions of section 514, supra; that plaintiff claims that the •copper scrap liquidated prior to the enactment of Public Law 89-468 ■should have been reliquidated as duty free and that the defendant, .appellant here, asserts that the protest is untimely since the liquidations become final prior to receipt of the requests to reliquidate.
+The issue here is not one of fact but of law, which is whether Public Law 89-468 providing for free entry of copper scrap embraces importations of such merchandise which had been liquidated at the rate and amount of duty due under the law in force at the time of liquidation and had not been the subject of protest within the sixty-day period prescribed by section 514 of the Tariff Act of 1930, as amended, 19 USC 1514.
+The record discloses that the district director received the protest ■on August 23, 1966 which is obviously more than 60 days after the liquidations in March and April 1966.
+The court below addressed itself to the following inquiry:
+Is Public Law 89-468 retroactive as to liquidated entries final and conclusive under section 514 (defendant concedes it is retroactive to liquidations open to protest under section 514) ; did plaintiff have a protestable cause of action under section 514; did it timely protest that cause and did the district director have a duty to reliquidate the liquidated entries under Public Law 89-468, and refund the duties assessed?
+The Custom’s Court observed, and we agree, that insofar as the ■duty rates in effect at that time are concerned, the liquidations in March and April 1966 were correct. That protest was not made relative thereto resides in the fact that there was no tenable basis upon which it might have been predicated. The logical conclusion is that the importer did not complain because the applicable law had been properly applied. When Public Law 89-468 was approved on June ■23,1966, the time to protest the March 1966 liquidations had expired by virtue of the provisions of section 514, while approximately two •days of grace remained within which to protest the April 25, 1966 liquidations. While it is true that the rate and amount of duty assessable in liquidation is to be determined by the law in force and ■effect at the time of importation, it nevertheless lies within the province of the Congress to provide by statute subsequently enacted ■embodying the purpose and intendment to have retroactive application so that the merchandise embraced thereby may be subject to the duties therein defined.
+It is clear that Public Law 89-468 expresses on its face a retroactive intent in that it “shall apply to articles entered, or withdrawn from warehouse, for consumption after February 8, 1966." (Emphasis suppled.) The importations here involved clearly qualify to come within the ambit of the unequivocal language of the Act. To restrict the Act to unliquidated or unfinalized entries, would constitute, in onr judgment, an impingement by construction upon the plain terms of the Act itself. By reading what is in the Act and by not reading into the Act what is not there, as appellant contends, it is clear to us that by scope of language and purport all copper scrap imported between the specified dates is subject to a suspension of duties.
+We are in agreement with the rationale expressed by the Customs Court that:
+Public Law 89-468, in our opinion, clearly expresses a retroactive intent. * * * [Citations omitted] The district director in fact treated Public Law 89-468 retroactively in reliquidating sucb liquidated entries as be felt came within the section 514 reach of plaintiff’s letter of July 11, 1966, requesting reliquidations. * * * Defendant’s reference to other public laws Congress made applicable “notwithstanding the provisions of section 514 of the Tariff Act of 1930 or any other provision of law” * * * merely fells us that when brought to its attention Congress took special care to clear the legislation in terms of liquidated entries and section 514. Defendant does not cite, nor do we find, a bit of legislative history of what Congress intended with respect to liquidated entries under section 514 vis-a-vis Public Law 89-468, “It is not for us then to try to avoid the conclusion that Congress did not mean what it said,” Unexcelled Chemical Corp. v. United States, 345 U.S. 59, 64, namely, that copper waste and scrap entered, or withdrawn from warehouse, for consumption after February 8, 1966, should be liquidated free of duty. Liquidations, final and conclusive under section 514, do not bar protestable section 514 rights asserted under other provisions of law. 19 U.S.C., section 1520. Nor do we conceive it beyond the power of Congress to create a protestable right on matters settled in liquidation.
+As noted, the record reveals that Public Law 89-168 was approved on June 28,1966; whereupon the importer duly requested the proper official to reliquidate the March and April 1966 liquidated entries free of duty pursuant to Public Law 89-468. Upon refusal of the request, the importer within 60 days thereafter protested. While we agree with the Customs Court’s decision that the protest should be sustained and refund made for the reasons given above, we do not share the court’s view that section 520, and particularly section 520(c) authorizing reliquidation to correct “a clerical error, mistake of fact or other inadvertence” notwithstanding the lack of a valid protest, provides the proper basis for relief here.
+In our view, Public Law 89-468 gave the importer a new cause of action and the concomitant right to reliquidation. Under the facts of record, the importer’s request for reliquidation was timely and the protest from the refusal of the request was in compliance with section 514.
+Accordingly, the case is remanded to the Customs Court with directions to enter a judgment not inconsistent with this opinion.
+Rudolph Miles v. United States, 61 Cust. Ct. 245 C.D. 3589.
+Prior to enactment of P.L. 89-468, and at time of classification, item 911.10 read as follows:
+Item 911.10
+Copper waste and scrap_ 1.7# per lb. on 99.6% of copper content.
