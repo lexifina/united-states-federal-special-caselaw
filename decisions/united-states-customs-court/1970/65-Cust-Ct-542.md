@@ -1,0 +1,50 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4135"
+decided: "1970-11-27"
+citations: ["65 Cust. Ct. 542"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao, Ford, and Newman, Judges"]
+parties: ["Fanon Electronic Industries, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/65/cases/0542-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6574545
+cites_cases: ["25 CCPA 292", "36 CCPA 1", "5 Ct. Cust. Appls. 178", "62 Cust. Ct. 214"]
+---
+
+# Fanon Electronic Industries, Inc. v. United States
+
+## Majority (Foed, Judge:)
+
+Foed, Judge:
+This case involves the proper classification of a wired intercom which was assessed with duty at the rate of 17.5 per centum ad valorem under item 684.62, Tariff Schedules of the United States, as telephonic apparatus and instruments.
+Plaintiff primarily contends the merchandise to be properly subject to duty at 15 per centum ad valorem under item 684.70, Tariff Schedules of the United States, as electric sound amplifier sets. Alternatively, claims are made under item 685.70 as sound signalling apparatus which provides for duty at the rate of 8.5 per centum ad valorem or at 11.5 per centum ad valorem under item 688.40, Tariff Schedules of the United States, as electrical articles not specially provided for. Plaintiff abandoned its claim under item 685.22, Tariff Schedules of the United States, which is hereby dismissed.
+The pertinent portions of the statutes involved herein provide as follows:
+Item 684.62:
+Electrical telegraph * * * and telephone apparatus ana instruments * * *: Telephonic apparatus and instruments * * *_ 17.5% ad. val.
+Item 684.70:
+Microphones; loudspeakers; head phones; audio-frequency electric amplifiers; electric sound amplifier sets comprised of the foregoing components * * *_ 15% ad val.
+Item 685.70:
+Bells, sirens, indicator panels, burglar and fire alarms, and other sound or visual signalling apparatus, all the foregoing which are electrical * * *_ 8.5% ad val.
+Item 688.40:
+Electrical articles * * * not specially provided for- 11.5% ad val.
+The record consists of the oral testimony of three witnesses, one called on behalf of plaintiff and two on behalf of defendant, as well as three exhibits received in evidence on behalf of plaintiff and two on behalf of defendant. The three witnesses, all well qualified, established the physical and electrical operation of both intercoms and Bell Telephone equipment. Mr. Hargreaves, called on behalf of plaintiff, did not consider the imported intercom to be telephonic equipment because it does not make use of a variation of direct current, it requires an amplifier and you cannot interrupt and talk simultaneously. A telephone according to the witness is a long distance communication device whereas the imported article is limited in range to 150 feet.
+The imported master unit consists of a cabinet which contains a transistorized amplifier with a power supply and a loudspeaker. In addition, it contains a “push to talk” switch and a volume control. The remote unit consists of a cabinet, speaker and switch, and is connected to the master unit by two wires. When the master unit initiates the call, the loudspeaker acts as a microphone which produces a signal which is amplified by the amplifier and sent over the wires to the remote unit. The person at the remote unit hears the voice by means of the speaker contained therein. However, in replying this same speaker then acts as a microphone which generates a varying A.C. signal which is carried by the wires to the amplifier and amplified and then reproduced by the loudspeaker contained in the master unit.
+A telephone, on the other hand, utilizes powdered carbon in the transmitter which generates varying D.C. current which is then converted back into sound pressure in the earpiece by an electromagnet causing the diaphragm to vibrate and thereby creating a reproduction of the voice.
+The two witnesses called on behalf of defendant considered the imported intercom to fall within the definition of telephonic apparatus and to be a two-way communication device.
+The evidence clearly establishes the imported article to be used for the transmission of sound from one point to another by means of wire. This function is also that of a telephone as is indicated in the Tariff Classification Study Explanatory and Background Materials, Schedule 6, Part 5, page 305, wherein the following information is contained:
+Item 684.60 would continue without rate change the existing provisions for electrical telegraph (including printing and typewriting) and telephone apparatus and instruments in paragraph 853. This provision applies to articles for the transmission between two points of speech or other sounds or of symbols by the variation of an electric current flowing in a circuit connecting the transmitting station to the receiving station.
+The utilization of the term “circuit” is indicative of the use of wire for the transmission.
+Plaintiff contends that the difference in operation and its limited function distinguishes the imported article from telephone apparatus or telephonic apparatus. The limited function of 150 feet for the imported article as against long distance operation of a telephone used by the Telephone Company is a factor which removes it from said designation. The electrical and mechanical operation is so different, plaintiff urges, as to not encompass the imported article within the common meaning of the term “telephonic apparatus.”
+The use of the language “telephonic apparatus” in the inferior heading is limited to the term “telephone apparatus” utilized in the superior heading by virtue of General Interpretative Rule 10(c) (i). Said rule provides that a superior heading may not be enlarged upon by an inferior heading.
+Whether the imported intercom is or is not within the common meaning of the term “telephonic apparatus” is a matter of law and not an issue of fact. The court in arriving at the common meaning of the term, is not bound by the testimony, which is merely advisory, and may resort to lexicographic sources or Summaries of Tariff Information of the Tariff Commission or draw upon its own knowledge of matters within its own understanding. United States v. Florea & Co., Inc., 25 CCPA 292, T.D. 49396 (1938); United States v. O. Brager-Larsen, 36 CCPA 1, C.A.D. 388 (1948).
+It is the function of this court to interpret the statutory provisions in such a manner as to carry out the intent of Congress in enacting the provision. In doing so, the entire statute must be taken into consideration. Goat and Sheepskin Import Co. et al. v. United States, 5 Ct. Cust. Appls. 178, T.D. 34254 (1914). We note that the superior heading for item 685.20 covers radiotelegraphic and radiotelephonic transmission and reception apparatus. This was intended, in our opinion, to cover the so-called wireless communications equipment while the superior heading for item 684.62 covers communication equipment utilizing wire. The following information contained in the Tariff Classification Study Explanatory and Background Materials in schedule 6, part 5, page 305, confirms this:
+* * * Item 685.20 covers radio telegraphic and radio telephonic transmission and reception apparatus and radio broadcasting and television transmission and reception apparatus. This apparatus, except the television apparatus, is of types used for the transmission or reception of signals by means of electromagnetic waves transmitted without any line connection. * * *
+It would appear the intent of Congress in enacting the above two provisions was to encompass all communications equipment both by wire and wireless. It is abundantly clear that the imported intercom is for communications.
+With this intent in mind, an examination of item 684.70, supra, reveals the inclusion in said provision for microphones, loudspeakers, headphones, audio-frequency amplifiers, and electric sound amplifier sets comprised of the foregoing components. An electric sound amplifier set is one which is composed of an audio-frequency amplifier, i.e., an amplifier used for the purpose of amplifying electrical signals in the frequency falling within range of the human ear. The other components, to wit, a loudspeaker and earphone, are used to reproduce the electric sounds into mechanical sounds which can be heard audibly. The microphone is to convert mechanical sounds into electrical impulses. This type of equipment is not per se communication but basically entertainment type of equipment such as hi-fi equipment or even a public address system. The latter while a form of communication is not in our opinion communication equipment. It is merely a one-way type of system which conveys a message from one source to another without the ability of reply. Both the wire and wireless type of communication equipment provide two-way transmittal of intelligence.
+In view of the apparent intent of Congress, we are of the opinion that the involved intercom falls within the purview of item 684.62, supra, as classified rather than item 684.70, supra, as claimed.
+The alternate claim under item 668.40, supra, is untenable in view of the foregoing. This provision is the basket provision for electrical articles not specially provided for. It is apparent that the involved merchandise is provided for.
+The claim under item 685.70 alternatively made by plaintiff is likewise untenable. In the case of Intercontinental Air Freight, Inc. v. United States, 62 Cust. Ct. 214, C.D. 3731 (1969), the court in considering the scope of this provision reviewed information contained in the so-called Brussels Nomenclature which indicates signalling by sound (bells, buzzers, hooters, etc.). It is unlikely that voice transmission was intended to be covered by said provision under the Tariff Schedules of the United States for the reasons set forth above distinguishing communication equipment. The protest is, therefore, overruled.
+Judgment will be entered accordingly.
