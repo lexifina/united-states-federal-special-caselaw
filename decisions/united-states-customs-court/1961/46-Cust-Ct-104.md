@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2241"
+decided: "1961-03-14"
+citations: ["46 Cust. Ct. 104"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["Greek Orthodox Church of Evangelismos v. United States"]
+source_url: "https://static.case.law/cust-ct/46/cases/0104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6576712
+cites_cases: ["32 Cust. Ct. 469", "33 Cust. Ct. 470", "48 C.C.P.A. 42", "56 Treas. Dec. 572", "57 Treas. Dec. 20", "64 Treas. Dec. 382"]
+---
+
+# Greek Orthodox Church of Evangelismos v. United States
+
+## Majority (Mollison, Judge:)
+
+Mollison, Judge:
+Both of the protests in the case at bar relate to the same merchandise covered by a single entry. They were, therefore, consolidated for the purposes of trial and disposition of the issues raised thereby.
+The facts of the matter are not in dispute. The plaintiff is a church of the Greek Orthodox faith which imported for its own use an iconostasis made wholly or in chief value of wood. The collector of customs assessed duty on the importation at the rate of 16% per centum ad valorem under the provision in paragraph 412, Tariff Act of 1980, as modified by T.D. 51802, for manufactures wholly or in chief value of wood, not specially provided for. By its protests, the plaintiff claims the iconostasis to be entitled to entry free of duty under the provisions of paragraph 1774, Tariff Act of 1930, as amended, according free entry to—
+Altars, * * * sbrines, * * * or parts of any of the foregoing, * * * imported in good faith for the use of * * * any corporation or association organized and operated exclusively for religious purposes.
+The nature of an iconostasis and its place in the liturgy of the Greek Orthodox Church are clearly set forth in the record, both by the oral testimony of a priest of that church, who appeared as a witness for the plaintiff, and by photographs, received in evidence without objection, of the particular iconostasis here involved as it was installed in the Greek Orthodox Church of Evangelismos in New York City.
+An iconostasis, or iconostas, is a structure in the nature of a screen or partition, which is erected in the sanctuary of a Greek Orthodox Church upon the same platform upon which the altar table rests. It stands before the altar and encloses the altar sanctuary, and separates the altar sanctuary from the rest of the church.
+The iconostasis has three doors, one in the center and one at each side. These are used during services by priests and lesser orders assisting them in approaching and receding from the altar according to the liturgy of the church. At other times, the doors are closed. The center door is a double door, while the side doors are single. On the upper panel of each door, and in each of four similar panels of the iconostasis here involved, as it was ultimately erected in the church, is an icon, a holy picture, which, it appears, was not on the iconostasis when it arrived in this country.
+Icons are a part of the worship of the Greek Orthodox Church as visible signs of the holy persons who are venerated therein, and it is one of the functions of the iconostasis to hold or contain such icons, this use being prescribed by the liturgy of the church to aid the congregation in worship.
+From the foregoing, it is manifest that an iconostasis is a part of the altar sanctuary, and this fact is conceded by counsel for the defendant. However, citing the decision of our appellate court in the case of United States v. St. Joseph's Church, 48 C.C.P.A. 42, C.A.D. 761, defendant’s counsel argues that the statute under which plaintiff claims does not grant exemption to all furnishings or parts of altar sanctuaries, but only to such articles as are specifically named in the statute, viz, altars, pulpits, communion tables, baptismal fonts, shrines, and mosaics, and parts of such articles, and statuary, except casts of certain kinds.
+While we are of the opinion that it cannot be held, on the basis of the record presented in the case at bar, that an iconostasis is an altar or a part of an altar, we are satisfied that the record establishes that such an article as that at bar is a shrine or a part thereof within the meaning of the terms, as used in paragraph 1774.
+In the decision of this court in the case of C. Wildermann Co. v. United States, 56 Treas. Dec. 572, T.D. 43718, the term “shrine,” as used in paragraph 1674 of the Tariff Act of 1922, the predecessor in substantially the same language of paragraph 1774 of the present act, was defined as including, among other things, articles which hold or contain objects of religious veneration, the court saying:
+* * * It appears that although a shrine was originally a tomb containing the bones of saints or other sacred person, the meaning of the word has, through the ages, been recognized by the lexicographers to have enlarged in scope so as to embrace a receptacle containing an object of religious veneration, such as a niche for sacred images. * * *
+The foregoing decision was rendered during the life of the Tariff Act of 1922, and was presumably known to Congress when it reenacted, in the present act, the same language which had been the subject of decision. Moreover, the judicial definition there laid down has been consistently followed by this court whenever the meaning of the terms “shrines” or “parts of [shrines] ” has been in issue. See, among others, Rev. Domenico M. Coda v. United States, 57 Treas. Dec. 20, T.D. 43774; Reverend G. Ginard v. United States, 64 Treas. Dec. 382, T.D. 46684; Nicholas J. Stevason v. United States, 32 Cust. Ct. 469, Abstract 58041; and The Gasparri Studios v. United States, 33 Cust. Ct. 470, Abstract 58614. The last two citations are particularly apt in the present connection. The Stevason case involved icon prayer stands, to each of which, after importation, an icon was affixed, the entire unit being used in the same manner, so far as the religious veneration of the persons depicted on the icons is concerned, as the iconostasis at bar. Similarly, the Gasparri case involved a marble and bronze enclosure, used to hold a painting of the Madonna, erected as a shrine in a Roman Catholic Church.
+It seems clear, from the decision in the Wildermann case and those cases which have followed it, that the terms “shrines” and “parts of [shrines],” as used in the tariff act, embrace not only icons, paintings, statuary, etc., when these are used as objects of religious veneration, but also the articles which hold or contain such objects in their use.
+The iconostasis at bar falls within the latter category, and, there being no question as to the fact of importation in good faith by order of and for the use of a corporation or association organized and operated exclusively for religious purposes, is entitled to free entry under paragraph 1774, supra. Judgment will issue accordingly.
