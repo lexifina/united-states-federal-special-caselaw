@@ -1,0 +1,29 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 178"
+decided: "1939-06-12"
+citations: ["2 Cust. Ct. 468"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tilson, Kincheloe, and Dallingeb, Judges"]
+parties: ["Gallagher & Ascher, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/2/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6636690
+cites_cases: ["17 C. C. P. A. 472", "21 C. C. P. A. 322", "22 C. C. P. A. 327", "8 Ct. Cust. Appls. 273"]
+---
+
+# Gallagher & Ascher, Inc. v. United States
+
+## Majority (Dallingeb, Judge:)
+
+Dallingeb, Judge:
+This is a suit against the United States, arising-at the port of New York, brought to recover certain customs duties-alleged to have been improperly exacted on a particular importation of one so-called “Sandberg diffuser valve.” Duty was levied thereon at the rate of 35 per centum ad valorem under paragraph 353 of the-Tariff Act of 1930 as part of an article having as an essential feature an electrical element or device. It is claimed that said valve is-properly dutiable at the rate of 20 per centum ad valorem under paragraph 372 of said act as a machine not specially provided for, as modified by the Swedish Trade Agreement (T. D. 47785). Schedule II of said Swedish Trade Agreement provides as follows:
+• The plaintiff offered in evidence the testimony of Herbert Guettleiy president of Fibre Making Processes, Inc., of Chicago, Ill. He testified that his company was engaged in manufacturing and selling pulp and paper machinery and repair parts thereof, and had been so-engaged since 1908; that he was familiar with the merchandise involved herein and saw it installed in Washington, D. C.; that if is a valve for emptying a pulp diffusing tank; that it is attached to the bottom of the tank and revolves, and that said tank is a part of a pulp washing process; that when the pulp is made in a so-called digester it has a brown color caused by the use of chemicals in the digester; that therefore the pulp must be washed in the diffusing tank with hot water, the function of the so-called Sandberg valve being to empty the tank quickly and thoroughly after the washing process is completed; that said washing process is a part of the complete treatment pursued in the manufacture of paper pulp; and that the valve is composed of steel and may be operated by any kind of power.
+On cross-examination the witness testified that the pulp is blown into the diffuser tank from the digester or cooking vessel by pressure;, that there is no electric motor on the digester or cooker, the latter’s function being performed simply by steam heat from boilers operated by coal or oil; that there is no electric appliance used in connection with the entire process; that neither the digester or cooker on the one hand nor the diffuser tank on the other has any electric appliance, each being operated by steam generated in the boilers; that the washing process in the diffuser tank is performed, by water pressure, the black liquor used in the cooking process settling and leaving the perforated bottom of the tank and passing to the recovery room for the recovery of the chemicals; that the pulp is simply immersed in the hot water in the diffuser tank and allowed to soak and become clean; and that there is no mechanical operation at all during the washing process.
+On redirect examination he testified that, after the washing process, the imported valve empties the diffuser tank.
+Upon this record counsel for the plaintiff in them brief filed herein contend that the imported Sandberg valve is part of the diffuser tank which in turn is a machine within the meaning of paragraph 372 of the Tariff Act of 1930. We are of the opinion that the proof offered does not support such contention. The evidence discloses that the so-called diffuser tank merely washes the cooked pulp in hot water, there being no mechanical process involved in the washing, and that the function of the Sandberg diffuser valve is simply to regulate and expedite the flow of the water from the tank.
+In our opinion neither the diffuser tank nor the regulating valve may be considered a machine within the meaning of said paragraph 372. Simon, Buhler & Baumann, Inc. v. United States, 8 Ct. Cust. Appls. 273, T. D. 37537; United States v. Klingerit, Inc., 17 C. C. P. A. 472, T. D. 43931; United States v. Race Co., 22 C. C. P. A. 327, T. D. 47362.
+It may well be that the diffuser tank of which the imported valve is a part is in turn an integral and essential part of a larger mechanism used in the manufacture of paper pulp without which said larger mechanism could not perform the function for which it was designed, and that the whole apparatus is a machine within the meaning of said paragraph 372, but the evidence fails to establish that fact. United States v. Willoughby Camera Stores, 21 C. C. P. A. 322, T. D. 46851.
+While the plaintiff, in our opinion, has failed to sustain the claim alleged in the protest, nevertheless the uncontradicted evidence discloses that the valve in question is not part of an article having as an essential feature an electrical element or device, as classified by the collector. Hence, while we are satisfied that the collector’s classification is erroneous, nevertheless in view of the fact that the plaintiff has failed to sustain the claim alleged under said paragraph 372, it follows that the proper dutiable classification of said valve is at the rate of 45 per centum ad valorem under paragraph 397 of said act as a manufacture of metal not specially provided for. But since that claim was not alleged in the protest, the collector’s classification even though it be erroneous must nevertheless stand, and we so hold. Judgment will be rendered accordingly.
