@@ -1,0 +1,37 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 93-08-00469"
+decided: "1993-10-08"
+citations: ["17 Ct. Int'l Trade 1104"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NSK Ltd. and NSK Corp., plaintiffs v. United States, defendant, and Federal-Mogul Corp. and Torrington Co., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/17/cases/1104-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6134694
+cites_cases: ["11 CIT 786", "14 CIT 623", "17 CIT 251", "17 CIT 254", "17 CIT 272", "17 CIT 500", "57 Fed. Reg. 29,700", "58 Fed. Reg. 25,616", "58 Fed. Reg. 38,729", "58 Fed. Reg. 42,288", "673 F. Supp. 495", "747 F. Supp. 726", "753 F.2d 1033"]
+---
+
+# NSK Ltd. v. United States
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+Plaintiffs move pursuant to Rule 56.2 of the Rules of this Court for partial judgment on the agency record as to Count IV of its complaint contesting the Department of Commerce, International Trade Administration’s (“Commerce”) treatment of direct selling expenses. Specifically, plaintiffs claim that such expenses should be added to foreign market value rather than deducted from United States price in Final Results of Antidumping Duty Administrative Reviews and Revocation in Part of an Antidumping Duty Order (“Final Results”), 58 Fed. Reg. 38,729 (1993), as amended, Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From France, Germany, Italy, Japan, Romania, Singapore, Sweden, Thailand, and the United Kingdom; Amendment to Final Results of Antidumping Duty Administrative Reviews, 58 Fed. Reg. 42,288 (1993).
+Background
+On July 6, 1992, Commerce initiated an administrative review of an-tidumping duty orders covering antifriction bearings (other than tapered roller bearings) for the period May 1, 1991 through April 30, 1992. Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof; Initiation of Antidumping Administrative Reviews and Request for Revocation of Order (in Part), 57 Fed. Reg. 29,700 (1992). NSK participated in this review. Id.
+On April 27, 1993, Commerce published its preliminary determination in the administrative review. Antifriction Bearings (Other Than Tapered Roller Bearings) and Parts Thereof From Japan; Preliminary Results of Antidumping Duty Administrative Reviews and Partial Termination of Administrative Reviews, 58 Fed. Reg. 25,616 (1993).
+On July 26, 1993, Commerce published its Final Results in this proceeding in which Commerce decided to deduct direct selling expenses from United States price rather than adding such expenses to foreign market value. Final Results, 58 Fed. Reg. at 39,778. NSK claims that this was not in accordance with law. On August 19, 1993, the Court issued a scheduling order expediting the filing of briefs on Count IV of plaintiffs’ complaint so that this issue would be decided and the parties would have the opportunity to appeal prior to it becoming moot by a superseding administrative review.
+Discussion
+Plaintiffs claim that the direct selling expenses at issue should be added to foreign market value rather than deducted from United States price.
+According to 19 U.S.C. § 1677a(e) (1988), “the exporter’s sale price shall be adjusted by being reduced by the amount, if any, of * * * expenses generally incurred by or for the account of the exporter in the United States in selling identical or substantially identical merchandise.”
+The Court of Appeals, however, has interpreted section 1677a(e) to refer to indirect rather than direct selling expenses. Consumer Prods. Div. SCM Corp. v. Silver Reed America, 753 F.2d 1033, 1036-38 (Fed. Cir. 1985).
+This issue has unnecessarily consumed the Court’s time in recent decisions and the Court has consistently held that “direct selling expenses are properly characterized as differences in circumstances of sale giving rise to an adjustment of FMV.” NSK Ltd. v. United States, 17 CIT 251, 253-54, Slip Op. 93-50 at 6 (April 2, 1993); NTN Bearing Corp. of America v. United States, 17 CIT 254, 256, Slip Op. 93-51 at 4 (April 13, 1993); NTN Bearing Corp. of America v. United States, 17 CIT 272, 273-74, Slip Op. 93-56 at 4 (April 21, 1993); NSK Ltd. v. United States, 17 CIT 500, 501, Slip Op. 93-92 at 3 (June 3, 1993); NTN Bearing Corp. of America v. United States, 14 CIT 623, 637, 747 F. Supp. 726, 738-39 (1990); Timken Co. v. United States, 11 CIT 786, 800, 673 F. Supp. 495, 509 (1987).
+Although the law is clear on this issue, “Commerce repeatedly ignores the law and disobeys the decisions of this Court.” NSK Ltd., 17 CIT at 254, Slip Op. 93-50 at 6-7. Furthermore, the Court recently cautioned Commerce that “they are to adhere to the law and to the decisions of the Court on this issue. If not, this Court will be compelled to order sanctions against the government and hold Commerce in contempt of court for repeatedly ignoring the well-established law.” Id. at 254, Slip Op. 93-50 at 7.
+Absent any contrary authority, this Court adheres to the abundance of case law on this issue and, therefore, this case is remanded to Commerce to add direct selling expenses to foreign market value rather than deducting such from United States price.
+Plaintiffs also claim that Commerce has sought to evade the effect of the Court’s decisions by arbitrarily reclassifying certain direct selling expenses as price adjustments for which no adjustment is made to foreign market value. Plaintiffs’ Motion for Judgment on the Agency Record as to Count TV of the Complaint at 12. Plaintiffs further claim that Commerce offers no reasoned basis for the reclassification of these expenses and that they should be ordered by the Court, on remand, to eliminate “price adjustments” in the final results for NSK and correctly classify the relevant expenses as direct selling expenses. Id. at 13.
+Commerce claims that this issue is not properly subject to expedited review and that the precise issue, which the parties and this Court agreed should be handled in an expedited manner, was whether Commerce could deduct direct selling expenses from United States price. Defendant’s Memorandum in Opposition to Plaintiffs’ Motion for Judgment Upon the Agency Record at 17. The Court permitted expedited review in this case to (1) allow the Court to rule upon Commerce’s deduction of direct selling expenses from exporter’s sales price transactions in this review before new deposit rates were established by a subsequent administrative review, and (2) permit any party aggrieved by the Court’s decision to appeal the matter to the Court of Appeals before the establishment of new deposit rates renders this issue moot. To include this incidental issue in the expedited review would only complicate this action. Therefore, the parties should raise this issue in their subsequent briefs which will address all other issues in this case.
+Conclusion
+In accordance with the foregoing opinion, plaintiffs’ motion for partial judgment on the agency record is hereby granted and this case is remanded to Commerce to add direct selling expenses to foreign market value rather than deducting such expenses from United States price. Furthermore, pursuant to Rule 54(b) of the Rules of this Court, the Court orders that final judgment be entered on this issue so that parties may file an immediate appeal.
