@@ -1,0 +1,19 @@
+---
+court: "United States Customs Court"
+docket: "39580"
+decided: "1938-10-05"
+citations: ["1 Cust. Ct. 438"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 913088-G of Swift & Co."]
+source_url: "https://static.case.law/cust-ct/1/cases/0438-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6687885
+---
+
+# Protest 913088-G of Swift
+
+## Majority
+
+C. D. 4. Application by Government for rehearing denied.
