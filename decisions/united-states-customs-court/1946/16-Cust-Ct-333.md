@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "6264; Entry No. 3933, etc."
+decided: "1946-03-21"
+citations: ["16 Cust. Ct. 333"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States v. William J. Oberle, Inc. (Robert Werk & Co.)"]
+source_url: "https://static.case.law/cust-ct/16/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6660356
+---
+
+# United States v. William J. Oberle, Inc.
+
+## Majority (Eewall, Judge:)
+
+Eewall, Judge:
+This is an appeal filed by the collector from the ■finding of value made by the appraiser upon human hair stumps exported from China during April 1937 and imported at the port of New Orleans, La. The invoiced, entered, and appraised values were as follows:
+Reappraisement 120799-A:
+Invoice 3643 — -14 bales at 230 per pound, less nondutiable charges.
+Invoice 3631 — 22 bales at 210 per pound, less nondutiable charges.
+Invoice 00481 — 12 bales at 26)40 per pound, less nondutiable charges.
+Reappraisement 120859-A:
+Invoice 3381 — 15 bales at 230 per pound, less nondutiable charges.
+Reappraisement 120860-A:
+Invoice 3501 — 20 bales at 230 per pound, less nondutiable charges.
+Reappraisement 120861-A:
+Invoice 01986 — -12 bales at 260 per pound, less nondutiable charges.
+It is claimed by the collector as set forth in plaintiff’s brief, that all of the merchandise is properly valued at 27 cents per pound.
+At the first hearing of this case, held at the port of New Orleans, considerable discussion was had between counsel for the litigants in regard to the admissibility of a stipulation entered into between Mr. Werk and the Government attorney. The judge presiding at the trial refused to admit the stipulation in evidence, and counsel for the Government was granted a continuance of the case.
+At the second hearing there was offered and received in evidence as exhibit 1 for the plaintiff an affidavit of Mr. Garland Radford, president of the Oriental Textile Mills of Houston, Tex. Counsel for the importer contended that there had been no valid appraisement made in that the terms of the statute had not been complied with, for the reason, as alleged, that the entries show on their face that less than one in 10 packages was designated for examination (sec. 490, Tariff Act of 1930).
+The provisions for the designation of merchandise for the purpose of appraisement are mandatory. See United States v. Gilson Bros., 20 C. C. P. A. (Customs) 117, T. D. 45753, and cases there cited. Unless there was in force at the time of these importations a special regulation promulgated by the Secretary of the Treasury permitting a less number than the statutory number to be designated and examined the claim of the importer, if proven, must prevail. The only evidence as to the designation and examination of the packages of the importation is contained in the official papers. On the summary sheet in the space designated “Packages to be Examined,” I find in each of the reappraisements a designation of one with the number of said package and a stamp “Balance 10% Wharf.” The number of bales noted on the various invoices are 12, 14, 15, 20, and 22. With the exception of invoice 3631, reappraisement 120799-A, covering 22 bales, the maximum number appearing on any invoice is 20. Inasmuch as one bale of each invoice was designated by number and of the remaining bales 10 per centum were designated to be examined on the wharf, the presumption arises that at least two bales were designated from each invoice with the exception of invoice 3631. This presumption had not been rebutted. I therefore find that the collector ordered one in 10 packages of merchandise to be examined as required by section 499, sufra, except as to said invoice 3631. Defendant’s claim that there has been no valid appraisement is therefore overruled for lack of proof except as to invoice 3631, reappraisement 120799-A. As to tbe merchandise covered by that invoice I find the appraisement to be void, but as the appraisal took place prior to the effective date of the Customs Administrative Act of 1938, under the decisions I have no authority to find a value for that merchandise. United States v. V. W. Davis, 20 C. C. P. A. (Customs) 305, T. D. 46087; United States v. F. W. Woolworth Co. et al., 22 C. C. P. A. (Customs) 184, T. D. 47126; United States v. G. J. Tower & Sons, 24 C. C. P. A. (Customs) 456, T. D. 48912.
+From the affidavit of Mr. Radford (exhibit 1, supra) it appears that he has had experience in the buying and fabricating of human hair stumps since 1920; that he has had occasion to examine the human hair stumps imported from China by Robert Werk & Co. which were entered at the port of New Orleans during the period covered by entries 3983, 3984, and 3933, here involved. This affiant further deposes that he had personally arranged for the purchase of merchandise in every material respect such as or similar to the merchandise here involved, in the markets of China, to wit, Shanghai, Hong Kong, Canton, Tientsin, and Tsingtao. The affidavit sets forth the date of purchase, the sellers, and the purchase price of 8/14" hair stumps in the said markets in China, which merchandise he states, in his opinion, was similar in all material respects to that imported herein. The affiant further deposes that the prices for such or similar merchandise remained steady during the period here involved, regardless of the quantities sold or offered for sale, and that the prices set forth in said affidavit reflect the prices at which such or similar merchandise was-freely offered for sale or freely sold, for exportation to the United States in the usual wholesale quantities and in the ordinary course of trade.
+Further it is stated by this affiant that in view of his experience in the purchase of this type of merchandise it is his opinion that such or similar articles were not sold for domestic consumption in China or for exportation to countries other than the United States during the period in question at higher prices. He based this statement upon the fact that his concern was in the market buying freely at the prices-stated.
+Mr. Radford stated it as his belief that the Oriental Textile Mills, of which concern he is president, is one of the largest importers of human hair in the United States. In his opinion the price of human hair stumps was more or less uniform throughout China during the period in question, with the possible exception of Canton, where an importer could make a purchase at a slightly lower price because of Canton’s isolation from the principal market and the failure of the seller to keep advised of general market conditions. He further stated that he considered Tsingtao as the principal market for these goods.
+The evidence produced on behalf of the Government consists of sworn statements by one wbo is well qualified, by bis experience to make the statements set forth above, and as to those statements as to which he gives it as his opinion, I find that they are entitled to ■considerable weight. The prices given in the affidavit vary from 26}{ ■cents to 27% cents per pound, c. i. f. Houston. The majority of the sales were at 27 cents. The witness produced on behalf of the importer testified that the price went up to 27 cents in April, and the testimony further shows that the Government officials were willing to accept a 27-cent value. It is the duty of this court to find value •on the evidence produced (except as to the merchandise covered by invoice 3631, reappraisement 120799-A). It is my opinion and I so liold that the record shows the value to be 27 cents per pound, less nondutiable charges as invoiced, and that such value represents the •export value as defined in section 402 (d) of the Tariff Act of 1930.
+Judgment will be rendered accordingly.
