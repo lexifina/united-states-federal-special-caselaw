@@ -1,0 +1,46 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2261"
+decided: "1961-05-29"
+citations: ["46 Cust. Ct. 236"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Johnson, Donlon, and Richaedson, Judges"]
+parties: ["Kreiss & Co., Ltd. Quon Quon Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/46/cases/0236-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577683
+cites_cases: ["30 Treas. Dec. 1187", "6 Treas. Dec. 426", "65 Treas. Dec. 126"]
+---
+
+# Kreiss & Co. v. United States
+
+## Majority (JOHNSON, Judge:)
+
+JOHNSON, Judge:
+These are protests, consolidated at the trial, directed against the collector’s assessment of duty on merchandise described as tile plaques and tile pictures at various rates under paragraph 211 of the Tariff Act of 1930, as modified, as decorated earthenware articles. It is claimed, among other things, that the merchandise is properly dutiable at 12y2 per centum ad valorem under paragraph 202(b) of said tariff act, as modified, as articles composed wholly or in chief value of earthen tiles or tiling.
+The pertinent provisions of the tariff act are as follows:
+IPae. 202(b), as modified by the Annecy Protocol of Terms of Accession to the General Agreement on Tariffs and Trade, T.D. 52373, effective May 30, 1950, T.D. 52476.] Mantels, friezes, and articles of every description or parts thereof, composed wholly or in chief value of earthen tiles or tiling, except pill tiles-1-12%% ad val.
+[Pab. 211, as modified by the Protocal of Terms of Accession by Japan to the General Agreement on Tariffs and Trade, T.D. 53865, effective September 10, 1955, T.D. 53877.] Earthenware and crockery ware composed of a non-vitrified absorbent body, including white granite and semi-porcelain earthenware, and cream-colored ware, terra cotta, and stoneware, including clock cases with or without movements, pill tiles, plaques, ornaments, charms, vases, statues, statuettes, mugs, cups, steins, lamps, and all other articles composed wholly or in chief value of such ware; all the foregoing, whether plain white, plain yellow, plain brown, plain red, plain black, painted, colored, tinted, stained, enameled, gilded, printed, ornamented, or decorated in any manner, and manufactures in chief value of such ware, not specially provided for:
+*******
+Articles which are not tableware, kitchenware, or table or kitchen utensils, valued per dozen articles—
+Under $3_10$ per doz. pieces and 25% ad val. .
+Paragraph 211 was further modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, T.D. 54108, to provide for “all the foregoing valued at $10 or more per dozen and if not tableware, kitchenware, or table or kitchen utensils,” at 4 cents per dozen pieces and 21 per centum ad valorem, as to merchandise entered on and after June 30, 1958.
+At the trial, a sample of the merchandise representative of the tile plaque and wooden frame covered by protest No. 59/12929 was received in evidence as plaintiffs’ exhibit 1. A sample representative of the merchandise covered by protest No. 59/22066 was received in evidence as plaintiffs’ exhibit 2. It was agreed that while this sample consisted of three tiles in a wooden frame, it was representative also of other merchandise included in this shipment, which consisted of four tiles in a wooden frame forming one continuous picture.
+Plaintiffs’ exhibit 1 consists of a tile, 6 inches square, set in a wooden frame, 7 inches square, and having on the back a small hanger. The tile portion is decorated with a picture of a dancing girl, palm trees, and a small hut. Plaintiffs’ exhibit 2 consists of three tiles, 6 inches square, set in a wooden frame, 1914 inches by 7% inches, and having on the back a small hanger. Pictured on the tiles are two birds and some grasses.
+It was stipulated that the merchandise consists of earthen tiles in wooden frames; that they are permanently joined and not severable in their condition as imported; and that each of the articles covered by the protests is in chief value of tile.
+Plaintiffs have submitted a brief in support of their contention that the merchandise is properly dutiable under paragraph 202(b), as modified. Defendant did not request time to file a brief.
+Prior to the Tariff Act of 1909, there was no specific tariff provision for articles composed wholly or in chief value of earthen tile. Under the Tariff Act of 1890, for example, it was held that merchandise, consisting of earthenware tiles united together with a painting executed thereon, fitted in a wooden frame, and designed for use as an ornament, was classifiable as earthenware ornaments, painted. J. W. Hampton, Jr., & Co. v. United States, T.D. 12831, G.A. 1427.
+Under the Tariff Act of 1897, it was held that mantels or fireplaces made from decorated tiles were not dutiable as tiles but as manufactures of earthenware. J. W. Hampton, Jr., & Co. v. United States, 6 Treas. Dec. 426, T.D. 24434. The court said (pp. 426-427) :
+This merchandise is not tiles, but an article made from tiles. By the provisions covering- tiles, Congress had in view the separate and distinct articles known as tiles and not articles made therefrom. In the imported merchandise the tiles have lost their character and distinction as such, and constitute a new and different article, to wit, a mantel or fireplace.
+*******
+There being no provision in the tariff for articles composed of tiles, we find that the merchandise is a manufacture of decorated earthenware * * *.
+The Tariff Act of 1909 and subsequent tariff acts have provided specifically for “mantels, friezes, and articles of every description, composed wholly or in chief value of. tiles or tiling.” The Tariff Act of 1913 and subsequent tariff acts excepted pill tiles from this provision and provided for them eo nomine in the general earthenware paragraph.
+Under the Tariff Act of 1913, it was held that tiles designed to form a completed panel or picture representing a dairy farm, to be used as a wainscoting in restaurants, was properly classified as articles composed of earthenware tiles. Barnard, Judae & Co. v. United States, 30 Treas. Dec. 1187, Abstract 39942. This decision was called to the attention of Congress in the Summary of Tariff Information, 1920, page 137, and no change in language was made in the subsequent Tariff Act of 1922.
+However, in 1934, the Treasury Department stated, in a decision published in 65 Treas. Dec. 126, T.D. 46859, that the provision .in paragraph 211 of the Tariff Act of 1930 covering painted ornaments composed wholly or in chief value of earthenware more specifically described small framed pictures, painted on tile, than the provision in paragraph 202 (b) for articles of every description composed wholly or in chief value of earthen tiles or tiling. It, therefore, held, in spite of the differences in language between the Tariff Act of 1890 and the Tariff Act of 1930, that the decision in T.D. 12831 was controlling.
+Thereafter, the rate of duty on articles provided for in paragraph 202(b) was modified by the trade agreement with Mexico, T.D. 50797. The Digest of Trade Data, issued in connection with this agreement, states (p.22) :
+Imports in this category consist chiefly of decorative clay plaques or tiles sold in groups to form a predetermined pattern or design. * * *
+A similar description appears in the Summaries of Tariff Information, 1948, volume 2, part 1, page 31.
+The merchandise involved herein falls within the provision in paragraph 211, supra, for earthenware plaques or ornaments, and within the provision in paragraph 202(b), supra, for articles composed in chief value of earthen tiles. Both appear to be of equal specificity. The first, covering earthenware plaques or ornaments, includes many such articles in addition to those made of , tile, and the latter, covering articles composed wholly or in chief value of tile, includes many tile articles, in addition to plaques and ornaments. It is to be noted, however, that paragraph 211 contains the phrase “not specially provided for,” whereas paragraph 202(b) does not, thus lessening the relative specificity of the former. Furthermore, one type of tile article, pill tiles, is specifically excepted from paragraph 202 (b) and provided, for in paragraph 211. No other exceptions were made. We conclude from the language and history of the statute that it was the intention of Congress to provide for plaques and pictures, wholly or hi chief value of earthen tiles, under the provisions in paragraph 202(b) for articles of every description, composed wholly or in chief value of earthen tiles, except pill tiles, rather than under paragraph 211, as earthenware plaques or ornaments, not specially provided for.
+For the reasons stated, we hold that the merchandise involved herein is properly dutiable at 12y2 per centum ad valorem under paragraph 202(b) of the Tariff Act of 1930, as modified, as articles composed in chief value of earthen tiles. To that extent, the protests are sustained. In all other respects, the protests are overruled. Judgment will be rendered accordingly.
