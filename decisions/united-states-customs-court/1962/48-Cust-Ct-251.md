@@ -1,0 +1,80 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2345"
+decided: "1962-06-12"
+citations: ["48 Cust. Ct. 251"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Lawrence, Rao, and Ford, Judges"]
+parties: ["Biddle Purchasing Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/48/cases/0251-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6577126
+cites_cases: ["2 Cust. Ct. 81", "74 Treas. Dec. 253", "86 Treas. Dec. 121", "91 Treas. Dec. 150"]
+---
+
+# Biddle Purchasing Co. v. United States
+
+## Majority (Foeb, Judge:)
+
+Foeb, Judge:
+This action challenges the action of the collector of customs in classifying certain articles stipulated to be “flashlights without batteries, but including incandescent electric light bulbs,” under the provisions of paragraph 353 of the Tariff Act of 1930 and assessing duty thereon at the rate of 35 per centum ad valorem.
+By amendment of the claim heretofore filed, plaintiff contends the merchandise is properly dutiable at only 21 per centum ad valorem as illuminating articles, under paragraph 397 of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dec. 150, T.D. 54108. The claim in the original protest under the provisions of paragraph 339 of the Tariff Act of 1930 has been abandoned by plaintiff herein, and the protest is, accordingly, dismissed as to said claim.
+The pertinent text of the competing statutes reads as follows:
+Paragraph 353 of the Tariff Act of 1930:
+****** Us
+articles having as an essential feature an electrical element or device, such as electric motors, fans, locomotives, portable tools, furnaces, heaters, ovens, ranges, washing machines, refrigerators, and signs;
+all the foregoing, and parts thereof, finished or unfinished, wholly or in chief value of metal, and not specially provided for, 35 per centum ad valorem.
+Paragraph 353 of the Tariff Act of 1930, as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade, 86 Treas. Dec. 121, T.D. 52739:
+Articles having as an essential feature an electrical element or device, such as electric motors, fans, locomotives, portable tools, furnaces, heaters, ovens, ranges, washing machines, refrigerators, and signs, finished or unfinished, wholly or in chief value of metal, and not specially provided for:
+*******
+Other (except the following: blowers;
+* * * flashlights; * * *)_13%% ad val.
+Paragraph 397 of the Tariff Act of 1930:
+Articles or wares not specially provided for, * * * if composed wholly or in chief value of iron, steel, lead, * * *.
+Paragraph 397 of the Tariff Act of 1930, as modified by T.D. 54108, supra:
+Articles or wares not specially provided for, whether partly or wholly manufactured :
+*******
+Composed wholly or in chief value of iron, steel, copper, brass, nickel, pewter, zinc, aluminum, or other base metal (except lead), but not plated with platinum, gold, or silver, or colored with gold lacquer:
+* * * * * * *
+Not wholly or in chief value of tin or tin plate:
+* * * illuminating articles_21% ad val.
+*******
+Other, composed wholly or in chief value of iron, steel, brass, bronze, zinc, or aluminum (except * * *)_21% ad val.
+The record herein consists of a written stipulation and exhibit 1, a sample of the involved merchandise. It has been stipulated by and between counsel for the involved parties as follows:
+IT IS STIPULATED AND AGREED by and between counsel for the plaintiff and the Assistant Attorney General for the United States that the merchandise involved herein and described on the invoice as flashlights, assessed with duty at 35% ad valorem under Paragraph 353 of the Tariff Act of 1930 and claimed to be dutiable at 21% ad valorem under Par. 397 of said Act, as modified by T.D. 54108, consists of flashlights without batteries, but including incandescent electric light bulbs.
+IT IS FURTHER STIPULATED AND AGREED that said flashlights are not plated with platinum, gold or silver and are not colored with gold lacquer and are in chief value of iron or steel.
+Based upon the record as made, it is the position of plaintiff herein that, although the involved articles are, in fact, flashlights, paragraph 353 of said act makes no provision for flashlights eo nomine. It would appear that, by virtue of the trade agreement with the United Kingdom, 74 Treas. Dec. 253, T.D. 49753, the negotiators excepted flashlights from the reduced rate of duty on certain articles enumerated in said paragraph 353 of said act. By virtue of this exception, it was intended that flashlights would remain subject to the basic rate of duty provided for in said paragraph 353. Subsequent trade agreements also provided such an exception in said paragraph 353. Plaintiff, therefore, contends that since flashlights are not provided for in paragraph 353, the trade negotiators could not reclassify merchandise by removing it from one paragraph of the act and placing it in another, and, thus, the implied provision, although put in as an exception, exceeds the authority of the trade negotiators, citing United States v. Canadian National Railways, 29 C.C.P.A. (Customs) 272, C.A.D. 202; Atalanta Trading Corp. v. United States, 42 C.C.P.A. (Customs) 90, C.A.D. 577; United States v. Curley-Bates Co., 46 C.C.P.A. (Customs) 14, C.A.D. 688; E. Dillingham, Inc. v. United States and Salentine and Company, Inc. v. United States, 48 C.C.P.A. (Customs) 46, C.A.D. 762.
+On the other hand, plaintiff contends that although paragraph 397 of the Tariff Act of 1930, the basket provision of the metal schedule, is the least specific of all the paragraphs in said schedule, the legislative history thoroughly documents the fact that electrical illuminating fixtures and lamps were intended to be covered by said paragraph.
+The legislative history of illuminating fixtures, lamps, etc., was thoroughly discussed in the case of United States v. N. Minami & Co., Inc., 29 C.C.P.A. (Customs) 169, C.A.D. 188. At the outset, the court, in the Minami case, supra, justified resort to legislative history by making the following comment:
+We may say here that this court has regarded paragraph 353 of the Tariff Act of 1930, swpra (which was new in that act), or at least parts of it, as being ambiguous, and in different decisions recourse has been had to its legislative history as an aid in construing it. United States v. R. W. Cramer & Co., Inc., 22 C.C.P.A. (Customs) 45, T.D. 47049; Ralph C. Coxhead Corp. v. United States, 22 C.C.P.A. (Customs) 96, T.D. 47080. In the Khouri & Bro. case, supra [A. N. Khouri & Bro. v. United States, 22 C.C.P.A. (Customs) 28, T.D. 47037], the legislative history was referred to but not recited.
+The court, in the Minami case, supra, quoted and discussed the legislative history relating to illuminating or lighting fixtures, lamps or lamp bases, etc., which we quote at length below:
+H.R. 2667, which eventuated in the Tariff Act of 1930, as reported from the Committee on Ways and Means and as it passed the House, carried a paragraph numbered 387 which read:
+Pab. 387. Illuminating or lighting fixtures, lamps, lamp bases, candelabra, and candlesticks, any of the foregoing and parts thereof, finished or unfinished, not specially provided for, if wholly or in chief value of base metal or alloy, 50 per centum ad valorem; if wholly or in chief value of, or plated with, platinum, gold, or silver, 65 per centum ad valorem.
+No special reference was made to it in the report of the Committee on Ways and Means which accompanied the bill, but it was printed in italics in the report, thus indicating it to be a change from the Tariff Act of 1922.
+In the report of the Senate Committee on Finance which accompanied the bill when reported to the Senate (Senate Report No. 37, 71st Congress, 1st session, page 19) the following appears:
+Paragraph 387. — Lighting Fixtures
+Provision for lighting fixtures has been eliminated with the intent of making them dutiable under the basket paragraph 398.
+That number — 398—-referred to the bill as it was laid before the Senate. In the subsequent renumbering of paragraphs in the act, it became No. 397, under which the merchandise here at issue was classified by the collector. It corresponds to paragraph 399 of the 1922 act.
+In addition to the foregoing a statement was contained in that portion of the Senate committee’s report relating to paragraph 353 which read:
+It is not intended that this paragraph should include lighting fixtures, provided for in paragraph 387 of the House bill, and eliminated therefrom by the Senate committee.
+After the bill, H.R. 2667, had passed both Houses of Congress and before the conferences between managers of the respective Houses were held, the United States Tariff Commission prepared a supplement to tariff information relating to items in the bill which were subject to conference. Reports of the United States Tariff Commission, vol. 29. The discussion of paragraph 353 begins on page 198 of the volume. While that discussion is interesting, such of it as might be regarded as having any bearing upon the instant case is expressed in the committee reports and need not be quoted here.
+The discussion of the stricken paragraph 387 of the House bill is found on page 232 of vol. 29, Tariff Commission Report, where it is said, inter alia:
+Under the act of 1922 and bill as passed by the Senate, lighting fixtures, lamps, candlesticks, and candelabra are dutiable as manufactures of metal, n.s.p.f. In the House bill special provision was made for them, but the same rates of duty were provided that were levied in the basket clause in that bill. In the Senate the paragraph was eliminated, thereby returning the articles to the general provision in paragraph 398.
+In the statement of the managers on the part of the House, filed in connection with the conference report (H.R. Report 1892, 71st Congress, 2nd session) at page 64, it was said that the effect of striking out the paragraph 387 (to which the House agreed) was “To throw the items into the basket clause of the metal schedule.”
+Based upon this legislative background, the court’s tentative view, in the Mimami case, supra, was that the intention of Congress was to include electrical lighting fixtures in paragraph 397 of the Tariff Act of 1930. The court, however, concluded that this did not solve its problem, since lighting fixtures are not named in paragraph 397, nor in any other paragraph. The court therein concluded that it was the position of the Government that the involved articles were ejusdem generis with the nonenumerated articles, by virtue of resort to legislative history. However, since there is no rule which would support the application of ejusdem generis to a paragraph in general terms, the court found the legislative history recited to be without persuasive force.
+A similar situation exists in the case at bar, since neither paragraph 353 of the Tariff Act of 1930 nor paragraph 397 of said act provides for flashlights or illuminating articles expressly. The question arises as to whether the exception for flashlights in paragraph 353, as modi-fled, supra, and the eo nomine provision for illuminating articles, paragraph 397, as modified, supra, both of which occurred as a result of trade agreements, constitute a reclassification by the negotiators.
+In 1939, some 9 years after the enactment of the present tariff act, this court, in the case of C. J. Tower & Sons v. United States, 2 Cust. Ct. 81, C.D. 92, found certain electric flashlight cases, which were classified under paragraph 397 of the Tariff Act of 1930, as is claimed by plaintiff herein, to be properly dutiable as articles having as an essential feature an electrical element or device, as classified herein. This case was not appealed, although tried shortly after the trade agreement with the United Kingdom became effective. The question presented herein was not raised, possibly due to the fact that the merchandise was entered prior to the effective date of said trade agreement. In any event, the decision therein brings flashlight cases within the purview of paragraph 353.
+By virtue of the classification herein and the decision in the Tower case, supra, there can be no question that the involved flashlights are articles having as an essential feature an electrical element or device. The question as to whether an article falling within that description may be more specifically provided for elsewhere is the main issue presently before the court.
+As indicated, supra, paragraph 397, as originally enacted, contains no eo nomine provision for any of the articles mentioned in the legislative history and intended to originally be covered by paragraph 387 of the proposed tariff act. It is also to be noted that the language presently contained therein, by virtue of the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, supra, for illuminating articles does not follow the proposed language of suggested paragraph 387.
+It is the basic contention of plaintiff herein that the legislative intent was to include lamps within the purview of paragraph 397 and that a flashlight is a portable lamp. Counsel for plaintiff has cited a number of dictionary definitions which describe a flashlight as either a portable lamp or a portable electric light and has also cited from descriptive language of various patents filed during the years 1929 and 1930, which describe a flashlight as a portable lamp. In addition thereto, counsel has quoted from the Customs Simplification Act of 1954, T.D. 53599, presently designated as the Tariff Classification Act of 1962, H.B,. 10607, wherein flashlights are designated as item 683.70 under the general provision for portable electric lamps with a self-contained electrical source and parts thereof.
+From a consideration of the legislative history referred to above, it is clear that Congress did not intend to include lighting fixtures or lamps in paragraph 353. It is conceded by plaintiff herein, in its reply brief, that the involved flashlights are not fixtures. The question. then to be considered is, are they lamps within the common meaning of this term? The common meaning of the term “lamp” is a matter of law to be determined by the court. In making this determination, the court may rely on its own understanding of the word or term used, and it may refer to the works of standard lexicographers, scientific authorities, the testimony of witnesses, or such other means as may be available.
+An examination of Webster’s New International Dictionary, Unabridged (1929), reveals that it does not contain any definition of the term “flashlight” as would relate to the imported article.
+Webster’s New International Dictionary, Unabridged (1949), gives the following definition of flashlight:
+flashlight * * * d A small, battery-operated, portable electric light.
+The above definition describes a flashlight as a portable electric light and not a lamp, although plaintiff, in its brief, has cited a definition of the American College Dictionary and certain descriptions of patents wherein a flashlight is called a portable lamp.
+We are not convinced that a flashlight, as commonly known, is a portable lamp within the intendment of suggested paragraph 387, as contended by plaintiff.
+In view of the foregoing, we are of the opinion that the provision excepting flashlights contained in paragraph 353, as modified, supra, is not, under the circumstances involved herein, tantamount to a reclassification, under the principle expressed in the Atalanta Trading Corp. case, supra.
+Based upon the record as made herein, we find plaintiff has failed to overcome the presumption of correctness attaching to the classification of the collector under the provisions of paragraph 353 of the Tariff Act of 1930, as modified, supra. The protest is, accordingly, overruled.
+Judgment will be rendered accordingly.
