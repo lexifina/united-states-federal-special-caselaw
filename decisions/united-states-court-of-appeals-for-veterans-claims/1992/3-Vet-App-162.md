@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-1346"
+decided: "1992-08-25"
+citations: ["3 Vet. App. 162"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before FARLEY, MANKIN and IVERS, Associate Judges."]
+parties: ["Samuel A. ARONSON, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/3/cases/0162-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6467402
+cites_cases: ["1 Vet.App. 492", "2 Vet.App. 263", "2 Vet.App. 580", "38 C.F.R. § 20.609", "38 U.S.C. § 5301", "38 U.S.C. § 5904", "38 U.S.C. § 7263", "918 F.2d 1139"]
+---
+
+# Aronson v. Derwinski
+
+## Majority (PER CURIAM.)
+
+ORDER
+PER CURIAM.
+This matter is before the Court pursuant to a Motion of the Secretary of Veterans Affairs (Secretary) for Clarification of the Court’s Order, dated February 13, 1992. 2 Vet.App. 263 (1992). The Secretary’s motion was filed with the Court on June 17, 1992, pursuant to Rule 27(b) of this Court’s Rules of Practice and Procedure. On June 30, 1992, the Court received appellant’s Response to Appellee’s Motion for Clarification in which appellant’s attorney joined in the Secretary’s motion for clarification.
+The original appeal in this matter came before this Court with the filing of a Notice of Appeal by appellant on November 15, 1990. After procedural development including the filing of appellant’s brief and a motion for remand by the Secretary, this Court on February 13, 1992, by single-judge order, reversed the BVA’s denial of service-connection for enucleation of appellant’s left eye and remanded the matter “to amend the 1954 rating decision to award service connection and determine the appropriate disability rating for appellant, taking into account the change brought about by the enucleation of his left eye.” Judgment was entered on March 2, 1992. (Appellant has filed a pro se petition for Writ of Mandamus with regard to another, collateral aspect of this matter. Aronson v. Derwinski, 2 Vet.App. 580 (1992).
+In his motion, the Secretary seeks clarification of this Court’s February 13, 1992, order for purposes of carrying out the terms of the judgment entered pursuant to that order. More specifically, the Secretary professes difficulty in resolving what he perceives as a conflict between the provisions of Title 38 § 5301 (formerly § 3101) which set forth at 5301(a) the general rule that “[p]ayments of benefits due or to become due under any law administered by the Secretary shall not be assignable except to the extent specifically authorized by law ...” and the attorney-fee provisions of Title 38 as set forth at 38 U.S.C. § 5904 (formerly § 3404) and 38 U.S.C. § 7263 (formerly § 4063).
+The Secretary has also asked that this Court identify “the specific amount or percentage of past-due benefits to be paid to [a]ppellant’s attorney,” and provide “instructions regarding the termination date of those benefits....” Secretary’s Motion at 4.
+As to any conflict between the non-as-signability of benefits provision of 38 U.S.C. § 5301 and the attorney fee provisions of Chapters 59 and 72 of Title 38, basic rules of statutory construction dictate that we must construe those provisions in such a way as to avoid or eliminate such conflict. Sutherland Statutory Construction § 53.01, at 549 (4th ed. 1984); Anderson v. Federal Deposit Ins. Corp., 918 F.2d 1139 (4th Cir.1990). In this case, we need look only to the provisions of 38 U.S.C. § 5904(d)(3) for general guidance as to treatment of attorney fees and past-due benefits and to 38 U.S.C. § 7263 for our authority to review fee agreements. With respect to the latter, in this case, there is no issue as to the excessiveness or reasonableness of the fee, therefore, we will not review the agreement, but, as indicated, focus only on payment of the fee from past-due benefits.
+In promulgating and adopting the regulations set forth at 38 C.F.R. Part 20, the Secretary has resolved the misperceived conflict. In those regulations, at § 20.-609(h) Payment of fees by Department of Veterans Affairs directly to an attomey-at-law from past-due benefits, the Secretary recognizes that a “claimant or appellant and an attorney-at-law may enter into a fee agreement providing that payment for the services of the attomey-at-law will be made directly to the attomey-at-law by the Department of Veterans Affairs out of any past-due benefits awarded as a result of a successful appeal to the Board of Veterans Appeals or an appellate court....” 57 Fed.Reg. 4117-18 (1992) (to be codified at 38 C.F.R. § 20.609(h)(1)). The regulation goes on to set forth three conditions which must be met:
+(i) The total fee payable (excluding expenses) does not exceed 20 percent of the total amount of the past-due benefits awarded,
+(ii) The amount of the fee is contingent on whether or not the claim is resolved in a manner favorable to the claimant or appellant, and
+(in) The award of past-due benefits results in a cash payment to a claimant or an appellant from which the fee may be deducted.
+57 Fed.Reg. 4118 (1992) (to be codified at 38 C.F.R. § 20.609(h)(l)(i), (ii), and (in)). These regulations were promulgated pursuant to the authority of, inter alia, 38 U.S.C. § 5904. Thus, the Secretary has acknowledged his obligation with regard to payment of attorney fees from past due benefits and, by doing so, has eliminated the discretionary element and the need to rely on “common law contract principles to hon- or the assignment.” Matter of Smith, 1 Vet.App. 492, 505 (1991) (Steinberg, J., concurring). Secretary’s Motion at 3.
+In consideration of the foregoing, the Court finds that the fee agreement in this case meets the conditions set forth at 38 C.F.R. § 20.609(h); that the agreement requires that the Secretary withhold from past-due benefits and pay directly to appellant’s attorney, a sum equal to 20 percent of past-due benefits; that appellant’s disability rating, on remand, was awarded by decision dated April 7, 1992; that collateral matters currently before this Court relating to this case have no bearing on this order.
+The Court holds that 38 U.S.C. § 5301 does not constitute a limitation on the Secretary’s obligation with regard to payment of attorney fees from appellant’s past due benefits; that payment to appellant and appellant’s attorney are to be calculated in accordance with existing regulations. 57 Fed.Reg. 4118 (1992) (to be codified at 38 C.F.R. § 20.609(h)(3)).
+The Court notes that, pursuant to an administrative agreement, entered into between the Office of the Clerk of the Court and the Office of the General Counsel, Department of Veterans Affairs, after this case was initiated, copies of attorney fee agreements are provided to the General Counsel upon receipt by the Clerk of the Court. It is therefore
+ORDERED that the Secretary’s Motion for Clarification of the Court’s Order, dated February 13, 1992, and joined by appellant in his Response of June 30, 1992, is granted, and it is further
+ORDERED that the Secretary shall withhold from past-due benefits and pay to appellant’s attorney, an amount equal to 20 percent of past-due benefits through April 7, 1992, the date of the rating decision awarding past-due benefits, and that the Secretary shall expedite such payment.
