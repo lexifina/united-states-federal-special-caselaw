@@ -1,0 +1,28 @@
+---
+court: "United States Customs Court"
+docket: "8099; Entry Nos. 707733; 764887"
+decided: "1952-03-10"
+citations: ["28 Cust. Ct. 582"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["F. W. Woolworth Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/28/cases/0582-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6672284
+---
+
+# F. W. Woolworth Co. v. United States
+
+## Majority (JohnsoN, Judge:)
+
+JohnsoN, Judge:
+At the trial these appeals for reappraisement were submitted upon the following oral stipulation of counsel for the parties hereto:
+Mr. Carter: And I offer to stipulate that the market value or the price at the time of exportation to the United States of the earthenware articles covered by these appeals, at which such or similar merchandise was freely offered for sale to all purchasers in the principal markets of the country from which exported, in the usual wholesale quantity and in the ordinary course of trade, for exportation to the United States, plus the cost of all containers and coverings of whatever nature, and all other costs, charges and expenses incident to placing the merchandise in condition packed ready for shipment to the United States, was in each instance the appraised value, less the amount added to meet advances made by the Appraiser in similar cases, and that there is no foreign value.
+As to all other merchandise than that described in the foregoing paragraph, the appeals are abandoned, and I offer to submit upon the stipulation.
+Mr. Antus: May I make a statement? The examiner of earthenware approves this stipulation, that is our Government examiner.
+Otherwise agreed.
+The Government submits.
+On the agreed facts I find the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, to be the proper basis for the determination of the value of the earthenware articles here involved, and that such value in each instance was the appraised value, less the' amount added to meet advances made by the appraiser in similar cases.
+Insofar as the appeals relate to all other merchandise they are hereby dismissed.
+Judgment will be entered accordingly.
