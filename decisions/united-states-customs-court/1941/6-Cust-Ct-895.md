@@ -1,0 +1,23 @@
+---
+court: "United States Customs Court"
+docket: "5205; Entry Nos. 7634, etc."
+decided: "1941-04-09"
+citations: ["6 Cust. Ct. 895"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Import Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/6/cases/0895-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6702639
+---
+
+# American Import Co. v. United States
+
+## Majority (Tilson, Judge:)
+
+Tilson, Judge:
+Tbe appeals listed in schedule A, hereto attached and made a part hereof, have been submitted for decision upon the following stipulation:
+(1) That the rayon wearing apparel, and rayon footwear which is not subject to T D 46158, from Japan, covered by the appeals enumerated in the attached schedule, are of the same character and description as those which were covered by the decision in United States v. Nippon Dry Goods Co., Reap. Dec. 5006, affirming Reap. Dec. 4704, and were appraised on the same basis, the issue herein being the same as the issue in the above-named case, and that the record in that case may be incorporated herein.
+(2) That the appraised values of the rayon wearing apparel, and rayon footwear which is not subject to T D 46158, from Japan, covered by the appeals listed in the attached schedule, less any additions made by the importer by reason of the so-called Japanese consumption tax, represent the export values of such merchandise under the decisions above cited, and that there were no higher foreign values at the time of exportation thereof.
+Accepting this stipulation as a statement of fact, I find and hold the proper dutiable export value of the rayon wearing apparel and the rayon footwear covered by said appeals to be the value found by the appraiser, less any amounts added by the importer by reason of the so-called Japanese consumption tax. Judgment will be rendered accordingly.
