@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "91-780"
+decided: "1992-07-20"
+citations: ["2 Vet. App. 609"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before NEBEKER, Chief Judge, and FARLEY and MANKIN, Associate Judges."]
+parties: ["Mary Ann TIRPAK, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/2/cases/0609-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12257805
+cites_cases: ["1 Vet.App. 49", "1 Vet.App. 78", "2 Vet.App. 31", "2 Vet.App. 330", "38 U.S.C. § 5107", "392 U.S. 1", "469 U.S. 221"]
+---
+
+# Tirpak v. Derwinski
+
+## Majority (NEBEKER, Chief Judge:)
+
+NEBEKER, Chief Judge:
+Appellant, Mary Ann Tirpak, appeals a February 28, 1991, Board of Veterans’ Appeals (Board or BVA) decision which found that her husband, a veteran, did not die as a result of service-connected injuries. The Secretary of Veterans Affairs (Secretary) filed a motion for remand. We affirm the Board’s decision and hold that appellant’s claim was not well-grounded as required by 38 U.S.C. § 5107(a) (formerly § 3007(a)).
+I.
+The veteran served in the United States Army from 1943 to 1947. At the time of his death, he was receiving compensation for a number of service-connected disabilities incurred in combat, including deformities of the tongue, lower jaw, and chin, as well as facial nerve paralysis. On January 9, 1989, he suffered an acute myocardial infarction; paramedics attempted intubation, but were unable to confirm the position of the tube visually and so removed it. The veteran died later that day at the hospital. The death certificate listed acute myocardial infarction as the cause of death. R. at 275.
+On January 23, 1989, appellant filed an application for Dependency and Indemnity Compensation (DIC) asserting that her husband’s service-connected injuries made it impossible for the paramedics to intubate her husband properly, and that consequently his death should be considered service-connected. The Regional Office (RO) denied her claim, finding that no evidence showed her husband’s service-connected disabilities materially contributed to or hastened his death and, therefore, appellant was not entitled to DIC benefits. R. at 294-295.
+Subsequently appellant was granted a personal hearing. At that time she submitted a statement from William P. Barnard, M.D., the physician who attempted to intubate the veteran at the hospital. He wrote: “In retrospect it seems quiet [sic] reasonable to presume that intubation was made difficult due to Mr. Tirpak’s old wounds. If intubation had been successful, Mr[.] Tirpak may or may not have survived the cardiac arrest.” R. at 304. The Hearing Officer’s Decision considered Dr. Barnard's statement, but said it was speculation to assume that the veteran’s service-connected disabilities hastened the veteran’s death. R. at 316. The BVA decision of February 28, 1991, continued the denial of service connection for cause of death and DIC benefits. Appellant subsequently appealed to this Court. In response to appellant’s brief, the Secretary filed a motion for remand pointing to the Board’s failure to provide an adequate statement of reasons or bases and to make a credibility determination of appellant’s sworn testimony. At oral argument, however, when the Court inquired whether this claim was in fact well-grounded under 38 U.S.C. § 5107(a), counsel for the Secretary — for the first time in these proceedings — took the position that this case ought to be summarily affirmed given appellant’s failure to submit a well-grounded claim under section 5107(a).
+II.
+Our analysis must begin with the governing statute, 38 U.S.C. § 5107(a), which provides, in pertinent part:
+... a person who submits a claim for benefits under a law administered by the Secretary shall have the burden of submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is well grounded.
+(Emphasis added.) In Murphy v. Derwinski, 1 Vet.App. 78, 81 (1990), we defined a well-grounded claim as “a plausible claim, one which is meritorious on its own or capable of substantiation. Such a claim need not be conclusive but only possible to satisfy the initial burden of § [5107(a)].” The test is an objective one which explores the likelihood of prevailing on the claim under the applicable standards. See Gilbert v. Derwinski, 1 Vet.App. 49 (1990), for an articulation of the standards.
+Although the claim need not be conclusive, the statute provides that it must be accompanied by evidence. In ordinary civil actions, a complaint alone will commence the action — no other evidence is required. See Fed.R.Civ.P. 3. Unlike civil actions, the Department of Veterans Affairs (previously the Veterans’ Administration) (VA) benefits system requires more than just an allegation; a claimant must submit supporting evidence. Furthermore, the evidence must “justify a belief by a fair and impartial individual” that the claim is plausible. 38 U.S.C. § 5107. The requirement of a justified belief is not unlike the requirement of the Fourth Amendment to the Constitution of the United States that, objectively, all the facts and circumstances presented justify a reasonable belief that the intrusion (an arrest or a search) is appropriate to the end sought. See U.S. Const. amend. IV; United States v. Henley, 469 U.S. 221, 232, 105 S.Ct. 675, 682, 83 L.Ed.2d 604 (1985); Terry v. Ohio, 392 U.S. 1, 21-22, 88 S.Ct. 1868, 1879-80, 20 L.Ed.2d 889 (1968).
+Here, the only conceivable evidentiary support submitted by appellant was Dr. Barnard’s letter, which stated that the veteran’s death may or may not have been averted if medical personnel could have effectively intubated her husband. Such a statement is speculative and would not “justify a belief by a fair and impartial individual that the claim is well grounded”, 38 U.S.C. § 5107(a), particularly in light of the medical records and the death certificate which directly attribute the veteran’s death to an acute myocardial infarction. Consequently, VA was not required to carry the claim to full adjudication, since the claim failed, as a matter of law, to be well-grounded under section 5107(a). Any error in the subsequent administrative proceedings is therefore harmless. Sanchez v. Derwinski, 2 Vet.App. 330, 333 (1992); Kehoskie v. Derwinski, 2 Vet.App. 31, 34 (1991).
+The motion to remand is DENIED, and the decision of the Board is AFFIRMED for the above reason; no view is expressed as to the opinion of the Board.
