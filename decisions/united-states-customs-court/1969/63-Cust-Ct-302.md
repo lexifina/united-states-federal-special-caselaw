@@ -1,0 +1,70 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 3912"
+decided: "1969-10-31"
+citations: ["63 Cust. Ct. 302"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Rao and Ford, Judges, and Donlon, Senior Judge"]
+parties: ["C. H. Powell Company v. United States"]
+source_url: "https://static.case.law/cust-ct/63/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573218
+cites_cases: ["284 F. Supp. 787", "34 Cust. Ct. 67", "41 CCPA 221", "49 CCPA 92", "53 CCPA 1", "54 CCPA 121", "60 Cust. Ct. 497"]
+---
+
+# C. H. Powell Co. v. United States
+
+## Majority (Donlon, Judge:)
+
+Donlon, Judge:
+Two protests are here consolidated for purposes of trial. The merchandise of protest 67/36009 consists of a machine known as a Pedersen Rapid Beam Cutting Press, imported from Denmark on November 1,1963. The merchandise of protest 67/36016 consists of parts for a Pedersen press, imported from Denmark on March 2, 1964. Both importations were made for Allied Shoe Machinery Corporation, of Haverhill, Massachusetts, the ultimate consignee.
+The claim here litigated is that the imported press and parts are shoe machinery and parts thereof, and that as such they are entitled to free entry under TSUS, schedule 6, part 4, subpart H, item 678.10. Classification in liquidation was as machines not specially provided for, and parts thereof, under item 678.50, with duty charged at 10 percent ad valorem.
+The competing tariff provisions are as follows:
+Schedule 6, part 4, subpart H:
+678.10 Shoe machinery and parts thereof_ Free
+678.50 Machines not specially provided for, and parts thereof_ 10% ad val.
+Item 678.10, under which plaintiff claims, is a use provision. The use prescribed in the provision is use as shoe machinery.
+The rule was succinctly stated by our appeals court in E. Dillingham, Inc. v. United States, 54 CCPA 121, C.A.D. 922 (1967), as follows:
+Recently we had occasion to comprehensively review the case law on the issue of chief use. United States v. C. S. Emery & Co., 53 CCPA 1, C.A.D. 868, decided January 13, 1966. In Emery, we concluded that the case law unqualifiedly holds that the chief, principal or predominant use governs the classification of imported merchandise if a use provision is involved. Under such circumstances, we conclude that the classification of the instant merchandise requires a consideration of use because the statute employed a term, “shoe machinery,” which imputes a use. [P. 124.]
+In Dillingham the classification provision construed was found in the Tariff Act of 1930, as amended, while here the classification .is to be determined under the TSUS. Rule 10 of the General Pleadnotes and Rules of Interpretation of the Tariff Schedules of the United States is as follows:
+10. General Interpretative Rules. For the purposes of these schedules—
+$ ❖ -¡‘ * ❖ ❖ *
+(e) in the absence of special language or contest which otherwise requires—
+(i) a tariff classification controlled by use (other than actual use) is to be determined in accordance with the use in the United States at, or immediately prior to, the date of importation, of articles of that class or kind to which the imported articles belong, and the controlling use is the chief use, i.e., the use which exceeds all other uses (if any) combined;
+Writing for the court in Hoffschlaeger Company, Ltd., et al. v. United States, 60 Cust. Ct. 497, C.D. 3440, 284 F. Supp. 787 (1968), Chief Judge Rao stated:
+While “chief use” is thus established to be the criterion for ascertaining use when that characteristic is a relevant consideration, it does not appear 'that the rules of the tariff schedules provide complete requirements of proof of chief use. But the concept of chief use as the determinant of use provisions is a familiar one in customs jurisprudence which has often occupied the attention of the courts, and rules for proving it have long since been explicitly formulated. * * * [P. 501.]
+To establish plaintiff’s claim, then, proofs are required to show that, at or immediately prior to the time of importation, the “chief, principal or predominant use” of the machinery at bar was use in the manufacture of shoes.
+The official papers are in evidence, as are certain exhibits. Two witnesses testified for plaintiff; one witness for defendant.
+Testimony adduced, in plaintiff’s behalf shows that Allied Shoe Machinery Corporation had the exclusive right, from the Pedersen Company in Denmark, to import and sell Pedersen Rapid Beam Cutting Presses in the United States, and that no one else in the United States sold that particular Pedersen machine, which is the machine of this litigation and the machine with which the involved parts were solely used.
+Mr. Albert Meyers identified himself as having been with Allied Shoe Machinery Corporation since 1934. Prior thereto he had worked for Compo Shoe Machinery Company, as a shoe consultant promoting cemented-process footwear. He worked also for an employer whom he did not name, as superintendent in its factory manufacturing different types of shoes.
+He said that he had operated several types of cutters, but that at the time of his experience in such operations there were no beam cutters. Mr. Meyers has, however, frequently demonstrated the Pedersen Beam Press in order to sell it; he has shown operators how to operate it; and he has worked on it in different factories. There is also such a press in the plant of his employer, Allied Shoe Machinery Corporation, where component shoe parts are made for the shoe trade. After selling the Pedersen press, Allied sets up the machine in the plants of its customers and instructs their operators in its use. Such instruction was one of Mr. Meyers’ duties.
+Mr. Harry Gamer also testified for plaintiff. He identified himself as treasurer of Plymouth Shoe Machinery Company, of East Boston, selling machines such as the Pedersen press to shoe manufacturers.
+Mr. Donald B. White testified for defendant. He said he was sales manager of the industrial machinery division of Compo Industries, of Waltham.
+While Mr. Meyers did not state the actual use of the presses, but only the work for which they were capable and the type of manufacture done by those who bought the presses, namely, shoe manufacture, Mr. Gamer described work that he had actually observed as “Cutting of various parts of the shoe, upper leather, sock linings, and various parts of the shoes, uppers of the shoes.” (R. 34.) He had never seen the presses used other than in shoe manufacturing. Moreover, he had never sold a Pedersen press to any one outside of the shoe manufacturing business.
+Mr. White, the defense witness, was unable to recall that he had ever seen a Pedersen Beam Cutting Press in operation, which considerably limits the utility of his testimony as to its use.
+Certainly the evidence adduced does not negative the possibility that a beam cutting press, such as the press at bar, might be used in some leather cutting operation other than shoe manufacture. However, it is the fact of chief use, and not potential use, which the statute sets up as the basis of tariff classification.
+This imported Pedersen press was sold in the United States only by Allied Shoe Machinery Corporation under an exclusive agreement. The uncontradicted testimony is that it was sold by the exclusive importer only to shoe manufacturers and not to any one other than shoe manufacturers. While the geographical area covered by the testimony is less than the entire United States, in Foreign Products Corporation v. United States, 34 Cust. Ct. 67, C.D. 1679 (1955), the court found comparable evidence in behalf of a sole importer to be sufficient.
+According to the uncontradicted and unimpeached testimony of the witnesses herein, this product has been used since it was first imported in 1950 as a soil builder for growing crops and any other uses have been incidental. While the observations of these witnesses were limited to New England, New York, New Jersey, and Pennsylvania, it is to be noted that their company, the plaintiff herein, was the sole importer of the merchandise and that the product was being introduced into the United States gradually through sales to dealers. It has been held that the determination of chief use involves not only a geographical consideration but also the quantity of merchandise used and that the uncontradicted and unimpeached testimony of a single credible witness may overcome the presumption of correctness attaching to the collector’s action and establish a prima facie case. United States v. S. S. Perry, supra; United States v. Gardel Industries, 33 C.C.P.A. (Customs) 118, C.A.D. 325. [P. 69.]
+There remains for us to consider defendant’s argument that the “shoe manufacturers”, so-called, described by plaintiff’s witness, Mr. Myers, included those who also manufactured sneakers. The argument seems to be that sneakers are not to be classed as shoes and that since purchasers of the machinery manufacture sneakers, as well as leather shoes, this prevents its classification as shoe machinery. Plaintiff’s brief, unfortunately, does not provide us with any guidance to its position in this regard.
+It is axiomatic that Congressional re-enactment of tariff language tends to affirm the prior construction of that language. United States v. E. Dillingham, Inc., 41 CCPA 221, C.A.D. 555 (1954).
+The courts seem not to have passed on the issue as to whether the term “shoe” in relation to shoe machinery is susceptible of some interpretation different from the term “shoe” as it appears in the enumeration of dutiable merchandise classification. We have been cited to no case involving that issue, and we have found nothing in the history of tariff legislation that persuades us that any such difference was intended.
+Judge Smith, in United States v. Hudson Shipping Co., Inc., Barre Footwear Co., 49 CCPA 92, C.A.D. 802 (1962), reviewed the legislative history of the shoe machinery duty exemption, as follows
+The Tariff Act of 1913, paragraph 441, as well as the Tariff Act of 1922, paragraph 1542, included shoe machinery on the Free List. The Tariff Information Survey of 1921 for the use of the Ways and Means Committee of the House, in considering the then proposed Bill which became the Tariff Act of 1922, and with respect to paragraph 441 of the Tariff Act of 1913 which provided for “shoe machinery” on the Free List of that Act, contains the following:
+GENERAL INFORMATION
+Act of 1913, paragraph 441.— * * * shoe machinery * * jr ree.
+DESCRIPTION
+Shoe machinery includes a large variety of machines used in the manufacture of shoes from the cutting of the upper to the finished article. There are many types of shoes, differing not only in outward characteristics, but more essentially in the method of manufacture, such as welt shoes, McKay sewed, turned, stitch downs, nailed, screwed, pegged, and others. In general, numerous operations, sometimes as many as 50, are performed on each shoe. Most of these are machine operations. The sewing machine, modified for different operations, is the most widely used for working on the uppers; for bottoming, the machines are usually more highly complicated and specialized. Some of the trimming and finishing machines are small and light, while others, such as those for compressing the heels, are large and heavy.
+What is essentially an abstract of the above provision is found in the Summary of Tariff Information 1929, at page 2254. Congress, in using the term “shoe machinery” in paragraph 1643 of the Tariff Act of 1930, having before it the foregoing Summaries of Tariff Information, appears to us to have intended to cover specialized machines particularly adapted for and used in the manufacture of shoes * * *. [Pp. 95,96.]
+In proposing item 678.10 of TSUS, the provision under which plaintiff here claims, the Tariff Classification Study, schedule 6, part 4, carried this brief explanatory note:
+“Item 678.10 would continue the free status of shoe machinery and parts thereof.” [Emphasis supplied.]
+The same Study, in schedule 7, part 1, subpart A, footwear, said:
+“1. This subpart covers boots, shoes, slippers, sandals, moca-sins, slipper socks (socks with applied soles of leather or other material), scuffs, overshoes, rubbers, arctics, galoshes, and all allied footwear (including athletic or sporting boots and shoes) of whatever material composed, and by whatever method constructed, all the foregoing designed for human wear except — ■
+(i) footwear with permanently attached skates (see part 5D of this schedule),
+(ii) hosiery (see part 6C of schedule 3), and
+(iii) infants’ knit footwear (see part 6F of schedule 3).”
+Sneakers, as such, are not mentioned. Nor is this explanatory note followed m haeo verba in TSUS, which enumerates “footwear” according to component materials, type of construction, etc. Neither the word “shoe” nor “sneaker” was used in the TSUS enumeration.
+Since the chief use of the Pedersen Rapid Beam Cutting Press is to cut leather, it is inferable that its use in the manufacture of footwear is confined to those items of footwear in which leather is a component. As defendant’s brief points out, sneakers are, by definition, usually of canvas, with rubber. They are “soft” shoes.
+There is no evidence that the press at bar is used to cut canvas or rubber for sneakers. Indeed, the evidence is that the Pedersen press is used to cut leather. Some of the factories which use the Pedersen press manufacture both shoes and sneakers, but no other leather products or plastic products. Plaintiff has made at least a prima facie showing that these leather cutting presses, imported for and sold solely to shoe manufacturers, were chiefly used in -the manufacture of .leather shoes, even though the same factory might also manufacture canvas and rubber footwear. Their chief use, therefore, is as shoe machinery.
+Judgment will be entered for plaintiff.
