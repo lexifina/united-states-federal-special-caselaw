@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 93-09-00569-CVD"
+decided: "2000-04-05"
+citations: ["24 Ct. Int'l Trade 219", "93 F. Supp. 2d 1276"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Laclede Steel Co., et al., plaintiffs v. United States, defendant, and Dongbu Steel Co. Ltd., et al., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/24/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6100624
+cites_cases: ["192 F.3d 1367", "28 U.S.C. § 1651"]
+---
+
+# Laclede Steel Co. v. United States
+
+## Majority (CARMAN, Chief Judge:)
+
+ORDER
+CARMAN, Chief Judge:
+This matter having been affirmed-in-part and reversed-in-part by the United States Court of Appeals for the Federal Circuit in AN Steel Corp. v. United States, 192 F.3d 1367 (Fed. Cir. 1999), and pursuant to this Court’s jurisdiction under 28 U.S.C. § 1651 (1994); and upon consideration of the submissions of all parties herein; and in consideration of:
+(1) the Court of Appeals having reversed “[t]he portion of the Court of International Trade’s judgment sustaining the imposition of countervailing duties based on domestic credit provided to the Korean steel industry by private Korean lenders,” AK Steel, 192 F.3d at 1376; and
+(2) the Court of Appeals having reversed “the portion of the Court of International Trade’s judgment affirming the assessment of countervailing duties based on preferential access to foreign credit,” id. at 1378; it is hereby
+Ordered that this matter is remanded to the United States Department of Commerce to recalculate duties owed in conformity with the decision of the Court of Appeals; and it is further
+Ordered that Commerce file its final results with this Court within seventy-five (75) days of the entry of this Order; and it is further
+Ordered that any party contesting the final remand results shall file comments with the Court within 20 days of the filing of the final remand results and responses shall be due 20 days thereafter.
