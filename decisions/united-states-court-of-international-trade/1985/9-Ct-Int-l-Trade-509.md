@@ -1,0 +1,39 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 85-08-01151"
+decided: "1985-10-09"
+citations: ["9 Ct. Int'l Trade 509"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["National Corn Growers Association et al., plaintiffs v. James A. Baker III etc. et al., defendants"]
+source_url: "https://static.case.law/ct-intl-trade/9/cases/0509-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6108127
+cites_cases: ["28 U.S.C. § 2635", "28 U.S.C. § 2640", "313 U.S. 409", "4 CIT 159", "401 U.S. 402", "411 U.S. 138", "465 F.Supp. 913", "468 F.Supp. 383", "5 U.S.C. § 706", "91 F.R.D. 26", "93 F.R.D. 619"]
+---
+
+# National Corn Growers Ass'n v. Baker
+
+## Majority (Aquilino, Judge:)
+
+Aquilino, Judge:
+The background of this action is set forth in the memorandum opinion of Judge Carman dated September 20, 1985, Slip Op. 85-98, and giving the court’s reasons for having denied plaintiffs’ application for a preliminary injunction on September 16, 1985. The opinion, as amended on September 23,1985, indicates that defendants’ motion to dismiss the complaint was also denied.
+Upon denial of an immediate injunction, essentially for failure to "offer adequate evidence” of how the contested imports have adversely affected plaintiffs’ economic interests, their counsel served the defendants with a notice of deposition, interrogatories and a request for production of documents and simultaneously filed a motion pursuant to Rules 30(a), 33(a) and 34(b) of the Rules of this Court of International Trade to shorten defendants’ time to respond. The motion alleges, among other grounds, that
+the five importers of ethanol blends will have the opportunity, until November 1, 1985, to import up to 183 million gallons of fuel ethanol without payment of the lawful duty or the posting of an adequate bond * * *. [S]uch imports pose a serious threat of economic injury to [the plaintiffs] and other interested parties. Since the Court has denied a pendente lite injunction, plaintiffs remain vulnerable to this harm throughout this litigation. Under these circumstances, it is fair and appropriate to permit discovery on an expedited basis.
+On October 2, 1985, this action was reassigned to the undersigned, and counsel for both sides conferred with the court on October 4th and again on October 7th. On both occasions, the defendants were urged by the court to provide the plaintiffs with necessary documents and deposition(s).
+The defendants responded on October 8, 1985 with a motion for a protective order which would deny the plaintiffs any discovery. In essence, this cross-motion is based upon a position that defendants’ actions are not (or should not be) subject to review by the court. One of the points made is that, if review were appropriate, the scope of that review "must be based only on the administrative record.” That record, however, has yet to be filed with the court, notwithstanding the pendency of this action since August 29, 1985 and the dictate of 28 U.S.C. § 2635(d)(1) that such a record be filed within forty days of service of the summons and complaint. Defendants’ apparent excuse for failure to comply with this statute is a belief that the action should be dismissed, albeit on the ground already considered, at least preliminarily, by Judge Carman.
+Of course, the administrative record may well contain the information the plaintiffs now seek by discovery. However, notwithstanding the record’s unavailability, the defendants would still deny disclosure on the basis of 5 U.S.C. § 706 and 28 U.S.C. § 2640(d). Their position is that the plaintiffs are not entitled to trial de novo within the meaning of 5 U.S.C. § 706(2)(F), citing Camp v. Pitts, 411 U.S. 138, 142 (1973), and therefore they are not entitled to the requested discovery, citing Bar Bea Truck Leasing Co. v. United States, 4 CIT 159, 162 (1982).
+However, on the unique facts and circumstances of this action, including the imminent end of the self-imposed "grace period”, this "purely legal” position must abide a determination of precisely what transpired at the administrative level. Stated another way, to neither provide the plaintiffs with the administrative record nor with an independent opportunity to discover the contents of that record would be unjust.
+In Quincy Oil, Inc. v. Federal Energy Administration, 468 F.Supp. 383 (D. Mass. 1979), for example, the court permitted discovery in an action subject to the usual restraint on judicial review of administrative action. In Gulf Oil Corporation v. Schlesinger, 465 F.Supp. 913, 916 (E.D.Pa. 1979), the court, in granting the plaintiff leave to conduct discovery, stated that "no absolute privilege attaches to the administrative decision-making process”. That court relied, in part, on Citizens to Preserve Overton Park, Inc. v. Volpe, 401 U.S. 402, 420 (1971), which had authorized the trial court to
+require the administrative officials who participated in the decision to give testimony explaining their action. Of course, such inquiry into the mental processes of administrative decisionmakers is usually to be avoided. United States v. Morgan, 313 U.S. 409, 422 (1941). And where there are administrative findings that were made at the same time as the decision, as was the case in Morgan, there must be a strong showing of bad faith or improper behavior before such inquiry may be made. But here there are no such formal findings and it may be that the only way there can be effective judicial review is by examining the decisionmakers themselves.
+As indicated above, the plaintiffs are seeking expedited discovery via documents, depositions and interrogatories. The court is of the view that interrogatories are not the most expeditious form of discovery, nor has counsel really pressed for immediate responses herein. That part of plaintiffs’ motion to shorten defendants’ time is therefore denied, with the defendants to respond as provided by the Rules of this Court of International Trade. The remainder of plaintiffs’ motion is granted, with the defendants to produce and permit the plaintiffs to inspect and copy by October 11, 1985 (or by some other, mutually-agreed-upon time) those documents demanded by Plaintiff’s First Request for Production of Documents which bear on the issues remaining in this action. The defendants are to make Harvey B. Fox and/or such other persons as may be possessed of knowledge of the facts underlying the transactions in question available for deposition by plaintiffs’ counsel, commencing on October 15, 1985 (or on some other, mutually-agreed-upon date).
+In granting the plaintiffs the foregoing relief, and thereby denying defendants’ motion for a protective order, let both sides, represented as they seem to be by experienced counsel, be guided by the above quotation from the Supreme Court and be warned by this court that its decision is not to be taken as a license to abuse the rules of discovery.
+So ordered.
+Slip Op. 85-98, at 8 (Sept. 20, 1985).
+Memorandum in Support of Plaintiffs’ Motion to Shorten Time in Which to Respond to Discovery, p. 2.
+Memorandum in Support of Defendants’ Motion for Protective Order [hereinafter "Defendants’ Memorandum”], p. 6.
+Another potential obstacle to review of the record raised in defendants’ motion is privilege, with the contention being that "a reasonable period of time would be required to evaluate what comprises the record and the documents requiring confidential treatment.” Id, pp. 7-8.
+Slip Op. 85-98, at 10 (Sept. 20, 1985).
+Defendant’s Memorandum, p. 6.
+See, e.g., Texas Steel Company v. Donovan, 93 F.R.D. 619 (N.D.Tex. 1982); Exxon Corporation v. Department of Energy, 91 F.R.D. 26, 32-46 (N.D.Tex. 1981).
