@@ -1,0 +1,54 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "98-57"
+decided: "2000-05-04"
+citations: ["13 Vet. App. 458"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before HOLDAWAY, IVERS, and STEINBERG, Judges."]
+parties: ["Catherine A. OZER, Appellant, v. Togo D. WEST, Jr., Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/13/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11207533
+cites_cases: ["13 Vet.App. 388", "38 C.F.R. § 21.3046", "38 U.S.C. § 3501", "38 U.S.C. § 3512"]
+---
+
+# Ozer v. West
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+The pro se appellant, the spouse of veteran Philip Ozer, appeals a September 16, 1997, decision of the Board of Veterans’ Appeals (BVA) that denied entitlement to dependent’s educational assistance (DEA) under chapter 35 of title 38, U.S.Code. Record (R.) at 3. The appellant has filed an informal brief, and the Secretary has filed a motion for single-judge affirmance and, in response to a June 3, 1998, Court order, the Secretary has filed a brief regarding the application of 38 U.S.C. § 3512(b) to the facts of this case.
+Section 3512 of title 38, U.S.Code, has the following provisions as to periods of eligibility for DEA:
+(b)(1) No person made eligible by section 3501(a)(1)(B) or (D) of this title may be afforded educational assistance under this chapter beyond 10 years after whichever of the following last occurs:
+(A) The date on which the Secretary first finds the spouse from whom eligibility is derived has a service-connected total disability permanent in nature.
+(B) The date of death of the spouse from whom eligibility is derived who dies while a total disability evaluated as permanent in nature was in existence.
+(C)The date on which the Secretary determines that the spouse from whom eligibility is derived died of a service-connected disability.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection, in the case of any eligible person (as defined in section 3501(a)(1)(B), (C), or (D) of this title) who was prevented from initiating or completing such person’s chosen program of education within such period because of a physical or mental disability which was not the result of such person’s own willfull [sic] misconduct, such person shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such person was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted under the exception in the preceding sentence, the delimiting period will again begin running on the first day following such eligible person’s recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such eligible person to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+(3)(A) Notwithstanding the provisions of paragraph (1) of this subsection, any eligible person (as defined in clause (B) or (D) of section 3501(a)(1) of this title) may, subject to the approval of the Secretary, be permitted to elect a date referred to in subparagraph (B) of this paragraph to commence receiving educational assistance benefits under this chapter. The date so elected shall be the beginning date of the delimiting period applicable to such person under this section.
+(B) The date which an eligible person may elect under subparagraph (A) of this paragraph is any date during the period beginning on the date the person became an eligible person within the meaning of clause (B) or (D) of section 3501(a)(1) of this title and ending on the date determined under subparagraph (A), (B), or (C) of paragraph (1) of this subsection to be applicable to such person.
+(d) The term “first finds” as used in this section means the effective date of the rating or date of notification to the veteran from whom eligibility is derived establishing a service-connected total disability permanent in nature whichever is more advantageous to the eligible person.
+38 U.S.C. § 3512(b), (d). Section 3501(a)(1) of title 38, U.S.Code, provides the following pertinent definitions:
+(a) For the purposes of this chapter and chapter 36 of this title—
+(1) The term “eligible person” means—
+(B) the surviving spouse of any person who died of a service-connected disability, [or]
+(D) the spouse of any person who has a total disability permanent in nature resulting from a service-connected disability, or the surviving spouse of a veteran who died while a disability so evaluated was in existence, arising out of active military, naval, or air service after the beginning of the Spanish-American War, but only if such service did not terminate under dishonorable conditions. The standards and criteria for determining whether or not a disability arising out of such service is service connected shall be those applicable under chapter 11 of this title.
+38 U.S.C. § 3501(a)(1)(B), (D).
+Regarding the application of section 3512 to the facts of this case, the Court notes that section 3512(b)(1) provides: “No person ... may be afforded educational assistance under this chapter beyond 10 years after whichever of [the three events listed in subparagraphs (A), (B), or (C) ] ... last occurs”. 38 U.S.C. § 3512(b)(1) (emphasis added). In this case, the event listed in subparagraph (A) has occurred: VA has found (either in July 1983 or June 1980) that the veteran has a service-connected total disability permanent in nature, and the veteran is still alive. Because the events listed in subparagraphs (B) and (C) both involve the death of the veteran, in this case those events must occur “after ” the event listed in subpara-graph (A). The Court also notes that section 3512(b)(3) appears to provide that the appellant can “elect a date ... to commence receiving” DEA, but does not expressly establish a termination date. Similarly, subsection (b)(1) appears to create a ten-year period “beyond” which no DEA may be afforded. Neither of these statutory provisions appears to provide that DEA may be afforded only for a fixed ten-year period.
+In view of the foregoing and based on the Court’s review of section 3512 in its entirety, as well as the attendant Department of Veterans Affairs (VA) regulations cited by the Secretary in his pleadings, the Court needs answers (with accompanying reasons) to the following additional questions:
+1. Because it appears that there are two dates (June 1980 and July 1983, see R. at 28, 34) on which it was established that the veteran was eligible for DEA, does section 3512(d) or any other authority permit the Secretary to use the later date in deciding when the veteran was “first found” to have a service-connected total disability permanent in nature?
+2. (a) Does section 3512(b)(3)(A) permit the appellant, with approval by the Secretary, to choose the date on which she may begin receiving DEA?
+(b) If the Secretary approves the appellant’s decision to elect a date on which she may begin receiving DEA, does the second sentence in section 3512(b)(3)(A) require the Secretary to start the running of the delimiting period from the date “elected” by the appellant?
+3.(a) For the purposes of section 3512(b)(3), when did the appellant become an eligible person — in January 1988, when she first married the veteran (R. at 42), or on the date that VA first found that the veteran had a service-connected total disability permanent in nature?
+(b) If the latter, then do the dates set forth in 38 C.F.R. § 21.3046(a)(2)(h) (1999) — “(A) [t]he effective date of the [veteran’s 100%] rating, or (B) [t]he date of notification [of that rating]” — constitute a permissible restriction on the statutory options set forth in section 3512(b)(3), see Lee (Raymond) v. West, 13 Vet.App. 388, 394-95 (2000) (striking down VA regulation when “ ‘statute was mandatory, leaving no room for ... VA to impose additional restrictions on entitlement’ ”)?
+4. What is the statutory basis and justification for the application of the different criteria in 38 C.F.R. § 21.3046(a)(2)(h) or (iii) on the basis of whether “VA made a final determination of eligibility before [or after] October 28, 1986,” and what was the rationale for establishing these different categories?
+5. What is the statutory basis and justification for the regulatory limitation of eligibility to a period of “10 years” that is contained in 38 C.F.R. § 21.3046(c) (1999)?
+6.(a) Does section 3512(b)(3)(B) permit the appellant to “elect” one date from section 3512(b)(1)(A), (B), or (Q?
+(b) If so, even though the necessary event for triggering section 3512(b)(1)(A) has already occurred, what prevents her from deferring her election of receipt of DEA until she is a surviving spouse, as provided for in section 3512(b)(1)(B) and (Q?
+To the extent that any pertinent legislative or regulatory history or opinions of the VA General Counsel can be found that might assist the Court in understanding the answers to the above questions, such material should be discussed in any memorandum filed pursuant to this order, and copies of such materials should be appended to such memorandum.
+Upon consideration of the foregoing, it is
+ORDERED that, not later than 30 days after the date of this order, the Secretary file, and serve on the appellant and any amici that may have indicated an intention to file a memorandum in response to this order, a supplemental memorandum addressing the questions set forth above. It is further
+ORDERED that, not later than 30 days after service of the Secretary’s supplemental memorandum, the appellant may file, and, if so, shall serve on the Secretary, a memorandum addressing the questions set forth above, including but not limited to responses to points made in the Secretary’s supplemental memorandum. It is further
+ORDERED that, not later than 30 days after the Secretary files his supplemental memorandum, any interested individual or entity is invited to file a memorandum addressing the questions set forth above, including but not limited to responses to points made in the Secretary’s supplemental memorandum. Any such interested individual or entity that intends to file such an amicus memorandum is requested to notify the Clerk of the Court, not later than 5 days after the Secretary files his supplemental memorandum, of such intention.
