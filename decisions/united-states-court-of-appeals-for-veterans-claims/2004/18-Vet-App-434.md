@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "98-1590(E)"
+decided: "2004-10-20"
+citations: ["18 Vet. App. 434"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before IVERS, Chief Judge, STEINBERG and GREENE, Judges."]
+parties: ["Randall C. SCARBOROUGH, Appellant, v. Anthony J. PRINCIPI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/18/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9038788
+cites_cases: ["124 S.Ct. 1856", "13 Vet.App. 530", "17 Vet.App. 68", "28 U.S.C. § 2412", "319 F.3d 1346", "541 U.S. 401"]
+---
+
+# Scarborough v. Principi
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+On October 4, 1999, the appellant filed, through counsel, an application for an award of attorney fees and expenses pursuant to the Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412(d). On December 9, 1999, the Court received from the appellant an amendment to the initial EAJA application. On June 14, 2000, a panel of the Court dismissed the EAJA application for lack of jurisdiction. Scarborough v. West, 13 Vet.App. 530 (2000). After the U.S. Court of Appeals for the Federal Circuit (Federal Circuit) affirmed the dismissal, the U.S. Supreme Court reversed the Federal Circuit’s judgment. Scarborough v. Principi, 319 F.3d 1346 (Fed.Cir.2003), rev’d, 541 U.S. 401, 124 S.Ct. 1856, 158 L.Ed.2d 674 (2004). In an order dated June 15, 2004, the Federal Circuit recalled its mandate, reinstated the appeal, and remanded the case to this Court with instructions to consider the merits of the EAJA application.
+On June 10, 2004, the appellant, though counsel, filed a “supplemental application for attorney’s fees and expenses under the [EAJA] and this Court’s Rule 39(d)(3)”. On September 13, 2004, the Court directed the Secretary to file, within 30 days thereafter, a response to the supplemental EAJA application. The Secretary filed on September 30, 2004, a motion for clarification of the Court’s order in light of Rule 39(d) of this Court’s Rules of Practice and Procedure (Rules). Motion (Mot.) at 3 (citing to U.S. Vet.App. R. 39(d)(3) and (5)). The Secretary notes that the appellant’s initial EAJA application has not been granted in whole or in part and that a response by the Secretary to any matters related to the “fees for fees” litigation that is the subject of the supplemental application is, at this juncture, premature. Mot. at 4-5. The Secretary notes further that he has not yet been presented with the opportunity, among other things, to address the allegation that his position during the underlying merits phase was not substantially justified. Id. The Secretary essentially requests the Court to resolve the initial application prior to considering the fees claimed to have been incurred during the “fees for fees” litigation. Id. at 5.
+In an opposition filed on October 4, 2004, the appellant contends that the supplemental application incorporates the initial application and provides the best means for concluding this fee litigation “comprehensively and expeditiously”. Opposition (Opp.) at 1. The appellant argues that Rule 39 requires that “a supplemental fee application include only those fees that have not yet been incurred at the time the prior application was filed ” but that “all other fees, including all fees [for] fees’, must be included in the initial application.” Opp. at 4-5 (citing U.S. Vet.App. R. 39(d) and (a), respectively). The appellant argues that his supplemental application complies with Rule 39 “by including all fees, including all ‘fees [for] fees,’ incurred prior to [the] filing [of the supplemental application] on June 10, 2004.” Id. at 5.
+On October 1, 2004, the Secretary also filed an unopposed motion for an extension of time to file a response until November 13, 2004. The Secretary states that, given the “complicated nature of the matters presented by [the a]ppellant’s supplemental application for fees, the Secretary must conduct further research and anticipates that further time will be needed beyond the Court’s deadline to properly prepare a response.” Mot. at 1. The Court notes that the Secretary’s motion for an extension, filed one day after the motion for clarification, does not mention the pending motion for clarification.
+The Court will grant the Secretary’s motions for clarification and for an extension of time to file his response. The Court notes that both parties make good arguments by analogy to the provisions of Rule 39. Those provisions, however, are not foursquare applicable. The Court believes that the Secretary’s position is stronger and that the parties should address the initial application and the supplemental application, separately and sequentially. Cf. Fritz v. Principi, 17 Vet.App. 68, 70-74 (2003) (disposing of first supplemental EAJA application relating to dispute surrounding fee agreement and returning to screening judge for disposition second supplemental EAJA application, which related to fees incurred for representation by counsel in connection with litigation over first supplemental application, including representation at Federal Circuit).
+Pursuant to the remand by the Supreme Court and the Federal Circuit, this Court will file as of the date of this order the amendment to the initial EAJA application, which amendment was received by the Court on December 9, 1999. The Court will modify its September 13, 2004, order by directing that the Secretary, not later than November 13, 2004, file a response to the initial EAJA application, including the December 9, 1999, amendment. See U.S. Vet.App. R. 39. The Court will defer consideration of the supplemental EAJA application pending disposition of the initial EAJA application.
+On consideration of the foregoing, it is
+ORDERED that the amendment to the initial EAJA application received by the Court on December 9, 1999, be filed as of the date of this order. It is further
+ORDERED that the Secretary’s motions for clarification and for an extension of time are granted. The Court’s order of September 13, 2004, is modified to the extent that the Secretary, not later than November 13, 2004, will file a response to the initial EAJA application, including the December 9, 1999, amendment. It is further
+ORDERED that consideration of the appellant’s supplemental EAJA application is deferred pending further order of the Court.
