@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Consol. Court No. 03-00202"
 decided: "2005"
-citations: ["29 Ct. Int'l Trade 867", "29 Ct. Int'l Trade 1352", "403 F. Supp. 2d 1305"]
+decided_precision: "year"
+citations: ["29 Ct. Int'l Trade 867"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
