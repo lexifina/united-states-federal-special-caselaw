@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "42097"
+decided: "1939-09-12"
+citations: ["3 Cust. Ct. 384"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 949348-G, etc., of D. Kelman et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/3/cases/0384-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6668724
+---
+
+# Protests 949348-G of D. Kelman
+
+## Majority (Keefe, J.)
+
+Opinion by
+Keefe, J.
+On the authority of Abstract 40880 the protests were-sustained.
