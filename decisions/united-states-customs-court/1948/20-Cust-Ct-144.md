@@ -1,0 +1,34 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1098"
+decided: "1948-03-25"
+citations: ["20 Cust. Ct. 144"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Cole, and Mollison, Judges"]
+parties: ["Paramount Pictures, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/20/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6599500
+cites_cases: ["67 Treas. Dec. 245"]
+---
+
+# Paramount Pictures, Inc. v. United States
+
+## Majority (Oliver, Presiding Judge:)
+
+Oliver, Presiding Judge:
+The merchandise before us, exported from Mexico, is described on the invoice as “Exposed-undeveloped negative motion-picture film.” It was assessed for duty at 1 cent per linear foot under the provisions of paragraph 1551 of the Tariff Act of 1930, as amended by the Mexican Trade Agreement, T. D. 50797. Paragraph 1551, insofar as pertinent, reads as follows:
+* * * photographic-film negatives, imported in any form, for use in any way in connection with moving-picture exhibits, or for making or reproducing pictures for such exhibits, exposed, but not developed, * * * 2 cents per linear foot * * *.
+The trade agreement made no change in the language of the paragraph but simply reduced the rate of duty from 2 cents to 1 cent per linear foot.
+The collector at the port of entry, Los Angeles, assessed duty on the entire footage of the imported exposed but undeveloped negative film. The importer, protesting such assessment, claims that duty should be assessed on only one-third the footage imported for the reason that after importation it is developed and processed until it finally becomes a commercially projectable positive color motion-picture film known as technicolor, and it requires three feet of the imported negative to produce one foot of the finished positive film. As stated by counsel for importer in its brief (p. 4):
+It is plaintiff’s contention that the original separation records in themselves are part of a negative, and that the three in combination constitute the negative.
+The “separation records” above referred to are separate rolls of exposed but undeveloped negative film.
+The issue before us is whether rolls of exposed, undeveloped negative film, specifically provided for in paragraph 1551, are dutiable on then- total length in the condition in which imported, or should be assessed with duty on only one-third of their total length because after processing in this country only one-third of commercial technicolor projectable positive film is produced from such imported film.
+In the technicolor process, which has for its objective the projection of motion pictures in natural color, the scene is first photographed in a special camera which records such scene on three rolls of negative film in the camera at the same time. It will simplify the explanation if we assume that three 100-foot rolls of film are in the camera. The three rolls of negative film thus exposed, but as yet undeveloped, are exported to the United States for further processing. Thus, at the time of importation 300 feet of film enter into the commerce of this country. Thereafter, at the technicolor laboratories these three 100-foot rolls of negative film are developed. They are then separately printed or transferred to three 100-foot special positive films called matrices. These matrices are then subjected to dye baths which produce one roll of red, one of blue, and one of green positive film. These three reels of matrices are then, each in turn, transferred or printed on a single final 100-foot reel which gathers the colors from the matrices and blends them in such a manner that this final positive film becomes the commercial color film ready to project in its natural colors the scene originally photographed. It thus requires 300 feet of the negative exposed abroad and developed after importation, together with 300 feet of the separate color positive matrices described above, and the 100 feet of final projectable color film, to make the finished technicolor product, i. e., it takes 700 feet of film to produce the final 100 feet of the finished product.
+Plaintiff’s contention that the three lengths of imported negative are “part of a negative” and therefore duty should be assessed on only one-third of the entire footage imported is without merit. Paragraph 1551 is unusually comprehensive in its language. It provides for “* * * photographic film negatives, • imported in any form, for use in any way in connection with moving-picture exhibits, or for making or reproducing pictures for such exhibits * * *.”* [Italics supplied.]
+It is not disputed that the films before us are exposed, but not developed, film negatives. The "fact that the three rolls of film are exposed at the same time is not controlling. The determining factor in assessing duty on this film is how many linear feet of exposed and undeveloped negative film are imported, not how many feet of finished positive film will ultimately result from the processing the film undergoes in this country after importation.
+The fact is that the imported negative film is actually used to produce a similar number of feet of positive film, the matrices herein-before described. When the positive matrices have been produced, the imported negative film has served its purpose and is not used again.
+This same type of film was before us on a previous occasion and was the subject of our decision in 20th Century Fox Film Corp. v. United States, Abstract 51262. At the conclusion of the trial of the present action, Government counsel moved the incorporation of the record in the 20th Century Fox Film Corp. case, supra. The incorporation was objected to by counsel for the importer on the ground that defendant had failed to comply with rule 23 of this court, as amended, in that it had failed to give timely notice of intention to make such motion and that importer had no.t waived such notice. The trial judge overruled the objection and ordered the said case incorporated in the present record. Counsel for importer has urged this objection in its brief. Inasmuch as said rule 23 requires, at ports other than New York, at least 15 days’ notice before trial of intention to move to incorporate records, which notice was not given and was not waived, it was, therefore, error to order this record incorporated in the present case. (Him Sing Chong & Co. v. United States, 67 Treas. Dec. 245, T. D. 47527.) We have, therefore, reversed the ruling of the trial judge and sustain importer’s objection. The record in said 20th Century Fox Film Corp. case, supra, is not incorporated in the present case.
+For the reasons set forth above the protest herein is overruled and the action of the collector is affirmed. Judgment will be rendered accordingly.
