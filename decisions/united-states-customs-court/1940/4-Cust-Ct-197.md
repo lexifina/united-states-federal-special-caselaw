@@ -1,0 +1,66 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 320"
+decided: "1940-04-17"
+citations: ["4 Cust. Ct. 197"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Befóse Cline, Evans, and Keefe, Judges; Cline, J., not participating"]
+parties: ["F. W. Myers & Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/4/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6623855
+cites_cases: ["67 Treas. Dec. 837"]
+---
+
+# F. W. Myers & Co. v. United States
+
+## Majority (Evans, Judge:)
+
+Evans, Judge:
+This is an action brought by the plaintiff to recover certain sums of money claimed to have been illegally exacted by the collector of customs at Rouses Point, New York, on importations of merchandise designated in the invoices as Vim Oat Mill Feed, sometimes with other qualifying terms. The collector of customs assessed duty at the rate of 10 cents per hundred pounds under the provisions of paragraph 730 of the Tariff Act of 1930, which provides, among other things, for “hulls of oats, ground.” Against that classification and assessment the importer filed the following protest, which is practically identical in each case:
+Notice of dissatisfaction is hereby given with and protest is hereby made against your decision, liquidation and assessment of duties at 10(5 per 100 lbs. or other rate or rates on Vim oat meal feed and similar merchandise covered by the entries below named, or other merchandise covered by said entries, and contained in the cases or packages marked and numbered as below stated. The reasons for objection are as follows:
+We claim that said merchandise is properly dutiable at 10 % under Bar. 730 of the Tariff Act of 1930.
+We further claim that the assessment of duties made herein is illegal and void. The above claims severally and collectively are alternatively made under the paragraphs or sections cited, both directly, and by virtue of the “similitude” and “component material of chief value” clauses of Par. 1559 of the Tariff Act of June 17, 1930 and under the rules relating to the ordinary meaning of words, the commercial designation of the merchandise, or the chief or principal use thereof.
+We quote herewith the pertinent provision of the statute involved.
+Pab. 730. Bran, shorts, by-product feeds obtained in milling wheat or other cereals, 10 per centum ad valorem; hulls of oats, barley, buckwheat, or other grains, ground or unground, 10 cents per one hundred pounds; dried beet pulp, malt sprouts, and brewers’ grains, $5 per ton; soy bean oil cake and soy bean oil-cake meal, three-tenths of 1 cent per pound; all other vegetable oil cake and oil-cake meal, not specially provided for, three-tenths of 1 cent per pound; mixed feeds, consisting of an admixture of grains or grain products with oil cake, oil-cake meal, molasses, or other feedstuffs, 10 per centum ad valorem.
+The importer in its brief states that four questions are involved, to wit:
+1. Is the merchandise something more than ground oat hulls?
+2. Is the merchandise a by-product obtained in milling cereals?
+3. Is the merchandise a feed?
+4. Is the merchandise properly dutiable as a by-product feed obtained in milling cereals?
+The brief also assumes to answer these questions in the following language:
+1. The merchandise is not ground oat hulls, but is a product consisting in part of ground oat hulls.
+2. The merchandise is a by-product obtained in milling cereals, to-wit: oats.
+3. The merchandise is a feed used exclusively for feeding animals.
+4. The merchandise is therefore properly dutiable as a by-product feed obtained in milling cereals.
+On the points at issue the Government asserts in its brief:
+1. The importation is not a by-product of a cereal-milling process.
+2. Alternatively, the importation is an article manufactured from oat products, and not provided for in paragraph 730.
+With reference to .the first question raised by the importer it is clear that the Government is not contesting that point. The record clearly shows that the merchandise is something more than oat hulls ground.
+Plaintiff’s witness Thomas T. Gentils gave the following testimony concerning the process of manufacture or production of Vim Oat Mill Feed:
+The oats come first into the cleaning house, where they pass over a series of air separators and grading machines that remove the light oats, which are removed from the clean oats, which go in, then, to the drying pans, where they are pan-roasted; and, from pan-roasting, we impart the flavoring to the grains. After the roasting process has been completed, the oats come into the mill proper, where they go, first, to the dry oats grading system, where they are graded as to width and as to length. There are three separations, stout, slim, and large. The graded oats are then ready for hulling. They go, first, to the hullers, where the hull is removed from the oats. The hullers are 48 inches in diameter. The bottom stone is stationary, the upper stone is revolving very fast. The oats feed in through the eye of the stone, and, passing through the outer rim of the stone, they up-end; and, in doing that, the top stone knocks the tip off the end of the oat. The oats and the hulled oats pass from the hullers to where we remove the oat middlings, or the Banner feed, which consists of oat middlings and oat shorts. The Banner feed goes, from this point, in one direction, and the hulls and groats continue on. We then, with air aspiration, remove the hulls from the groats, and the unhulled oats that remain pass on then to the graders, where then the unhulled oats are removed and returned to the hullers for a second hulling. The groats are then ready for the manufacture of rolled oats or ground oatmeal. The Banner feed and the hulls then are put together, joined together, and go to. the mills where they are ground into “Vim Oat Mill Feed.”
+The witness testified that “Banner feed consists of oat bran, oat chips, fodders or hair from the groat and germ tips.” He also stated that Vim Oat Mill Feed contains approximately 78 per centum of oat hulls and 22 per centum of Banner feed. There is other testimony in the record which corroborates the statements of this witness as to the process of manufacture of Vim Oat Mill Feed.
+Considerable evidence was produced in support of the claim that the commodity in question is a stock feed. The testimony was not materially contradicted. Some of the witnesses thought that it would not be a very good feed because it didn’t appear to contain much nourishment, but we are of the opinion that the preponderance of the testimony establishes that Vim Oat Mill Feed is in fact a stock feed.
+On the question as to whether the commodity falls within the description “by-product feeds obtained in milling wheat or other cereals” it is our opinion that the testimony discloses that there are two products produced in the milling of the cereal oats, one of which is oat hulls and the other Banner feed, the latter being composed of oat bran, oat chips, hair from the groat and germ tips .of the grains. These two products are then combined in definite proportions and ar¿ reground in order to produce the imported commodity. It therefore seems to the court that the product is at least one manufacturing step removed from a byproduct feed obtained in milling cereals. It is a manufactured article, produced from byproducts obtained in milling cereal. The last grinding is no part of the milling of cereal.
+None of the previously decided cases which related to feeding oats is parallel to the instant case. That is, this case is distinguishable from any of the previous decisions. The one that approximates most closely the facts in the instant case is that of J. A. Forrest v. United States, T. D. 47712, 67 Treas. Dec. 837, which related to Alpine feeding oatmeal. In that case the initial product was not a cereal as defined either by Department rulings or by common understanding.
+We quote the Standard Dictionary definition as follows:
+Cereal. 1. Any grass yielding farinaceous seeds suitable for food, as wheat, maize, rice, etc.; also the seeds or grains so produced, either' in their original state or commercially prepared.
+2. A prepared foodstuff of grain, as oatmeal or flaked corn used esp. with milk or cream as a breakfast food.
+The basic article in the Forrest case, supra, was mixed feed oats. In the making of the various feed products from the mixed feed oats the hulls were put aside and no part of them was used in the Alpine feeding oatmeal. The various other byproducts obtained in the making of the different grades of mixed feeds were then combined with 10 per centum of white or cereal oat hulls obtained from another mill, after which these combined byproducts were reground and put on the market as the Alpine feeding oatmeal.
+The merchandise now before us, Vim Oat Mill Feed, is made from cereal, that is, not feed, oats. The hulls are put aside until the process of making the edible oat products has been completed. The various byproducts produced in making the finished product are then combined with 10 per centum of the oat hulls obtained from the cereal oats, after which this combined product is reground and put on the market as Vim Oat Mill Feed.
+We find in the nineteenth edition of a book entitled “Feeds and Feeding” by Henry and Morrison, at pages 162/3, under the heading “Oat by-products” the following statement:
+After the oats are hulled, the fuzzy material covering the kernels is removed, and the kernels, or groats, are rolled or otherwise prepared for human consumption. The fuzzy material was formerly known as oat dust, but now the term oat shorts is applied to this material plus considerable portions of the fine floury part of the kernels removed in the milling process. Oat middlings are the floury portions of the kernels obtained in the milling of rolled oats.
+These products, as above noted, constitute Banner feed, according to plaintiff's witness in the instant case.
+The court is of the opinion that the instant commodity falls exactly within paragraph 730, supra, but under that provision therein which reads:
+* * * mixed feeds, consisting of an admixture of grains or grain products with * * * feedstuffs, 10 per centum ad valorem.
+It cannot be disputed that oat hulls come from oat grains, and therefore would constitute a grain product, and these oat hulls would still be a grain product after having been ground. They are mixed with Banner feed and therefore the product becomes a mixed feed consisting of a grain product and a feedstuff. It would be immaterial whether the mixture was made before or after the grinding took place.
+While the claim as mixed feeds was not mentioned at the hearing or in plaintiff’s brief, nevertheless the pleadings are broad enough to cover it, claim being made in each case that —
+* * * said merchandise is properly dutiable at 10 % under Par. 730 of the Tariff Act of 1930.
+The right rate and paragraph are mentioned and the protests are not limited to the first part of paragraph 730. As was said in the case of Raybestos Manhattan, Inc. v. United States, 27 C. C. P. A. (Customs) 340, C. A. D. 109, where the court was passing on the sufficiency of a protest:
+Nothing in this opinion should be construed as holding that where a paragraph of the tariff act includes two or more articles bearing the same rate of duty, it is necessary in all cases in a protest to specify each of such articles relied upon in order that the protest be held valid. There are many cases, some of which have been cited by appellant, where, by reason of the nature of the merchandise involved, or particular provisions of a tariff paragraph, it would be sufficient to make a general claim under such paragraph. The test always is, Does the protest, reasonably construed, distinctly and specifically set forth the reasons for the importer’s objection to the liquidation by the collector?
+We think the protests now before us “distinctly and specifically set forth the reasons for the importer’s objection to the liquidation of the collector.”
+For the reasons above given we find that the Vim Oat Mill Feed involved is properly dutiable at 10 per centum ad valorem under paragraph 730, supra, as a mixed feed, consisting of an admixture of grain products with other feedstuffs.
+At the hearing of this case objection was made to the testimony of Dr. Bohstedt with relation to Illustrative Exhibit 2 on the ground that said exhibit is not connected with or identified as being similar or the same as the imported articles. Importer’s counsel promised to connect this exhibit with the imported articles by proof that it was made according to formula or was similar to or identical with the imported article. He later produced a witness who testified that said Illustrative Exhibit 2 was the same as the Vim Oat Mill Feed made at Peterborough, Ontario. The objection is therefore overruled. Thereafter, a motion was made to strike out all of the testimony of this witness. Since a portion of his testimony related to the product in question this motion is not well taken and is overruled.
+Judgment will be rendered for the plaintiff in each case. It is so ordered.
