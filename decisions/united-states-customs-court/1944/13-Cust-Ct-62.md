@@ -1,0 +1,32 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 870"
+decided: "1944-08-11"
+citations: ["13 Cust. Ct. 62"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Olivee, Walkeb, and Cole, Judges"]
+parties: ["Bullocks, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/13/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6607593
+cites_cases: ["10 Ct. Cust. Appls. 62"]
+---
+
+# Bullocks, Inc. v. United States
+
+## Majority (Walicee, Judge:)
+
+Walicee, Judge:
+The merchandise the subject of these protests consists of so-called “iron pictures.” The sample, exhibit 1, before the court, consists of a wooden frame 5x7 inches, designed to be hung horizontally, from the bottom of which a representation of a flower stem runs, to which are affixed branches and flowers, all made of metal, and conventional in design. Duty was assessed thereon at the rate of 60 per centum ad valorem under the provisions of paragraph 1518 of the Tariff Act of 1930, the pertinent portion of which reads as follows:
+Pae. 1518. * * * artificial or ornamental fruits * * * leaves, flowers, stems, or parts thereof, when composed wholly or in, chief value of yarns, threads, filaments, tinsel wire, lame, bullions, metal threads, beads, bugles, spangles, or rayon or other synthetic textile, 90 per centum ad valorem; when composed wholly or in chief value of other materials and not specially provided for, 60 per centum ad valorem; * * * all articles not specially provided for, composed wholly or in chief value of any of the * * * flowers * * * or other material above mentioned, shall be subject to the rate of duty provided in this paragraph for such materials, but not less than 60 per centum ad valorem * * *.
+The protest claim in each case is for duty at the rate of 45 per ■centum ad valorem under the provision in paragraph 397 of the.same act for articles composed in chief value of metal. An alternative claim for duty at the rate of 20 per centum ad valorem under the provision for works of art in paragraph 1547 (a) was made, but not pressed.
+When the case was called for trial counsel for the plaintiff offered to stipulate that the merchandise involved is the same in all material respects as the merchandise passed upon in the case of Bullocks, Inc. v. United States, Abstract 37003, and that the record in the said case be incorporated and made a part of the record herein, and that the exhibit in the said case be admitted in evidence herein as exhibit 1 ns representative of the merchandise in issue. With the statement that the samples in the case at bar were, in some cases, larger, counsel for the Government agreed to so stipulate.
+On its part the Government requested that the record in the case cf O. E. Barrant v. United States, the decision which is reported in Abstract 45233, be incorporated as part of the record herein. This motion was opposed by counsel for the plaintiff on the ground that ■since the conclusion of the court in the Barrant case was that the merchandise did consist of artificial flowers, while in the Bullocks case, already incorporated, the conclusion was that the merchandise was .not artificial flowers, the merchandise must be different, and upon the further ground that the witnesses in the Barrant case were not produced for cross-examination, as required by rule 23 of this court.
+In the first place, there does not seem to have been any request for production of the witnesses made on the part of the plaintiff, as required by the rule, and hence there was no need for their production. Second, the rule as amended January 29, 1941, prior to the •trial of the issues in this case, does not require that the merchandise ■in the case sought to be incorporated and that in the instant cases be the same, it merely requires that questions of law and fact substantially the same in character be involved in both cases. The subject matter of the Barrant case and the instant case is obviously the same, and we are therefore constrained to grant the motion for incorporation thereof.
+As the record stands, then, it contains the records in both the Bullocks and Barrant cases, in which the court came to opposite conclusions on merchandise which appears, from an inspection of the samples involved, to have been, for all material purposes, the same. In the Barraní case, which is the later of the two cases, we applied the test for artificial flowers given by the Court of Customs and Patent Appeals in Cochran Co. v. United States, 10 Ct. Cust. Appls. 62, T. D. 38336, as follows:
+It may be that neither exhibit truly represents any natural flower, fruit, leaf, or stem. Nevertheless, both come within the tariff designation of “artificial and ornamental fruits, grains, leaves, flowers, and stems,” inasmuch as they are articles which simulate the natural fruit, flower, leaf, or stem in its physical characteristics and appearance sufficiently to cause them in common understanding to be regarded as leaves, stems, flowers, or fruits produced not by nature, but by the hand of man, and which at the same time are appropriate and suitable to be used for those purposes of ornamentation to which the natural products may be temporarily devoted.
+In view of the fact that the provision in the existing act is for “artificial or ornamental * * * flowers” it would seem that suitability for use “for those purposes of ornamentation to which the natural ■products may be temporarily devoted” is no longer a requirement in determining whether or not an article is an artificial flower, and that the proper test is simulation of the natural flower in physical characteristics and appearance sufficient “to cause them in common understanding to be regarded as * * * flowers * * * produced not by nature, but by the hand of man.”
+The flower portions of the samples before us do not represent any particular natural flower with which the court is familiar, but they do appear to be conventional flowers in the sense that they exhibit the flower structure, having petals, etc. They are, therefore, artificial flowers within the meaning of the term as used in paragraph 1518, supra, and the entire article was properly classified by the collector as an article not specially provided for, composed in chief value of artificial flowers.
+Judgment will therefore issue overruling the protests.
