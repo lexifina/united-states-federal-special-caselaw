@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "44177"
+decided: "1940-08-06"
+citations: ["5 Cust. Ct. 291"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 832433-G, etc., of Armand Schwab & Co., Inc., et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/5/cases/0291-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6652467
+cites_cases: ["4 Cust. Ct. 166"]
+---
+
+# Protests 832433-G of Armand Schwab & Co.
+
+## Majority (Brown, J.)
+
+Opinion by
+Brown, J.
+In accordance with stipulation of counsel and on the authority of Cohn v. United States (4 Cust. Ct. 166, C. D. 314) the merchandise in question was held dutiable at 33 cents per pound and 45 percent ad valorem under paragraph 1115 (a) as claimed.
