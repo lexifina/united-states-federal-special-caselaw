@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "CD 4731; Court No. 73-8-02142"
+decided: "1978-01-25"
+citations: ["80 Cust. Ct. 17"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["A. N. Deringer, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/80/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6756139
+cites_cases: ["19 U.S.C. § 1558", "25 CCPA 5", "33 Cust. Ct. 136", "80 Cust. Ct. 19"]
+---
+
+# A. N. Deringer, Inc. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+Plaintiff in tliis action seeks to recover duties paid on importations of certain biscuits, cookies, and candy which were refused admission as being in violation of various sections of the Federal Food, Drug and Cosmetic Act, and which were exported to the country of origin.
+This case was submitted on the following stipulation of fact:
+1. The merchandise the subject of this case consists of biscuits and cookies.
+2. The merchandise involved in this case was, at the time of entry thereof into the commerce of this country was sought, in violation of the Federal Food, Drug and Cosmetic Act and regulations enacted pursuant to the Fair Packaging and Labeling Act in the following respects because of the manner in which it was labeled: by not having the packaging bear the identity of the commodity by means of a common or usual name of the produce (e.g., “cookies,” “biscuits”) [FPLA, Sec.' 1.8b (f)]; by not placing the net weight declaration separate from other printed information, and parallel to the base on which the package rests while displayed and only in the lower 30 percent of said label panel, and in type at least % inch high [FPLA, Sec. 1.8b (f)]; by not having all required mandatory language in the foreign language as well as in the English language [FPLA, Sec 1.8b (i) (2)] and [FPLA, Sec. 1.9(c)(q)];-by not including the name of the Canadian Province in the business declaration [FPLA, Sec. 1.8a (d)]; by not specifying each ingredient more particularly than by a collective name; and by not removing the words; “strawberry tarts” from those packages in which said words appear. ,
+3; Because of the foregoing violations, plaintiff was sent on August 29, 1972, three Notices of Detention and Hearing on form FD-777, copies of which are attached hereto as Joint Exhibit A.
+4. Plaintiff, despite the Notices of Detention and Hearing sent because of the nonconforming labeling, failed to. communicate in any way with the Food and Drug Administration, although the Notices gave plaintiff the privilege of appearing for a hearing, and failed to relabel the merchandise even though it was implicit in the law and regulations that plaintiff had the right to relabel the merchandise and again seek entry thereof.
+5. The merchandise involved in this case, if relabeled to correct the deficiencies noted in paragraph 1, would not have been in violation of the Federal Food, Drug and Cosmetic Act and regulations enacted pursuant to the Fair Packaging and Labeling Act.
+6. The merchandise involved in this case, if so relabeled, would not have had to have been exported, and could have been released into the commerce of the United States.
+7. The merchandise was the subject of three Notices of Refusal of Admission (Form FD-772), copies of which are attached as Joint Exhibit B, which were sent to plaintiff on September 8, 1972, only after plaintiff failed to communicate in any way with the Food and Drug Administration after dispatch of the Notices of Detention and Hearing.
+8. The involved merchandise was exported on September 12, 1972.
+9. The involved case is hereby submitted for decision upon this set of stipulated facts, with plaintiff requesting 60 days after approval of this stipulation within which to file a brief and defendant requesting 60 days after receipt of plaintiff’s brief within which to file its brief.
+Based upon the pleadings filed herein the court notes the entries involved were liquidated on September 29, 1972 and a protest filed on December 19, 1972. The court further notes that the merchandise was exported from the United States on September 12, 1972 (paragraph 8 of the stipulation) under customs supervision (paragraph 8 of the complaint and admitted in the answer), some 17 days prior to liquidation.
+Liquidation under such circumstances, and particularly in view of Customs Regulation, section 12.6, as amended by T.D. 68-191, creates doubt as to the validity of the liquidation.
+§ 12.6 Suspension of liquidation.
+(a) The liquidation of each entry covering merchandise, the subject of § 12.1, shall be suspended until it is determined whether admission of the merchandise into the United States is permitted under the law.
+The foregoing regulation is couched in mandatory terms. The law is clear that regulations which are not unreasonable and are prescribed under authority of the law, when duly promulgated, have the same force and effect as if written in the statute and are binding upon the importer and government officials alike. Maple Leaf Petroleum, Ltd. v. United States, 25 CCPA 5, T.D. 48976 (1937); Thornley & Pitt a/c Earl Investment Corpn. v. United States, 33 Cust. Ct. 136, C.D. 1645 (1954).
+The purpose of Customs Regulation, section 12.6, is apparent on its face. Liquidation in customs is the finalization of the customs entry-process. This act constitutes a settlement of duties due the United States and finalizes the liability of the importer. This action under section 514 of the Tariff Act of 1930, as amended, is final and conclusive upon all parties unless a protest is filed against a valid liquidation or action of customs. It is certainly reasonable for customs to suspend liquidation on items such as food, drugs, devices and cosmetics until it is determined if entry under the law is permitted. If not permitted, as in the case at bar, such liquidation would be a useless act since the merchandise if exported or destroyed pursuant to the statute and regulations would result in a refund of the duties deposited. 19 U.S.C. § 1558(a).
+In view of the circumstances I am constrained to find the liquidation to be in violation of section 12.6 of the customs regulations and therefore void. See A. N. Deringer, Inc. v. United States, 80 Cust. Ct. 19, C.D. 4732. Accordingly, the protest is premature and therefore dismissed. Judgment will be entered accordingly.
+Section 12.1 covers, among other things, food.
