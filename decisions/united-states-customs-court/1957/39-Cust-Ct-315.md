@@ -1,0 +1,47 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1946"
+decided: "1957-12-19"
+citations: ["39 Cust. Ct. 315"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Lawrence, Rao, and Ford, Judges"]
+parties: ["Herbert B. Moller U. S. Wolfson Bros. Corp. v. United States"]
+source_url: "https://static.case.law/cust-ct/39/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6582316
+cites_cases: ["19 U. S. C. § 1001", "28 Cust. Ct. 332", "82 Treas. Dec. 305", "84 Treas. Dec. 403", "85 Treas. Dec. 116"]
+---
+
+# Moller v. United States
+
+## Majority (LAWRENCE, Judge:)
+
+LAWRENCE, Judge:
+An importation of steel welding elbows, also described on the invoice as “Welding Fittings and Flanges,” was classified by the collector of customs as articles composed in chief value of metal, not specially provided for, in paragraph 397 of the Tariff Act of 1930 (19 U. S. C. § 1001, par. 397), as modified by the General Agreement on Tariffs and Trade, 82 Treas. Dec. 305, T. D. 51802, and duty was imposed thereon at the rate of 22% per centum ad valorem.
+The importers rely upon the claim that the articles should be classified as “All other finished or unfinished iron or steel tubes, not specially provided for” in paragraph 328 of said act (19 U. S. C. § 1001, par. 328), as modified by the Annecy protocol to said general agreement, 84 Treas. Dec. 403, T. D. 52373, supplemented by Presidential proclamation, 85 Treas. Dec. 116, T. D. 52462, and subjected to duty at the rate of 12% per centum ad valorem.
+The pertinent text of the competing statutes reads as follows:
+Paragraph 397, as modified, supra,:
+Articles or wares not specially provided for, whether partly or wholly manufactured:
+Composed wholly or in chief value of iron, steel * * *:
+Other * * *---22%% ad val.
+Paragraph 328, as modified, supra:
+Finished or unfinished iron or steel tubes not specially provided for:
+* * * * * * *
+Other, j- 12%% ad val.
+Six witnesses were called to testify for the plaintiffs and nine for the defendant, all of whom were well qualified to testify with regard to the manufacture, sale, and use of steel tubes and steel fittings. All of defendant’s witnesses, with one exception (Raymond Blom), were experienced in the sale of steel tubes in the trade and commerce of the United States on and prior to June 17, 1930.
+The subject merchandise is represented by exhibits 1 and 2, which are admittedly 45-degree elbows and 90-degree elbows, respectively.
+The witness Wolfson, a member of the importing corporation, testified that the articles were known in the supply business as tubular bends but that they were bought and sold in the trade as fittings, the manufacture of pipe fittings being a separate and distinct industry, and that they were used for connecting lengths of pipe where a bend is required. Upon cross-examination, Wolfson identified defendant’s exhibit A as a catalog issued by his firm, in which pages 3 and 4 contain a “Pictorial Index Seamless Welding Fittings” along with which 90-degree and 45-degree elbows are identified.
+The record is voluminous, and it would serve no useful purpose to set forth an extended review of it here. The evidence clearly establishes that the items in controversy are, in fact, welding fittings being generally so recognized but also known as welding elbows. As imported, they are finished and ready for use in welding together sections of tube.
+In support of their contention that elbows, bends, or fittings, as they are variously termed, should be classified as tubes, plaintiffs refer to several cases bearing upon the common meaning of the term “tube.” We have examined those cases and are of the opinion that, they are without any controlling effect here.
+Defendant introduced the testimony of several witnesses in an attempt to establish that the items in controversy are not tubes, as that term was understood in the trade and commerce of the United States prior to the passage of the Tariff Act of June 17, 1930.
+The conclusion we have reached herein renders it unnecessary to decide whether the merchandise under consideration is commonly or commercially known as tubes. We believe our course in this case is charted by the decision of our appellate court in Green Kay Corporation et al. v. United States, 29 C. C. P. A. (Customs) 216, C. A. D. 193. The opinion in that case discloses that the merchandise there in controversy consisted of malleable cast-iron pipe fittings in the form of elbows, tees, and couplings, and that “said fittings are short pipes or tubes which are used to connect longer pipes or tubes of iron or steel in the transportation of water, gas or oil * * *.” It was there claimed alternatively that the articles before the court of appeals were dutiable as “Cast-iron pipe of every description” or “castings of malleable iron not specially provided for” in paragraph 327 of the Tariff Act of 1930 or as “all other finished or unfinished iron or steel tubes not specially provided for” in paragraph 328 of said act.
+It is important to point out that the court, in rejecting the claim for classification of the merchandise as. “Cast-iron pipe of every description,” stated that this contention may be summarily disposed of by the fact that, in paragraph 327 of the tariff act, Congress has distinguished between cast-iron pipe of every description and cast-iron fittings for such cast-iron pipe. It was stated further that although the fittings there in question were not used to connect cast-iron pipes “This fact, however, does not lessen the force of the conclusion that Congress for tariff purposes has definitely distinguished between pipes and fittings.”
+In disposing of the' alternative claim that the merchandise there under consideration should be classified as “all other finished or unfinished iron or steel tubes not specially provided for” in paragraph 328 of said act, the court observed that its discussion of the claim with respect to “all cast-iron pipes of every description” was pertinent to the claim for classification as tubes, and called attention to the fact that paragraph 328, which includes tubes, pipes, flues, and stays of certain kinds with certain characteristics not possessed by the involved merchandise, and also includes many other articles wholly dissimilar to the goods in the Oreen Kay case, has a catchall provision for “all other finished or unfinished iron or steel tubes not specially provided for.” The court then expressed the view that “Even a superficial examination of the paragraph and the subject matter which it contains suggests that material such as that at bar was never intended by Congress to be covered by any of the language therein contained.” Further, the court said that “since Congress has, in the Tariff Act of 1930, distinguished between fittings and pipes and has specifically referred to fittings by name, it could not have contemplated that the term ‘tubes' would include such fittings.”
+Pursuing the issue further, the court pointed out that, while the word “tube” in one of its meanings was broad enough to include short tubular threaded fittings, it was not thought that Congress used the term “tubes” in that sense. The court concluded its discussion on that phase of the case as follows:
+The context of paragraph 328, when compared with that of paragraph 327 suggests that the term “tubes” referred to in the pertinent provision of paragraph 328 was not used with the view of covering a fitting that does little more than connect pipes which, as such, when so connected, are used for many purposes.
+The Green Kay case was decided in 1942 and, while the statutes in controversy here have since been modified by trade agreements, there has been no change in phraseology to alter the effect of the Oreen Kay decision. Consequently, whether or not the merchandise before the court is, as stated by the plaintiffs in their brief, within the broad definition that the courts have given the term “tube,” that contention has been fully answered in the Green Kay case, which leads us unerringly to the conclusion that the imported articles in the present case are not tubes within the meaning of that term, as it appears in paragraph 328, supra. The Green Kay case has declared the intent of Congress and we believe it is controlling here. Consequently, we consider it unnecessary for us to determine whether defendant established that the articles in dispute are not tubes, as that term is commercially understood.
+With reference to our decision in The Davis-Bilt Products Co. v. United States, 28 Cust. Ct. 332, C. D. 1432, cited by plaintiffs, it is clear that the imported articles in that case had not acquired the status of fittings at the time of importation but were designed to be cut into bends of varying degrees, which later would be welded to straight lengths of tubing, whereas, in the case now before us, the articles in issue had already acquired the shape of fittings prior to importation.
+We find and hold that the imported elbows or bends here in controversy are, in fact, fittings and are not within the scope and meaning of the term “tubes" in paragraph 328, as modified, supra.
+Upon the record before us and for the foregoing reasons, we overrule the protest in all respects. Judgment will be entered accordingly..
