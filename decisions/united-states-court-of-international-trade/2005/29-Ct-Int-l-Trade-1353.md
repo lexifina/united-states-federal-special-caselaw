@@ -1,0 +1,28 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 04-00662"
+decided: "2005"
+citations: ["29 Ct. Int'l Trade 1353", "400 F. Supp. 2d 1382"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["M/V Cheri H. Inc., Plaintiff, v. United States Secretary of Agriculture, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/29/cases/1353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9010798
+cites_cases: ["14 CIT 679", "19 U.S.C. § 2395", "746 F. Supp. 1107"]
+---
+
+# M/V Cheri H. Inc. v. United States Secretary of Agriculture
+
+## Majority (GOLDBERG, Senior Judge:)
+
+MEMORANDUM OPINION AND JUDGMENT ORDER
+GOLDBERG, Senior Judge:
+This case, involving a denial of certification for trade adjustment assistance by the U.S. Department of Agriculture, is before the Court following an order to show cause why this action should not be dismissed for lack of prosecution. The Court has jurisdiction pursuant to 19 U.S.C. § 2395(a).
+This action was filed on December 23, 2004. At that time, William R. Hansen, president of the corporation M/V Cheri H. Inc., identified himself as the plaintiff in his complaint against the agency, and the case was so captioned. Defendant filed its answer on March 9, 2005 and the Court subsequently entered a scheduling order to govern disposition of the case. This scheduling order was later amended to permit Mr. Hansen additional time to obtain legal counsel, first through the Court’s in forma pauperis procedure and then, following the Court’s denial of that motion pursuant to Mertz v. U.S. Customs Service, 14 CIT 679, 746 F. Supp. 1107 (1990), through independent means if so desired. Because the then named plaintiff was an individual, the Court recognized Mr. Hansen’s right to choose to proceed pro se pursuant to USCIT Rule 75(a).
+On September 14, 2005, defendant filed a motion to re-caption this case, seeking to change the named plaintiff from Mr. Hansen to his corporation. The rationale for this motion, accepted by the Court, was that the application for trade adjustment assistance was made on behalf of Mr. Hansen’s corporation and not Mr. Hansen in an individual capacity. The Court agreed that the legal rights arising from defendant’s denial of trade adjustment assistance belonged solely to M/V Cheri H. Inc. Accordingly, the case was re-captioned to its present form.
+As a result of this re-captioning, plaintiff was informed of its obligation under USCIT Rule 75 to obtain legal counsel. See USCIT R. 75(a)-(b)(l) (requiring corporations be represented by licensed counsel admitted to practice before the Court). In a letter to the Court dated October 31, 2005, Mr. Hansen indicated that it would be financially prohibitive for M/V Cheri H. Inc. to obtain counsel in order to further prosecute this matter. The Court’s order to show cause followed, in response to which Mr. Hansen reiterated plaintiff’s financial inability to obtain legal counsel and understanding of the legal consequences of such inaction.
+Accordingly, upon consideration of the foregoing, and upon due deliberation, it is hereby
+ORDERED that, pursuant to USCIT Rule 41(b)(3), this action is dismissed for lack of prosecution.
+SO ORDERED.
