@@ -1,0 +1,39 @@
+---
+court: "United States Customs Court"
+docket: "49126"
+decided: "1944-01-12"
+citations: ["12 Cust. Ct. 241"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 806904-G of Hughes Tool Co. (Galveston)."]
+source_url: "https://static.case.law/cust-ct/12/cases/0241-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6622233
+cites_cases: ["12 Ct. Cust. Appls. 48", "15 Ct. Cust. Appls., 172", "17 C. C. P. A. 472", "18 C. C. P. A. 353", "19 C. C. P. A. 232", "22 C. C. P. A. 327", "24 C. C. P. A. 316", "28 C. C. P. A. 182", "8 Ct. Cust. Appls. 273"]
+---
+
+# Protest 806904-G of Hughes Tool Co.
+
+## Majority (Tilson, Judge:)
+
+Tilson, Judge:
+This suit against the United States presents for determination the proper classification of certain imported merchandise upon which duty was levied at 45 percent ad valorem under paragraph 397 of the act of 1930, as articles composed wholly or in chief value of iron, steel, lead, copper, brass, nickel, pewter, zinc, aluminum, or other metal, but not plated with platinum, gold, or silver, or colored with gold lacquer, whether partly or wholly manufactured. The plaintiff claims the merchandise to be properly dutiable at only 27K percent ad valorem under paragraph 372 of said act, as a machine, finished or unfinished, not specially provided for.
+The collector also classified the merchandise as being in chief value of copper, and, in addition to the ad valorem duty under said paragraph 397, assessed a duty of 3 cents per pound upon the entire weight of the importation, as provided in section 601 (c) (7) of the Revenue Act of 1932.. The plaintiff contends the merchandise is not in chief value of copper, but that it contains 4 percent or more of copper, and that duty should be levied -at only % cent per pound under the provisions of section 601 of the Revenue Act of 1932 in accordance with the ruling of the. Commissioner of Customs in T. D. 45751.
+At the first trial of this case it was agreed between counsel that the total weight of the brewery mash filter was 92,593 pounds and that “the net weight of the copper or bronze content as it is called is 12,892 pounds,” but the record contained nothing to show that the filter was not in chief value of copper. Thereafter a motion for rehearing was granted for the purpose of permitting the plaintiff to introduce evidence as to the component material of chief value.
+The question of the proper method and the proof necessary to establish the component material of chief value in merchandise has been before this court and our appellate court many times. In United States v. Bacharach, 18 C. C. P. A. 353, the appellate court said:
+The collector’s classification and assessment of duty under paragraph 1430 raised the presumption that the component material of chief value was yarns, threads, or filaments, and this fact, when not shown to be incorrect, is determinative of the question. United States v. Bernard, Judae & Co., 15 Ct. Cust. Appls., 172, T. D. 42231. The rule has long been settled that the proper method of determining component material of chief value is by determining., the value of the separate parts of the article at the time when they are ready to be combined to make the completed article. “Value,” when used in this connection, does not relate to the dutiable value of the component materials, but to the cost of such components to the manufacturer of the completed article. There was no proof in this case establishing such value, and the presumption arising from the collector’s classification was not overcome.
+In the case of United States v. Rice-Stix Dry Goods Co., 19 C. C. P. A. 232, our appellate court again announced the rule in the following language:
+This court has repeatedly held that the proper method of determining component material of chief value is to ascertain the costs of the separate parts or component materials to the manufacturer at the time they are ready to be assembled or combined into the completed article. United States v. Mrs. S. Bacharach, 18 C. C. P. A. (Customs) 353, T. D. 44612; Turner & Co. et al. v. United States, 12 Ct. Cust. Appls. 48, T. D. 39997, and cases therein cited.
+Evidence as to the component material of the instant merchandise, such as is required by the above quotations from our appellate court, is entirely lacking in this case. We must therefore hold that there was no proof in this case establishing such value, and the presumption of correctness arising from the collector’s classification was not overcome.
+Adverting now to the question of whether the imported merchandise is a manufacture of metal, as classified .by the collector, or a machine, not specially provided for, as claimed by the plaintiff, we quote the following from Simon, Buhler & Baumann v. United States, 8 Ct. Cust. Appls. 273:
+The filter which is to be made in part of the castings now under consideration cannot be regarded as a mechanical contrivance for utilizing, applying, or modifying energy or force or for the transmission of motion, and therefore in no sense can it be properly called a machine. * * *. In fact, a filter for straining the malt from the malt liquor of the brewer’s mash is no more a machine than is the kitchen colander or a box of sand for clearing muddy water. As the filter is not a machine, the castings which are destined to become parts of it are not machine parts and are consequently not excepted from the operation of paragraph 125.
+See also United States v. Klingerit, Inc., 17 C. C. P. A. 472; United States v. Race, 22 C. C. P. A. 327; United States v. National Folding Box Co., 24 C. C. P. A. 316, and United States v. J. E. Bernard & Co., 28 C. C. P. A. 182.
+The plaintiff’s only witness testified that the imported merchandise consisted of a mash filter, and described it as follows:
+It replaces what is known as a “lauter tub,” which is a means of separating the undesirable, parts like the hulls' and unextractable matter from the dissolved or what we call “wort.” It is a filter. The grains which are crushed are put in water, and naturally you have a lot of hulls and matters that do not dissolve. Then we separate them from the liquid which we call “wort” and run it into the kettle, where it is finally brewed, and we have to have either a mash filter, “louder tub,” or a mash tub, with a false bottom, and in this connection, the mash filter is probably the best.
+* * * * * * *
+In the simplest language it consists of what is known as plates and a frame. * * *. There is no power to it, that is the simplest way to explain it, it would be as though you had a vessel, and you put some cheesecloth in the vessel as a purifier at the bottom.
+He further testified in effect that the filter had no means by which you could increase the force of gravity; that it contained no moving parts; that it does not operate through any force or pressure; that it uses no heat or steam; that it uses no electricity; that it has no movable parts whereby in the process of its use, or in the course of its use, it utilizes energy or force; that the only motion is in the liquids that pass through it; that it has nothing to do with the transmission of force or motion. “The filter does not exert energy at all, only the weight of the mash.”
+Upon the evidence set out above and the record as a whole, the mash filter in this case does not answer the description of a machine as set out in the above authorities.
+Accordingly we hold' that the mash filter in question is not a machine within the contemplation of paragraph 372 of the act of 1930. All claims of the plaintiff are, therefore, overruled. Judgment will be rendered accordingly,
+Lawrence, J., did not participate in this decision.
