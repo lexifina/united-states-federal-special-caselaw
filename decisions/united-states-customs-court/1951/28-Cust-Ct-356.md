@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "56197; protests 137112-K, etc. (New York)"
+decided: "1951-12-27"
+citations: ["28 Cust. Ct. 356"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theil-Schoen Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/28/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6599919
+cites_cases: ["17 Cust. Ct. 56"]
+---
+
+# Theil-Schoen Co. v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+It was stipulated that the merchandise consists of alabaster beads similar in all material respects to those the subject of Eitinger Bead Co., Inc. v. United States (17 Cust. Ct. 56, C. D. 1020). The claim at 35 percent under paragraph 1503 was therefore sustained.
