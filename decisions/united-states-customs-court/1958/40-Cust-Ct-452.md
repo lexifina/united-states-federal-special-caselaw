@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "61555; protest 286936-K (New York)"
+decided: "1958-02-13"
+citations: ["40 Cust. Ct. 452"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Competition Chemicals and Ad. M. Schmid & Co. v. United States,"]
+source_url: "https://static.case.law/cust-ct/40/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6593266
+cites_cases: ["36 Cust. Ct. 209"]
+---
+
+# Competition Chemicals v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that the merchandise consists of ammeters similar in all material respects to those the subject of Lucas Electrical Services, Inc., and Frank J. Eberle Co. v. United States (36 Cust. Ct. 209, C. D. 1776), the claim of the plaintiffs was sustained.
