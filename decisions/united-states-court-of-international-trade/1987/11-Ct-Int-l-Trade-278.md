@@ -1,0 +1,35 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 85-4-00508"
+decided: "1987-04-09"
+citations: ["11 Ct. Int'l Trade 278", "659 F. Supp. 248"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["House of Lloyd, Inc., plaintiff v. United States, defendant, Peter S. Herrick, applicant for intervention"]
+source_url: "https://static.case.law/ct-intl-trade/11/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6102120
+cites_cases: ["109 F.R.D. 541", "19 U.S.C. §§ 1515", "2 CIT 254", "28 U.S.C. § 2631", "434 F.2d 52", "529 F. Supp. 664", "669 F.2d 703", "69 CCPA 75", "806 F.2d 525"]
+---
+
+# House of Lloyd, Inc. v. United States
+
+## Majority (Restani, Judge:)
+
+Opinion and ORder
+Restani, Judge:
+This motion for leave to intervene as of right pursuant to Rule 24(a)(2) of the Court of International Trade in this action involving the tariff classification of Christmas tree decorations is filed to protect movant’s interest in a contingent fee contract. The firm of Herrick and Larsen, of which movant was a member, was retained in this action by plaintiff on a contingent fee basis. Upon the firm’s dissolution, notice of substitution was filed designating Herbert P. Larsen as attorney of record.
+Applicant urges the court to adopt the Fifth Circuit’s interpretation of Fed. R. Civ. P. Rule 24(a)(2) under which a discharged attorney has the right to intervene in an action in order to protect his interest in a contingent fee contract. The Fifth Circuit’s interpretation, set forth in Gaines v. Dixie Carriers, 434 F.2d 52 (5th Cir. 1974), has been rejected by another circuit, see Laker Airways v. Pan American World Airways, 109 F.R.D. 541 (D.D.C. 1985), and is only reluctantly applied by the Fifth Circuit itself. See Keith v. St. George Packing Co., 806 F.2d 525, 526 (5th Cir. 1986) ("[although Gaines may not represent the most persuasive use of Fed. R. Civ. P. 24, it binds us as the law of this circuit until modified [en banc]. We see no basis upon which to distinguish the instant case from Gaines. We find, therefore, that the district court erred in not granting [applicant’s] motion to intervene.”).
+Intervention in this court is governed by statute as well as by CIT Rule 24. Congress has provided for the intervention as of right and by leave of the court in various actions. 28 U.S.C. § 2631(j) (1982). In classification cases such as this, however, Congress has specifically stated that "no person may intervene in a civil action under section 515 or 516 of the Tariff Act of 1930 [19 U.S.C. §§ 1515, 1516 (1982)].” 28 U.S.C. § 2631(j)(l)(A)). See Stewart-Warner Corp. v. United States, 4. CIT 141, 142 (1982) (intervention in a 516 action is expressly forbidden by 28 U.S.C. § 2631(j)(l)(A)). Cf. Matsushita Electric Industrial Co. v. United States, 2 CIT 254, 255 & n.2, 529 F. Supp. 664, 666 & n.2 (1981) ("[t]he existence of a specific provision governing intervention also precludes the applicability of any other provisions or statutes”).
+Applicant will therefore not be granted status as an intervenor in this classification action in order to pursue his contractual interests, if any, in the ultimate resolution of this case. Applicant has several avenues through which he may seek to pursue his claim. Aside from state court actions concerning his contract with plaintiff, or the terms upon which his firm has dissolved, the rules of this court provide that the former attorney of record may be heard by the court on the substitution of attorney, and may move for such relief as he deems appropriate. CIT Rule 75(c). Applicant’s motion pursuant to CIT Rule 24(a)(2) to intervene is denied.
+Both CIT Rule 24 and Fed. R. Civ. P. 24 read as follows
+(a) Intervention as of Right. Upon timely application anyone shall be permitted to intervene in an action: (1) when a statute of the United States confers an unconditional right to intervene; or (2) when the applicant claims an interest relating to the property or transaction which is the subject of the action and he is so situated that the disposition of the action may as a practical matter impair or impede his ability to protect that interest, unless the applicant’s interest is adequately represented by existing parties.
+28 U.S.C. § 2631(j) provides:
+(1) Any person who would be adversely affected or aggrieved by a decision in a civil action pending in the Court of International Trade may, by leave of court, intervene in such action, except that—
+(A) no person may intervene in a civil action under section 515 or 516 of the Tariff Act of 1930;
+(B) in a civil action under section 516A of the Tariff Act of 1930, only an interested party who was a party to the proceeding in connection with which the matter arose may intervene, and such person may intervene as a matter of right; and
+(C) in a civil action under section 777(c)(2) of the Tariff Act of 1930, only a person who was a party to the investigation may intervene, and such person may intervene as a matter of right.
+(2) In those civil actions in which intervention is by leave of court, the Court of International Trade shall consider whether the intervention will unduly delay or prejudice the adjudication of the rights of the original parties
+Sections 515 and 516 of the Tariff Act provide for administiative review of Customs Service tariff classification decisions, which are then reviewable by this court under 28 U.S C. § 1581(a) & (b).
+Intervention pursuant to Rule 24(a)(2) may be available where it is not explicitly provided for by statute, or where a statutory right to intervene has been lost. Sumitomo Metal Industries, Ltd. v. Babcock & Wilcox Co., 69 CCPA 75, 669 F.2d 703 (1982) (inchoate right to intervene under Rule 24(a)(2) was not lost by failure to exercise statutory right to intervene in a timely manner). This case, however, involves Congress’ explicit rejection of intervention in classification cases, rather than silence or sanction. Thus, the policies underlying Congressional prohibition of intervention in classification cases are applicable where intervention is sought under any rule.
