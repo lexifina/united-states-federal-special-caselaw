@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "45618"
+decided: "1941-04-02"
+citations: ["6 Cust. Ct. 591"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 943701-G of M. Pressner & Co. (New York)."]
+source_url: "https://static.case.law/cust-ct/6/cases/0591-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6685328
+---
+
+# Protest 943701-G of Pressner
+
+## Majority (Oliver, P. J.)
+
+Opinion by
+Oliver, P. J.
+In accordance with stipulation of counsel squawker balloons in part of bamboo similar to those the subject of Abstract 40493 were held dutiable at 45 percent under paragraph 409 and siren whistles like those the subject of Abstracts 39948 and 40480 were held dutiable at 45 percent under paragraph 397.
