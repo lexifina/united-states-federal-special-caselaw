@@ -1,0 +1,58 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4694; Court Nos. 72-6-01379-S, etc."
+decided: "1977-04-22"
+citations: ["78 Cust. Ct. 108"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Prepac, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/78/cases/0108-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6564353
+cites_cases: ["50 CCPA 31", "505 F.2d 1288", "62 CCPA 14", "71 Cust. Ct. 145"]
+---
+
+# Prepac, Inc. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+These severed actions consolidated for the purpose of trial, involve plastic articles described on the invoices as picnic bags and designated as style nos.: 153, 154, 179, 186 and 188. The merchandise described above was classified as luggage under item 706.60, Tariff Schedules of the United States, and assessed with duty at the rate of 20 per centum ad valorem.
+Plaintiff claims said bags are not luggage, nor are they ejusdem generis with the articles enumerated in schedule 7, part 1, subpart D, headnote 2(a)(i) of the Tariff Schedules of the United States. Accordingly, it is contended they are properly subject to classification as other articles of plastics not specially provided for under item 774.60, Tariff Schedules of the United States, as modified by T.D. 68-9, and, as such, subject to duty at the rate of 10 per centum ad valorem or 8.5 per centum ad valorem, depending upon the date of importation. Claims as to all other merchandise or styles were abandoned by plaintiff at the trial and are accordingly dismissed.
+The statutory provisions as are pertinent herein provide as follows:
+Schedule 7, Part 1, Subpart D:
+Subpart D headnotes:
+* * * * * * *
+2. For the purposes of the tariff schedules—
+(a) the term “luggage” covers—
+(i) travel goods, such as trunks, hand trunks, lockers, valises, satchels, suitcases, wardrobe cases, overnight bags, pullman ¡bags, glad-stone bags, traveling bags, knapsacks, kitbags, haversacks, duffle bags, and like articles designed to contain clothing or other personal effects during travel; and
+(ii) brief cases, portfolios, school bags, photographic equipment bags, golf bags, camera cases, binocular cases, gun cases, occupational luggage cases (physicians’, sample, etc.), and like containers and cases designed to be carried with the person, except handbags as defined herein;
+*******
+Luggage and handbags, whether or not fitted with bottle, dining, drinking, manicure, sewing, traveling, or similar sets; and flat goods:
+*******
+Of other materials:
+*******
+706.60 Other_20% ad val.
+*******
+Part 12. - Rubber and Plastic Products
+*******
+Subpart D. - Articles Not Specially Provided For, of Rubber or Plastics
+*******
+774.60 Other_ 10% ad val. [1971] or 8.5% ad val. [1972, 1973]
+The record consists of the testimony of four witnesses, two called on behalf of each party. In addition, eight exhibits were received on behalf of plaintiff an-d eight exhibits for defendant. Three of the four witnesses testified the use of the involved bags was to carry food and beverages as well as picnic supplies. Defendant’s witness, Wiskin, an attorney with the Department of Justice, testified he used a similar type of bag to carry baby supplies such as diapers, extra clothing, books and toys, as well as food. In the opinion of the court the carrying of baby supplies is a fugitive use and not indicative of the primary use of such bags.
+The record establishes without contradiction that the bags involved are of various sizes and decorations and are composed of plastic. The bags have one or two handles, have a zippered enclosure and are insulated with fiberglass or polyethylene. The insulation is for the purpose of keeping the food and beverage warm or cool, as desired. Such items are sold to major department stores, discount stores, supermarket chains, variety stores and drug chains.
+Based upon this record plaintiff contends the imported picnic bags are not ejusdem generis with the exemplars set forth in headnote 2(a) of schedule 7, subpart D, which defines luggage. This position, plaintiff urges, is warranted since the phrase in headnote 2(a)(i) “and like articles designed to contain clothing or other personal effects during travel” is used. Food and beverages, according to plaintiff, are not personal effects.
+Defendant, on the other hand, contends the imported bags fall within the purview of the definition of luggage contained in the headnote by virtue of the statutory scheme of the Tariff Schedules of the United States and the legislative history. Defendant also urges the rule of construction, ejusdem generis, is applicable only where the legislative intent is in doubt, or is ambiguous, and in any event is not invoked for the purpose of narrowing, limiting, or circumscribing the enactment. Sandoz Chemical Works, Inc. v. United States, 50 CCPA 31, C.A.D. 815 (1963).
+Plaintiff’s rebanee on Adolco Trading Co. v. United States, 71 Cust. Ct. 145, C.D. 4487 (1973), is misplaced. In the Adolco case, the merchandise involved plastic shopping bags which the court held not to be luggage, nor ejusdem generis with the exemplars set forth in headnote 2(a) of schedule 7, subpart D. In arriving at this conclusion the court therein made the following observations:
+The hags involved herein are not among the named articles in either subsection. The question thus is whether they are “like articles designed to contain clothing or other personal effects during travel” or “like containers and cases designed to be carried with the person, except handbags.”
+The exemplars in subsection (i) are all articles customarily used for travel, which can be closed and usually locked. The bags before the court cannot be locked or even closed securely. They could not be handled as checked baggage on trains, buses or airplanes, because the articles in them would fall out when given normal baggage handling. For the same reason, they could not be placed in overhead racks or airplane lockers. Moreover, people do not ordinarily carry personal clothing in open bags where it can become soiled or is in danger of falling out. The instant bags are not designed or suitable for carrying clothing or personal effects during travel, and according to the evidence presented, are rarely so used. * * *
+In the case at bar the bags may be securely closed, as each of them has a zipper, which would prevent articles from falling out or being stolen. In addition, it is apparent the shopping bags were not used for travel. In the case at bar the bags are used for the convenience of the user while traveling (carrying food in an automobile or for picnic purposes).
+The imported picnic bags do not appear to fall within the common understanding of luggage, and while food or beverage is not ordinarily considered personal effects, the primary purpose of the court is to ascertain the intent of Congress in enacting this provision.
+In order to ascertain this intent the court may consult the Tariff Classification Study (1960). Mego Corp. v. United States, 62 CCPA 14, C.A.D. 1137, 505 F.2d 1288 (1974).
+The following information is contained in the Tariff Classification Study, Schedule 7, part 1, subpart D, at pages 47 and 51:
+In the Tariff Act of 1930 specific provision is made in paragraph 1531 for luggage, handbags, and billfolds, coin purses and similar “flat” goods wholly or in chief value of leather. When the Act of 1930 was passed, probably the bulk of these articles were made principally of leather, but today they are made principally of materials other than leather. Certain of these articles of metal and designed to be carried on the person, such as handbags, coin purses, and cigarette cases, are specifically provided for in tariff paragraph 1527(c). Luggage, handbags, and flat goods of all other materials, however, are dutiable under various “catchall” paragraphs throughout the tariff act according to com-Eonent material of chief value, unless that material happens to e one which imitates leather, in which case the articles are dutiable at the rates applicable to leather articles by virtue of the similitude provisions of paragraph 1559. This subpart brings together all of these scattered provisions in a single group of greatly simplified, related provisions.
+This subpart would cover all luggage, handbags, and flat goods of whatever material composed, except cases for musical instruments (schedule 7, part 3), cases suitable for pipes or for cigar or cigarette holders (schedule 7, part 9), and cases, purses, or boxes of precious metals or precious stones (provided for in the schedule on jewelry, schedule 7, part 6A). The luggage and handbags covered here may be fitted with bottle, dining, drinking, manicure, sewing, traveling or similar sets of a type used for convenience while traveling, in which case the set is dutiable in this subpart with the containing luggage or handbag, but this subpart does not cover cases designed to hold, and ordinarily sold at retail with, other types of articles, such as a camera case, a binocular case, or a microscope case, when imported with the article which it is designed to hold. When so imported, such cases are dutiable with the article. When imported in separate shipments without the article, however, such cases are covered by this subpart.
+Item 706.60 is the basket provision for this subpart to cover all other luggage, handbags, and flat goods. The proposed rate for this item is 20 percent ad valorem which is an approximate weighted average of the numerous rates now applicable to imports of these commodities. Articles covered by this item are now dutiable under paragraph 31(a) (2) (plastic articles) * * *.
+The utilization of the language to include bags fitted for dining and drinking is indicative of an intent to include within this subpart luggage or travel goods used for those purposes. The record herein is incontroverted with respect to the use of the imported picnic bags, viz., to carry food and beverages on trips. Accordingly, it is clear that the intent in enacting this provision was to encompass such travel goods as are primarily used for travel which are utilized for food and beverage.
+The claim for classification under item 774.60, supra, is therefore overruled and judgment will be entered accordingly.
