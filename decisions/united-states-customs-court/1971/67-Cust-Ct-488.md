@@ -1,0 +1,59 @@
+---
+court: "United States Customs Court"
+docket: "R.D. 11751; Entry No. 490843"
+decided: "1971-09-16"
+citations: ["67 Cust. Ct. 488"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hong Kong Fashions, Ltd. v. United States"]
+source_url: "https://static.case.law/cust-ct/67/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6573508
+cites_cases: ["11 Ct. Cust. Appls. 466", "315 F. Supp. 54", "33 CCPA 123", "57 Cust. Ct. 552", "62 Cust. Ct. 1029", "64 Cust. Ct. 651", "64 Cust. Ct. 713"]
+---
+
+# Hong Kong Fashions, Ltd. v. United States
+
+## Majority (Newman, Judge:)
+
+Newman, Judge:
+This appeal for reappraisement is here pursuant to an order granting defendant’s motion for rehearing. In my prior decision (64 Cust. Ct. 651, R.D. 11696 (1970)), the appraisement was found to be void. A second hearing was held at which both parties presented evidence. In light of the additional evidence, the appraised values are affirmed.
+The subject merchandise is comprised of sixteen pieces of custom-made men’s wool wearing apparel (viz., 10 suits, 1 jacket and 5 pants) exported from Hong Kong on September 16, 1966 and entered at the port of New York. The Government maintains that the appraisement was made on the basis of constructed value as defined in section 402 (d) of the Tariff Act of 1930, as amended. As noted by the customs officials on the invoice, the merchandise was “appraised at the invoiced unit values plus 20%”.
+Plaintiff contends that the appraisement is void and thus there is no statutory presumption of correctness; that export value under section 402(b), or alternatively constructed value under section 402 (d), is the proper basis for appraisement; that in the event the ap-praisement is valid, it is separable, and plaintiff may limit its challenge to the 20% addition to the invoiced unit prices; and that the correct values are the invoiced unit prices for the several garments, plus the cost of packing and shipping containers, if not included in the invoiced unit prices.
+The background of the instant importation is as follows:
+The importer (plaintiff) is engaged in selling custom-made suits and other wearing apparel. At its retail shop in New York, a customer’s measurements are taken and noted on a special form and the customer selects the material for the garment from sample swatches. The customer’s order is then sent by plaintiff to Hong Kong, where the material is purchased and tailored into a finished suit or other garment. The completed garment is then exported to plaintiff in New York, who then performs any necessary alterations to fit the customer.
+James Lau, owner of Hong Kong Fashions, Ltd., and his family reside in Hong Kong, and Valentin Yeh, manager of the retail store in New York, resides in New York City. Mr. Lau in Hong Kong receives orders from the retail store and transmits them to Wang Fat Tailor in Hong Kong, who procures the materials from various piece goods dealers and manufactures the garments according to the specifications on the orders.
+I.
+Initially, the court will consider plaintiff’s contention that the ap-praisement is void, as determined in the prior decision.
+It is true, of course, as emphasized by defendant in its brief, that the instant appraisement was made by the Regional Commissioner of Customs at the port of New York, rather than by Import 'Specialist John Wargo, who merely recommended the appraisement. However, in view of the stipulation of the parties that the Regional Commissioner adopted the appraisement report (viz., summary sheet) of the import specialist, the basic issue is what recommended basis of ap-praisement was adopted by the Regional Commissioner.
+At the first hearing, Mr. Wargo testified that the 20 per cent addition to the invoiced unit prices represented the difference between the invoiced values and the “fair value”; that he believed he appraised at a “fair value,” considering all of the information before him; that he did not believe that he appraised on the basis of constructed value since he did not receive “separate values” from the importer; that he had made the notation “ARNY 29” under the column headed “Remakes” on the summary sheet; that he did not recall what such notation meant, but he believed it referred to a customs ruling “or something”.
+On rehearing, Import Specialist John Gr. Thompson explained that the notation “ARNY 29” in the “Remarks” column of the summary sheet was an internal issue code signifying, inter alia, a constructed value basis of appraisement. It appears that Thompson was an examiner’s aide from 1939 to 1955, and thereafter was an examiner or import specialist.
+Mr. Thompson’s line of merchandise (men’s wool woven outerwear) was related to Wargo’s line, and in the course of his duties, Thompson had become familiar with the appraisement of wearing apparel imported by plaintiff from Hong Kong. Thompson’s duties included advising Wargo concerning value and classification matters, and in 1965 the two import specialists discussed advisory appraisements of custom-made clothing imported by plaintiff from Hong Kong. Thompson advised Wargo to recommend constructed value as a basis of ap-praisement, and he also instructed Wargo respecting the manner of making his advisory return. Thompson testified that the 20 per cent addition to the invoice unit prices and the notation “ARNY 29” in the “Remarks” column of the summary sheet indicated that Wargo had followed his advice, and had recommended an appraisement on the basis of constructed value.
+In light of Thompson’s disclosure concerning the meaning of “ARNY 29”, there is no doubt that the Regional Commissioner adopted an advisory appraisement made on the basis of constructed value. Moreover, inasmuch as Wargo did not recall the meaning of the code notation, I am now constrained to attach little weight to his testimony.
+In sum, it is clear: the advisory appraisement was in fact made on the basis of constructed value; such basis of appraisement is signified on the summary sheet by the code designation “ARNY 29”; the Regional Commissioner adopted and approved the recommended basis of appraisement; and accordingly the appraisement is not void, as previously determined.
+II.
+Plaintiff contends that the 20 per cent addition to the invoice unit prices is not an “element” of constructed value as defined in section 402(d) and consequently such addition was erroneous.
+Thompson testified that the 20 per cent addition relates to general expenses and profits, and represents the difference between the invoice prices and the constructed value of the merchandise. Therefore, the Regional Commissioner in effect rejected the invoice unit prices as representative of the constructed values, and advanced such unit prices 20 per cent “across the board” to arrive at a figure that he believed represented the constructed values of the garments. Whether or not such 20 per cent addition is a severable item, as plaintiff contends, the importer nevertheless had the burden of establishing:
+[A]n amount for general expenses and profit equal to that usually reflected in sales of merchandise of the same general class or kind as the merchandise undergoing appraisement which are made by producers in the country of exportation, in the usual wholesale quantities and in the ordinary course of trade, for shipment to the United States; * * *. [Section 402(d) (2).]
+It appears to be plaintiff’s position that the usual markup for general expenses and profit is already included in the prices charged by garment manufacturers in Hong Kong for custom-made garments. Hence, reasons plaintiff, it was error for the Government to add 20 per cent to the invoice unit prices.
+In N. M. Albert Co., Inc., et al. v. United States, 62 Cust. Ct. 1029, 1033 (1969), the court stated:
+* * * Only in the case where there are no other producers or where diligent inquiry has failed to elicit the necessary information from other producers, may resort be made to the general expenses and profits of the manufacturer in question, [citing cases] * * *
+Plaintiff does not dispute that there were competing manufacturers of men’s custom-made garments in Hong Kong. The Albert holding, therefore, requires plaintiff to adduce evidence of the general expenses and profits of such other garment manufacturers in Hong Kong; or that diligent inquiry failed to elicit the necessary information from other competing manufacturers.
+Defendant contends, and I agree, that the record contains no evidence of the general expenses and profits of other manufacturers in Hong Kong, and similiarly the record contains no evidence that any diligent inquiry was made to determine the necessary information. Consequently, the general expenses and profit of Wang Fat Tailor alone cannot be considered determinative. Cf. Bell Importing Co. v. United States, 57 Cust. Ct. 552, R.D. 11196 (1966). See also Meadows Wye & Co., Inc. v. United States, 64 Cust. Ct. 713, R.D. 11706, 315 F. Supp. 54 (1970).
+I conclude, therefore, that the presumption of correctness attaching to the constructed values found by the Regional Commissioner has not been overcome.
+III.
+Plaintiff’s alternative claim that it has established the invoice unit prices as the export values of the merchandise is, in my view, without merit. No evidence was presented concerning sales or offers of merchandise proven to be “similar” to the custom-made garments herein. Since plaintiff has failed to establish export value as the proper basis for appraisement, the presumptively correct constructed values must stand.
+Findings of Fact
+1. The imported merchandise consists of men’s custom-made wearing apparel exported from Hong Kong on September 16, 1966.
+2. The merchandise does not appear on the Final List promulgated by the Secretary of the Treasury, T.D. 54521.
+3. The merchandise was appraised at the invoiced unit prices plus 20 per cent on the basis of constructed value, as defined in section 402(d) of the Tariff Act of 1930, as amended by the Customs'Simplification Act of 1956.
+4. Plaintiff failed to establish that the profit and general expenses of Wang Fat Tailor were the profit and general expenses usually reflected in sales of merchandise of the same general class or kind as the merchandise undergoing appraisement which were made by other manufacturers in Hong Kong.
+5. Plaintiff failed to establish that at the time of exportation of the merchandise undergoing appraisement such or similar merchandise was freely sold, or in the absence of sales, offered for sale in the principal markets of Hong Kong, in the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States at the invoice unit prices.
+Conclusions of Law
+1. Constructed value as defined in section 402(d) of the Tariff Act of 1930, as amended, is the proper basis for the appraisement of the imported merchandise.
+2. The proper constructed values are the appraised values.
+Judgment will be entered accordingly.
+Insofar as appraisement Is concerned, the Import specialist’s function Is merely to make a recommendation viz., an “advisory appraisement”. Cf. United States v. Eurasia Import Co., Inc., 33 CCPA 123, C.A.D. 326 (1946).
+The summary sheet in the official papers also shows on its face that the Regional Commissioner approved the recommendations of the import specialist. It is fundamental that when the appraiser adopts or approves the action of the examiner, the latter’s action, becomes that of the appraiser. MacMillan Co. v. United States, 11 Ct. Cust. Appls. 466, T.D. 39536 (1923).
+According to Mr. ’Thompson, 20% was not a “stable” figure, and the addition to the invoice prices depended upon the relationship between the invoiced value and the value which Thompson thought represented constructed value.
