@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "63823; protests 754295-G, etc. (New York)"
+decided: "1960-02-18"
+citations: ["44 Cust. Ct. 347"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Morrison Co. of N.Y., Ltd., et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/44/cases/0347-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6591063
+cites_cases: ["22 Cust. Ct. 33", "40 C.C.P.A. 130"]
+---
+
+# Morrison Co. of N.Y., Ltd. v. United States
+
+## Majority (Richardson, J.)
+
+Opinion by
+Richardson, J.
+In accordance with stipulation of counsel that the merchandise and issues are similar in all material respects to those involved in United States v. R. C. Williams & Co., Inc. (40 C.C.P.A. 130, C.A.D. 508), and Austin, Nichols & Co., Inc. v. United States (22 Cust. Ct. 33, C.D. 1155), the claim of the plaintiffs was sustained.
