@@ -1,0 +1,36 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "3057"
+decided: "1928-06-11"
+citations: ["16 Ct. Cust. 233"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["Daprato Statuary Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/16/cases/0233-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093809
+---
+
+# Daprato Statuary Co. v. United States
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+A marble, mosaic, inlaid floor, in 16 colors, imported at New York in a knocked-down condition and subsequently installed in St. Mary’s Catholic Church at Dayton, Ohio, was classified by the collector of customs as a manufacture of marble and assessed for duty at 50 per centum ad valorem under that part of paragraph 233 of the Tariff Act of 1922 which reads as follows:
+233. Marble, breccia, onyx, alabaster, and jet, wholly or partly manufactured into monuments, benches, vases, and other articles, and articles of which these substances or any of them is the component material of chief value * * * not specially provided for, 50 per centum ad valorem.
+The importer claimed that the mosaic flooring was free of duty either under paragraph 1674 as part of an altar or shrine, imported in good faith for presentation to and for the use of a corporation or association organized fpr religious purposes, or under paragraph 1707 as a work of art imported expressly for presentation to an incorporated religious society. The parts of the free list upon which the importer relied in his protest are as follows:
+Sec. 201. That on and after the day following the passage of this act, * * * the articles mentioned in the following paragraphs, when imported into the United States * * * shall be exempt from duty:
+1674. Altars, * * * shrines, or parts of any of the foregoing * * * imported in good faith for presentation (without charge) to and for the use of, any corporation or association organized and operated exclusively for religious purposes.
+1707. Works of art, productions of American artists residing temporarily abroad, or other works of art * * * imported expressly for presentation to any * * * incorporated religious society * * *.
+The United States Customs Court overruled the protest, and from that judgment the importer appealed.
+The uncontradicted evidence in the case discloses that the marble, mosaic, inlaid floor was imported for presentation and was presented to St. Mary’s Catholic Church at Dayton, Ohio, for religious purposes without charge or expense of any kind to the church; that there are two shrines in the church, one of which is known as the shrine of the Guardian Angel and the other as the shrine of St. Anne; that the importation for which free entry is claimed is the floor upon which the altar rests and the two shrines are placed; that the flooring covers the sanctuary, the space inside the communion rail designed for the use of priests and altar boys; that the altar was given to the church in 1906 and the mosaic floor in 1922; that the flooring in color and in all other respects harmonizes with the altar and its surroundings and was made for that purpose; that an order for an altar or a shrine would not include a floor for the sanctuary or for the space occupied by the altar but would be filled by supplying the altar alone; that the sanctuary is something more than the altar or shrine; that the lamps of the sanctuary and the benches provided therefor are not parts of the altar and were given to the church by persons other than those who donated the altar.
+The issue raised by the protest is, first, whether the flooring of the sanctuary of a church is part of an altar or of a shrine, and, second, whether a marble, mosaic, inlaid floor is a work of art.
+In its broad sense the term “altar” means a house of worship, a place devoted to prayer, and in its narrow sense the raised structure on which sacrifices are offered or incense burned as an act of worship. The word “shrine” may signify either a chapel dedicated to some holy personage or a thing, receptacle, case, tomb, or altar made venerable by some historic event or sacred association.
+It is apparent that Congress did not intend to give free entry to churches, chapels, or to buildings set apart for religious uses, and that the terms “altar” and “shrine” were used by Congress in a restricted and strictly religious sense.
+In our opinion paragraph 1674 had for its legislative purpose the granting of free entry to the altars or raised structures in churches upon which sacrifices or offerings are made as an act of worship and to that particular kind of altar or structure suggesting an altar which is dedicated to some holy personage or sacred entity and is called a shrine. Shrines and altars even in a restricted sense are, it is true, sometimes parts of the sanctuary and always parts of the churches in which they are found, but so are pews and pulpits. Altars and shrines, like pews and pulpits, have an individuality of their own that is distinctly different from the floor upon which they may happen to rest. Shrines and altars may exist as complete entities without a floor, and it is needless to say that neither an altar nor shrine is required to make up a floor. As was well said by Father Beckmeyer, shrines, altars, sanctuary benches, sanctuary lamps, walls, and flooring must be in harmony and there must be an accord in color, material, and architectural effect in order to make a sanctuary dignified, pleasing to the eye, and worthy of its religious purpose. That accord and that harmony serve to complete the entirety known as a sanctuary, but in accomplishing that result one element of the entirety does not become part of another and none of them loses its identity. Each element, whether it be shrine, altar, bench, or floor, retains its own form, color, material, name, and individuality and must be regarded as a distinct, separate entity. The altar and shrines were doing service long before the mosaic inlaid floor was put in place, and even if all three of the articles had been imported together the floor could not be classified or considered as an integral part of either the altar or the shrine.
+We must hold, therefore, that the importation is not entitled to free entry under paragraph 1674 as part of an altar or shrine.
+A floor serves a utilitarian purpose and is the work of the artisan and not of the artist. Works of the free fine arts, of which painting and sculpture are typical, are the productions of the artist, designed to interest the emotions only and to have no practical or material utility. There is no evidence in the record showing or tending to show that the floor is the work of the artist, and the evidence is clear and unmistakable that it is made for a utilitarian purpose. We are constrained to hold, therefore, that the importation, while artistic and beautiful, is not a work of art in the sense hereinbefore indicated.
+The judgment of the United States Customs Court is affirmed.
