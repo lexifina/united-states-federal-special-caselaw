@@ -1,0 +1,35 @@
+---
+court: "United States Customs Court"
+docket: "C.R.D. 74-4; Court No. 63/9283"
+decided: "1974-04-03"
+citations: ["72 Cust. Ct. 301"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Valley Hardware Supply, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/72/cases/0301-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6572188
+cites_cases: ["22 Cust. Ct. 209", "40 CCPA 1", "463 F.2d 1387", "59 CCPA 185", "62 Cust. Ct. 1110", "62 Cust. Ct. 895", "67 Cust. Ct. 245"]
+---
+
+# Valley Hardware Supply, Inc. v. United States
+
+## Majority (Richardson, Judge:)
+
+Richardson, Judge:
+This is a motion by the defendant to dismiss for lack of jurisdiction, and to refer the action to an appropriate customs officer for appropriate administrative action.
+In a stipulation before the Third Division by and between counsel for the respective parties, they agreed, among other things:
+“4. That the Official Court papers contain a copy of a Notice of Appraisement on Customs Form 4301, allegedly issued by the Collector of Customs under Sec. 501 of the Tariff Act of 1930, but that said copy retained in the entry file does not contain a notation of the date of delivery thereof to the importer, consignee, his agent, or his attorney.
+“5. That no written Notice of Appraisement on Customs Form 4301 issued by the Collector of Customs under Sec. 501 of the Tariff Act of 1930 was ever delivered to or received by the importer of record, consignee, his agent, or his attorney.
+* * * * * * *
+“8. That the above-entitled protest was timely filed at the port of entry on November 19,1962, claiming that the liquidation was premature, illegal, null and void, because of the failure to receive legal Notice of Appraisement as required by Sec. 501 of the Tariff Act of 1930 and Sec. 17.6 of the Customs Regulations.
+“9. That in the absence of Notice of Appraisement as required by Sec. 501, and pursuant to 28 USC Sec. 2636 (D), the matter may be remanded to a single Judge, sitting in reappnaisement, for determination of the value of the merchandise in the manner provided by law.”
+On June 23, 1969, the Third Division ruled in accordance with the plaintiff’s claim that “the liquidation was premature, illegal, null and void, because of the failure to receive Legal Notice of Appraisement . . and, pursuant to the above stipulation and the statutory requirements of 28 TJ.'S.C A. 2636(d) the Third Division remanded the matter “to a single judge sitting in reappraisement, for determination of the value of the merchandise in the manner provided by law.” (Valley Hardware Supply, Inc. v. United States, 62 Cust. Ct. 1110, Abs. P69/322 (1969).)
+Under the applicable statute when a liquidation is held to be void because it is based upon an appraisement which is void in that notice of appraisement was not sent to the importer it is mandatory that the matter be remanded to a single judge to determine value.
+The provisions of 28 U.S.C.A. 2636 (d) are:
+“If upon the hearing of a protest, the court declares an appraisement of merchandise made after the effective date of the Customs Administrative Act of 1938 to have been invalid or void, it shall remand the matter to a single judge who shall determine the proper dutiable value of such merchandise in the manner provided by this chapter. In such proceeding no presumption of correctness shall attach to the invoice or entered values.” (Emphasis added.)
+July 23, 1973, the plaintiff filed its complaint seeking a reappraisement by a single judge in accordance with the remand.
+Following two extensions of time to file its answer, on February 1, 1974, the defendant, who by stipulation had asked that the matter be remanded to a single judge for reappraisement in 1969, filed this motion in which it contends that the court is without jurisdiction to determine value as the appraisement is incomplete and not invalid or void, and requests that the court return the action to the appropriate customs officer “for appropriate administrative action,” citing The New Home Sewing Machine Co. v. United States, 62 Cust. Ct. 895, R.D. 11655 (1969), an appeal to reappraisement case in which the court also held that a liquidation was void where a notice had been sent erroneously to the plaintiff before appraisement. See also Judge Landis, speaking for the majority in Pistorino & Co., Inc. v. United States, 67 Cust. Ct. 245 at p. 251, C.D. 4281 (1971), where the court pointed out that the appeal to reappraisement in the New Home case was taken prior to appraisement as “Customs prematurely, and prior to appraisement, had given the importer notice that the appraisement had already been made when in fact it had not”, and restated that the liquidation in the said case was void. The Court of Customs and Patent Appeals did not pass upon the New Home case when it was before it collaterally in National Silver Co. v. United States, 59 CCPA 185, (see p. 190), C.A.D. 1064, 463 F.2d 1387 (1972). The authority cited in the New Home case for support of the procedure of sending a case back to the appraiser to mail a notice of appraisement on the theory of incompleteness of appraisement, Alfred Dunhill of London, Inc. v. United States, 22 Cust. Ct. 209, C.D. 1178 (1949), did hold “that the appraisement was incomplete [where notice had not reached the importer], and that a proper notice of appraisement should be sent to the plaintiff so that the appraisement may be completed and plaintiff be given an opportunity, if it so desires, to file an appeal for reappraisement.” The Government advanced the same “incompleteness of appraisement” theory citing the Alfred Dunhill of London, Inc. case, three years later in 1952, in the case of United States v. James H. Rhodes & Co., 40 CCPA 1, C.A.D. 488 (1952), before the Court of Customs and Patent Appeals. However, the theory was rejected and the court followed the mandatory requirements of the statute and held that where there has been a liquidation upon a void appraisement there should be a “day in court.”
+Also, the New Home case was a reappraisement case. The involved case being a protest matter in a remand to a single judge to find value status, at the time Public Law 91-271 became effective, October 1, 1970, it is deemed, under rule 14.9(b) (2), a trial which had been commenced prior to October 1970, and is governed by practices and procedures in effect prior to October 1, 1970. The plaintiff has hot responded to the motion to dismiss, but the judge in Motion Part has no authority to set aside a remand order by a Division entered pursuant to the request of both parties in a stipulation which was in conformity with mandatory statutory procedure in protest matters as required by 28 U.S.C.A. 2636(d); and dismiss the case for “incompleteness of appraisement” and refer it to the appropriate customs officer for proper administrative action.
+The defendant’s motion to dismiss for lack of jurisdiction is denied.
