@@ -1,0 +1,38 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 2352"
+decided: "1962-07-09"
+citations: ["49 Cust. Ct. 8"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Johnson, Donlon, and Richardson, Judges"]
+parties: ["S. Blondheim & Co. Hoyt, Shepston & Sciaroni v. United States"]
+source_url: "https://static.case.law/cust-ct/49/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6575094
+cites_cases: ["16 Ct. Cust. Appls. 82"]
+---
+
+# Blondheim v. United States
+
+## Majority (DoNLON, Judge:)
+
+DoNLON, Judge:
+The facts here are not in dispute. This merchandise consists of hog bungs, lined with viscon, which is a fabric, and they are used as sausage casings. The testimony adduced by plaintiffs also shows that the purpose of the viscon casing liner is to reinforce, or strengthen, the bung; that this type of lining does not impart flavor to the sausage, but it permits the moisture of the sausage meat to dissipate and, hence, the casing is not as efficient as an all animal casing would be.
+The collector classified the merchandise as a nonenumerated manufactured article, dutiable at 10 per centum ad valorem under modified paragraph 1558. The protest claim is for classification as sausage casings under paragraph 1755, duty free.
+Plaintiffs’ argument is that the tariff provision for sausage casings is an eo nomine provision and, hence, the provision includes all forms of the article which respond to the common meaning of the term, as that meaning was defined in J. E. Bernard & Co. v. United States, 17 C.C.P.A. (Customs) 398, T.D. 43834.
+Since this is the gist of plaintiffs’ argument, it may be well to review what our appeals court said in the Bernard case, in deciding there that casings, made of vegetable parchment paper, were not sausage casings, in the tariff sense of the term. The argument of plaintiff, in the Bernard case, was that the term “sausage casings” includes “all articles of that character, regardless of the materials of which they are made, and that, as the articles in question are sausage casings, although made of parchment paper, they are eo nomine provided for * * J. E. Bernard & Co. v. United States, supra, at page 399. The court, in its brief opinion, cited the dictionary definition of sausage casings as “forms of cleaned and prepared entrails of cattle, swine, or sheep, used to hold sausage-meat,” and continued:
+It will be observed that tbe above definition limits tbe term “sausage casings” to cleaned and prepared entrails of animals. We bave been unable to find any definition of tbe term wbicb would include sausage casings made of other materials. Obviously, then, as commonly understood, the term “sausage casings” does not include sausage casings made of parchment paper.
+In view of the fact that it is conceded that the commercial meaning of the statutory term “sausage casings” is the same as its common meaning, it would seem to be clear that the involved merchandise is not included within that term. [P. 400.]
+Granted that sausage casings made entirely of hog bungs, or other cleaned and prepared entrails, are classifiable under the eo nomine provision of paragraph 1755, and that sausage casings made entirely of material other than animal entrails are not classifiable under that provision, the question here is whether a sausage casing made in part of hog bungs and in part of nonanimal material is a sausage casing in the tariff sense. We have not been cited, in the briefs of the parties, to any case in which this issue has been decided. It appears to be a question of novel impression.
+The eo nomine provision for sausage casings, paragraph 1755, is as follows:
+Sausage casings, weasands, intestines, bladders, tendons, and integuments, not specially provided for.
+Plaintiffs do not argue for a commercial designation of the term “sausage casings.” They rely on a common meaning that embraces this merchandise.
+Our task is to ascertain the legislative intent. We are to consult legislative history and dependable extrinsic facts in order that we may arrive at the true legislative intent. United States v. Stone & Downer Co. et al., 16 Ct. Cust. Appls. 82, T.D. 42732, cited with approval in Brecht Corp. v. United States, 25 C.C.P.A. (Customs) 9, T.D. 48977.
+In the Breeht case, our appeals court exhaustively reviewed the legislative history of the eo nomine provision for sausage casings, the very provision with which this litigation is concerned. The reports of hearings before congressional committees and other data were examined, as set forth in the Brecht opinion. Concluding, the court said:
+From tbe foregoing facts, it seems reasonable to conclude that when Congress took tbe provision for sausage casings out of tbe dutiable meat provision and placed it in tbe free list with a separate provision for other animal parts, it had in mind only such sausage casings as that term in its common meaning embraced. Since tbe identical provision was reenacted in tbe Tariff Act of 1930, unquestionably tbe term in that act was used in tbe same sense in which it was used in tbe Tariff Act of 1922. If Congress had intended in the Tariff Act of 1922 or in tbe Tariff Act of 1930 to include in tbe controverted free list paragraph artificial sausage casings, it seems to us that it would have used appropriate language to have accomplished its purpose.
+Moreover, we think the rule of noscitur a sociis applies here. Like other rules of construction, it too has its limitations. It has often been applied with controlling effect and in some instances this court has, notwithstanding the applicability of the rule, refused to give it controlling effect in arriving at congressional intent. See United States v. R. F. Downing & Co., 17 C.C.P.A. (Customs) 194, T.D. 43645. A consideration of the context of paragraph 1755 suggests the propriety of making application of the rule here. Moreover, the effect of the application of the rule harmonizes with our view of the intent suggested by the legislative history and the extrinsic facts to which we have hereinbefore made reference. In the paragraph along with sausage casings are weasands, intestines, bladders, tendons, and integuments, all old tariff terms relating to certain well-known animal organs or parts. It is well understood that artificial sausage casings may be made by a number of different processes from several kinds of raw materials. In view of all the above-stated considerations, it seems to us that we would not be warranted in holding that when Congress used the term “Sausage casings” in paragraph 1755, it meant to include artificial casings. [Brecht Corp. v. United States, supra, at pages 15, 16.]
+Without deciding whether or not the incidental use of nonanimal entrail material would suffice to take an otherwise wholly natural sausage casing out of the eo nomine provision (such as thread used to sew the casing), we are of opinion that a sausage casing has two principal parts, an outer skin and a lining. Our appeals court has held that it was the intention of Congress that only those sausage casings which are made of natwral materials are included in the eo nomine provision of paragraph 1755. Here, one of the essential parts of the casing was not of natural material, although the other essential part was.
+The record includes a stipulation of fact as to the value of the natural and non-natural parts. Plaintiffs address no argument to that aspect of the record, and it, therefore, must be assumed that they abandon it. For this reason, we do not discuss it.
+The protest is overruled. Judgment will be entered for defendant.
