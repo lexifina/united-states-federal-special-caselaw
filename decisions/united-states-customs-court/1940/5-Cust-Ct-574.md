@@ -1,0 +1,24 @@
+---
+court: "United States Customs Court"
+docket: "5039; Entry No. 429"
+decided: "1940-10-28"
+citations: ["5 Cust. Ct. 574"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["V. J. Cronin v. United States"]
+source_url: "https://static.case.law/cust-ct/5/cases/0574-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6697798
+---
+
+# Cronin v. United States
+
+## Majority (Walkee, Judge:)
+
+Walkee, Judge:
+This appeal to reappraisement has been submitted for decision upon the following stipulation of counsel for the parties hereto.
+It is hereby stipulated and agreed, subject to the approval of the Court, that the market value or price at the time of exportation of the merchandise involved herein, at which such or similar merchandise was freely offered for sale to all purchasers in the principal markets of the country from which exported, in the usual wholesale quantities and in the ordinary course of trade, for exportation to the United States, plus, when not included in such price, the cost of containers and coverings of whatever nature, and all other costs, charges and expenses incident to placing the merchandise in condition packed ready for shipment to the United States, is the appraised value thereof less the item of freight in the sum of $1,445.28 on Invoice Number 4675 and less the item of freight in the sum of $316.71 on Invoice Number 4676.
+It is further stipulated and agreed that there was no higher foreign value for the merchandise herein at the time of exportation.
+It is further stipulated and agreed that this case be deemed submitted on this stipulation.
+On the agreed facts I find the export value, as that value is defined in section 402 (d) of the Tariff Act of 1930, is the proper basis for the determination of the value of the merchandise here involved, and that such values were the appraised values thereof less the item of freight in the sum of $1,445.28 on invoice No. 4675 and less the item of freight in the sum of $316.71 on invoice No. 4676. Judgment will be rendered accordingly.
