@@ -1,0 +1,67 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "3073"
+decided: "1921-12-14"
+citations: ["11 Ct. Cust. 181"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Barber, and Martin, Associate Judges.", "Before De Yries, Presiding Judge, and Smith, Barber, and Martin, Associate • Judges."]
+parties: ["Jaeger’s Sanitary Woolen System Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/11/cases/0181-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093353
+cites_cases: ["106 Fed., 73", "130 Fed., 108", "168 Fed., 561", "2 Ct. Cust. Appls., 172", "2 Ct. Cust. Appls., 342", "2 Ct. Cust. Appls., 408", "221 U. S., 452", "4 Ct. Cust. Appls., 105", "5 Ct. Cust. Appls., 79", "6 Ct. Cust. Appls., 447", "6 Ct. Cust.Appls., 120"]
+---
+
+# Jaeger's Sanitary Woolen System Co. v. United States
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+Shawls composed of wool, knitted in imitation of lace, were classified and assessed by the collector under paragraph 358 of the tariff act of 1913 at 60 per cent ad valorem as wearing apparel made wholly or in part of lace of any kind.
+The importer protested, claiming classification under paragraph 291 of the act, which provides for a duty of 35 per cent ad valorem.
+No oral testimony was offered before the Board of General Appraisers, but the facts necessary to present the issue were embodied in the papers sent to it by the collector and in a stipulation of counsel. Thereupon the board overruled the protest and importer appealed.
+The relevant parts of the respective competing paragraphs are as follows:
+291. Clothing, ready-made, and articles of wearing apparel of every description, including shawls whether knitted or woven, * * * not specially provided for in this section, composed wholly or in chief value of wool.
+358. * * * wearing apparel, and all other articles or fabrics made wholly or in ¡part of lace or of imitation lace of any kind; * * * all of the foregoing of whatever yarns, threads, or filaments composed.
+It is admitted by counsel on both sides that the language of each paragraph literally covers the shawls, and obviously it is so, because shawls are wearing apparel.
+The issue, therefore, reduces to this: Which of the two paragraphs more closely describes the merchandise ?
+The importer urges that paragraph 291 eo nomine describes it in the expression “including shawls whether knitted or woven,” while the Government urges the contrary view, contending that that expression in connection with, what immediately precedes it in the paragraph is nothing more than a general provision for wool wearing apparel; that the term "including shawls,” etc., was used merely by way of precaution, and adds nothing to the specificness of the general provision of which it is a part.
+It is obvious that much depends upon the force to be given to the word “including.”
+In Hiller v. United States (106 Fed., 73) the court, in discussing the force of that word, said:
+In the tariff acts the word “including” is sometimes used merely to specify particularly that which belongs to the genus, and it sometimes is used to add to the general class a species which does not naturally belong to it.
+In Carlowitz v. United States (2 Ct. Cust. Appls., 172; T. D. 31681) this court, by De Yries, Judge, alluded to the fact that the question whether a phrase introduced by the word “including” followed by specific names was one of extension or specification had been frequently considered by the courts, and held that the expression “including plates, linings, and crosses” in the fur paragraph of the act of 1909 was one of extension, rather than specification. In the opinion the cases of Hiller v. United States, supra, and Goldenberg Bros. & Co. v. United States (130 Fed., 108) were cited, apparently with approval.
+In United States v. Nightingale (5 Ct. Cust. Appls., 79; T. D. 34104) the expression in paragraph 712 of the act of 1909, “Logs and round unmanufactured timber, including pulp woods, * * * hop poles” was under consideration. It was said that the provision “including pulp woods,” etc., was one of extension.
+The question of the force to he given the word “including” introducing expressions following eo nomine provisions, is also discussed in Microutsicos v. United States (2 Ct. Cust. Appls., 342; T. D. 32078); Godillot & Co. v. United States (2 Ct. Cust. Appls., 408; T. D. 32168); Chicago Watchman’s Clock Works v. United States (4 Ct. Cust. Appls., 105; T. D. 33376); Downey & Co. v. United States (6 Ct. Cust. Appls., 447; T. D. 35984); Sullivan v. United States (168 Fed., 561). In none of which, as we understand, is the word “including” deemed to result in giving to the specified names which it introduces the status of an eo nomine provision.
+In Montella Salt Co. v. Utah (221 U. S., 452) several authorities are reviewed, and it is pointed out that the word “including” may sometimes have -the sense of addition, and sometimes mean “also,” but neither of such meanings was there adopted.
+If in construing the statute before us the word “including” be used in either of these senses, the provision for shawls would be eo nomine, but that would involve the implied inconsistency that the term “wearing apparel” did not of itself include shawls, a position which, we have already seen is untenable. This suggests that the expression “including shawls,” etc., in paragraph 291 was used as a precaution to make clear that shawls were a part of the genus wearing apparel, and not to refer to them in an eo nomine sense.
+The case of Goldenberg v. United States (130 Fed., 108), already mentioned, decided in 1904 in the Circuit Court of Appeals, Second Circuit, is strongly corroborative of the contention of the Government in this case. Therein paragraphs 314 and 339 of the act of 1897 stood for interpretation, the former providing for clothing-ready-made, and all articles of wearing apparel of every description, including neckties or neckwear composed of cotton or other vegetable fiber, and the latter for wearing apparel made wholly or partly of lace or imitation lace composed of cotton. It was contended .there that the words “including neckties or neckwear” constituted an eo nomine provision for those articles. The court held otherwise, saying, among other things:
+The intent of Congress as to those articles seems reasonably clear. It fixed one rate of duty for ready-made clothing and articles of wearing apparel composed of cotton, and a higher rate for wearing apparel made of lace composed of cotton. Undoubtedly the phrase “wearing apparel made of lace composed of cotton” is more specific than the phrase “wearing apparel composed of cotton.” The importers’ sole reliance is on the two words “neckties” and “neckwear,” which are found in paragraph 314 (tariff act July 24, 1897, ch: 11, sec. 1, Sched. I, 30 Stat., 178 [U. S. Comp. St., 1901, p. 1659]), and which they claim constituted an eo nomine designation, which, in accordance with familiar principles, is more specific than the descriptive phrase “wearing apparel made of lace composed of cotton.” But we are clearly of the opinion that Congress did not insert these two words with any intent to provide some specific and independent duty on neckwear. It was concerned solely with laying a uniform duty, by paragraph 314, on every description of articles of wearing apparel composed of cotton or other vegetable fiber, and, fearing lest some one might seek to differentiate neckwear from the class of wearing apparel (possibly on some theory that it was for ornament, not for ordinary wear), Congress provided against that by inserting after the words “wearing apparel of every description” the words “including neckties or neckwear.” The words last quoted were intended as words of expansion rather than as words of restriction.
+It is difficult to distinguisli between the question decided there and the one standing for decision here. The opinion was handed down, as already appears, in 1904, and if it did not correctly interpret the legislative intent, Congress has had ample opportunity to correct the error. No attempt so to do is apparent, and we regard that case as important in the determination of the issue before us.
+A review of the legislative history we think tends to support the Government's claim.
+Paragraph 392 in Schedule K of the tariff act of 1890 provided for — -
+woolen or worsted cloths, shawls, knit fabrics, and all fabrics made on knitting machines or frames, and all manufactures of every description * * * not specially provided for.
+In the act of 1894, paragraph 281, the above provision in the act of 1890 was amended to read as follows:
+knit fabrics, and all fabrics made on knitting machines or frames, not including wearing apparel, and on shawls—
+There was no n. s. p. f. provision therein.
+In the act of 1897 (see par. 366) shawls were omitted from the foregoing paragraph, which was changed to read:
+cloths, knit fabrics, and all manufactures of every description made wholly or in part of wool, not specially provided for.
+At the same time (see par. 370. of the act of 1897) the ancestors of which, paragraph 396 of the act of 1890 and paragraph 284 of the act of 1894, had provided for—
+clothing, ready-made, and articles of wearing apparel of every description, made up or manufactured wholly or in part not specially provided for—
+was changed to read:
+clothing, ready-made, and articles of wearing apparel of every description, including shawls, whether knitted or woven, * * * not specially provided for—
+and this language has been substantially preserved in subsequent relevant statutes, and is in paragraph 291, already quoted.
+From the foregoing it appears that in the acts of 1890 and 1894 shawls were eo nomine classed with knit fabrics and other manufactures of wool, excepting wearing apparel; and that in the act of 1897 they were classed with wearing apparel, which in fact they were.
+It was a wise precaution and made for certainty in interpretation under the circumstances disclosed by the foregoing legislative history f'or Congress to employ the term "including shawls” for the purpose of cutting off any claim that they were knit fabrics or manufactures of wool under paragraph 366 of the act of 1897, but were to be regarded as in fact they were, wearing apparel. In other words, we think the term “including shawls” was not one of addition or eo nomine as used in paragraph 370, but was of precaution only. It has evidently been kept in the subsequent enactments for the same purpose, as its omission, after having once been employed, might lead to confusion in interpretation.
+Turning to the history of paragraph 358 of the act of 1913, we find that paragraph 398 of the act of 1890 contained a provision for laces made of wool; so did paragraph 286 of the act of 1894. In paragraph 371 of the act of 1897 this was enlarged to provide for “laces * * * and articles made wholly or in part of lace” made of wool or of which wool was the component material. Paragraph 383 of the act of 1909 contains the same provision, but in the act of 1913 these earlier provisions for laces and articles made wholly or in part of laces, of wool were omitted from Schedule K and are in paragraph 358, already quoted. The provisions of this last-mentioned paragraph explicitly cover wearing apparel made wholly or in part of lace or of imitation lace of any kind of whatever yarns, threads, or filaments composed, and we think, in view of the conclusion we reach that the mention of shawls in paragraph 291 does not constitute an eo nomine provision, that these shawls are more specifically provided for in paragraph 358, as claimed by the Government.
+The legislative history of paragraph 358 was quite fully considered in United States v. Snow’s Sample Express Co. (6 Ct. Cust.Appls., 120; T. D. 35388).
+In this connection it may be observed that there still remains a field for the application and operation of the provision in paragraph 291 so far as shawls are concerned, because, as we understand, not all knitted or woven shawls are composed of lace or of imitation thereof.
+The judgment of the Board of General Appraisers is affirmed.
+
+## Concurrence (Smith, Judge:)
+
+CONCURRING OPINION.
+Smith, Judge:
+If it were an original proposition I would be disposed .to regard the provision “including shawls whether knitted or woven” as an eo nomine designation. That provision as it reads includes all shawls knitted or woven and does not except from its operation shawls which have knitted or woven lace designs. Whether, therefore, the provision was inserted as an expansion of the designation “articles of wearing apparel of every description,” or was intended to include an article which was not a “wearing apparel,” it would seem as a matter of first impression that the provision was intended to cover all knitted and woven shawls without exception. The Circuit Court of Appeals in the case of Goldenberg v. United States (130 Fed., 108), long ago decided, however, that a provision for “articles of wearing apparel of every description, including neckties or neck-wear,” did not provide eo nomine for neckties or neckwear and that decision unreversed for 17 years, I think I must accept as binding on my judgment in this case. I, therefore, concur.
