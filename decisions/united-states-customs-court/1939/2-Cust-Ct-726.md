@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "41449"
+decided: "1939-05-29"
+citations: ["2 Cust. Ct. 726"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 900771-G, etc., of Greenberg & Josefsberg et al. (New York)."]
+source_url: "https://static.case.law/cust-ct/2/cases/0726-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6703676
+cites_cases: ["26 C. C. P. A. 292"]
+---
+
+# Protests 900771-G of Greenberg
+
+## Majority (McClelland, P. J.)
+
+Opinion by
+McClelland, P. J.
+It was stipulated that the merchandise consists of novelty brushes or so-called fiber whisk brooms and clothes and hat brushes similar to those the subject of Abstract 34593 and United States v. Heinrich Herrmann & Weiss (26 C. C. P. A. 292, C. A. D. 30). The claim at 50 percent under paragraph 1606 was therefore sustained.
