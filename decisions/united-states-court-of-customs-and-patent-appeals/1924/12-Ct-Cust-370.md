@@ -1,0 +1,31 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2380"
+decided: "1924-11-22"
+citations: ["12 Ct. Cust. 370"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Graham, Presiding Judge, and Smith, Barber, Bland, and Hatfield, Associate Judges"]
+parties: ["United States v. Parkhurst & Co. et al."]
+source_url: "https://static.case.law/ct-cust/12/cases/0370-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6093822
+cites_cases: ["11 Ct. Cust. Appls. 492", "11 Ct. Cust. Appls. 529", "117 Fed. 670", "122 Fed. 762", "126 Fed. 677", "127 U. S. 607", "129 Fed. 33", "144 Fed. 388", "18 Fed. 15", "197 U. S. 135", "9 Ct. Cust. Appls. 78"]
+---
+
+# United States v. Parkhurst
+
+## Majority (Smith, Judge,)
+
+Smith, Judge,
+delivered the opinion of the court:
+Hair of the cashmere goat imported into the United States was classified by the collector of customs at the port of New York as hair like to that of the Angora goat and assessed for duty under paragraph 308 of the act of 1913.
+The importers protested that the merchandise was free of duty as wool under paragraph 650, but all of the protests were presented to the collector more than 30 days after the liquidations were made. The Secretary of the Treasury, however, ordered a reliquidation of the entries; and the importers, within 30 days after that reliquidation, again protested that the merchandise was entitled to free entry under paragraph 650. The reliquidations were apparently ordered by the Secretary of the Treasury because the collector had not converted into United States currency at the proper rate the Tientsin taels paid for the goods.
+' Counsel for the Government and the importers have stipulated that the importation here involved is hair of the same kind and character as that held to be free of duty by this court in United States v. Tattersfield & Co. (11 Ct. Cust. Appls. 492; T. D. 39630).
+The Government contended before the board that the protests were not filed with the collector within 30 days after the original liquidation and that therefore the board had no jurisdiction to review the action of the collector.
+The Board of General Appraisers sustained the protests and the Government appealed.
+The Secretary of the Treasury has no power to liquidate or re-liquidate entries of imported merchandise. That function is conferred by statute on the collector alone and if he declines to liquidate or reliquidate in accordance with the orders of the Secretary, the Secretary may secure a new collector, but the Secretary's idea of what the liquidations should be does not modify, vacate or become the substitute for the liquidations or reliquidations actually made by the collector on his own initiative. In other words the collector of customs is the liquidating officer, and whether he liquidates on order of the Secretary or without it, the liquidation is that of the collector, not that of the Secretary. — Section 2621, R. S.; United States v. Leng (18 Fed. 15, 19); United States v. Lucius Beebe & Sons (122 Fed. 762, 769, 770); Stone v. Whitridge, White & Co. (129 Fed. 33-36); Saji & Kariya Co. v. United States (9 Ct. Cust. Appls. 78-83; T. D. 37945); United States v. Godchaux Sugars, Inc. (11 Ct. Cust. Appls. 529-530, 531; T. D. 39678).
+The final decision of the collector as to the amount due from the importer may be questioned by the importer, but it is final and conclusive on the Government. If an entry be liquidated at a less rate than should have been imposed on imported goods or at a less amount than should have been exacted from the importer, the error may be corrected by a reliquidation, but if the collector declines to reliquidate the Government is without remedy. As the statutes confer on the importer only, the right to protest against the decision of the collector fixing the rate and amount of duties chargeable upon imported merchandise, it follows that he has no right to protest against a liquidation which is not the decision of the collector but that of the Secretary. To preserve the importer’s right of protest, therefore, liquidations ordered by the Secretary must be regarded as decisions of the collector. To hold otherwise would leave the importer remediless against every reliquidation ordered by the Secretary. Reliquidations made by the collector on orders by the Secretary are collectors’ decisions; and such liquidations, like any other liquidation made by the collector, may be questioned by protest.—United States v. Beebe (117 Fed. 670); United States v. Lucius Beebe & Sons (122 Fed. 762, 769); Stone v. Whitridge (129 Fed. 33-36, 38). In the Whitridge case it should be noted that the importer protested a reliquidation ordered by the Secretary of the Treasury because the value of the rupee differed from that applied by the collector in his original liquidation. The Board of General Appraisers entertained the protest and appeals involving their decision were decided on the merits by the Circuit Court and the Circuit Court of Appeals. The judgment of the Circuit Court of Appeals was reviewed on a writ of certiorari by the United States Supreme Court and determined on the merits. —United States v. Whitridge (197 U. S. 135). None of the judicial tribunals in the Whitridge case undertook to say that the reliquidation made in response to an order of the Secretary of the Treasury was his liquidation and not that of the collector. —Louisville Pillow Co. v. United States (144 Fed. 388, 389).
+Whether the collector reliquidates because of a protest of the importer or on order of the Secretary of the Treasury or because he believes the original liquidation to' be incorrect, the reliquidation vacates and is substituted for the collector’s original liquidation. The reliquidation, not tlie original liquidation, is the final decision of the collector as to the rate and amount of duty to be paid by the importer, and the time to protest begins to run from the date of the latest liquidation. —Sgobel v. Robertson (126 Fed. 677); United States v. Phelps (27 Fed. Cases 521-523); Robertson v. Downing (127 U. S. 607, 613).
+The judgment of the Board of General Appraisers is affirmed.
