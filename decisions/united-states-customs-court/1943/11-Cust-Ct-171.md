@@ -1,0 +1,27 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 819"
+decided: "1943-12-09"
+citations: ["11 Cust. Ct. 171"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Keefe, and Ekwall, Judges"]
+parties: ["Hiram Walker, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/11/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6613215
+---
+
+# Hiram Walker, Inc. v. United States
+
+## Majority (Ekwall, Judge:)
+
+Ekwall, Judge:
+These two protests relate to one entry of whisky in bottles from Canada, and specifically to 75 cases that were assessed for duty at the rate of $5 per proof gallon under paragraph 802 of the Tariff Act of 1930, which, it is claimed by the plaintiff, should have been admitted at $2.50 per proof gallon in accordance with the trade agreement with Canada (T. D. 48033) effective January 1, 1936. The pleadings also contain an allegation as to the legality of the posting of the notice of liquidation. "W e will first recite the pertinent facts.
+In November 1935, plaintiff imported from Canada by rail 2 cars of whisky in bottles for which 2 warehouse entries were made at the port of New York, numbered respectively WHB 13448 and WHB 13449. No protest was filed with respect to WHB 13448, which is among the papers transmitted by the collector, but reference thereto is necessary to an understanding of the situation. The 2 entries cover 2,600 cases of liquor, 1,300 cases on each entry. Attached to ■entry WHB 13448 is a certificate attesting that 2,500 cases of “Canadian Club” whisky had been “in cask in bond for at least 6 years” and attached to entry WHB 13449 is a certificate attesting that 100 ■cases of “Hiram Walker Private Stock Straight” whisky had been “in cask in bond at least 11 years.” No question is raised but that these certificates or one of them related to the whisky in suit. They were obviously prepared in order to meet the provision in the trade agreement with Canada, supra, which admitted at a rate of $2.50 per gallon whisky that had been aged in wood at least 4 years prior to-entry or withdrawal for consumption.
+As above stated, the protests relate only to 75 cases of the whisky upon which duty was taken at the rate of $5 per gallon. These 75 cases were described as 35 cases Canadian Club fifths and 40 cases Canadian Club pints, part of entry WHB 13449. An examination of the official papers shows that this entry was liquidated August 31, 1938; that protest 35837-K was filed March 30, 1940, and that protest 74780-K was filed July 19, 1940. In view of these facts it would seem that the only action necessary on the part of this court would be to dismiss the protests as having been filed long after the time fixed by the statute (sec. 514 of the Tariff Act of 1930). Plaintiff’s counsel urges, however, that as there was on file in the customhouse an age certificate covering the 75 cases (although attached to another entry) the collector should have liquidated the 75 cases at $2.50 per gallon under the Canadian Trade Agreement. That appears to be true, but it shows merely an error in the liquidation which could and would have been cured if timely protest had been filed. It does not void the liquidation; that became final 60 days after it was made, in the absence of protest.
+It is further contended on the part of the plaintiff that the manner of the posting of the liquidation made the latter “illegal, null and void.” We find no ground for this contention. There was no error in the name of the importer nor in any other of the details that are given in the bulletin notice of liquidation. Counsel for the plaintiff states that the bulletin notice was marked “R” which, in customs practice, would indicate a refund. This could not have misled the importer for it is quite plain that no one took the trouble to examine the liquidation until a demand was made on the part of the collector for the payment of more duty. Thereafter there was considerable correspondence joined in by the plaintiff’s counsel, the collector, and the Bureau of Customs, in the course of which counsel urged that the liquidation be reposted, and the collector denied such request. It does not seem necessary to review this correspondence for it is now well settled that the refusal of the collector to repost a liquidation is not open to protest under section 514 of the Tariff Act of 1930. See United States v. Astra Bentwood Furniture Co., 28 C. C. P. A. (Customs) 205, C. A. D. 147.
+Plaintiff’s counsel in his brief, while conceding that the protests are untimely, nevertheless urges that the court take into consideration the statements of the appellate court in the Astra Bentwood Furniture Co. case, supra, to the effect that under the circumstances of that case it was the duty of the collector to "complete his liquidation in the manner provided by law” so that the importer might, if he wished, protest such liquidation. We fail to find in the instant case any such •circumstances ais those that impelled the court to make the suggestion above quoted. Here the liquidation was complete and was properly posted. The only error seems to lie in the failure of the importer to •examine the liquidation and file a timely protest against it.
+The protests should be and the same are hereby dismissed as untimely.
+Judgment will be rendered accordingly.
