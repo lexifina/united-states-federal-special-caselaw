@@ -1,0 +1,44 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 96-01-00067"
+decided: "1999-09-20"
+citations: ["23 Ct. Int'l Trade 668", "69 F. Supp. 2d 1361"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States, plaintiff v. Pentax Corp., et al., defendants"]
+source_url: "https://static.case.law/ct-intl-trade/23/cases/0668-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9457626
+cites_cases: ["10 CIT 38", "125 F.3d 1457", "135 F.3d 760", "18 U.S.C. § 542", "19 C.F.R. § 134.51", "19 U.S.C. § 1304", "19 U.S.C. § 1592", "1999 WL 498582", "20 CIT 486", "28 U.S.C. § 1582", "36 F.3d 154", "598 F. Supp. 401", "628 F. Supp. 206", "8 CIT 294", "857 F.2d 1408", "924 F. Supp. 193"]
+---
+
+# United States v. Pentax Corp.
+
+## Majority (Restani, Judge:)
+
+Opinion
+Restani, Judge:
+This matter is before the court on defendants’ motion for summary judgment, pursuant to USCIT R. 56. Defendants argue that they are not liable for civil penalties under 19 U.S.C. § 1592 (1988) for mismarking of goods because the mismarking did not affect the amount of duties owed or the admissibility of the goods, as required by regulatory materiality standards.
+Background
+The facts of this matter are set forth in Pentax Corp. v. Robison, 20 CIT 486, 924 F. Supp. 193 (1996), rev’d, 125 F.3d 1457 (Fed. Cir. 1997), amended, 135 F.3d 760 (1998). Familiarity with those opinions is presumed. In sum, defendants were responsible for marking and importing cameras into the Customs Territory of the United States between 1987 and 1991. The cameras were marked of Hong Kong origin. For purposes of this motion, it is conceded that the goods should have been marked “made in China.” The mismarking was not discovered until after the goods were admitted and liquidated. The goods would have been admitted and dutied at the same rate if they had been marked properly.
+Jurisdiction and Standard of Review
+The court has jurisdiction pursuant to 28 U.S.C. § 1582 (1994). Pentax, 125 F.3d at 1462. Summary judgment may be granted when “there is no genuine issue as to any material fact and * * * the moving party is entitled to judgment as a matter of law.” USCIT R. 56(d).
+Discussion
+Defendants had previously admitted that the cameras were entered into the United States by means of “material false statements” constituting a violation of 19 U.S.C. § 1592(a). First Am. Answer to First Am. Compl. at ¶ 10. They now seek summary judgment on the basis of lack of materiality. The question of materiality is a legal issue to be decided by the court. United States v. Rockwell Int’l Corp., 10 CIT 38, 42, 628 F. Supp. 206, 209 (1986).
+Country of origin is always, or nearly always, material. It has the potential to affect all of Customs’ core decisions. False country of origin declarations certainly also affect Customs’ record-keeping, which in turn has the potential to affect decisions as to whether to bring unfair trade action, which in turn has the potential to affect duties. Further, the concealed mismarking also has the potential to affect admissibility. Had the mismarking been discovered before release by Customs, the goods would not have been admitted as marked. Remarking, exportation, or destruction, would have been required. 19 C.F.R. § 134.51(a) (1991). If none of these measures were accomplished and if the mis-marking had been discovered before liquidation, marking duties would have been assessed. 19 U.S.C. § 1304(f) (1988).
+The court declines to expand the Federal Circuit’s decision in Pentax, into a holding that mismarking, which makes goods further dutiable or inadmissible, if timely recognized by Customs, is completely immaterial for purposes of 19 U.S.C. § 1592, unless but for the mismarking the goods would have been inadmissible or subject to other duties. See United States v. An Antique Platter of Gold, No. 97-6319, 1999 WL 498582, at *3-4 (2d Cir. 1999) (rejecting “but for” test of materiality for 18 U.S.C. § 542 and adopting “natural tendency” approach that a “false statement is material * * * if it has the potential significantly to alter the integrity or operation of the importation process as a whole ***.”) (quoting United States v. Holmquist, 36 F.3d 154, 159 (1st Cir. 1994)); see also Rockwell, 10 CIT at 42, 628 F. Supp. at 210 (holding that the standard for determining whether false statement is material under 19 U.S.C. § 1592(a), is “whether [statement] has a natural tendency to influence, or was capable of influencing, the decision of the tribunal in making a determination required to be made.”) (quotation omitted).
+If 19 C.F.R. Part 171, App. B, ¶ A (1999) is read to require a but for standard, it would conflict with 19 U.S.C. §§ 1304 and 1592, and render these provisions meaningless for mismarking not affecting revenue and not discovered before liquidation. As indicated by the Federal Circuit in Pentax, marking duties are not owed in such a situation. The goods also would be admitted finally because liquidation settles the issue of admissibility. See United States v. Utex Int’l Inc., 857 F.2d 1408, 1409 (Fed. Cir. 1988) (“when goods are finally liquidated they are deemed admissible.”). If penalties, as well as duties, are not owed, importers seeking to fool Customs or the public by such mismarking may simply lie, conceal the lie, and risk no harm. This cannot be so.
+Summary judgment based on lack of materiality is denied.
+Although the differences between the 1988 and 1994 version of § 1592 are minimal, the court refers to the 1988 version because the entries at issue occurred between 1987 and 1991.
+Section 134.51(a) provided that:
+When articles or containers are found upon examination not to be legally marked, the district director shall notify the importer * * * to arrange with the district director’s office to properly mark the article or containers, or to return ¿tl released articles to Customs custody for marking, exportation, or destruction.
+The 1999 version of 19 C.F.R. § 134.51(a) differs only slightly, by substituting “port director” for “district director.”
+Pentax held duties were not owed under 19 U.S.C. § 1592(d) because the mismarking did not deprive the United States of duties directly. Pentax, 125 E3d at 1463.
+Section 1592 provides, in relevant part, "Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty thereby, no person, by fraud, gross negligence, or negligence — (A) may enter * * * any merchandise into the commerce of the United States by means of* * * any document * * * which is material and false * * 19 U.S.C. § 1592(a)(1)(A).
+The regulation reads in relevant part:
+(A) Violations of Section 592; Materiality
+Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty thereby, a violation of section 592 occurs when a person, through fraud, gross negligence, or negligence, enters, introduces, or attempts to enter or introduce any merchandise into the commerce of the United States by means of any document, written or oral statement, or act which is material and false, or any omission which is material; or when a person aids or abets any other person, in the entry, introduction, or attempted entry or introduction of merchandise by such means. A document, statement, act, or omission is material if it has the potential to alter the classification, appraisement, or admissibility of merchandise, or the liability for duty, or if it tends to conceal an unfair trade practice under the antidumping, countervailing duty or similar statute, or an unfair act involving patent or copyright infringement. There is no violation if the falsity or omission is due solely to clerical error or mistake of fact, unless the error or mistake is part of a pattern of negligent conduct, (emphasis added)
+This current section of the regulations is identical to the 1991 version.
+“(Tjhe purpose of section 1592 was ‘to encourage accurate completion of the entry documents upon which Customs must rely to assess duties and administer other customs laws.”’ United States v. F.A.G. Bearings, Ltd., 8 CIT 294, 296, 598 F. Supp. 401, 403-04 (1984) (citing S. Rep. No. 778, 95th Cong., 2d Sess. 17, reprinted in 1978 U.S.C.C.A.N. 2211, 2229).
+By adopting a reading of 19 U.S.C. § 1592 which does not encourage proper marking or proper use of the prior disclosure statute, Pentax obviously indicates that the statute needs amendment. Similarly, Customs should amend its regulation which can be misinterpreted to undercut the statutory marking obligation.
