@@ -1,0 +1,29 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 93-06-00372"
+decided: "1993-09-14"
+citations: ["17 Ct. Int'l Trade 1022"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Floral Trade Council, plaintiff v. United States, defendant, and Asociacion Colombiana de Exportadores de Flores, et al., defendant-intervenors"]
+source_url: "https://static.case.law/ct-intl-trade/17/cases/1022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6134536
+cites_cases: ["1 CIT 293", "12 CIT 788", "12 CIT 802", "19 C.F.R. § 353.22", "19 U.S.C. § 1675", "515 F. Supp. 47", "52 Fed. Reg. 6842", "618 F.2d 1029", "692 F. Supp. 1387", "696 F. Supp. 656", "710 F.2d 806", "888 F.2d 1366"]
+---
+
+# Floral Trade Council v. United States
+
+## Majority (Restani, Judge:)
+
+Opinion
+Restani, Judge:
+Plaintiff, a representative of the domestic industry that wishes to add parties to an administrative review under § 751 of the Trade Agreements Act of 1979, codified at 19 U.S.C. § 1675 (1988), seeks a preliminary injunction of liquidation of the entries it endeavors to have covered by the review. As this matter involves a finite set of entries occurring within a specific time period, Zenith Radio Corp. v. United States, 710 F.2d 806 (Fed. Cir. 1983), applies. That is, when, as here, the International Trade Commission makes an affirmative injury determination, injury to the domestic industry is presumed. See id. at 810-11. Fuller implementation of the antidumping laws would thus follow from the court’s decision to apply remedies more broadly. See id. at 811. In addition, as some entries, which perhaps should be liquidated with increased duties as a result of the administrative review, could escape judicial review entirely without an injunction, under Zenith the irreparable harm standard of the four-part injunction test is met. See id. at 809-10; 19 U.S.C. § 1516a(c)(1), (2) (1988).
+Even if the Zenith irreparable harm situation exists, a party must still carry the burden of persuasion as to the remaining three hurdles. See American Air Parcel Forwarding Co. v. United States, 1 CIT 293, 300, 515 F. Supp. 47, 53 (1981) (burden must be met as to all four factors); FMC Corp. v. United States, No. 92-1366, at 13 (Fed. Cir. Aug. 19, 1993) (showing of irreparable harm under Zenith does not obviate the need to show some likelihood of success on the merits). Defendant argues that plaintiff has no chance of success on the merits. The court cannot say that plaintiff is likely to succeed on the merits, but a substantial issue does exist for litigation. A serious question of law is sufficient grounds for a preliminary injunction if irreparable harm is clearly established. See American Air Parcel Forwarding, 1 CIT at 299, 515 F. Supp. at 53 (quoting Telvest, Inc. v. Bradshaw, 618 F.2d 1029, 1032-33 (4th Cir. 1980)).
+A review of Floral Trade Council v. United States, 888 F.2d 1366 (Fed. Cir. 1989), reveals that the issue of whether a petitioner could specify “all producers and exporters” for review, and thereby satisfy the requirement that a party seeking review list specified individual producers appears to be unresolved. Id. at 1369-70. The question is whether, with regard to this fragmented industry, ITA may interpret its regulations to prevent a petitioner from transferring to ITA the burden of gathering the names of all producers and exporters. See 19 C.F.R. § 353.22(a)(1) (1992). In other words, did Congress allow ITA to bar a petitioner from seeking a countrywide review if petitioner is unable to learn the names of producers and exporters, ITA has access to the relevant information and has the option of using sampling to reduce its administrative burden. See Floral Trade Council v. United States, 12 CIT 788, 790-91, 692 F. Supp. 1387, 1390 (1988) (suggesting that review of a representative sample of producers and exporters might suffice). Notably, by requesting an administrative review, plaintiff has demonstrated its willingness to lose the benefit of some of the larger duty rates that have been imposed in order to obtain a more complete and accurate review. The question is serious enough to satisfy the chance of success factor.
+As to the hardship balance, it is unlikely that denial of an injunction would speed the process of liquidation and thus lessen the burden on ITA. In addition, entries of over 450 producers and exporters are presently enjoined. The court envisions that no significant disruption to the business of any private party, or to the administrative procedures of the governmental party, would result from the grant of this injunction.
+The public interest is more than satisfied by potential proper application of the antidumping law to the set of entries at issue, as has been recognized by the scores of cases granting injunctions in a Zenith situation. See, e.g., Algoma Steel Corp. v. United States, 12 CIT 802, 806 n.6, 696 F. Supp. 656, 660 n.6 (1988). As no objection is made to the form of order submitted by plaintiff, it is approved.
+Zenith, like the instant case, involved a request for administrative review under § 751 of the Trade Agreements Act of 1979, which governs only entries occurring within a fixed time period. Zenith, 710 F.2d at 808.
+Irreparable harm is more clearly established in this case than in FMC Corp., where successive zero percent margins had been found. No. 92-1366, at 2-4. No successive zero percent margins were found in the present case. Thus, as in Zenith, the original injury determination has weight.
+See also Certain Fresh Cut Flowers from Columbia, 52 Fed. Reg. 6842, 6842-43 (Dep’t Comm. 1987) (final determ, of sales at less than fair value) (reviewing random sample of twelve flower companies to avoid overtaxing Commerce Department’s limited resources).
