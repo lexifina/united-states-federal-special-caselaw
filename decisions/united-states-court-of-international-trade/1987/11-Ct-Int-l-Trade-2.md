@@ -1,0 +1,38 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 82-8-01145"
+decided: "1987-01-07"
+citations: ["11 Ct. Int'l Trade 2"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States, plaintiff v. Kingshead Corp., defendant"]
+source_url: "https://static.case.law/ct-intl-trade/11/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6095422
+cites_cases: ["19 U.S.C. § 1592", "343 N.Y.S.2d 736", "41 A.D.2d 981", "5 CIT 33", "524 F.2d 1317", "599 F. Supp. 2d 940", "84 Cust. Ct. 255"]
+---
+
+# States v. Kingshead Corp.
+
+## Majority (Rao, Judge:)
+
+Memorandum Opinion and Order
+Rao, Judge:
+This action arises under § 592 of the Tariff Act of 1930, as amended (19 U.S.C. § 1592). Plaintiff seeks to enforce penalties and to collect customs duties on 71 entries of scissors imported from Italy, allegedly accompanied by fraudulent invoices and entry papers.
+Defendant seeks summary judgment in its favor and dismissal of the complaint because of an agreement between the parties in the form of a consent judgment in the case of United States of America v. $10,500.00 and a Letter of Credit in the Amount of $15,472.00, United States District Court of New Jersey, Civil Action No. 78-672 (Judge Buinno). Defendant relies on Paragraph 2 of said settlement agreement (approved by Judge Buinno on January 25, 1979), which states:
+2. Plaintiff agrees to accept the sum of twelve thousand eight hundred dollars ($12,800.00) in full settlement of any and all claims which its agencies and their assigns may currently have against Kingsford Corp., its principals and employees including but not limited to defendant items, $10,500.00 and a letter of credit in the amount of $15,472.00, arising out of the seizures alleged in the complaint.
+The United States Customs Service (Customs) had seized a shipment of defendant’s merchandise on December 2, 1976 and another on January 10, 1977, and thereafter initiated a thorough investigation of defendant’s importations of scissors from Italy for the period of January 1, 1973 to about January 1, 1977. Customs examined a total of 73 shipments in all, including the two seized shipments. The civil action which resulted in the consent settlement was filed by the government on March 31, 1978.
+It is defendant’s position that the consent judgment covers all claims which the government had against it at the time the consent judgment was signed, including the 71 shipments that are the subject of the instant action.
+Plaintiffs position is that the consent judgment is limited to the two seized entries alleged in the complaint in Civil Action No. 78-672, supra, and that its claims arising from the 71 other entries were not included since they were asserted a year and a half after the date of the consent settlement. Plaintiff also asserts that it would be illogical for the government to compromise and settle claims estimated at approximately $700,000 for as small an amount as $12,500. Plaintiff moves for partial summary judgment to the effect that the consent judgment filed in Civil Action No. 78-672 does not bar the government’s causes of action in the instant case.
+The issue before the Court is whether it can be determined, as a matter of law, that the language in Paragraph 2 of the consent judgment releases all claims the government had against defendants, including those against the 71 entries under investigation at that time (as defendant alleges), or only those encompassed in the two entries which Customs seized (as plaintiff alleges).
+In ruling on cross-motions for summary judgment, the court must determine if any genuine issues of material fact exist. Evidentiary evidence which the court will consider includes the pleadings, the official record, the statement of material facts annexed to the motion, sworn affidavits setting forth facts which would be admissible in evidence, answers to interrogatories, and other evidence which would be admissible at trial. American Motorists Insurance Co. v. United States, 5 CIT 33 (1983). However, where parties disagree as to whether certain facts are in dispute, and the court finds that genuine issues of fact exist, summary judgment should be denied. Shell Oil Co. v. United States, 84 Cust. Ct. 255, C.R.D. 80-4 (1980).
+The Court must determine whether a genuine dispute exists as to the effect of the consent judgment entered into by the parties.
+Both settlements and releases are contracts to which the ordinary rules of contract interpretation apply. A release has been defined as the relinquishment, concession, or giving up of a right, claim or privilege. Releases are contractual in nature and whether a release is general or specific depends on the intention of the parties. Therefore, in order for there to be a settlement or release, the parties must have intended to discharge the claims alleged to have been discharged. Mikropul Corp. v. Desimone & Chaplin-Airtech, Inc., 599 F. Supp. 2d 940, 943 (1984).
+Here, plaintiff strenuously asserts that the consent judgment which constituted the parties’ agreement was never considered by it to be a settlement or release of any of its claims against the defendant except for those two seized entries specifically subject of the earlier case in the New Jersey District Court.
+Because a factual dispute exists as to the intent of the parties at the time the consent judgment was approved by the District Court, this Court cannot, for the purposes of cross-motions for summary judgment, accept that a settlement and release exists as to the 71 entries being litigated in the instant action.
+When contractual language is susceptible of at least two fairly reasonable interpretations, a triable issue of fact is presented and a grant of summary judgment is improper. Heyman v. Commerce and Industry Insurance Co., 524 F.2d 1317. See also Putnam v. Ostego Mutual Fire Ins. Co., 41 A.D.2d 981, 343 N.Y.S.2d 736 (1973), which held that where there is- a conflict concerning the intention of the parties with respect to the alleged compromise and settlement, summary judgment should not be granted.
+Even assuming, arguendo, that the Court could decide the efficacy of the language used in the consent judgment without reference to triable facts, it would not be possible to determine at this time whether the 71 entries do come within the ambit of the consent judgment, as defendant claims. The consent judgment releases "any and all claims which [the government,] its agencies and their assigns may currently have against [the defendant].” Defendant alleges that the 71 entries involved herein were under investigation by the plaintiff at the time the consent judgment was filed. The word "claim” has been defined as "a cause of action.” Black’s Law Dictionary (Fifth Edition.)
+Whether the investigations had alerted the plaintiff to the fact that causes of action indeed existed because of the actions of defendant with respect to these entries is not clear from the affidavits and other papers submitted with the cross-motions for summary judgment. The Court is unable, therefore, to determine at this time, the scope of the words "any and all claims” used in the consent judgment.
+Therefore, upon the defendant’s motion for summary judgment, plaintiffs cross-motion for partial summary judgment, the supporting affidavits, briefs and all other papers filed in support of the motions, it is
+Ordered, adjudged and decreed that defendant’s motion for summary judgment is denied and that plaintiffs cross-motion for summary judgment is denied.
