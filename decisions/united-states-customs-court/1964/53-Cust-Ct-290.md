@@ -1,0 +1,44 @@
+---
+court: "United States Customs Court"
+docket: "68823; protests 61/4500(A)-11734 and 61/4506(A)-11765 (Chicago)"
+decided: "1964-10-14"
+citations: ["53 Cust. Ct. 290"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gallagher & Ascher Company v. United States,"]
+source_url: "https://static.case.law/cust-ct/53/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6582492
+cites_cases: ["22 CCPA 51", "22 CCPA 96", "46 CCPA 128", "86 Treas. Dec. 121"]
+---
+
+# Gallagher & Ascher Co. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+The above protests, consolidated for the purpose of trial, are directed against the classification and subsequent assessment of duties on certain machinery under the provisions of paragraph 353 of the Tariff Act of 1930, as modified by the Torquay Protocol to the General Agreement on Tariffs and Trade, 86 Treas. Dec. 121, T.D. 52739, as articles having as an essential feature an electrical element or device, at the rate of 13% per centum ad valorem. Each of the importations consisted of three units: A horizontal bottom-making press, a cup body winding machine, and a body finishing machine; in the case of the merchandise covered by 61/4506 (A) an automatic connection which appears to be a conveyor. None of these machines were imported with electric motors but in certain instances the imported merchandise had electrical wiring, electrical control or accommodations for an electric heating unit.
+The importer contends that the imported merchandise does not have as an essential feature an electrical element or device and as such is properly subject to the rate of duty of II14 per centum ad valorem under the provisions of paragraph 372 of the Tariff Act of 1930, as modified by the Sixth Protocol of Supplementary Concessions to the General Agreement on Tariffs and Trade, 91 Treas. Dee. 150, T.D. 54108, as machines, finished or unfinished, not specially provided for, other.
+The pertinent portions of the provisions involved herein are as follows:
+Paragraph 353 of the Tariff Act of 1930, as modified by T.D. 52739 :
+Articles having as an essential feature an electrical element or device, such as electric motors, fans, locomotives, portable tools, furnaces, heaters, ovens, ranges, washing machines, refrigerators, and signs, finished or unfinished, wholly or in chief value of metal, and not specially provided for:
+* * ii: * * * *
+Other (except * * *)_13%% ad val.
+Paragraph 372, as modified by T.D. 54108:
+Machines, finished or unfinished, not specially provided for :
+* * -jfi * * * *
+Other (except * * *)_11}4%
+ad val.
+The record herein consists of the testimony of one witness called on behalf of plaintiff and four photographs of the imported merchandise received in evidence as plaintiff’s illustrative exhibits 1 through 4. The witness, Mr. Clarence Brewer, testified that he is a consulting engineer who was employed by the actual importer herein, Solo Cup Co., for the purpose of determining whether and how many of the imported machines should be purchased. Mr. Brewer testified that he saw similar machines operating in Germany by electric power; that the imported machines are still not in operation though uncrated; that in his experience as an engineer the imported machines may be operated by any form of power since they are imported with a pulley drive; that the main consideration is that the machines be operated simultaneously, which could easily be accomplished by an overhead drive shaft connecting all of the units and motivated by any form of power; that in their condition as imported they contained no electric motors but certain electrical wiring was left in the units which did not conform to our electrical code and would have to be disposed of; that accommodations for two heating units were provided; that these were merely holes for the insertion of the units; that the heating unit for the bottom drawer form tool used for drying the adhesives was not necessary in the United States since the paper and fast-setting adhesives used here make it unnecessary; and that the provision for the electric heating seam clamp is not essential since this is normally done in this country by gas heat.
+Mr. Brewer further testified that the control for the electric heating seam clamp contained on the imported merchandise would have to be replaced whether or not the importer used electric or gas heat for this purpose since the control did not meet the wiring codes of this country; that no modification of the machine itself would be required in the substitution of power from electricity to another source.
+There is no dispute in the record that the imported machines, in their condition as imported, contain no electric motor but did in certain instances contain electric wiring, a thermostatic control, and provisions for two electrically operated heating units. The question as to what constitutes an “essential” electrical feature within the meaning of the statutory provision in issue has been the subject of judicial construction in numerous cases. In United States v. Dryden Rubber Co., 22 CCPA 51, T.D. 47050, it was stated that:
+* * * The electrical feature must be an essential feature, without which the article will not function, normally, for the purposes intended * * *.
+If an article has been designed to be operated by electric power and could not normally otherwise function, it is, of course, an article with an essential electrical feature within the scope of paragraph 353 of the tariff act. However, if the substitution of a nonelectrical feature for the electrical one can be made without modification in whole or part of the article designed to be used therewith, and after substitution has been effected the article will function normally for the purposes for which it was intended, the electrical feature is not essential and paragraph 353 would not apply. Ralph C. Coxhead Corp. v. United States, 22 CCPA 96, T.D. 47080.
+In the case at bar, the involved machines were imported without electric motors and the evidence adduced herein was to the effect that any form of power could be utilized to run the machines which were designed to be operated by belt and pulleys. This is similar to the manner in which the power was transferred to the Cocoa liquor Grinding Mill involved in the case of United States v. Baker Perkins, Inc., R. F. Downing Co., Inc., 46 CCPA 128, C.A.D. 714, wherein the court of appeals made the following comment:
+* * * The fact that other power sources would not be practical in appellees’ operation cannot be controlling here because it is well settled that the classification of an imported article must rest upon its condition as imported, and that condition in this casé did not limit the drive to an electric motor. The mere contemplation of the use of electric motive power is not sufficient to constitute the machine an article having as an essential feature an electrical element under paragraph 353.
+In view of the foregoing and even though the witness only observed the use of machines similar to the involved machines in Germany at which time electric power was utilized, insofar as the motors are concerned, they are not in our opinion essential to the operation of said machines.
+With respect to the electrical wiring contained in the imported machines, we do not believe that said wiring or the thermostatic control, both of which did not comply with our electrical standards, were necessary or essential to the operation of the imported machines. Neither do we consider the two heating units (which were merely accommodations for but did not include the heating element), one not being essential in view of the type of paper and adhesives utilized in the United States and the other being normally gas heated in the United States, to be essential to the operation of said machines.
+The record is devoid of any evidence relating to the operation of the merchandise described in the invoice covered by protest 61/4506(A), as an automatic connection. It is not clear how this conveyor operates or whether it is considered a part of one or all three of the machines involved in each complete unit or whether it can actually be considered a machine in and of itself. In view of this the protest is overruled insofar as the automatic connection is concerned.
+In view of the foregoing, we are of the opinion that said cup body winding machine, horizontal bottom-making press, and automatic cup finishing machine, do not have as an essential feature an electrical element or device but are, in fact, machines and as such properly dutiable at the rate of 11% per centum ad valorem under the provisions of paragraph 372, as modified. The protests to the extent indicated, supra, are, therefore, sustained.
+Judgment will be entered accordingly.
