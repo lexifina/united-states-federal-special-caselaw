@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "41819"
+decided: "1939-07-10"
+citations: ["3 Cust. Ct. 329"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protest 211731-G of Abraham & Straus, Inc. (New York)."]
+source_url: "https://static.case.law/cust-ct/3/cases/0329-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6636185
+cites_cases: ["26 C. C. P. A. 353"]
+---
+
+# Protest 211731-G of Abraham & Straus, Inc.
+
+## Majority (Tilson, J.)
+
+Opinion by
+Tilson, J.
+The record established that certain of the items in question consist of Normandy laces similar to those the subject of United States v. Amrein (26 C. C. P. A. 353, C. A. D. 40). The claim was therefore sustained as to these articles.
