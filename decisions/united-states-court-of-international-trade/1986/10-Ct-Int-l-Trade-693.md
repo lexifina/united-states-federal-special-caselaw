@@ -1,0 +1,29 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 86-07-00934"
+decided: "1986-11-03"
+citations: ["10 Ct. Int'l Trade 693", "649 F. Supp. 818"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Tsoucalas, Judge."]
+parties: ["Former Employees of Badger Coal Co., plaintiffs v. United States, defendant"]
+source_url: "https://static.case.law/ct-intl-trade/10/cases/0693-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6108409
+cites_cases: ["10 CIT 15", "10 CIT 676", "28 U.S.C. § 1914", "28 U.S.C. § 1917", "28 U.S.C. § 2633", "28 U.S.C. § 2636", "349 U.S. 46", "51 Fed. Reg. 25,761", "603 F. Supp. 150", "622 F. Supp. 1086", "628 F. Supp. 976", "790 F.2d 1550", "9 CIT 557"]
+---
+
+# Former Employees of Badger Coal Co. v. United States
+
+## Majority (Tsoucalas, Judge:)
+
+Opinion
+Tsoucalas, Judge:
+Plaintiffs, Woodrow Barker on behalf of the former employees of Badger Coal Co., are proceeding pro se in this action for trade adjustment assistance, against defendant, the United States. Plaintiffs sought to commence this action on July 17,1986 by sending a letter to the Clerk of the Court seeking judicial review of the final determination of the Secretary of Labor in investigation TA-W-17,188, which was published on July 16, 1986. 51 Fed. Reg. 25,761, 25,762 (1986). That letter was deemed a summons and complaint by the Clerk, who informed Mr. Barker of the necessity of submitting a $50 fee upon commencement of an action in this Court. USCIT R. 3(b). Plaintiffs have failed to comply with this requirement. Therefore, defendant has made a motion, pursuant to Rule 12(b)(1), to dismiss for lack of jurisdiction. To date, plaintiffs have not remitted the fee and have failed in any other way to respond to defendant’s motion.
+Discussion
+The filing of fees in this Court is governed by 28 U.S.C. § 2633(a) (1982) which provides that "[a] filing fee shall be payable to the clerk of the Court of International Trade upon the commencement of a civil action in such court.” The CIT Rules similarly provide: "[w]hen an action is commenced, a $50 filing fee shall be paid to the clerk of the court * * USCIT R. 3(b). Further, 28 U.S.C. § 2636(d) (Supp. Ill 1985), which specifically governs the type of action plaintiffs sought to commence, provides that “[an action for trade adjustment assistance] is barred unless commenced in accordance with the rules of the Court of International Trade within sixty days after the date of notice of [the Secretary’s] determination.”
+It is clear that defendant’s motion must be granted since plaintiffs’ refusal to comply with the pertinent statutes leaves this Court without jurisdiction to entertain its claim. Moreover, plaintiffs have demonstrated an unequivocal and inexcusable failure to pursue their cause of action. Despite a warning from the Clerk of the Court that failure to remit the filing fee might result in dismissal of this action and despite three attempts by counsel for defendant to contact Mr. Barker regarding the fee, he has failed to act. Indeed, he has chosen not to respond to this motion.
+Decisions of the Court of Appeals for the Federal Circuit and the Court of International Trade make it plain that timely compliance with the relevant statutes and rules of court concerning the commencement of an action is a prerequisite to the proper exercise of jurisdiction. See Georgetown Steel Corp. v. United States, Appeal No. 85-2805 at 6-7 (Fed. Cir. Sept. 18, 1986); Nature’s Farm Products, Inc. v. United States, 10 CIT 676, Slip Op. 86-108 (Oct. 22, 1986); NEC Corp. v. United States, 9 CIT 557, 622 F. Supp. 1086 (1985), reh’g denied, 10 CIT 15, 628 F. Supp. 976 (1986); see also Keith v. Heckler, 603 F. Supp. 150, 154-57 (E.D. Va. 1985) (where rule of court requires advance payment, failure to timely remit filing fee is a jurisdictional defect). A fortiori, total failure to comply with these requirements will result in dismissal for lack of jurisdiction. The jurisdictional considerations alone, of course, mandate dismissal. Apart from those concerns, however, I am unwilling to frustrate the administrative operations of the Court by allowing parties to comply with rules whenever they choose, or, as in this case, not to comply at all.
+For the foregoing reasons, plaintiffs’ action is dismissed.
+USCIT R. 6(b), allowing for discretionary extensions of time to perform required acts, is not available to plaintiffs since by its express terms it requires a motion based upon good cause. No such motion has been made in the instant case. In any event, given the facts of this case, I need not reach the question as to whether, in light of the Congressional mandate of 28 U.S.C. § 2633(a), the Court, upon motion, may validly exercise its discretion so as to allow late payment of the fee. See Keith v. Heckler, 603 F. Supp. at 154-57; Georgetown Steel, Appeal No. 85-2805 at 10 (CIT rules may not alter statutory require* ments); but cf. Parissi v. Telechron, Inc., 349 U.S. 46 (1955) (per curiam) (appeal timely where 28 U.S.C. § 1917 filing fee inadvertently paid four days late); Rodgers v. Bowen, 790 F.2d 1550, 1552 (11th Cir. 1986) (late payment of 28 U.S.C. § 1914 filing fee not a jurisdictional defect).
