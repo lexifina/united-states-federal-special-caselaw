@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "53305; protests 144114-K, etc. (New York)"
+decided: "1949-06-20"
+citations: ["23 Cust. Ct. 113"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Fuchs Shoe Corp. v. United States,"]
+source_url: "https://static.case.law/cust-ct/23/cases/0113-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6597996
+cites_cases: ["36 C. C. P. A. 64"]
+---
+
+# Fuchs Shoe Corp. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that certain items of the merchandise consist of sisal handbags similar in all material respects to those the subject of United States v. Goldberg & Seltzer, Inc. (36 C. C. P. A. 64, C. A. D. 399), the claim of the plaintiff was sustained.
