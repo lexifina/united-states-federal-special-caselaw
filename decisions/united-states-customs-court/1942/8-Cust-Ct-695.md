@@ -1,0 +1,28 @@
+---
+court: "United States Customs Court"
+docket: "5622; Entry No. 6055"
+decided: "1942-04-29"
+citations: ["8 Cust. Ct. 695"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["W. X. Huber Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/8/cases/0695-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6687060
+---
+
+# W. X. Huber Co. v. United States
+
+## Majority (Keefe, Judge:)
+
+Keefe, Judge:
+This appeal to reappraisement involves the proper dutiable value of certain Christmas-tree ornaments exported from Germany and imported at the port of Los Angeles.
+The case has been submitted for decision on a stipulation entered into by and between counsel for the respective parties, wherein it is. agreed, in substance, as follows:
+(1) That the Christmas-tree ornaments in question were exported from Germany during the period from April 1, 1939, to October 1, 1939.
+(2) That the instant merchandise is similar in all material respects, to that which was the subject of the decision in the case of F. W. Woolworth Co. et al. v. United States (Reap. Dec. 5094).
+(3) That the market conditions existing during the period of exportation of the articles in question were similar, if not identical,, to the conditions found to be prevailing in the foreign market, described in the Woolworth Co. case, supra.
+(4) That the record in the Woolworth Co. case, supra, may be incorporated in and made a part of the record in the present case.
+On the, agreed facts, as hereinabove set forth, I find that on the-dates of exportation of the instant merchandise Christmas-tree ornaments, such as and similar to those involved herein, were freely-offered for sale to all purchasers in the principal market of the country of exportation, to wit, the Sonneberg-Lauscha district of Germany, in the usual wholesale quantities and in the ordinary course of trade for consumption in Germany and for exportation to the United States and other countries.
+Accordingly, I hold as matter of law that the proper dutiable foreign and export values of the Christmas-tree ornaments in question are the 'per se unit invoice prices,.plus 3}{ per centum-social assessments plus packing and cost of cases as invoiced, and plus the cost of all containers and coverings of whatever nature, and all other costs, charges, and expenses incident to placing the merchandise in condition, packed ready for shipment to the United States, as invoiced, whenever reported as dutiable by the appraiser.
+The appeal having been abandoned insofar as it relates to all other merchandise, to that extent the appeal is hereby dismissed. Judgment will be rendered accordingly.
