@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 03-00828"
 decided: "2005"
-citations: ["29 Ct. Int'l Trade 524", "374 F. Supp. 2d 1275", "29 Ct. Int'l Trade 950", "391 F. Supp. 2d 1326"]
+decided_precision: "year"
+citations: ["29 Ct. Int'l Trade 524", "374 F. Supp. 2d 1275"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Norsk Hydro Canada Inc., Plaintiff, v. United States, Defendant, and 
 source_url: "https://static.case.law/ct-intl-trade/29/cases/0524-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 9006942
-cites_cases: ["19 U.S.C. § 1675", "350 F. Supp. 2d 1172", "68 Fed. Reg. 53,962", "68 Fed. Reg. 53962"]
+cites_cases: ["350 F. Supp. 2d 1172", "68 Fed. Reg. 53962"]
 ---
 
 # Norsk Hydro Canada Inc. v. United States
