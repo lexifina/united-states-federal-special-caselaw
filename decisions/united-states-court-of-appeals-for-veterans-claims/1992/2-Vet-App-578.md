@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "91-432"
+decided: "1992-07-07"
+citations: ["2 Vet. App. 578"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before FARLEY, Associate Judge."]
+parties: ["James P. MILLER, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/2/cases/0578-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12257745
+cites_cases: ["1 Vet.App. 171", "1 Vet.App. 23", "1 Vet.App. 251", "1 Vet.App. 419", "1 Vet.App. 49", "2 Vet.App. 31", "2 Vet.App. 492", "38 U.S.C. § 1112", "38 U.S.C. § 5108", "470 U.S. 564", "899 F.2d 3"]
+---
+
+# Miller v. Derwinski
+
+## Majority (FARLEY, Associate Judge:)
+
+MEMORANDUM DECISION
+FARLEY, Associate Judge:
+In its decision of February 5, 1991, the Board of Veterans’ Appeals (Board or BVA) denied appellant entitlement to service connection for multiple sclerosis. A timely appeal to this Court followed. On October 23, 1991, appellant filed an informal brief. On December 18, 1991, the Secretary of Veterans Affairs (Secretary) filed a motion for summary affirmance, for acceptance of the motion in lieu of a brief and for a stay of proceedings pending a ruling. Appellant did not file a response to the motion.
+Appellant’s claim was previously denied at the Department of Veterans Affairs Regional Office in final, unappealed decisions on December 23, 1974, R. at 56, and March 22, 1982. R. at 88. In these decisions, the rating board concluded that there was insufficient evidence to confirm that appellant’s disability occurred in service or during the seven year presumptive period provided by 38 U.S.C. § 1112(a)(4) (formerly § 312(a)(4)).
+On November 22, 1989, appellant sought to reopen his claim with the submission of additional evidence reflecting ongoing treatment for multiple sclerosis. See, e.g., R. at 91-92, 94-117, 119-25. The rating board found no new and material evidence and the denial was confirmed on January 31, 1990. R. at 126. Appellant again sought to reopen the claim and submitted a personal statement, R. at 140, and a statement from John C. Humprey, who had served with and presently knows appellant. R. at 141. The claim again was denied on June 2, 1990, R. at 143, and confirmed on August 29, 1990, R. at 159, on the basis that the evidence submitted since the initial denial of service connection was not sufficiently new and material to warrant a reopening of the claim. In a February 5, 1991, BVA decision, which is the subject of this appeal, the Board determined that, although some of the evidence submitted by appellant to reopen his claim was new, it was not material to the issue of service connection. The Board stated:
+[the evidence provided,] which does not include contemporaneous clinical documentation demonstrating that multiple sclerosis was manifested during service or within seven years thereafter[,] ... does not establish that multiple sclerosis was incurred in or aggravated by service or that it may be presumed to have been incurred in service.
+James P. Miller, BVA 91-03705, at 5 (Aug. 22, 1990).
+“A claimant may have a claim reopened and reconsidered on the merits only upon the submission of new and material evidence.” Thompson v. Derwinski, 1 Vet.App. 251, 253 (1991). The determination whether evidence submitted to reopen a previously disallowed claim is new and material under 38 U.S.C. § 5108 (formerly § 3008) is a question of law which this Court reviews de novo. Colvin v. Derwinski, 1 Vet.App. 171, 174 (1991). “New and material” evidence is evidence which is “not ... merely cumulative” and “is relevant and probative of the issue at hand.” Id.
+New and material evidence was not submitted in this case. Certain medical records are duplicates of evidence previously submitted. Compare R. at 91-92 with R. at 42-43. John C. Humprey’s statement was cumulative of his prior submission, see R. at 86, and that of George H. Johnson. See R. 84-85. Although the 1971 treatment records from Broward Medical Center, R. at 119-25, and the more recent treatment records, R. at 94-117, are “new,” this evidence is not “material” to the issue of service connection. The evidence, as such, reflects ongoing treatment for current disabilities and does not bear on the issue of the incurrence of multiple sclerosis during service or the presumptive period. The veteran’s own statements expressing his belief that his disabilities are service-connected as well are not probative. As a layman, appellant is not qualified to proffer an opinion as to the date of onset of his illness; such testimony would only be probative if it were proffered by a “a witness qualified as an expert.” Espiritu v. Derwinski, 2 Vet.App. 492, 495 (U.S.Vet.App. June 19, 1992) (citation omitted) (holding that lay persons were not qualified to provide a “probative diagnosis” as to the cause of the veteran’s death).
+As there was no new and material evidence submitted as prescribed by 38 U.S.C. § 5108, the claim should not have been reopened. In this instance, however, any error on the Board’s part is harmless. See Kehoskie v. Derwinski, 2 Vet.App. 31, 34 (1991) (where a claim should not have been reopened, if the Board nevertheless denied the claim, such error would be considered harmless); Godwin v. Derwinski, 1 Vet.App. 419, 424-25 (1991); Thompson, 1 Vet.App. at 254.
+Upon consideration of the record, appellant’s informal brief, and the Secretary’s motion for summary affirmance, it is the holding of the Court that appellant has not demonstrated that the BVA committed either factual or legal error which would warrant reversal. Gilbert v. Derwinski, 1 Vet.App. 49 (1990); see also Anderson v. City of Bessemer City, 470 U.S. 564, 105 S.Ct. 1504, 84 L.Ed.2d 518 (1985); Danville Plywood Corp. v. United States, 899 F.2d 3 (Fed.Cir.1990). Summary affirmance is appropriate when, as here, the issue is of relative simplicity and the outcome is not reasonably debatable. Frankel v. Derwinski, 1 Vet.App. 23 (1990). Accordingly, the Secretary’s motion for summary affirmance is granted and the February 5, 1991, decision of the Board of Veterans’ Appeals is AFFIRMED.
