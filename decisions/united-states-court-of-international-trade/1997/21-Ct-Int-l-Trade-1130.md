@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Consolidated Court No. 96-08-01930"
 decided: "1997-10-02"
-citations: ["21 Ct. Int'l Trade 1130", "21 Ct. Int'l Trade 1124", "980 F. Supp. 485"]
+citations: ["21 Ct. Int'l Trade 1130"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["F.lli De Cecco di Filippo Fara San Martino S.p.A., LA Molisana Indust
 source_url: "https://static.case.law/ct-intl-trade/21/cases/1130-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11504777
-cites_cases: ["11 CIT 257", "12 CIT 518", "13 CIT 599", "17 CIT 290", "19 C.F.R. § 351.210", "19 U.S.C.A. § 3512", "2 CIT 25", "29 F.3d 600", "42 C.C.P.A. 144", "467 U.S. 837", "48 Fed. Reg. 20,109,20,111", "5 CIT 236", "503 U.S. 249", "503 U.S. 30", "508 U.S. 223", "508 U.S. 242", "51 Fed. Reg. 6,016", "56 Fed. Reg. 15,857,15,859", "566 F. Supp. 346", "59 Fed. Reg. 65,009,65,011", "60 Fed. Reg. 30,268", "61 Fed. Reg. 1,344", "61 Fed. Reg. 30,326", "61 Fed. Reg. 38,547", "618 F. Supp. 496", "62 Fed. Reg. 27,296", "661 F. Supp. 1198", "688 F. Supp. 639", "7 CIT 313", "718 F. Supp. 63", "865 F.2d 240", "9 CIT 453", "903 F. Supp. 72", "91 F.R.D. 26", "912 F. Supp. 555", "966 F.2d 660"]
+cites_cases: ["12 CIT 518", "19 C.F.R. § 351.210", "19 U.S.C.A. § 3512", "29 F.3d 600", "42 C.C.P.A. 144", "467 U.S. 837", "48 Fed. Reg. 20,109,20,111", "503 U.S. 249", "503 U.S. 30", "508 U.S. 223", "508 U.S. 242", "51 Fed. Reg. 6,016", "56 Fed. Reg. 15,857,15,859", "59 Fed. Reg. 65,009,65,011", "60 Fed. Reg. 30,268", "61 Fed. Reg. 1,344", "61 Fed. Reg. 30,326", "61 Fed. Reg. 38,547", "618 F. Supp. 496", "62 Fed. Reg. 27,296", "688 F. Supp. 639", "865 F.2d 240", "9 CIT 453", "903 F. Supp. 72", "912 F. Supp. 555", "966 F.2d 660"]
 ---
 
 # F.lli De Cecco di Filippo Fara San Martino S.p.A. v. United States
