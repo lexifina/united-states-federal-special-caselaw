@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "60415; protest 253187-K (New York)"
+decided: "1956-12-12"
+citations: ["37 Cust. Ct. 441"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sandoz Chemical Works, Inc. v. United States,"]
+source_url: "https://static.case.law/cust-ct/37/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6614862
+---
+
+# Sandoz Chemical Works, Inc. v. United States
+
+## Majority (Johnson, J.)
+
+Opinion by
+Johnson, J.
+In accordance with stipulation of counsel that the merchandise consists of Axelan, which product is not obtained from any oil, fat, or fatty acid, but is derived from castor oil, which is not covered by the statute, the claim of the plaintiff was sustained.
