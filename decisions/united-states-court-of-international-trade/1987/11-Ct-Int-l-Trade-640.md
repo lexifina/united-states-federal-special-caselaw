@@ -1,0 +1,28 @@
+---
+court: "United States Court of International Trade"
+docket: "Consolidated Court No. 85-06-00789"
+decided: "1987-09-08"
+citations: ["11 Ct. Int'l Trade 640", "670 F. Supp. 1004"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Washington Red Raspberry Commission et al., plaintiffs v. United States et al., defendants"]
+source_url: "https://static.case.law/ct-intl-trade/11/cases/0640-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6110080
+cites_cases: ["10 CIT 301", "11 CIT 463", "19 C.F.R. § 353.24", "634 F.Supp. 419"]
+---
+
+# Washington Red Raspberry Commission v. United States
+
+## Majority (Aquilino, Judge:)
+
+Memorandum and Order
+Aquilino, Judge:
+The International Trade Administration, U.S. Department of Commerce ("ITA”), upon correcting four clerical errors made in the first remand proceedings and identified by the court in its Slip Op. 87-74, 11 CIT 463, (1987), has determined revised dumping margins for the intervenor-defendants.
+None of the parties contest the methodology used by the ITA on the second remand, but the plaintiffs do object to its determination that the recalculated weighted-average margin of 0.42 percent ad valorem, for intervenor-defendant Abbotsford Growers Co-Operative Union ("Abbotsford”) is de minimis, thereby resulting in its exclusion from the antidumping-duty order.
+The ITA recently published its rule pursuant to which ad valorem dumping margins of less than .5 percent will be disregarded for purposes of issuing or revoking orders or setting deposit rates. See 52 Fed.Reg. 30,660 (Aug. 17, 1987) (to be codified at 19 C.F.R. § 353.24). Independent of this rule, the ITA may make a determination that a particular margin is de minimis if it is supported by substantial evidence on the record and otherwise in accordance with law within the meaning of 19 U.S.C. § 1516a(b)(2)(B).
+In reviewing the determination that the above, recalculated weighted-average margin on some Abbotsford sales of bulk-packed raspberries is de minimus, this court cannot conclude that it is unsupported by the record or is otherwise unlawful. As the defendants have noted, most sales reflected no underselling, notwithstanding the fact that Abbotsford was the largest exporter of the merchandise during the period in question. On its sales at less than fair value, based on the "netback” selling price range, Abbotsford realized a slight price advantage per pound. These factors, viewed in light of evidence on the record that prices for this merchandise are "essentially a function of supply”, controvert plaintiffs’ assertion that a margin of 0.42 percent "has a tremendous impact on the overall market for red raspberries”. Plaintiffs’ Comments, p. 4.
+Although such an impact is conceivable under other circumstances, it is not shown here. The results of the second remand proceeding are thus hereby affirmed, and judgment will enter dismissing this action.
+See Carlisle Tire & Rubber Co. v. United States, 10 CIT 301, 634 F.Supp. 419, 423 (1986).
+Results of Second Remand Proceeding, p. 6.
