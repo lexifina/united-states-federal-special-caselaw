@@ -1,0 +1,27 @@
+---
+court: "United States Customs Court"
+docket: "Reap. Dec. 8140; Entry No. 0-571"
+decided: "1952-07-24"
+citations: ["29 Cust. Ct. 446"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. Dillingham, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/29/cases/0446-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6622479
+---
+
+# E. Dillingham, Inc. v. United States
+
+## Majority (Oliver, Chief Judge:)
+
+Oliver, Chief Judge:
+This appeal for reappraisement has been submitted for decision upon the following stipulation of counsel for the parties hereto:
+IT IS HEREBY STIPULATED as follows, between the Counsel for the Plaintiff and the Assistant Attorney General for the United States, concerning the merchandise referred to herein:
+1. This appeal to re-appraisement involves fifteen (15) bales of nylon waste synthetic fibre type 3 A of a net quantity of 5094.5 pounds, imported from Canada at the Port of Alexandria Bay, New York, on November 18th, 1949 by the plaintiff for the account of Hartford Spinning, Inc., of Unionville, Connecticut.
+2. As to the merchandise herein, there is no foreign value thereof, as defined in Section 402 (a) and (c) of the Tariff Act of 1930.
+3. As to the merchandise involved herein, there existed an export value of sixty (.60) cents per pound, United States funds net packed, which was the market value or the price, at the time of exportation of such merchandise to the United States at which such or similar merchandise was freely offered for sale to all purchasers in the principal markets of Canada, the country from which exported, in the usual wholesale quantities and in the ordinary course of trade for exportation to the United States, plus when not included in such price, the cost of all containers and coverings of whatever nature, and all other costs, charges and expenses incident to placing the merchandise in condition, packed ready for shipment to the United States.
+4. The instant appealed to re-appraisement shall be submitted on this stipulation.
+On the agreed facts I find tbe export value, as tbat value is defined in section 402 (d) of tbe Tariff Act of 1930, to be tbe proper basis for the determination of the value of tbe merchandise here involved, and tbat such value was United States dollars 0.60 per pound, net packed.
+Judgment will be rendered accordingly.
