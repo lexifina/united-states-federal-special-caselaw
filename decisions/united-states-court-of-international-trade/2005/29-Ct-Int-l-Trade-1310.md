@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 03-00219"
+decided: "2005"
+citations: ["29 Ct. Int'l Trade 1310", "403 F. Supp. 2d 1298"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Former Employees of Murray Engineering, Inc., Plaintiffs, v. Elaine L. Chao, United States Secretary of Labor, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/29/cases/1310-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9010582
+cites_cases: ["19 U.S.C. § 2272", "19 U.S.C. § 2273", "496 U.S. 414"]
+---
+
+# Former Employees of Murray Engineering, Inc. v. Chao
+
+## Majority (POGUE, Judge:)
+
+POGUE, Judge:
+On July 14, 2005, Mr. Ken Walter, on behalf of the Former Employees of Murray Engineering, Inc. (“Former Employees”), filed a motion for rehearing asserting that the court had not provided the parties a full opportunity to address the question of whether the Former Employees were “affected secondary workers” within meaning of 19 U.S.C. § 2272(b) (West Supp. 2005). The court granted Plaintiffs’ motion and after consideration of all the arguments and papers filed in relation thereto, the court affirms its previous decision to sustain Labor’s Determination because even if this court were to agree with Plaintiffs’ ably stated arguments, the Plaintiffs are without relief.
+Trade Adjustment Assistance benefits are limited to those workers “whose last or partial separation from the firm . . . occurred . . . [no] more than one year before the date of the petition on which such certification was granted.” 19 U.S.C. § 2273(b)(1). In this case, the date of the petition was January 15, 2003. However, as asserted in the Former Employee’s arguments for rehearing, the Former Employees had been terminated more than one year prior to the filing of their petition for Trade Adjustment Assistance. Therefore, pursuant to 19 U.S.C. § 2273(b), they are ineligible for benefits. As such, the Former Employees cannot claim that Commerce’s method for assessing whether import competition significantly contributed to their layoffs, i.e., looking to a two year interval prior to the date of the petition, was improper here.
+Plaintiffs argue that they were misled by a statement appearing in a State of Michigan unemployment benefits booklet into thinking that they could apply for Trade Adjustment Assistance only after having exhausted their other unemployment benefits. Unfortunately, the law does not provide a remedy for Plaintiffs’ reliance on this publication. Although it is regrettable that the Former Employees were led astray, given that 19 U.S.C. § 2273(b) clearly commands that benefits be limited to only those workers who have been totally or partially separated from their employment within a year of petitioning for benefits, therefore, the Judiciary may grant no relief. See, e.g., Office of Pers. Mgmt v. Richmond, 496 U.S. 414, 424 (1990).
+The court appreciates the arguments of the Former Employees, especially Mr. Ken Walter, who have argued their case through several remands. But in this case, although there may have been a wrong, there is no remedy, and the Court must affirm Labor’s Determination.
+The booklet upon which Plaintiffs rely explains:
+Under the Trade Act of 1974, as amended, you may apply for Trade Adjustment Assistance (TAA) if increased imports have adversely affected your job. The assistance may include Trade Readjustment Allowances (TRA), which provide a weekly income once you exhaust your regular employment benefits if you are still unemployed.
+Plaintiff’s Br. at Attach 2.
