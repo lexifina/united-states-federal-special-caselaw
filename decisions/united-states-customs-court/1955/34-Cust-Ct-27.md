@@ -1,0 +1,54 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 1672"
+decided: "1955-01-20"
+citations: ["34 Cust. Ct. 27"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Oliver, Mollison, and Wilson, Judges"]
+parties: ["Camera Specialty Co., Inc. Rohner Gehrig & Co., Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/34/cases/0027-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6584654
+cites_cases: ["14 Ct. Cust. Appls. 273"]
+---
+
+# Camera Specialty Co. v. United States
+
+## Majority (Wilson, Judge:)
+
+Wilson, Judge:
+It was stipulated in this case between the Government and the plaintiffs that the merchandise here involved consists of photo lenses and lens parts, originally manufactured in the Russian-occupied Zone of Germany; that, after said goods had been imported into the United States directly from that zone and had had clearance through United States customs, the lenses and lens parts in question were exported to the Western Zone of Germany for repair and alteration to fit them for use.
+It was further stipulated between the parties that, upon reimportation of the involved goods from the Western Zone of Germany into the United States, duty on the cost of the repairs made, in accordance with paragraph 1615 (g) of the Tariff Act of 1930, as amended, was assessed under paragraph 228 (b) at the rate of 45 per centum ad valorem, as provided for in said paragraph, and that the reimported goods were denied the benefit of the reduced rate of duty at 25 per centum ad valorem, as provided for in paragraph 228 (b), as modified by the General Agreement on Tariffs and Trade, T. D. 51802. The reduced rate of duty was refused by reason of the provisions of a Presidential proclamation, T. D. 52788, dated August 1, 1951, wherein merchandise shipped directly or indirectly from the Russian-occupied Zone of Germany was excepted from the benefits accruing from the reduced rates or concessions provided for in any trade agreement.
+The pertinent parts of the Presidential proclamation in question, T. D. 52788, are as follows:
+Whereas sections 5 and 11 of the Trade Agreements Extension Act of 1951 (Public Law 50, 82d Congress) provide as follows:
+“Sec. 5. As soon as practicable, the President shall take such action as is necessary to suspend, withdraw or prevent the application of any reduction in any rate of duty, or binding of any existing customs or excise treatment, or other concession contained in any trade agreement entered into under authority of section 350 of the Tariff Act of 1930, as amended and extended, to imports from the Union of Soviet Socialist Republics and to imports from any nation or area dominated or controlled by the foreign government or foreign organization controlling the world Communist movement.”
+* ‡ Hí * * % *
+Now, therefore, I, Harrt S. Truman, President of the United States of America, * * * do proclaim:
+Part I
+That the application of reduced rates of duty * * * established pursuant to trade agreements * * * shall be suspended with respect to imports from such nations and areas referred to in section 5 as may be specified in any notification pursuant to this part of this proclamation given by the President to the Secretary of the Treasury * * *.
+In a covering letter, addressed to the Secretary of the Treasury, the President instructed that officer that such suspension as to reduced rates of duty shall be applicable with respect to imports, among others, from “The Soviet Zone of Germany and the Soviet Sector of Berlin,” which are entered, or withdrawn from warehouse, for consumption after the close of business August 31, 1951. The importation here under consideration was made on October 31, 1951.
+Admittedly, any importations from the Russian-occupied Zone of Germany are not entitled to the benefits of the trade agreement, while those originating in the Western Zone of Germany are properly dutiable under the lower rate, as provided in the agreement in question.
+The sole issue presented in this case is whether the lenses and lens parts, as they were imported in their improved condition from the Western Zone of Germany to the United States, were imports, directly or indirectly, from the Russian Zone of Germany, or whether they were direct imports from the Western German Zone.
+The question of duty upon the lenses and lens parts, as originally imported from the Russian Zone to the United States and cleared through the United States customs, is not here involved. The assessment here under review is that made on the improved lenses and lens parts as they were shipped back to the United States from the Western Zone of Germany.
+Plaintiffs stated the issue in another way in their brief in the following manner:
+The only issue, therefore, is whether or not the repairs on these lenses and lens parts fall within the following descriptive terms contained in T. D. 52788:
+* * * For the purposes of this part the term “imports from such nations and areas” shall mean articles imported directly or indirectly into the United States from nations or areas specified in an effective notification, but shall not in any case include articles the growth, produce, or manufacture of any other nation or area.
+It is clear from the foregoing statement from the proclamation under consideration that its provisions apply only to articles imported directly or indirectly into the United States from the excepted nations or areas and not in any case to goods grown, produced, or manufactured in any other area or nation.
+Paragraph 228 (b). Tariff Act of 1930, provides as follows:
+(b) Azimuth mirrors, parabolic or mangin mirrors for searchlight reflectors, mirrors for optical, dental, or surgical purposes, photographic or projection lenses, sextants, octants, opera or field glasses (not prism binoculars), telescopes, microscopes, all optical instruments, frames and mountings therefor, and parts of any of the foregoing; all the foregoing, finished or unfinished, not specially provided for, 45 per centum ad valorem.
+Paragraph 228 (b), as modified by T. D. 51802, with respect to the merchandise under consideration, provides:
+Tariff Act of 1930, paragraph 228 (b) Description of Products Photographic lenses, finished or unfinished, not specially provided for_ Rate of Duty 25% ad val.
+Paragraph 1615 (g), as amended by section 35 of the Customs Administrative Act of 1938 (T. D. 49646) and which covers goods exported from the United States for repairs or alterations and then reimported, reads as follows:
+Any article exported from the United States for repairs or alterations may be returned upon the payment of a duty upon the value of the repairs or alterations at the rate or rates which would apply to the article itself in its repaired or altered condition if not within the purview of this subparagraph.
+When originally imported into the United States, the merchandise in question admittedly came from the Russian Zone of Germany and, as such, was on the nonfavored list. However, these goods passed through the United States customs and were received into the regular commerce of this country. They thereby became part of the goods belonging to the citizens of this nation and, when sent to the Western Zone of Germany for repairs, occupied the same status as they would had they been originally produced in the United States. When reimported into the United States, the merchandise came from a country admittedly entitled to the benefits of the reduced rates, as provided under the provisions of paragraph 228 (b) of the Tariff Act of 1930, as modified by T. D. 51802. If the goods as originally imported into the United States, after having paid the duties levied upon them, did not then become part of the commerce of this country, it is difficult to determine when imported merchandise does lose its foreign identity.
+In the case of D. & B. Import Corp. v. United States, 29 C. C. P. A. (Customs) 65, C. A. D. 172, our appellate court held, in reviewing an inverse situation, that rum, produced in Cuba, which was thereafter exported to Bermuda and, at a subsequent date, exported from Bermuda to the United States, did not constitute an importation from Cuba but one from Bermuda.
+In discussing the problem, the appellate court said:
+It thus appears that the only question before the trial court was whether the sale of the rum to a firm in Bermuda, its exportation thereto, and its subsequent importation from Bermuda to the United States, deprived it of its status as merchandise entitled to the benefit of preferential treatment under the Cuban Reciprocity Treaty of 1902, as to a part of the rum, and under the Cuban Reciprocal Trade Agreement of 1934 as to the remainder of the rum here involved.
+In affirming the decision of tbe trial court tbat the shipment was not an importation from Cuba, the appellate court, in the D. & B. Import Corp. case, supra, page 77, stated:
+In arriving at our conclusion that only articles imported into the United States from Cuba are entitled to the benefits of the Cuban Reciprocity Treaty and the Cuban Trade Agreement, we give to the treaty and trade agreement that construction which, in our opinion, will effectuate the real intention of the parties thereto, viz, to facilitate commerce and trade between the United States and Cuba by granting to Cuba exclusive preferential tariff treatment of articles the growth or product of that country imported into the United States from Cuba; * * *.
+In United States v. Estate of Boshell, 14 Ct. Cust. Appls. 273, T. D. 41884, our appellate court, in discussing what constitutes an importation, used the following language:
+The common ordinary meaning of the word “import” is to bring in. Imported merchandise is merchandise that has been brought within the limits of a port of entry from a foreign country with intention to unlade, and the word “importation” as used in tariff statutes, unless otherwise limited, means merchandise to which that condition or status has attached.
+See also Henry Hollander Co. v. United States, 22 C. C. P. A. (Customs) 645, T. D. 47632.
+In the case at bar, the original shipment of lenses and lens parts constituted an importation into the United States. Their subsequent shipment to the Western Zone of Germany was an “exportation” from this country and, upon reimportation in their repaired condition, these lenses and lens parts were “articles the growth, produce, or manufacture of” a nation or area which is entitled to the benefits of the reduced rate of duty under paragraph 228 (b) of the Tariff Act of 1930, as modified. As such, duty on the cost of the repairs is properly assessable at the reduced rate of 25 per centum ad valorem, as claimed. The protest is sustained. Judgment will be rendered accordingly.
