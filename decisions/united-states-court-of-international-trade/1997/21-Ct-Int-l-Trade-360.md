@@ -1,0 +1,57 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 96-05-01472"
+decided: "1997-04-10"
+citations: ["21 Ct. Int'l Trade 360", "963 F. Supp. 1207"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States of America, plaintiff v. Shabahang Persian Carpets, Ltd., defendant"]
+source_url: "https://static.case.law/ct-intl-trade/21/cases/0360-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11501721
+cites_cases: ["14 CIT 724", "28 U.S.C. § 1581", "28 U.S.C. § 1583", "28 U.S.C. § 2636", "295 U.S. 247", "31 C.F.R. § 560.403", "37 F.3d 1478", "41 F.3d 627", "477 U.S. 242", "52 Fed. Reg. 41,940", "52 Fed. Reg. 44,076", "56 F.3d 1378", "622 F. Supp. 97", "628 F.2d 1023", "702 F. Supp. 1561", "737 F.2d 1549", "750 F. Supp. 1135"]
+---
+
+# United States v. Shabahang Persian Carpets, Ltd.
+
+## Majority (Goldberg, Judge:)
+
+Opinion
+Goldberg, Judge:
+This matter comes before the Court on plaintiffs motion for summary judgment. Plaintiff, the United States Customs Service (“Customs”), seeks summary judgment to dismiss a counterclaim filed by Shabahang Persian Carpets, Ltd. (“Shabahang”). The original action, initiated by Customs, involves the recovery of penalties and duties relating to carpets that successfully entered the United States between March 6, 1984 and November 4, 1987. Shabahang’s counterclaim involves carpets that Shabahang attempted to import, but were denied entry pursuant to Executive Order No. 12613, which imposed an embargo on imports from Iran after October 29, 1987.52 Fed. Reg. 41,940 (1987). The counterclaim alleges that Customs effected an unlawful taking under the Fifth Amendment when it denied the entry of the carpets into the United States.
+In its summary judgment motion, Customs contends that the Court lacks subject matter jurisdiction under both 28 U.S.C. § 1583 (1994) and 28 U.S.C. § 1581(i)(3) (1994). In the alternative, Customs argues that even if the Court does possess jurisdiction, the action is still time barred and fails to state a claim upon which relief can be granted. In response, Shabahang contends that its counterclaim is not time barred because it constitutes either a “setoff” or “recoupment.”
+Although the Court finds that it has subject matter jurisdiction under 28 U.S.C. § 1581(i)(3), the Court dismisses plaintiffs counterclaim because Shabahang failed to file an action within the time period set forth in the statute of limitations. The Court also determines that Shaba-hang’s defenses, that the counterclaim constitutes either a “setoff” or a “recoupment,” lack merit. The Court does not reach the issue of whether Shabahang’s action states a claim upon which relief can be granted.
+Standard of Review
+When faced with a motion for summary judgment, the Court determines whether a case presents any genuine issues of material fact. An derson v. Liberty Lobby, Inc., 477 U.S. 242, 247-48 (1986). If a case presents no such issues, and a moving party is entitled to a judgment as a matter of law, then the Court may grant summary judgment. USCIT Rule 56(d).
+Since this matter is before the Court on a motion for summary judgment, and it presents no genuine issues of material fact in dispute, granting summary judgment is appropriate.
+Discussion
+A. Subject Matter Jurisdiction under 28 U.S.C. § 1583:
+Shabahang filed its action as a counterclaim in an existing case. The Court finds that the claim does not come within its counterclaim jurisdiction under 28 U.S.C. § 1583.
+28 U.S.C. § 1583 provides two bases for counterclaim jurisdiction. Pursuant to 28 U.S.C. § 1583, a counterclaim can be filed if (1) the claim involves the imported merchandise that is the subject matter of a pending civil action, or (2) the counterclaim involves recovery upon a bond or customs duties.
+With respect to the first basis for jurisdiction under 28 U.S.C. § 1583, Shabahang fails to establish this Court’s counterclaim jurisdiction because its counterclaim does not involve merchandise that is the subject of a pending civil action. Rather, the counterclaim involves a different stream of goods than the imported goods that are the subject of Customs’ pending civil action.
+Furthermore, Shabahang’s counterclaim does not involve imported merchandise. Rather, the counterclaim involves goods that were never imported because of the U.S. embargo.
+With respect to the second basis for jurisdiction under 28 U.S.C. § 1583, Shabahang fails to establish the Court’s counterclaim jurisdiction because its claim does not involve recovery upon a bond or customs duties.
+Furthermore, because Customs’ claim and Shabahang’s counterclaim raise unrelated legal issues, the rationale underlying the Court’s jurisdiction to hear counterclaims does not apply in the present case. See Eastalco Aluminum Co. v. United States, 14 CIT 724, 727-31, 750 F. Supp. 1135, 1138-41 (1990) (discussing the Court’s counterclaim jurisdiction) . Customs ’ tariff recovery and penalty claims involve traditional customs classification and regulatory law. In contrast, Shabahang’s claim raises a takings under the Fifth Amendment of the Constitution. The claims do not involve similar issues; hearing Shabahang’s action as a counterclaim is inappropriate.
+The Court does not have jurisdiction under 28 U.S.C. § 1583. The Court now discusses its jurisdiction under 28 U.S.C. § 1581(i)(3).
+B. Subject Matter Jurisdiction under 28 U.S.C. § 1581(i)(3):
+The Court possesses subject matter jurisdiction over cases involving “embargoes or other quantitative restrictions on the importation of merchandise for reasons other than the protection of the public health or safety.” 28 U.S.C. § 1581(i)(3).
+Because Shabahang’s claim involves goods that were prevented from entering the United States due to an embargo, the claim comes within the plain language of 28 U.S.C. § 1581(i)(3).
+As discussed above, Shabahang erred by filing this action as a counterclaim in an existing case. Shabahang should have brought this matter as a separate action under 28 U.S.C. § 1581(i)(3). However, the Court does not view this as fatal to Shabahang’s claim. Rather, if Shabahang’s claim were to survive this summary judgment motion, the procedural defect could be cured by granting leave to file a separate action under 28 U.S.C. § 1581(i)(3).
+C. Statute of Limitations under 28 U.S.C. § 2636(i):
+The Court now considers Customs’ contention that Shabahang’s claim is time barred under 28 U.S.C. § 2636(i) (1994). The Court finds that it is time barred.
+28 U.S.C. § 2636(f) sets forth the statute of limitations for actions filed at the Court of International Trade that arise under 28 U.S.C. § 1581(i). Pursuant to this section, a civil action filed with the Court of International Trade under 28 U.S.C. § 1581(i) is barred unless it is commenced within two years after “the cause of action first accrues.” 28 U.S.C. § 2636(i).
+In takings actions, the Court of Appeals for the Federal Circuit has repeatedly held that a cause of action accrues “at the time the taking occurs.” See Fallini v. United States, _ Fed. Cir. (T) _, _, 56 F.3d 1378, 1382-23 (1994); see also, Creppel v. United States, _ Fed. Cir. (T) _, _, 41 F.3d 627, 633 (1994); Alliance of Descendants of Texas v. United States, _ Fed. Cir. (T) _, _, 37 F.3d 1478, 1481 (1995). In takings cases in which the government passes a statute or promulgates a regulation that effects the taking, the effective date of the statute or regulation has been held to be the date that the taking occurs. See, e.g., Creppel, _ Fed. Cir. (T) at _, 41 F.3d at 633 (permanent taking claim accrued for limitations purposes on the date the Environmental Protection Agency issued final determination); Alliance of Descendants of Texas, _ Fed. Cir. (T) at _, 37 F.3d at 1481 (claim accrued when United States treaty went into effect that resolved unsettled property claims between citizens of the United States and Mexico).
+In the present case, if a taking occurred, it occurred on October 29, 1987, the date that Executive Order 12613 took effect. Yet, Shabahang filed its counterclaim in August 1996, almost nine years after the effective date of President Reagan’s Executive Order 12613. This is well after the statute of limitations of 28 U.S.C. § 2636(i) expired. Therefore, Sha-bahang’s claim is time barred.
+D. Shabahang’s Setoff Argument:
+Shabahang attempts to defeat the time bar imposed by the statute of limitations by arguing that the statute of limitations does not apply to its action because its action is a “setoff.” This argument fails.
+A “setoff” is a demand which a defendant holds against a plaintiff that arises out of a transaction extrinsic to plaintiffs cause of action. In re Smith, 737 F.2d 1549, 1552 (11th Cir. 1984).
+Even if the action is viewed as a setoff, Shabahang’s claim is still barred by the statute of limitations. A setoff claim must independently satisfy the statute of limitations. Chauffeurs, Teamsters, Warehousemen & Helpers, Local Union No. 135 v. Jefferson Trucking Co., 628 F.2d 1023, 1027 (7th Cir. 1980) (statute of limitations applies to setoffs and counterclaims because they are affirmative independent causes of action arising outside of transactions in plaintiffs complaint); United States v. Old World Artisans, Inc., 702 F. Supp. 1561, 1569 (N.D. Ga. 1988) (same).
+E. Shabahang’s Recoupment Argument:
+Shabahang also challenges the applicability of the statute of limitations based on the theory that its action is a “recoupment.” This argument also fails because the claim does not constitute a recoupment.
+A “recoupment” is a defensive claim “growing out of [the] transaction constituting plaintiff s cause of action and is available only to reduce or satisfy plaintiffs claim * * *.” Black’s Law Dictionary 1275 (6th ed. 1990). Shabahang is correct that a recoupment is not subject to the statute of limitations. Bull v. United States, 295 U.S. 247, 262 (1935) (Recoupment is never barred by the statute of limitations provided the main action is timely.); Vari-build, Inc. v. City of Reno, 622 F. Supp. 97, 99-100 (D. Nev. 1985) (same).
+However, in order for a claim to constitute a recoupment, the claim must arise out of the same transaction that formed the basis of the plaintiffs claim. Bull v. United States, 295 U.S. at 262; Vari-build, 622 F. Supp. at 100.
+As discussed above, Shabahang’s claim is based on a series of attempted importations that were denied entry. These attempted importations are distinct from the stream of imports that are the subject of Customs’ original action. Thus, Shabahang’s and Customs’ claims are based on different transactions. Accordingly, Shabahang cannot rely on recoupment to defeat the statute of limitations in this case.
+Conclusion
+For the foregoing reasons, the Court finds that Shabahang’s claim is time barred pursuant to 28 U.S.C. § 2636(i). A separate order dismissing the claim will be entered accordingly.
+The last entry at issue in Customs’ complaint was permitted to enter the United States six days after October 29, 1987 because it fell within the scope of a regulation relaxing the embargo for goods already loaded aboard vessels or aircraft. Iranian Transactions Regulations, 52 Fed. Reg. 44,076, 44,077 (1987), (codified at 31 C.F.R. § 560.403).
