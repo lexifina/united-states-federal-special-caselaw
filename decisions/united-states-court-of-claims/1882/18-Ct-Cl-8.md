@@ -1,0 +1,29 @@
+---
+court: "United States Court of Claims"
+docket: "204"
+decided: "1882-12-18"
+citations: ["18 Ct. Cl. 8"]
+reporter: "us-ct-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DENNIS LOONEY v. THE DISTRICT OF COLUMBIA."]
+source_url: "https://static.case.law/us-ct-cl/18/cases/0008-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5676781
+---
+
+# Looney v. District of Columbia
+
+## Majority (Richardson, J.,)
+
+OPINION.
+Richardson, J.,
+delivered tbe opinion of tbe court:
+Tbe cause of action presented by tbe claimant’s petition in this case is a balance of $500 alleged to be due bim for hauling and piling soil on Fourteenth street east, in Washington, in tbe months of September, October, November, and December, 1872.
+After tbe claimant had taken some testimony, tbe defendants, on tbe 11 tb of May, 1882, filed in court a return of papers from tbe Commissioners of tbe District, made upon tbe call of tbe Assistant Attorney-General, which showed that this very claim bad been rejected by the Board of Audit. When this fact became apparent upon tbe record, uncontroverted as it ever since has been by the claimant, tbe jurisdiction of tbe court over tbe matter came to an end, and it was tbe duty of tbe court, upon tbe fact being called to its attention, to dismiss tbe case, since tbe law of Congress under which it acts in District cases expressly provides that “no claim shall be presented to or be considered by tbe Court of Claims under the provisions of this act which was rejected by the Board of Audit.” (Act of June 16, 1880, cb. 243, § 8; 1 Suppl. Rev. Stat., 564; 15 O. Cls. R.,' XII.)
+But tbe Assistant Attorney-General, on behalf of tbe defendants, upon filing tbe report of tbe Commissioners in court, on tbe 11th of May, 1882, filed also a plea of counter-claim against tbe claimant, alleging that be is indebted to them in tbe sum of $500; and it does in fact appear from tbe return of tbe Commissioners that in a settlement between tbe parties, growing out of tbe same contract and work to which the claim set out in the petition relates, there was a manifest clerical error of addition by which tbe claimant was overpaid on that account to tbe amount of $500.
+, Tbe defendants now insist that we shall proceed to give judgment in their favor against tbe claimant for this amount upon tbe counter-claim. This, in our opinion, we are not authorized to do. Tbe Court of Claims has no original jurisdiction of potions in behalf of tbe District of Columbia against its alleged debtors. Tbe District cannot primarily institute any suit in this court, and so cannot of its own motion bring parties here to answer to claims against them.
+The act of Congress does provide that “ the Attorney-General of the United States shall have authority, and it shall be his duty, to defend the District of Columbia against all claims against said District of Columbia prosecuted in said Court of Claims, * * with the same power to interpose counter-claims and offsets against claims and defenses for fraud practiced or attempted, and all other legal defenses, and with like power of appeal, as in cases against the United States tried in said court.” (Act of June 16,1880, ch. 243, § 3; 1 Suppl. Rev. Stat., 563; 15 C. Cls. R., IX.) This jurisdiction to adjudicate upon claims set up by the District is merely incidental to the jurisdiction over claims presented against it by parties who institute proceedings under authority of the act of Congress, and are themselves rightly before the court with a claim which the court can investigate and adjudicate upon. This is made so by the very language of the statute which the defendants invoke. By Revised Statutes, § 1061, it is provided that “ upon the trial of any cause in which any set-off, counter-claim, claim for damages, or other demand is set up on the part of the Government against any person making claim against the Government in said court [of Claims], the court shall hear and determine such claim or demand both for and against the Government and claimant; and if upon the whole case it finds that the claimant is indebted to the Government, it shall render judgment to that effect.” This provision is made applicable, by the act previously cited, to District of Columbia cases.
+If the court is ousted of jurisdiction of the demand presented by the claimant, it is manifest that it cannot proceed to find “ upon the whole case ” that the claimant is indebted to the defendants on the one-sided claim presented by them; and especially is that so in a case like this, where the claims on both sides grow out of the same contract and have relation to parts of the same transaction. It would be unjust to allow the case to proceed upon the defendants’ claim alone, and to shut out the claimant from presenting his demands, since the one might have a material effect upon the other, if tried and determined together.
+When, therefore, it appeared upon the record that the claimant was not rightly before the court, that he presented nothing on his part which was within its jurisdiction, that he and his claim were ipso facto ousted, without the necessity of any action on tbe part of tbe court, tbe subsequent filing of a counterclaim by tbe Assistant Attorney-General did not operate to bold tbe claimant to answer to a new cause of action set up against bim. Tbe filing of tbe counter-claim was wholly without force or effect. Tbe defendants could not change the proceedings into an action which presented nothing but a demand against tbe claimant who was turned out of court for want of • jurisdiction ovér tbe only claim set forth in bis petition.
+We can do nomore than to enter an order dismissing tbe whole case, both tbe claimant’s petition and tbe defendants’ counterclaim, for want of jurisdiction, and that will accordingly be done.
