@@ -1,0 +1,32 @@
+---
+court: "United States Court of Veterans Appeals"
+docket: "91-2098"
+decided: "1993-08-12"
+citations: ["5 Vet. App. 399"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MANKIN, HOLDAWAY and IVERS, Judges."]
+parties: ["Billie A. CATES, Appellant, v. Jesse BROWN, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/5/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6446425
+cites_cases: ["102 Stat. 4105", "38 C.F.R. § 20.1302", "38 C.F.R. § 20.201", "38 C.F.R. § 20.302", "38 C.F.R. § 3.1000", "38 U.S.C.A. § 5121", "38 U.S.C.A. § 7105", "38 U.S.C.A. § 7251", "38 U.S.C.A. § 7252", "4 Vet.App. 353", "4 Vet.App. 528", "456 U.S. 694", "5 Vet.App. 80", "717 F.2d 726", "924 F.2d 1577", "972 F.2d 331"]
+---
+
+# Cates v. Brown
+
+## Majority (MANKIN, Judge:)
+
+MANKIN, Judge:
+Appellant, Billie A. Cates, spouse of deceased veteran Marion H. Cates, appeals the July 31, 1991, Board of Veterans’ Appeals (BVA or Board) decision which granted entitlement to a total rating based on individual unemployability by reason of service-connected disability, for purposes of accrued benefits, for a period of one year preceding the veteran’s death. Appellant contends that she is entitled to an earlier effective date of May 1980, the date the veteran ceased employment, for the grant of individual unemployability benefits. The Secretary of Veterans Affairs filed a motion for summary affirmance. The Court dismisses this appeal for lack of jurisdiction.
+I. FACTUAL BACKGROUND
+The relevant facts in this case are largely procedural in nature. On June 16, 1987, the veteran filed a reopened claim for a total rating based on individual unemploya-bility (IU). The Veterans’ Administration (now Department of Veterans Affairs) (VA) Regional Office (RO) denied that claim on December 10, 1987. The RO issued a confirmed decision on May 11, 1988. The veteran filed a Notice of Disagreement (NOD) on June 7, 1988. On November 7, 1988, the Board remanded the veteran’s case for the RO to obtain additional records. The veteran’s claim was still pending before the VA at the time of his death on July 24, 1989. On October 12, 1989, the Board completed the pending action, remanding the veteran’s claim again for the RO to search for records. See 38 C.F.R. § 20.1302 (1992) (“When an appeal is pending before the [BVA] at the time of the [veteran’s] death, the Board may complete its action on the issue properly before it without application from the survivors.”)
+After the veteran’s death, Billie Cates filed a claim for accrued benefits, contending that her husband had been entitled at his death to an award of IU benefits. On April 16, 1991, the VA received a letter from Mrs. Cates, disagreeing with the Supplemental Statement of the Case which she had been sent. Appellant’s claim was presented before a hearing officer in May 1991. The hearing officer denied entitlement to IU. On July 31, 1991, the Board granted IU for one year prior to the veteran’s death, for purposes of accrued benefits. Mrs. Cates appealed to this Court, seeking IU benefits retroactive to May 1980.
+II. ANALYSIS
+The issue of whether the Court has jurisdiction pursuant to 38 U.S.C.A. § 7252(a) (West 1991) must be resolved before the Court can reach the merits of appellant’s claim. Although the parties do not question the Court’s jurisdiction in this appeal, subject matter jurisdiction cannot be conferred on the court by acquiescence of the parties. Noll v. Brown, 5 Vet.App. 80, 82 (1993) (citing Tuvia Convalescent Center v. National Union, 717 F.2d 726, 729 n. 1 (2d Cir.1983)). A jurisdictional matter can be raised at any stage of a judicial proceeding by any party or by the Court on its own motion. Fugere v. Derwinski, 972 F.2d 331, 334 n. 5 (Fed.Cir.1992); Phillips v. General Servs. Admin., 924 F.2d 1577, 1579 (Fed.Cir.1991); see also Insurance Corp. of Ireland v. Compagnie des Bauxites, 456 U.S. 694, 702, 102 S.Ct. 2099, 2104, 72 L.Ed.2d 492 (1982). We can, and we do, raise this issue, sua sponte.
+A prerequisite for the Court to have jurisdiction over an appeal is that a valid NOD must have been filed on or after November 18,1988. Veteran’s Judicial Review Act (VJRA), Pub.L. No. 100-687, § 402, 102 Stat. 4105, 4122 (1988) (found at 38 U.S.C.A. § 7251 note (West 1991)); see also Hamilton v. Brown, 4 Vet.App. 528, 531 (1993) (en banc). To be valid, an NOD must be a “written communication from a claimant or his or her representative expressing dissatisfaction or disagreement with an adjudicative determination by the agency of original jurisdiction and a desire to contest the result.” 38 C.F.R. § 20.201 (1992); Hamilton, 4 Vet.App. at 531. The NOD must be filed within one year from the date of mailing of notice of the result of initial review and determination by the RO. 38 U.S.C.A. § 7105(a) (West 1991); 38 C.F.R. § 20.302(a) (1992).
+The claim at issue in this case is that filed by appellant, not the claim filed by the veteran. Although appellant’s claim for accrued benefits is related to the veteran’s claim, during his lifetime, for IU benefits, entitlement to accrued benefits arises under 38 U.S.C.A. § 5121(c) (West 1991). Pursuant to section 5121(c), an application for accrued benefits must be filed within one year of the veteran’s death. See 38 C.F.R. § 3.1000(c) (1992); Hayes v. Brown, 4 Vet.App. 353, 358 (1993). Thus, appellant’s claim must have been submitted after the veteran’s death, and constitutes a separate claim from the veteran’s. Therefore, she is required to file an NOD as to an adjudication of her claim in order to initiate review by the BVA and the Court.
+The only potential NOD in this case is that of appellant’s letter of April 16, 1991. However, this letter did not express disagreement with an adjudicative determination, as there had not yet been an adjudication of appellant’s claim; thus the letter is not an NOD. See 38 C.F.R. § 20.201 (1992); Hamilton, 4 Vet.App. at 531. Therefore, because the July 31, 1991, decision which forms the basis of this appeal was not initiated by a valid NOD, this appeal must be dismissed for lack of jurisdiction. We acknowledge that the Court previously issued an order on March 10, 1992, validating the April 1991 letter as an “NOD”; however, upon further review, the Court determined that this letter is not a jurisdiction-conferring NOD.
+III. CONCLUSION
+Accordingly, we dismiss for lack of jurisdiction.
