@@ -1,0 +1,44 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "2992"
+decided: "1928-01-23"
+citations: ["15 Ct. Cust. 403"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Smith, Barber, Bland, and Hatfield, Associate Judges, Graham, Presiding Judge, participating in the decision by agreement of counsel"]
+parties: ["United States v. Pew Fisheries Co."]
+source_url: "https://static.case.law/ct-cust/15/cases/0403-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6094676
+cites_cases: ["10 Ct. Cust. Appls. 47", "13 Ct. Cust. Appls. 3"]
+---
+
+# United States v. Pew Fisheries Co.
+
+## Majority (Hatfield, Judge,)
+
+Hatfield, Judge,
+delivered the opinion of the court.
+Hake sounds, imported into the United States from Canada, were assessed for duty by the collector at the port of Boston at 25 per cent ad valorem as “fish, sounds, cleaned, split, or otherwise prepared,” under paragraph 42 of the Tariff Act of 1922, which reads as follows:
+Par. 42. Edible gelatin, valued at less than 40 cents per pound, 20 per centum ad valorem, and 3J4 cents per pound; valued at 40 cents or more per pound, 20 per centum ad valorem and 7 cents per pound; gelatin, glue, glue size and fish glue, not specially provided for, valued at less than 40 cents per pound, 20 per centum ad valorem and cents per pound; valued at 40 cents or more per pound, 20 per centum ad valorem and 7 cents per pound; casein glue, agar agar, isinglass and other fish sounds, cleaned, split, or otherwise prepared, and manufactures, wholly or in chief value of gelatin, glue, or glue size, 25 per centum ad valorem. (Italics not quoted.)
+The importer claimed, and the court below held, that the merchandise was free of duty under paragraph 1523, which reads as follows:
+Par. 1523. Fish sounds, crude, dried or salted for preservation only, and unmanufactured, not specially provided for.
+On the trial below the importer called as a witness one Roger Upton, secretary and assistant treasurer of the American Glue Co., the “ultimate consignees” of the merchandise in question. He was the only witness before the court.
+It appears from the uncontradicted testimony that “hake sounds” are- fish sounds; that they are imported for use chiefly in making: isinglass; that “they have been taken from the fish, broken'open,, rinsed in water sufficient to take out the gurry and blood, and dried”;, that “sometimes they are opened with the fingers, sometimes with a knife, and sometimes with scissors, according to the convenience or whim of the fishermen or fishermen’s wives or children”; that the opening of the sounds is known as “splitting,” and that this may be-done by tearing them open with the fingers, or by cutting them with knives or scissors. In this connection, the witness said;
+Q. Then that is what you call splitting when you tear these open? — A. We-would call it splitting.
+Q. As a matter of fact, that [referring to the hake sounds involved in the case] is split open? — A. It is broken open, that might have been split open with the finger, knife, or scissors, whichever is handy.
+Q. The illustrative Exhibit A and illustrative Exhibit B have also been opened in the same way? — -A. More elaborately.
+Q. They can be opened by a knife or hand; any way you want to do it? — A. Yes:
+Q. So far as splitting or opening is concerned, they are both the same? — A. You. must break the sound open in some fashion to get out the gurry and blood.
+Q. That applies to all the sounds you are talking about to-day? — A. Yes,
+He further said that, to his knowledge, there was no uniform method of splitting sounds; that the sounds in question had been cleaned only enough for transportation purposes- — “Simply been rinsed enough to take off such blood and gurry as would tend to rot or cause the sounds-to decay and then dried”; that they can not be imported in any ''cruder condition or form than those in this importation” because they would decay in transportation, and because, if they were dried without removing the contents, the “blood and gurry” would “get into the fiber of the sound, so it makes it useless and worthless for anything except fish glue”; and that it is unprofitable to import fish sounds for use in the manufacture of “fish glue.”
+The court below held that the “hake sounds ” had not been “cleaned, split, or otherwise prepared,” and, accordingly, held them to be free of duty under paragraph 1523.
+The Government contends that the importer not only failed to prove that the hake sounds were not cleaned, split, or otherwise prepared, but that the uncontradicted testimony of the witness for the importer shows conclusively that they have been split, and, at least partially, cleaned; and that the case is controlled by the decision of this court in the case of United States v. Brown & Co., 13 Ct. Cust. Appls. 3, T. D. 40846.
+It is contended by counsel for appellee that, as these fish sounds are different from those involved in United States v. Brown & Co., supra, the decision there is not controlling of the issues here; that these sounds have not been cleaned, split, or otherwise prepared; that, “as these smaller sounds can not be turned inside out like the Maracaibo variety, they must be broken, torn, or out open by the fisher-folk. Splitting implies something more than that, usually a cutting, trimming, or skiving operation”; and that since all sounds must-be opened in order to make them “ a merchantable commodity,” the Congress could not have intended that sounds prepared as these should be dutiable under paragraph 42. (Italics not quoted.)
+In the case of United States v. Brown & Co., supra, this court held that fish sounds, cleaned and split, were dutiable under paragraph 42. It was there argued by counsel for the importer that, as the sounds had not been subjected to processing other than cleaning, splitting, and drying, and, as these were not processes of “preparation,” the sounds should be held to be free of duty as “crude” under paragraph 1523. . The court, in an opinion by Graham, Presiding Judge, called attention to the fact that, prior to the enactment of the tariff act of 1922, fish sounds were generally divided into two classes, “crude fish sounds being usually free and prepared fish sounds dutiable”; and, that, under these tariff acts, in conformity with •established law, it was held that cleaning, splitting, and drying were not processes of preparation, and that fish sounds so processed were free of duty under provisions for “crude fish sounds.” Attention was called to the case of United States v. Brown & Co., 10 Ct. Cust. Appls. 47, T. D. 38295 The court then said:
+The Congress, in preparing the Tariff Act of 1922, departed from the language formerly employed, and inserted, in defining what should be considered as dutiable fish sounds, the language “cleaned, split, or otherwise prepared.” It is contended by the importers that the insertion of this language does not vary the construction to be placed upon the word “prepared,” and that fish sounds, cleaned and split, are still to be considered as not prepared. If this be true, what does the added language mean? To so hold would be to render such language meaningless. It must be assumed the Congress was fully cognizant of the decision of this court in United States v. Brown, supra. The reasonable deduction to be drawn from the added language is that Congress intended to meet and cover the point decided in that case, and to provide that if fish sounds were cleaned or split, they should be considered as dutiable. The words “ cleaned, split, or otherwise prepared,” if given a reasonable interpretation, must mean, in this connection, that if the sounds are either cleaned or split or prepared in any other way, they ari> dutiable under paragraph 42, at 25 per centum ad valorem, and we so construe the language. (Beginning with the word “either” italics not quoted.)
+From the law thus concisely stated, it is evident that, if fish sounds are cleaned or split or otherwise prepared, they are dutiable under paragraph 42. No other reasonable, conclusion can be reached from the, plain language used by the Congress. If the provision is unfair or unsound for any reason, the remedy is legislative, not judicial.
+The appellee’s own witness stated plainly and positively that the fish sounds had been opened by tearing or cutting, and that this is known as a splitting process. Having been split, and, for that reason, being dutiable under paragraph 42, it is unnecessary for us to consider whether the cleaning process to which they have been subjected is sufficient to bring them within the dutiable provision.
+The judgment is reversed and the cause remanded for proceedings consistent with the views herein expressed.
+Reversed and remanded.
