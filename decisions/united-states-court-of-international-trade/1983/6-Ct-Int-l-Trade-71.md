@@ -2,7 +2,7 @@
 court: "United States Court of International Trade"
 docket: "Consolidated Court No. 82-10-01361"
 decided: "1983-07-28"
-citations: ["6 Ct. Int'l Trade 71", "569 F. Supp. 874", "6 Ct. Int'l Trade 69"]
+citations: ["6 Ct. Int'l Trade 71", "569 F. Supp. 874"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["United States Steel Corporation, Republic Steel Corporation, et al., 
 source_url: "https://static.case.law/ct-intl-trade/6/cases/0071-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6096451
-cites_cases: ["19 U.S.C. § 1675", "47 Fed. Reg. 39", "47 Fed. Reg. 39,379", "5 CIT 245"]
+cites_cases: ["19 U.S.C. § 1675", "5 CIT 245"]
 ---
 
 # United States Steel Corp. v. United States
