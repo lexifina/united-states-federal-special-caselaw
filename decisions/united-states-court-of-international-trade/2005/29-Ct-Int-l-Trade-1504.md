@@ -1,0 +1,26 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 05-00002"
+decided: "2005"
+citations: ["29 Ct. Int'l Trade 1504", "412 F. Supp. 2d 1311"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Decca Hospitality Furnishings, LLC, Plaintiff, Maria Yee Inc., ET AL., Plaintiff-Intervenors, v. United States, Defendant, American Furniture Manufacturers Committee for Fair Trade, ET AL., Defendant-Intervenors."]
+source_url: "https://static.case.law/ct-intl-trade/29/cases/1504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9011401
+cites_cases: ["391 F. Supp. 2d 1298", "70 Fed. Reg. 329"]
+---
+
+# Decca Hospitality Furnishings, LLC v. United States
+
+## Majority (POGUE, Judge:)
+
+JUDGMENT
+POGUE, Judge:
+In Wooden Bedroom Furniture from China, 70 Fed. Reg. 329, 330 (Dep’t Commerce Jan. 4, 2005) (notice of amended final determination of sales at less than fair market value and anti-dumping duty order) the Department of Commerce (“Commerce”) rejected as untimely certain submissions from Decca Hospitality Furnishings, LLC (“Decca”) and, therefore, assessed Decca the People’s Republic of China (“PRC”)-wide cash deposit rate of 198.08%. Decca timely appealed that determination averring that it was improperly denied the separate rate of 6.65%. On August 23, 2005, this court found unlawful Commerce’s assessment of the PRC-wide cash deposit rate and remanded to Commerce the question of whether Decca had received actual notice of the separate-rate filing requirements, and if it had not, to consider whether Decca was entitled to a separate rate. Decca Hospitality Furnishings, LLC v. United States, 29 CIT_,_, 391 F. Supp. 2d 1298, 1317 (2005).
+Pursuant to that remand order, Commerce issued a remand determination on November 7, 2005 finding that Decca had not received actual notice of the filing requirements and, therefore, Decca did qualify for separate-rate treatment in accordance with the court’s decision.
+This court, having received and reviewed Commerce’s Remand Results, comments and rebuttals thereto, finds that Commerce duly complied with the court’s remand order. Therefore, it is hereby
+ORDERED that the Department of Commerce’s remand determination is supported by substantial evidence, and otherwise in accordance with law; and it is further
+ORDERED that the Remand Results filed by Commerce on November 7, 2005 are affirmed in their entirety.
