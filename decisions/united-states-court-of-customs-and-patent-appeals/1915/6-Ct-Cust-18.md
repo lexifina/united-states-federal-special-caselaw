@@ -1,0 +1,43 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1478"
+decided: "1915-03-18"
+citations: ["6 Ct. Cust. 18"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Vries, and Martin, Judges."]
+parties: ["Delapenha & Co. v. United States"]
+source_url: "https://static.case.law/ct-cust/6/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6091765
+cites_cases: ["143 Fed., 690", "151 Fed., 4", "28 Treas. Dec., 465", "4 Ct. Cust. Appls., 98"]
+---
+
+# Delapenha v. United States
+
+## Majority (Martin, Judge,)
+
+Martin, Judge,
+delivered the opinion of the court:
+The merchandise in the present case was reported by the appraiser to be “edible sulphured cherries in water,” and the collector accordingly assessed the same with duty at the rate of 2 cents per pound as edible'fruit prepared in any manner, not specially provided for under paragraph 274 of the tariff act of 1909.
+The importers filed their protest against the assessment, claiming free entry for the merchandise as “fruits in brine” under paragraph 571 of the act.
+The protest was submitted upon evidence to the Board of General Appraisers and was overruled. The importers now appeal from that decision.
+The following is a copy of the tariff provisions thus brought into competition.
+274. * * * All edible fruits, including berries, when dried, desiccated, evaporated, or prepared in any manner, not specially provided for in this section, two cents per pound; * * *.
+571 (free list). Fruits or berries, green, ripe, or dried, and fruits in brine, not specially provided for in this section.
+It appears from the testimony that the cherries in question are picked from the trees when barely ripe, having at the time a pink or red color. They are thereupon treated with sulphur fumes or sul-phurous acid, whereby they are bleached in color. They are then packed in containers and are covered with water having a certain percentage of salt in solution. Upon their arrival in this country they are cleansed of the sulphur and salt, then pitted, and then boiled in sirup. They are thus manufactured into the maraschino or glacé cherries of commerce.
+The present record contains a chemical analysis of the saline solution in which the present merchandise was imported, and it discloses the fact that the liquid contained only 0.07 per cent of salt. The record also contains the testimony of a witness who was examined before the board in the present case, together with all the testimony taken in a former case involving similar merchandise.
+The sole issue in the present case is whether the imported cherries are fruits in brine, and this resolves itself into the question whether the liquid which covered the cherries was a brine in the sense in which that word is used by the statute.
+It may be noted that the standard dictionaries uniformly define “brine” to he “water saturated or strongly impregnated with salt.” Therefore, according to common usage, the term can hardly he applied to water which contains only seven one-hundredths of 1 per cent of salt, for such a percentage would certainly not saturate or strongly impregnate the water in which it was dissolved.
+Coming then to the history of the present provision it is found that the free-list classification of “fruits in brine” first appeared in tariff legislation in paragraph 559 of the tariff act of 1897. The provision was reenacted in paragraph 571 of the tariff act of 1909. Notes on Tariff Revision, 1909 (p. 711).
+On August 3, 1901, the Treasury Department issued a letter to collectors of customs instructing them that the provision in question applied “to certain cherries in brine which had been exposed to sul-phur fumes,” which merchandise was “reported to-be arriving in considerable quantities at this time of year.” (T. D. 23220.)
+In the Causse Co. case, 1905, G. A. 5917 (T. D. 26029), the board held in respect to such cherries that 0.402 per cent of salt in solution was not sufficient to constitute “brine” within the meaning of paragraph 559, -tariff act of 1897. This decision was affirmed by the Circuit Court, Southern District of New York (143 Fed., 690). The foregoing judgment was affirmed in turn by the Circuit Court of Appeals, Second Circuit (151 Fed., 4), wherein the court said, “cher-es immersed in a solution containing not more than 0.402 per cent of salt are not fruits in 'brine/ within the meaning of * * * paragraph 559.” The. court held the cherries in question to be dutiable as “edible fruits * * * prepared in any manner” under paragraph 264, tariff act of 1897.
+On April 9, 1908. the department issued instructions to collectors of customs that "a solution containing sixty-two one-hundredths of 1 per cent or more of salt should be considered as brine within the meaning of said paragraph 559. (T. D. 28925.)
+The foregoing publications preceded the enactment of the tariff 'act of 1909. Since that time various percenta'ges of salt in solution have been passed upon by the authorities in relation to the classification of cherries in brine.
+The following decisions of the board found certain solutions of salt to be brine and the cherries therein entitled to free entry: 0.568 per cent to 0.704 per cent, the average being 0.629 per cent, Abstract 23796 (T. D. 30828); 0.72 per cent and 0.75 per cent, Abstract 27711 (T. D. 32224); 0.595 per cent, Abstract 29976 (T. D. 32847).
+The following decisions found certain solutions of salt not to be brine, denying free entry to the cherries therein imported: 0.034 per cent, Abstract 24305 (T. D. 31090); from less than 0.5 per cent to a little over 2 per cent, Abstract 30741 (T. D. 33018), following Mihalo-vitch v. United States (4 Ct. Cust. Appls., 98; T. D. 33372); 0.16 to 0.20 per cent, Abstract 32400 (T. D. 33433).
+In the present case the record discloses that the importers had ordered the shippers to add 1 per cent of salt to the water covering the cherries at exportation. However, as stated above, a chemical analysis demonstrated that at importation the liquid in question contained only seven one-hundredths of 1 per cent of salt. It is suggested that part of the salt in solution may have been absorbed by the cherries, and this is probably true. A bottle of the liquid taken from one of the imported containers was produced before the board by the witness Arthur Ruykhaver, vice president of the importing corporation. The witness testified that the liquid was sufficiently saline to preserve the cherries during shipment and even longer, b.ut on the other hand he was unable to say that he could detect any salt in the liquid by simply tasting it.
+The importers also submitted evidence designed to prove that the merchandise in question was known commercially as cherries in brine, and that accordingly the liquid in question was known commercially as brine in this connection.
+Upon the proofs, however, the board held against the several claims of the importers, and this court agrees with that decision. For it is within common knowledge that water containing only seven one-hundredths of 1 per cent of salt, so small a proportion indeed that its presence can not be detected by the sense of taste, can not properly be called brine. That term was written by Congress in the free-list provision in question, and it can not be wholly eliminated therefrom by administrative or judicial construction. It may be true tbat brine is not needed to preserve tbe cherries in question during transportation — tbat water alone would accomplish tbat purpose; it may even be true tbat a stronger solution of salt than tbat found in this case would tend to injure tbe cherries therein imported; nevertheless, tbe fact remains tbat Congress extended tbe free-entry provision in question only to such fruits as are imported in brine, and tbat is tbe measure of the importers’ rights in the premises. Nor does tbe present record estabbsb a peculiar commercial meaning of tbe term“brine.” Tbe testimonyupon tbat subject was to theeffect tbat tbe trade appbed tbe name “cherries in brine” to such cherries as were imported in any saline solution sufficiently strong to preserve them during transportation and until their manufacture. In tbe present case, however, it is probable tbat tbe cherries in question were actually preserved by tbe sulphur treatment, and that tbe infusion of salt in tbe water is negligible. Mihalovitch v. United States (4 Ct. Cust. Appls., 98; T. D. 33372).
+Tbe decision of tbe board is affirmed.
