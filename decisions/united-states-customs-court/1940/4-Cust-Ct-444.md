@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "43499"
+decided: "1940-04-16"
+citations: ["4 Cust. Ct. 444"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Protests 757969-G, etc., of M. Katz & Co. et al. (San Francisco)."]
+source_url: "https://static.case.law/cust-ct/4/cases/0444-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6683780
+cites_cases: ["27 C. C. P. A. 242"]
+---
+
+# Protests 757969-G of Katz
+
+## Majority (Kincheloe, J.)
+
+Opinion by
+Kincheloe, J.
+In accordance with stipulation of counsel and on the authority of United States v. Penn (27 C. C. P. A. 242, C. A. D. 93) the cocoa fiber pile mats in question were held dutiable at 90 percent under paragraph 1529 (a) as claimed.
