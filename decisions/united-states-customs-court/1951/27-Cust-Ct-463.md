@@ -1,0 +1,45 @@
+---
+court: "United States Customs Court"
+docket: "8060; Entry No. 717518"
+decided: "1951-11-08"
+citations: ["27 Cust. Ct. 463"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before La ween ce, Rao, and Foed, Judges"]
+parties: ["Freedman & Slater, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/27/cases/0463-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6664557
+---
+
+# Freedman & Slater, Inc. v. United States
+
+## Majority (Ford, Judge:)
+
+Ford, Judge:
+This application, seeking a review of the decision and judgment of the trial court, was filed under the provisions of title 28, U. S. C. § 2636 (a). The merchandise involved consists of raw fox furs imported from Canada and entered at the port of New York. Thése silver fox skins were invoiced and entered at $30.50 Canadian currency, per skin, and were appraised at $38 Canadian currency, net, packed, per skin. The official papers before us give no indication of the basis of appraisement; whether foreign value, export value, United States value, cost of production, or American selling price.
+The trial court summarized the testimony of the appellant herein as follows:
+* * * The witness testified that he had made the purchase of the skins in Montreal personally, and detailed the circumstances as follows: He described the skins as one lot of various qualities of an inferior or squirrely type of full silver fox skins, of the “new” catch, i. e., fresh skins brought to market about December 1st of each year. On December 3, 1943, he bought the skins, after examining them, from the sellers, Bercovitz Bros., at an average price of $30.50 per skin, Canadian currency, and in payment therefor gave three notes dated December 9, 1943, signed by the firm of S. & A. Diamond and his brother, Samuel Diamond. The witness testified that each of these notes was paid upon maturity and that the total amount in American funds equalled the total invoiced and entered value in Canadian funds, and the cancelled notes were offered and received in evidence as plaintiff's exhibits, 1A, IB, and 1C.
+The witness testified-that, subsequent to purchasing the skins in issue, from December 3 to December 18, 1943, he visited the places of business of other sellers in the Montreal market, i. e., the so-called “open market,” and was offered similar skins at prices varying from $22 to $31 each,-Canadian currency, and that the December 1943 market for such skins was a declining market. On December 20, 1943, he attended the annual auction sale of the Canadian Fur Auction Sales Co., Ltd., where, he stated, skins such as those in issue were sold at auction, and found the prices therein to be about 10 per centum lower than in the open market.
+It will be observed that there is nothing in the above testimony to indicate that the offers and sales therein referred to were in the ordinary course of trade or that they were in the usual wholesale quantities, nor does the record as a whole contain any evidence covering these points.
+In its brief filed herein counsel for appellant makes the following contention:
+If the evidence offered by the importer relative to offers freely made by the dealers, and as to sales at the Fur auction, is sufficient toward establishing that such prices correctly represent the export value as defined in Section 402 (d), this same evidence to the effect that the offers made by the dealers were made in an “open market” and in the ordinary course of trade supported by .the instant transaction should be clearly sufficient towards establishing that the home market values were no higher than such export values, as the offers were made freely in an open market without distinction as to whether they were for export to the United States, or for home consumption. * * *
+With reference to this phase of the case, the trial court stated as follows:
+* * * The basis of neither the entered value nor the appraised value is given, but inasmuch as the values are in Canadian funds they are doubtless referable to foreign or export values, which are defined in section 402 (c), as amended by the Customs Administrative Act of 1938, and section 402 (d), respectively, of the Tariff Act of 1930.
+Assuming, therefore,- that by reason of the fact that the importer was a purchaser for export to the United States, the evidence offered by the plaintiff as to offers made to the importer was sufficient to establish that the price at which the importer purchased and entered the goods represented the export value thereof, as defined in section 402 (d), supra, nevertheless, there is nothing in the record to establish that that price was the same as, or higher than, the price for the same goods when sold for home consumption.
+The statute, section 402 (a), requires the adoption as the value of the goods of either the foreign or the export value, whichever is higher. In this case, where, according to the brief filed in its behalf, plaintiff claims that there was no difference between the foreign and export values, -it was incumbent upon it to establish that fact by evidence, if it could not secure an admission to that effect. In the absence of such evidence or admission, I have no other course upon the record before me than to hold that the plaintiff has failed to overcome the presumption of correctness attaching to the value found by the appraiser.-
+Tbe above bolding of tbe trial court appears to be in accord with tbe views of our appellate court expressed in United States v. Malhame & Co., 19 C. C. P. A. (Customs) 164, T. D. 45276, as follows:
+The issue is not whether the value returned by the appraiser is the proper dutiable value of the merchandise, but whether there is (a) a foreign value or/and (b) an export value, and, if both, which is the higher, and the importer, having been the appealing party in the first instance, it was incumbent upon it “to meet every material issue involved in the case.” Meadows, Wye & Co. v. United States, supra. [17 C. C. P. A. (Customs) 36, T. D. 43324.] * * *
+Under the rules stated it was incumbent upon the importer in this case, upon its appeal to reappraisement, to show, as in all judicial proceedings, (a) what the foreign value as defined by paragraph (b), supra, was, or that there was no such foreign value; and (b) what the export value, if any, as defined by paragraph (c), supra, was.
+If the importer failed to show any one of these essential elements, then his appeal was subject to dismissal by the trial judge.
+Tbe witness also testified tbat wben be purchased tbe 124 raw silver foxes bere involved in December 1943, be saw tbe merchandise and tbat be was not familiar with tbe prevailing market value of tbe new catch of tbe silver fox skins for export to tbe United States or in tbe Canadian markets.
+Q. And in examining them, how did you arrive at the price $30.50 per skin? Will you please tell the court? — A. Well, they come in fresh, wet, and they are all greasy, and we just figured them out that is just what they are worth about. We really didn’t know, but that is the way I figured them out that way.
+In addition to tbe testimony hereinbefore set out, tbe witness, on cross-examination, did not remember whether be made a purchase from Harry Richter about tbe date of exportation of tbe merchandise herein; be did not remember whether be made a purchase from Harry Richter in December 1943; be could not remember whether tbe merchandise be was buying from Harry Richter, or which be saw at bis place of business, was similar to tbat which be was buying from Bercovitz Bros.; be could not remember whether tbe merchandise be bought from Shapiro & Harvey was similar to tbat bere involved; and be did not remember whether tbe skins be bought from Amel & Amel were similar to tbe involved skins.
+Such vague and uncertain testimony from tbe importer herein is certainly not sufficient to warrant a reversal of tbe decision of tbe trial court, nor is it sufficient to overcome tbe presumptively correct value for tbe involved merchandise found by tbe appraiser. For tbe reasons stated we, therefore, find as fact:
+1. Tbat tbe involved merchandise consists of raw silver fox skins exported from Canada and entered at tbe port of New York.
+2. Tbat tbe merchandise was entered at $30.50 Canadian currency, per skin, and was appraised at $38 Canadian currency, net, packed, per skin.
+' 3. That there is nothing in the official papers before us to indicate the basis of appraisement, whether foreign value, export value, United States value, cost of production, or American selling price.
+We therefore conclude as matter of law:
+1. That the evidence offered by appellant herein is not sufficient to overcome the presumptively correct value found by the appraiser for the involved merchandise.
+2. That the judgment of the trial court that the value of the merchandise in issue is the value found by the appraiser is fully supported by the record, and its judgment to that effect is affirmed. Judgment will be rendered accordingly.
