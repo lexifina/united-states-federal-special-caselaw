@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "61764; protests 317995-K, etc. (New York)"
+decided: "1958-04-03"
+citations: ["40 Cust. Ct. 505"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Josiah Wedgwood & Sons, Inc., and Roberts, Reilly & Sons et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/40/cases/0505-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6616627
+---
+
+# Josiah Wedgwood & Sons, Inc. v. United States
+
+## Majority (Oliver, C. J.)
+
+Opinion by
+Oliver, C. J.
+In accordance with stipulation of counsel that the merchandise consists of Jasper cameos the same in all material respects as those the subject of Abstract 60566, the merchandise was held classifiable as articles of stoneware, other than tableware, kitchenware, or table or kitchen utensils, within the class of such merchandise in paragraph 211, as modified, infra, dutiable as follows: (1) The merchandise entered or withdrawn from warehouse for consumption prior to September 10, 1955, valued at $3 or more but not more than $10 per dozen, at 10 cents per dozen pieces and 35 percent ad valorem under paragraph 211, as modified either by the Annecy Protocol to the General Agreement on Tariffs and Trade (T. D. 52373), supplemented by Presidential proclamation (T. D. 52476), or by the Torquay Protocol to the General Agreement on Tariffs and Trade (T. D. 52739), supplemented by Presidential proclamation (T. D. 52857); (2) the merchandise entered or withdrawn from warehouse for consumption on and after September 10, 1955, valued at $3 or more but not more than $10 per dozen, at 10 cents per dozen pieces and 30 percent ad valorem under said paragraph, as modified by the Japanese Protocol to the General Agreement on Tariffs and Trade (T. D. 53865), supplemented by Presidential proclamation (T. D. 53877); and (3) the merchandise entered or withdrawn from warehouse for consumption on and after July 6, 1951, valued at more than $10 per dozen, at 5 cents per dozen pieces and 25 percent ad valorem under said paragraph, as modified by T. D. 52739.
