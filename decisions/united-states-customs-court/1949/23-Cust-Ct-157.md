@@ -1,0 +1,22 @@
+---
+court: "United States Customs Court"
+docket: "53533; protests 132838-K and 132836-K (Tampa)"
+decided: "1949-09-07"
+citations: ["23 Cust. Ct. 157"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tropical Craft Corporation, successors to Tropical Craft Import & Export Corporation v. United States,"]
+source_url: "https://static.case.law/cust-ct/23/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6626331
+cites_cases: ["36 C. C. P. A. 64"]
+---
+
+# Tropical Craft Corp. v. United States
+
+## Majority (Lawrence, J.)
+
+Opinion by
+Lawrence, J.
+In accordance with stipulation of counsel that certain items of the merchandise consist of sisal handbags similar in all material respects to those the subject of United States v. Goldberg & Seltzer, Inc. (36 C. C. P. A. 64, C. A. D. 399), the claim of the plaintiff was sustained.
