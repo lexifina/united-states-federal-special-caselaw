@@ -1,0 +1,34 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1361"
+decided: "1914-10-29"
+citations: ["5 Ct. Cust. 380"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Barber, De Yeies, and Martin, Judges."]
+parties: ["S. Ban Co. et al. v. United States"]
+source_url: "https://static.case.law/ct-cust/5/cases/0380-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3880569
+cites_cases: ["2 Ct. Cust. Appls., 305", "2 Ct. Cust. Appls., 371"]
+---
+
+# S. Ban Co. v. United States
+
+## Majority (MartiN, Judge,)
+
+MartiN, Judge,
+delivered the opinion of the court:
+The merchandise in this case consists of sake or Japanese rice wine, which was imported under the tariff act of August 5, 1909. The present issue relates solely to the- quantity of sake upon which duty was assessed by the collector and not to the rate of duty which was assessed.
+The entire importation comprised 256 tubs of sake. The collector assessed duty upon the capacity of the several containers as returned by the gauger, less an allowance of 2J per cent for wantage, in accordance with the Treasury regulation of June 27, 1905, published as T. D.26547.
+The importers protested against this assessment in the case of 30 of the imported tubs, claiming that the actual contents of these at importation were only 527.50 gallons, whereas under the rule adopted by the collector they were assessed at 570.40 gallons. The importers contended that duty should be assessed upon only the actual contents of the containers at importation and not upon their capacity.
+The protest was submitted to the Board of General Appraisers and was overruled. The importers now appeal from that decision.
+The record contains the testimony which was submitted to the board at the trial, and it fairly appears therefrom that the actual contents of the 30 containers at importation were less than their capacity to the extent claimed by the importers. The protest, however, does not attempt to state the origin or explanation of this shortage, and the testimony upon that subject is not entirely convincing. Nevertheless the evidence gives probability to the theory that the containers in question were substantially full at exportation and lost a part of their contents by leakage while in transitu. It also appears probable that the allowance of 2J per cent for normal wantage was sufficient to cover any actual shortage in the contents of the containers at the time of exportation. The present record therefore, presents a question of leakage and not one of nonshipment.
+Upon the foregoing interpretation of the record the present case falls directly within the rule established by paragraph 307 of the tariff act of 1909, the pertinent parts of which read as follows:
+307. Still wines, including ginger wine or ginger cordials, vermuth, and rice wine or sake, and similar beverages not specially provided for in this section, in casks or packages other than bottles or jugs, if containing fourteen per centum or less of absolute alcohol, forty-five cents per gallon; * * *. And provided further, That there shall be no constructive or other allowance for breakage, leakage, or damage on wines, liquors, cordials, or distilled spirits. * * *
+In the foregoing paragraph of the tariff act of 1909 Congress gave to sake the status of a still wine, and specifically provided that it should enjoy no constructive or other allowance for breakage, leakage, or damage during transportation. A different rule had obtained under the tariff act of 1897, wherein sake was not provided for eo nomine, but was left to assessment by similitude only. Peacock & Co. v. United States (2 Ct. Cust. Appls., 305; T. D. 32095).
+In deciding an issue identical with the present one, under the tariff act of 1909, in the case of Furuya & Co. v. United States (2 Ct. Cust. Appls., 371; T. D. 32095), this court said:
+The present tariff law (1909) is the first one which has fixed a rate of duty to be levied upon sake eo nomine. Under former acts that article was the subject of much litigation and there are many reported decisions relating to it. However, in the act of 1909, as appears by the above copy, sake was placed by name in the still-wine paragraph, and is therein called rice wine or sake. It nowhere distinctly appears that these two names apply only to the same identical article; that is, that they are exact synonyms. There may, indeed, be other kinds of rice wine besides sake; but the language of the act and the references to the article appearing in published cases make it safe to assume that the term “rice wine” at least includes sake, and that it is so used in the paragraph. As appears above, there follows in the same paragraph an express provision that there shall be no constructive or other allowance for leakage on wines. The question therefore arises whether there can be any allowance under the act for leakage of sake in transit in view of (he provision that there shall be no allowance for leakage on wines.
+Sake is made from rice by a process of fermentation, and grapes do not enter at all into its composition. In the ordinary use of terms, therefore, sake would not be called a wine. Under prior tariff acts it was held to be dutiable by similitude at the same rate as still wines. But in the present act it is specially placed within the still-wine paragraph and expressly named therein as a wine. In the nomenclature adopted by the paragraph, therefore, it becomes a kind of wine, whether it would ordinarily be so designated or not. This description of sake as a kind of wine is followed in the paragraph by the provision that there shall be no allowance for leakage on wines. It seems, therefore, to be a reasonable and natural interpretation of these provisions taken together to hold that one of the wines on which there shall be no allowance for leakage is the kind of wine also called sake, which is expressly named as a wine in the preceding recital of the paragraph. This seems, indeed, to be the very purpose for which the name rice wine was used in the.paragraph, for there was otherwise no need of making the meaning of the word sake more definite by the use of such an explanatory alternative name. In the tariff vocabulary of mercantile terms sake had come certainly to have even a prominent place; there was no uncertainty as to the article to which that name applied. The alternative name, rice wine, therefore, seems to have been used for the purpose of adding that much to the original meaning of the term, namely, that for the purpose of the paragraph sake was to be considered as a kind of wine and to be included within any of its provisions which applied generally to wines.
+In accordance with the ruling in the Furuya case, supra, the decision of the board in the present case is ’affirmed.
