@@ -1,0 +1,21 @@
+---
+court: "United States Customs Court"
+docket: "53293; protests 84813-K, etc. (New York)"
+decided: "1949-06-20"
+citations: ["23 Cust. Ct. 111"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Herman Meyer Drug Co. et al. v. United States,"]
+source_url: "https://static.case.law/cust-ct/23/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6597037
+---
+
+# Herman Meyer Drug Co. v. United States
+
+## Majority (Cole, J.)
+
+Opinion by
+Cole, J.
+The protests were dismissed.
