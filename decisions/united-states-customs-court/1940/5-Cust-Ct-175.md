@@ -1,0 +1,34 @@
+---
+court: "United States Customs Court"
+docket: "C. D. 395"
+decided: "1940-11-12"
+citations: ["5 Cust. Ct. 175"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Cline, Evans, and Keefe, Judges; Evans, J., not participating"]
+parties: ["Columbia Co. v. United States"]
+source_url: "https://static.case.law/cust-ct/5/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6621652
+---
+
+# Columbia Co. v. United States
+
+## Majority (Cline, Judge:)
+
+Cline, Judge:
+These two suits against the United States were consolidated for trial. The plaintiff seeks to recover the internal-revenue. tax assessed on certain imported Chinese wine. The invoice covered by protest 981989-G describes nine kinds of wine, the names of which are Pak Nor, Bak Nor, Sam Ching, Wong Pee, Sut Lee, Tsang Pa, Yuk Bing Siu, Mo Kai, and Lung Fu Fung. Internal-revenue tax at the rate of $2.25 per gallon was assessed on all of the merchandise. A warehouse entry covering the merchandise was filed on June 10, 1938.
+The wine covered by protest 965625-G is invoiced as Pak Nor. Internal-revenue tax was assessed on liquidation of the entry at 40 cents per gallon. A notation on a slip of paper attached to the entry, however, indicates that the importer deposited internal-revenue tax at the rate of $2 per gallon. The merchandise was entered for consumption on May 29, 1936.
+At the trial the plaintiff limited his testimony to the wine described as Pak Nor. Mr. Jow Jingnam appeared as a witness for the plaintiff in connection with the merchandise covered by protest 981989-G. He testified that he was in China at the time of the production of the wine covered by that protest and was employed as manager of Sang Fat Cheung, the producer of the wine; that the Pak Nor wine was produced by a fermentation process and not by distillation. He stated that in manufacturing that wine 30 pounds of rice were washed thoroughly and then boiled with 10 pounds of water from three-quarters of an hour to one hour in a large iron vessel; that no water remained in the vessel when the rice finished boiling; that the substance was then put in large baskets to cool where it was well mixed with 3 pounds of broken yeast cake; that later it was put in three jars with enough water to cover the rice, in which condition it was left for a month; that then 15 pounds of sui jow, a weak liquor, were added to each jar; that after 4 months the liquid in the jars was poured out and allowed to settle; that then, after straining or filtering, it was put into bottles. Hé testified further that the weak liquor which was added was made by distilled fermented rice. The witness testified further that Hak Nor wine is made by the same process, but, inasmuch as there appears to be no Hak Nor wine on the invoice, that portion of his testimony appears to be immaterial. The strenuous cross-examination by counsel for the Government did not weaken the testimony of the witness given on direct examination.
+The plaintiff called also Mr. Edmund S. McElligott, a chemist who analyzed the Pak Nor wine covered by protest 965625-G. He .testified that the Pak Nor wine which he examined is a fermented liquor, fortified, rather than a distilled spirit. The report of his analysis was admitted in evidence and marked “exhibit 1.” It shows that the alcohol content was 21.93 per centum by volume.
+The report of the chief chemist in the United States laboratory in San Francisco relating to the wines covered by protest 981989-G shows that the Pak Nor wine, item 591, contained 19.8 per centum of alcohol by volume. As that report was attached to the papers it was not separately marked.
+The plaintiff does not contest the assessment of the regular duty assessed by the collector at the rate of $1.25 per gallon as rice wine or similar beverages under paragraph 804 of the Tariff Act of 1930. He contends that inasmuch as Pak Nor wine is not “distilled spirits” it is not subject to the internal-revenue tax on distilled spirits by the following provision:
+Title 26, United States .Code, Section 1150 (a)
+(1) Distilled spirits generally. On and after January 12, 1934, there shall be levied and collected on all distilled spirits produced in or imported into the United States an internal revenue tax at the rate of $2.00 on each proof gallon or wine gallon when below proof and a proportionate tax at a like rate on all fractional parts of such proof or wine gallon, to be paid by the distiller or importer when withdrawn from bond.
+The collector assessed the internal-revenue tax on the merchandise covered by protest 981989-G at the rate of $2.25 per gallon. We find that the statute above quoted was amended by the Revenue Act of 1938 by making the tax $2.25 per gallon, instead of $2 per gallon. This amendment was made effective on July 1, 1938 (52. Stat. 447, section 710, page 572). The merchandise covered by that protest was entered for warehouse on June 10, 1938. The record does not show when it was withdrawn for consumption but the collector’s assessment indicates that it was withdrawn after July 1, 1938.
+The plaintiff claims also that, since the Pak Nor wine covered by protest 981989-G contained less than 24 per centum of alcohol, it is not brought within the classification of distilled spirits by the provision in title 26, United States Code, section 1300 (a) (1), which provides that wines “containing more than 24 per centum of absolute alcohol by volume shall be classed as distilled spirits and shall be taxed accordingly.”
+As to the Pak Nor wine covered by protest 965625-G, which was assessed with internal-revenue tax at the rate of 40 cents per gallon, the plaintiff claims that the wine is not subject to that rate which is assessed by title 26, United States Code, section 1300 (a) (1) on “wines containing more than 21 per centum and not exceeding 24 per centum of absolute alcohol” because the wine was produced from rice and it is not within the definition of wine in section 1310 which limits the wine provided for in the law to the “product made from the normal alcoholic fermentation of the juice of sound, ripe grapes.”
+The defendant does not seriously contest these claims as it offered no testimony in support of the collector’s classification and failed to file a brief before the court.
+We agree with the plaintiff’s contention and hold that the Pak Nor wine covered by the two protests is not subject to the internal-revenue tax assessed by the collector and that it is dutiable only at $1.25 per gallon as rice wine under paragraph 804 of the Tariff Act of 1930. To that extent the protests are sustained and judgment will be entered in favor of the plaintiff.
+As to all the other lands of wine covered by the protests the protests are overruled, no evidence having been offered relating thereto.
