@@ -1,0 +1,29 @@
+---
+court: "United States Customs Court"
+docket: "C.D. 4745; Court Nos. 73-9-02625-S, etc."
+decided: "1978-06-05"
+citations: ["80 Cust. Ct. 132"]
+reporter: "cust-ct"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ataka America, Inc. v. United States"]
+source_url: "https://static.case.law/cust-ct/80/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6756415
+cites_cases: ["34 CCPA 121", "49 CCPA 30", "550 F. 2d 33", "550 F. 2d 37", "64 CCPA 60"]
+---
+
+# Ataka America, Inc. v. United States
+
+## Majority (Boe, Judge:)
+
+Boe, Judge:
+The defendant has filed a motion for summary judgment in the above-entitled action requesting that the classification of the imported merchandise under item 709.05, TSUS, by the Regional Commissioner of Customs at the port of New York, New York be sustained. In so doing, the defendant urges that the within proceedings are controlled by the decision of the United States Court of Customs and Patent Appeals in the case of United States v. Ataka America, Inc., 64 CCPA 60, C.A.D. 1184, 550 F. 2d 33 (1977). By prior order of this court, the record in the prior Ataka case has been incorporated and made a part of the record herein.
+The plaintiff in objecting to the motion of the defendant contends that there are issues of fact relating to the use of the merchandise in question which have not been resolved by the pleadings and that the entry of summary judgment herein would deny the plaintiff a right to a trial before tbis court of such material facts that are in issue. After a consideration of the briefs submitted by counsel and after an oral argument, the court is of the opinion that the doctrine of stare decisis is applicable in the above-entitled action and that, accordingly, the defendant’s motion for summary judgment must be granted.
+It is acknowledged that the parties involved in the instant action as well as in the prior case of United States v. Ataka America, Inc., supra, are identical. It is further admitted that the instrument (fiberscope) in question in the instant action is substantially the same-type of merchandise in issue in the former decision of our appellate court. In like manner, the factual circumstances and the legal issues of the prior Ataka case are for all intents and purposes identical with those presented herein. The response of the plaintiff to defendant’s motion does not indicate to the satisfaction of the court that any new evidence can or will be submitted in the event of a trial herein, which would present the consideration of facts different from those considered; in the prior Ataka case. The affidavits of two of the witnesses submitted as a part of plaintiff’s response to the motion for summary judgment by the defendant, although rephrased, are in all material respects the same as the testimony offered by such witnesses at the trial of the prior Ataka case. The testimony of the third witness offered by way of affidavit by the plaintiff is purely corroborative in character. See Herman D. Steel Co. v. United States, 49 CCPA 30, C.A.D. 790 (1962).
+The basis of the plaintiff’s contention that a trial before the court of all factual issues in this case should be permitted is predicated on the testimony that the optical features of the instrument in question (fiberscope) are subsidiary to the diagnostic and therapeutic elements, of the instrument (use in connection with biopsies and cytologies). The mere declaration of such an opinion contained in the affidavits submitted by plaintiff does not constitute such new evidence as would remove the instant action from the purview of- the decision of the United States Court of Customs and Patent Appeals in the prior case of United States v. Ataka America, Inc., supra. In discussing the alleged subsidiary character of the visual elements of the fiberscope, our appellate court therein stated:
+* * * Depending upon the situation, that visual operation may be all that is performed. It is only after visual examination that a decision to take a biopsy or cytology specimen can be made.
+To term optical features merely subsidiary to biopsy-cytology features, when the latter require the former, and when the latter are not always used and the former are always used, would be contrary to reason. Accordingly, we hold that the imported fiberscopes meet the definition of “optical instruments” in headnote 3. * * * Id. 67, 550 F. 2d 37-38.
+It is noted that in the petition for rehearing to the United States Court of Customs and Patent Appeals in the prior Atoka case, many arguments were raised, which are similarly urged herein, relating to the misapprehension and misinterpretation of our appellate court with respect to the term “optical instrument” as contained in the Tariff Schedules of the United States. Whether such a misapprehension existed must necessarily be determined by our appellate court. Under the record submitted in connection with the instant action, it is obligatory upon this court to find that no further evidence has been presented sufficient to exclude the same from the decision of our appellate court in the prior case of Ataka America, Inc., supra. See United States v. Eurasia Import Co., Inc., 34 CCPA 121, C.A.D. 353 (1946).
+After the submission of the above-entitled action for determination, but at the time of the oral argument requested by the court, the plaintiff moved the court for leave to amend its claim as presented in its pleadings by asserting an alternative claim classifying the merchandise in question under-item 708.76, TSUS, as a microscope. To this motion the defendant strenuously objected. It is the opinion of the court that such motion to amend at this late stage of the within proceedings is, indeed, untimely and, accordingly, is denied.
+Let an order be entered accordingly.-
