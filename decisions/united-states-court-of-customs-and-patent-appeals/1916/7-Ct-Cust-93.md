@@ -1,0 +1,47 @@
+---
+court: "United States Court of Customs and Patent Appeals"
+docket: "1666"
+decided: "1916-05-12"
+citations: ["7 Ct. Cust. 93"]
+reporter: "ct-cust"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Montgomery, Smith, Baebee, De Vkies, and Martin, Judges."]
+parties: ["United States v. Kronfeld, Saunders & Co."]
+source_url: "https://static.case.law/ct-cust/7/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6092699
+cites_cases: ["1 Ct. Cust. Appls., 535", "2 Ct. Cust. Appls., 37"]
+---
+
+# United States v. Kronfeld
+
+## Majority (Barber, Judge,)
+
+Barber, Judge,
+delivered the opinion of the court:
+The subject of the importation here was classified by the collector in accordance with the advisory report of the appraiser, which is as follows:
+The merchandise described on the invoice as wood-shaving ropings consists of an article resembling chenille, composed of cotton and chip, chip chief value, used for festooning, decoration, etc. It was returned for duty as a manufacture of which chip is the component material of chief value at 20 per cent ad valorem, paragraph 368, act of 1913.
+We insert here the material part of paragraph 368:
+368. Manufactures of bone, chip, grass, * ⅜ - * or of which any of them is the component material of chief value, not otherwise specially provided for in this section, shall be subject to the following rates: * ⅜ ⅜ Manufactures of * * * bone, chip. ⅜ * ⅜ ' 20 per centum ad valorem; ⅜ ⅜ * bone.
+The importers contended and the Board of General Appraisers held that the merchandise was dutiable at 15 per centum ad valorem under paragraph 176 of the same act, which reads as follows:
+176. House or cabinet furniture wholly or in chief value of wood, wholly or partly finished, and manufactures of wood or bark, or of which wood or bark is the component material of chief value, not specially provided for in this section, 15 per centum ad valorem.
+The only parol evidence as to -what in fact the importation is was furnished by a witness for the importers, who testified as follows:
+Q. Do you know what it is made of?- — A. They say it is made of wood shavings.
+⅜ ⅝ ⅜ ⅜ ⅝ * *
+Q. Used for decorations? — A. Yes, sir.
+Q. (By Mr. Lawrence.) The appraiser states in Ms special report as follows,, “wood-shaving ropings consists of an article resembling chenille composed of cotton and cMp, chip chief value, used for festooning, decoration, etc.” Do you subscribe to that description of the merchandise • and its uses? — A. Well, this is — everybody will know that is only wood shaving, that’s all.
+Q. (By General Appraiser McClelland.) Counsel wants to know whether you agree with the appraiser in that statement? — A. How can 1 agree?
+Q. If you do not agree, say “no,” you do not agree; if you do agree, say “yes.”— A. No; I do not agree with it.
+How the merchandise is produced from the wood does not appear other than as may be inferred from the quoted evidence and the official sample.
+From the sample it appears that wood has been reduced to very thin pieces about three-fourths of an inch in length; that a little bundle composed of one or several of these pieces is bound around the center with a string; that the center of a second like bundle is-placed at an angle across the center of the first and bound tightly to it with the same string around its center; that a third bundle in like manner is placed upon and bound to the second, and so on indefinitely, the result being an article rope like in appearance about three-fourths-of an inch in diameter, the exterior surface of which is the ends of the pieces of wood that are held together in bundles at the center by the string. At some stage of the operations the wood has been dyed, but when does not appear. This roping is used to make wreaths and balls for decorations, and is also used for festooning. The pieces of wood are so thin as to be very flexible, and wood is assumed to be of chief value. The board sustained the protest in an opinion from which we quote all that can in any sense be said to be a finding as to what in fact the merchandise is:
+The invoice describes the merchandise as “wood-shaving ropings.” The testimony on behalf of the importers shows that the shavings are attached to cotton threads and are thus specially prepared for festooning or decorations.
+Chip shavings or wood shavings used in the manufacture of hat braids wMch has been assessed at the rate of 35 per cent ad valorem under paragraph 463 of the tariff act of 1909 as manufactures of chip were held to be dutiable as .manufactures of wood under paragraph 215 of that act in Abstract 30943 (T. D. 33055). In Thomsen v. United States (2 Ct. Cust. Appls., 37; T. D. 31590) it was held that baskets of wood shavings called cMp were subject to duty as baskets of wood.
+It would thus appear that these shaving ropings likewise should be dutiable as manufactures of wood, and we accordingly sustain the claim for duty at the rate of 15 per- cent ad valorem under paragraph 176.
+The Government claims tbat upon the record “it is an established fact in this case that the article involved is a manufacture of chip or a manufacture of which chip is the component material of chief value.”
+The importers reply by saying “we read the decision of the Board of General Appraisers as holding that merchandise consisting of wood shavings such as here in dispute is not chip. The decision of the board is tantamount to a finding by that tribunal based upon the record and the sample of the goods that the merchandise involved is not chip in fact.” They concede that the provision for manufactures of chip is more specific than the provision for manufactures ■of wood. Both parties agree that the definition of “chip” stated in Tuska v. United States (1 Ct. Cust. Appls., 535; T. D. 31547) as “flat narrow strips of wood, split or shaved to a thinness and flexibility which will permit of their being woven, braided, or plaited, into a ■definite shape or form,” is satisfactory for the purposes of this case, the importers, however, contending that the merchandise here is not, properly speaking, narrow strips, and that the pieces are too small and short to be capable of being woven, braided, or plaited.
+The board’s opinion, it will be noted, states that the importers’ ■evidence shows the importation to be wood shavings attached to a cotton thread and seems to regard it as immaterial to determine whether such wood shavings are or are not chip. Indeed, their reference to “chip shavings or wood shavings used in the manufacture of hat braids,” under consideration in Abstract 30943 (T. D. .33055), may indicate that the board regarded the terms as interchangeable, and an examination of the cited Treasury decision seems ■confirmatory of this view.
+The board also refers to the “baskets of wood shavings called ■chip” under consideration by this court in Thomsen v. United States (2 Ct. Cust. Appls., 37; T. D. 31590). In that opinion it was stated that- the baskets were made of “such wood shavings as are called ■chip.”
+The board evidently understood the Thomsen case as holding that an article manufactured from chip was dutiable, nevertheless, as a manufacture of wood, because chip was coneededly a manufacture thereof. Such, however, is not the doctrine of that case. The question there was whether the term “baskets of wood” was more specific than “manufactures of chip,” and it was held that the eo nomine term “baskets” was more specific than the word “manufactures,” and that, although the component material was more specifically •designated as “chip,” the eo nomine designation of the completed article must control, that article being in fact made of wood. .
+In the instant case we do not think the board has found that this roping is not a manufacture of chip. It has, by reason of its mi's-•apprehension of the Thomsen case, held that it was a manufacture of wood, and such in one sense, indeed, it is, but if its component material of chief value is chip it is, as conceded, more closely described ■as a “manufacture of chip” than as a “manufacture of wood.” We ■do not think it can be said on the record here ⅛¾⅜ these so-called wood shavings are not chip within the agreed definition thereof. 'The merchandise has been assessed as a manufacture of chip and is presumed so to be until the contrary is established. The flexibility and width of the small pieces of wood of which it is chiefly composed are within the definition and, while their length in the importation may not be so, yet there is nothing in the record tha4 establishes that these short pieces were not parts of longer ones which may well have been chip. In other words, wood shavings may be chip within the definition, and a manufacture thereof would be a manufacture of chip. The definition assumes that chip is produced by splitting or shaving wood. The merchandise here is shavings of wood, which implies that it was produced by the shaving process. The short pieces here evidently have been cut from something longer. Whether that spme-thing was a long, thin, flat, flexible strip of wood — a chip, in other words — does not appear. The assessment presumes the existence of chip and that the ropings were made from it. The importers have not overcome this presumption.
+The judgment of the Board of General Appraisers' is reversed,.
