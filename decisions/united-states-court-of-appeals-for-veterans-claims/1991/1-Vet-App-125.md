@@ -1,0 +1,46 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "90-62"
+decided: "1991-01-18"
+citations: ["1 Vet. App. 125"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before KRAMER, FARLEY and HOLDAWAY, Associate Judges."]
+parties: ["Jim SPENCER, Appellant, v. Edward J. DERWINSKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/1/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6463569
+cites_cases: ["1 Vet.App. 49", "1 Vet.App. 78", "333 U.S. 364", "38 U.S.C. § 3007", "38 U.S.C. § 4061", "470 U.S. 564", "665 F.Supp. 41", "92 L.Ed. 746"]
+---
+
+# Spencer v. Derwinski
+
+## Majority (KRAMER, Associate Judge:)
+
+KRAMER, Associate Judge:
+In its decision of December 5, 1989, the Board of Veterans’ Appeals (BVA) denied the appellant’s claim for service connection for chronic post-traumatic arthritis in his left ankle, concluding that the arthritic condition probably resulted from a fall in 1958 and was not a residual of a left ankle injury the appellant suffered while serving in the Merchant Marines. Upon consideration of the argument and record in this case, the Court remands the case to the BVA for proceedings consistent with this opinion.
+I.
+The appellant has veteran status for his service in the United States Merchant Marines during the years 1944 to 1945. The appellant asserts, and the appellee concedes, that while on the U.S.S. George E. Badger in January or February 1944, he was injured when some freight shifted in heavy seas and struck his left ankle. The appellant further contends that after the accident a cast was put on his ankle in Glasgow, Scotland, and that upon returning to his ship, he gave the medical record of this treatment to his captain. The appellant states that the cast remained on his ankle until he returned to the United States and had it removed in April 1944. In support of his claim, the appellant submitted two sworn statements to the Department of Veterans Affairs (VA), one from a man who stated that he was a shipmate of the appellant on board the U.S.S. George E. Badger and had witnessed the 1944 accident, and the other from a nurse who stated that in April 1944 she assisted a doctor in removing the cast in a clinic in Asheboro, North Carolina.
+In July 1958 the appellant fell approximately 13 feet and suffered an injury to his left foot. The pain from that injury subsequently forced him to enter the New Orleans Public Health Service Hospital in October of the same year. The record of that hospitalization states:
+On the day after admission the patient was seen in consultation by the orthopedic surgery consultant, Dr. John Vann, whose impression is that this man has a post-traumatic osteoarthritis, not of recent origin, but which has been aggravated by the injury of July 1958.
+R. at 2.
+The record also reflects that the appellant received outpatient treatment for his left ankle condition from 1978 to 1981. A treating doctor during this time stated that from “the presence of a remote trauma history [one would] suspect the possibility of a traumatic arthritis.” R. at 14.
+After those individuals who served in the Merchant Marines during the Second World War were granted veteran status in 1987, See Schumacher v. Aldridge, 665 F.Supp. 41 (D.D.C.1987), the appellant filed a claim for his ankle condition with the Winston-Salem, North Carolina, Regional Office on December 20,1988. On February 15,1989, the Regional Office wrote to the Department of Health and Human Service’s Public Health Service (PHS) Data Center and requested the appellant’s wartime medical records. After being informed that the PHS Data Center only possessed the medical records of former PHS hospitals and clinics, and thus did not have the appellant’s Scotland, shipboard, and North Carolina medical records, the Regional Office denied the appellant’s claim on March 8, 1989. This decision was based on the Regional Office’s finding that the earliest evidence of treatment for an ankle condition was in 1958, and that thus the evidence was not sufficient to establish service connection. The appellant then filed an appeal with the BVA.
+The BVA rendered its decision denying the appellant’s claim on December 5, 1989, stating that:
+The earliest medical evidence of record is from the Public Health Service [h]ospi-tal[] in 1958. The irregularities of the left ankle, consistent with osteoarthritic changes, were probably the result of the recent [1958] fall. This was thirteen years after discharge from service, which indicates that the traumatic arthritis was not caused by any injury in service.
+The Board has reviewed the recent statements of the veteran’s shipmate and of the nurse. Nonetheless, the evidence of record indicates that the veteran’s left ankle disorder is not a residual of the injury suffered in service. Any reported service injury must be considered to be acute and transitory in nature.
+Jim L. Spencer, loc no. 933406, at 3 (BVA Dec. 5, 1989). The appellant subsequently perfected an appeal to this Court.
+H.
+When reviewing the BVA’s factual determinations in this case, the Court is governed by 38 U.S.C. § 4061(a)(4) (1988), which states that:
+(a) In any action brought under this chapter, the Court of Veterans Appeals, to the extent necessary to its decision and when presented, shall—
+(4) in the case of a finding of material fact made in reaching a decision in a case before the [VA] with respect to benefits under laws administered by the [VA], hold unlawful and set aside such finding if the finding is clearly erroneous.
+In enunciating what constitutes “clearly erroneous”, this Court has recently quoted two Supreme Court decisions:
+A finding is ‘clearly erroneous’ when although there is evidence to support it, the reviewing court on the entire evidence is left with the definite and firm conviction that a mistake has been committed.
+Gilbert v. Derwinski, 1 Vet.App. 49, 52-53 (1990) (quoting United States v. United States Gypsum Co., 333 U.S. 364, 395, 68 S.Ct. 525, 542, 92 L.Ed. 746 (1948)).
+If the [factfinder]’s account of the evidence is plausible in light of the record viewed in its entirety, the [reviewing court] may not reverse it even though convinced that had it been sitting as the trier of fact, it would have weighed the evidence differently. Where there are two permissible views of the evidence, the factfinder’s choice between them cannot be clearly erroneous.
+Gilbert, at 52 (quoting Anderson v. City of Bessemer City, 470 U.S. 564, 573-574, 105 S.Ct. 1504, 1511-1512, 84 L.Ed.2d 518 (1985)). This Court must now determine whether, under the standard as expressed in Gilbert, the BVA’s factual findings are clearly erroneous.
+In resolving this question, the 1958 medical examination report is of great importance. It is this report which the BVA relied on when it determined that the July 1958 fall was the trauma that probably caused the appellant’s current arthritic condition. As previously indicated, however, the 1958 medical examination report actually stated that the appellant had “a post-traumatic osteoarthritis, not of recent origin, but which has been aggravated by the injury of July 1958.” R. at 2 (Emphasis added.) Therefore, since the record actually rules out the 1958 fall as a potential cause of the appellant’s arthritis and instead indicates that the condition must predate 1958, the BVA’s finding that the 1958 fall probably caused the appellant’s arthritic condition is clearly erroneous under the standard as expressed in Gilbert.
+It has thus been established that the appellant suffers from a post-traumatic arthritic condition in his left ankle which has its origin in a trauma sometime before 1958. The only pre-1958 evidence of trauma to the left ankle of record is of a 1944 in-service injury which was severe enough to necessitate treatment with a cast. The BVA determined that the 1944 injury was “acute and transitory in nature,” and not the cause of any later arthritic condition. This finding, however, was inextricably influenced by the BVA’s erroneous finding that it was the 1958 fall which probably caused the appellant’s ankle condition.
+As this Court is one of review, it is not appropriate for us to determine in the first instance whether the 1944 injury caused the arthritic condition or whether “there is an approximate balance of positive and negative evidence” on that issue such that the veteran is entitled to the benefit of the doubt under 38 U.S.C. § 3007(b) (1988). Therefore, it is necessary to remand this matter to the BVA for a determination as to the relationship between the 1944 injury and the appellant’s ankle condition. The appellant may wish to offer additional evidence regarding his medical history between 1944 and 1958, and expert medical opinions regarding the relationship between the 1944 injury and his arthritic condition. The BVA may also wish to seek such expert medical opinions. It is important that the BVA’s new findings and conclusions be supported, regardless of source, by medical evidence. See Murphy v. Derwinski, 1 Vet.App. 78 (1990).
+It is so Ordered.
