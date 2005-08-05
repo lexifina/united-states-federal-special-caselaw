@@ -1,0 +1,23 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "Misc. No. 5-05"
+decided: "2005-08-05"
+citations: ["19 Vet. App. 321"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before STEINBERG, Chief Judge, and GREENE, KASOLD, HAGEL, MOORMAN, LANCE, DAVIS, and SCHOELEN, Judges."]
+parties: ["In re RECOGNITION OF COURT’S THIRD CHIEF JUDGE."]
+source_url: "https://static.case.law/vet-app/19/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3001123
+cites_cases: ["38 U.S.C. § 7253"]
+---
+
+# In re Recognition of Court's Third Chief Judge
+
+## Majority
+
+ORDER
+Pursuant to 38 U.S.C. § 7253(d)(3) and (d)(4), the term of a chief judge shall be for five years or until the judge reaches age 70, unless before that time the chief judge leaves regular active service as a judge of the Court or otherwise terminates service as chief judge. The Honorable Donald L. Ivers began service as a judge of the Court on August 6, 1990, and became the Court’s third chief judge on September 15, 2004. His judicial term concludes on August 5, 2005; he accordingly leaves regular active service on that date and is terminating his service as chief judge at noon on that date. On consideration of the foregoing, and as provided under section 7253(d)(4)(B), it is
+ORDERED that the Court recognizes the conclusion of active service by its third chief judge. The Court acknowledges with gratitude the fifteen years of service of the Honorable Donald L. Ivers as judge and chief judge. He departs with the thanks and good wishes of the Court.
