@@ -1,0 +1,36 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 03-00806"
+decided: "2005-11-02"
+citations: ["29 Ct. Int'l Trade 1275"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Wuhan Bee Healthy Co., Ltd., Plaintiff, v. United States, Defendant, and Sioux Honey Assoc. and American Honey Producers Assoc., Def.-Intervenors."]
+source_url: "https://static.case.law/ct-intl-trade/29/cases/1275-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9010386
+cites_cases: ["10 CIT 399", "28 U.S.C. § 1581", "305 U.S. 197", "322 F.3d 1369", "366 F. Supp. 2d 1264", "374 F. Supp. 2d 1299", "467 U.S. 837", "570 F. Supp. 41", "6 CIT 92", "636 F. Supp. 961", "68 Fed. Reg. 62,053", "744 F.2d 1556", "810 F.2d 1137"]
+---
+
+# Wuhan Bee Healthy Co. v. United States
+
+## Majority (EATON, Judge:)
+
+MEMORANDUM OPINION
+EATON, Judge:
+On June 10, 2005, the court remanded to the United States Department of Commerce (“Commerce” or the “Department”) its determination regarding coal prices in Honey from the People’s Republic of China, 68 Fed. Reg. 62,053 (ITA Oct. 31, 2003) (final results) (“Final Determination”). See Wuhan Bee Healthy Co., Ltd. v. United States, 29 CIT_, 374 F. Supp. 2d 1299 (2005) (“Wuhan F). On September 7, 2005, Commerce timely released its Final Results of Redetermination Pursuant to Remand (“Remand Results”). The court has jurisdiction pursuant to 28 U.S.C. § 1581(c) (2000) and 19 U.S.C. § 1516a(a)(2)(B)(iii) (2000). For the reasons set forth below, the court affirms Commerce’s Remand Results.
+Standard of Review
+The court “shall hold unlawful any determination, finding, or conclusion found ... to be unsupported by substantial evidence on the record, or otherwise not in accordance with law. . . .” 19 U.S.C. § 1515a(b)(l)(B)(i). “Substantial evidence is ‘such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.’ ” Huaiyin Foreign Trade Corp. (30) v. United States, 322 F.3d 1369, 1374 (Fed. Cir. 2003) (quoting Consol. Edison Co. v. NLRB, 305 U.S. 197, 229 (1938)). The existence of substantial evidence is determined “by considering the record as a whole, including evidence that supports as well as evidence that ‘fairly detracts from the sub-stantiality of the evidence.’ ” Id. (citing Atl. Sugar, Ltd. v. United States, 744 F.2d 1556, 1562 (Fed. Cir. 1984)). “As long as the agency’s methodology and procedures are reasonable means of effectuating the statutory purpose, and there is substantial evidence in the record supporting the agency’s conclusions, the court will not impose its own views as to the sufficiency of the agency’s investigation or question the agency’s methodology.” Ceramica Regiomontana, S.A. v. United States, 10 CIT 399, 404-05, 636 F. Supp. 961, 966 (1986), aff’d 810 F.2d 1137 (Fed. Cir. 1987) (citing Chevron U.S.A. Inc. v. Natural Res. Def. Council, Inc., 467 U.S. 837, 843 (1984); Abbott v. Donovan, 6 CIT 92, 97, 570 F. Supp. 41, 47 (1983)).
+Discussion
+In its Final Determination, Commerce valued coal using Indian import values published in the Monthly Statistics of the Foreign Trade of India (“MSFTI”), which included international freight charges for shipping the coal to India. See Wuhan I, 29 CIT at_, 374 F. Supp. 2d at 1309-10. Plaintiff Wuhan Bee Healthy Co., Ltd. (“Wuhan”) argued that Commerce should have used domestic Indian coal prices, which are published in the TERI Energy Data Directory and Yearbook for 2000/2001 (“Teri Data”). See id. at_, 374 F. Supp. 2d at 1310. Commerce maintained that it specifically considered but rejected the Teri Data because it was “derived from a single producer in India, CIL [Coal India Ltd.].” Id. (internal citation omitted). In other words, Commerce rejected the Teri Data for valuing coal because it believed the data was unrepresentative of a countrywide price.
+After reviewing the parties’ arguments, the Court in Wuhan I found that
+Commerce determined that the MSFTI data was the best available information to value coal because “it is quality, countrywide data specific to steam coal prices imported- into India during the [period of review], and is representative of competitive market prices.” Yet, there is no reason given as to why imported coal provides the best surrogate value. In addition, it appears that Wuhan is correct that many regions of India are represented in the Teri Data. Thus, Commerce has not demonstrated that the value used is the best available information or that the Teri Data is unrepresentative of competitive market prices throughout India.
+Id. at_, 374 F. Supp. 2d at 1310-11 (internal citation omitted). On remand, the Court directed Commerce to provide an explanation that reasonably supported its decision to use import prices instead of domestic prices. Id. at 1311 (citing Hebei Metals & Minerals Import & Export Corp. v. United States, 29 CIT_, 366 F. Supp. 2d 1264, 1266 (2005)(ordering Commerce to either “adhere to its conditional preference for domestic surrogate data or. . . state that it is deviating from this practice and provide a rational explanation for doing so.”)).
+In its Remand Results, Commerce explains that it conducted independent research for its Final Results of Redetermination Pursuant to Remand for Hebei Metals & Minerals Import & Export Corp. v. United States (“Hebei Metals Remand”), which it issued on July 20, 2005. Based on the results of that research, Commerce determined that “the TERI data are the best data available for valuing the coal input for purposes of Wuhan’s new shipper review.” Remand Results at 7. Commerce explains that the Teri Data
+states that the prices in its database are obtained directly from Coal India Limited, which produces more than 80 percent of India’s coal. TERI further states that the prices represent coal prices from Coal India Limited’s eight subsidiaries located throughout India. Although the Department has some concerns about the monopolistic structure of the coal industry in India, the Department determines that the TERI steam coal pricing data are the best quality data because not only are they published, publicly-available data, but also because they are representative of the coal industry throughout India. Thus, the TERI data, as they are currently presented, are credible as a country-wide source of data.
+Id. at 8-9. Commerce found the steam coal values listed in the Teri Data to be specific, as they are derived from actual sale prices of steam coal in India, and it adjusted for inflation where the Teri Data values were not contemporaneous with the period of review.
+Having reviewed Commerce’s research and its reasons for selecting the Teri Data as the best source of data for valuing coal, the court finds that Commerce has complied with the court’s remand instructions and that its determination is supported by substantial evidence and is otherwise in accordance with law.
+Conclusion
+For the foregoing reasons, Commerce’s Remand Results are affirmed. Judgment shall be entered accordingly.
+It should be noted that Wuhan declined to file comments on the Remand Results because the only issue addressed therein, valuation of coal, was resolved to its satisfaction.
