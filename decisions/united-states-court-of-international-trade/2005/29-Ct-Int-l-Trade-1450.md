@@ -1,0 +1,32 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 02-00800"
+decided: "2005-12-30"
+citations: ["29 Ct. Int'l Trade 1450", "412 F. Supp. 2d 1340"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Koyo Corporation of U.S.A., Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/29/cases/1450-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 9011155
+cites_cases: ["11 CIT 278", "19 U.S.C. § 1504", "19 U.S.C. §§ 1515", "2 CIT 254", "28 U.S.C. § 1581", "28 U.S.C. § 2631", "4 CIT 141", "529 F. Supp. 664", "659 F. Supp. 248"]
+---
+
+# Koyo Corp. of U.S.A. v. United States
+
+## Majority (RESTANI, Chief Judge:)
+
+MEMORANDUM OPINION AND ORDER
+RESTANI, Chief Judge:
+Before the court is the motion of Shinyei Corporation of America (“Shinyei”) to intervene in this action, post-judgment. In this action the court ruled for plaintiff, finding that 19 U.S.C. § 1504(d) did not cause its entries to be deemed liquidated at the entered rate, as opposed to the lower rate established following final decision on antidumping duty proceedings. The purpose of the proposed intervention is to support the judgment on appeal with alternative argument, because in another action Shinyei is pursuing similar issues with respect to the finality of its own “deemed” or “no charge” liquidations. Assuming the court would find the basic standards of permissive intervention under USCIT R. 24(b) to be met, the court is limited by any statutory restrictions on intervention. Such a statutory prohibition exists in this case.
+Jurisdiction in this case lies under 28 U.S.C. § 1581(a) (2000), which reads as follows:
+(a) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to contest the denial of a protest, in whole or in part, under section 515 of the Tariff Act of 1930.
+Further, 28 U.S.C. § 2631(j)(l)(A) (2000) reads:
+(j)(l) Any person who would be adversely affected or aggrieved by a decision in a civil action pending in the Court of International Trade may, by leave of court, intervene in such action, except that —
+(A) no person may intervene in a civil action under section 515 or 516 of the Tariff Act of 1930;
+As stated in House of Lloyd, Inc. v. United States:
+Intervention in this court is governed by statute as well CIT Rule 24. Congress has provided for the intervention as of right and by leave of the court in various actions. 28 U.S.C. § 2631(j) (1982). In classification cases such as this, however, Congress has specifically stated that “no person may intervene in a civil action under section 515 or 516 of the Tariff Act of 1930 [19 U.S.C. §§ 1515, 1516 (1982)].” 28 U.S.C. § 2631(j)(l)(A)). See Stewart-Warner Corp. v. United States, 4 CIT 141, 142 (1982) (intervention in a 516 action is expressly forbidden by 28 U.S.C. § 2631(j)(l)(A)). Cf. Matsushita Electric Industrial Co. v. United States, 2 CIT 254, 255 & n.2, 529 F. Supp. 664, 666 & n.2 (1981) (“[t]he existence of a specific provision governing intervention also precludes the applicability of any other provisions or statutes”).
+11 CIT 278, 279-80, 659 F. Supp. 248, 249-50 (1987) (footnotes omitted).
+It makes no difference that this action challenges liquidation on other than classification issues. It is still an action contesting the denial of a protest under section 515 of the Tariff Act of 1930. Thus, intervention is forbidden by statute.
+Accordingly, the motion to intervene is denied.
