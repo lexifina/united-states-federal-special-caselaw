@@ -1,0 +1,23 @@
+---
+court: "United States Court of International Trade"
+docket: "Consol. Court No. 02-00219"
+decided: "2006"
+citations: ["30 Ct. Int'l Trade 1139", "442 F. Supp. 2d 1367"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Eurodif S.A., Compagnie Générale Des Matiéres Nucléaires and Cogema, Inc., et. al., Plaintiffs, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/1139-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3397643
+cites_cases: ["19 C.F.R. § 351.225", "538 U.S. 803"]
+---
+
+# Eurodif S.A. v. United States
+
+## Majority (POGUE, WALLACH and Eaton, Judges:)
+
+JUDGMENT
+POGUE, WALLACH and Eaton, Judges:
+On May 18, 2006, we remanded the captioned case to the Department of Commerce (“Commerce”) to exclude low enriched uranium enriched under so-called separative work unit contracts from the scope of the antidumping duty order. See Eurodif S.A. v. United States, 30 CIT_,_, Slip. Op. 06-76 (May 18, 2006). Commerce has since filed a remand determination; the parties have commented thereon. Upon review of that determination, and the parties’ comments and rebuttals thereto, we find that Commerce has complied with our remand order. We understand the parties’ technical comments on the language of the order and the certification that importers will have to complete upon the entry of low enriched uranium. These technical objections, however, would be better addressed in the context of a concrete dispute over a specific entry. Cf. Nat’l Park Hospitality Ass’n v. DOI, 538 U.S. 803, 812 (2003); 19 C.F.R. § 351.225 (outlining the procedure for “scope” determinations). Therefore, it is hereby:
+ORDERED that the Department of Commerce’s remand determination is sustained.
