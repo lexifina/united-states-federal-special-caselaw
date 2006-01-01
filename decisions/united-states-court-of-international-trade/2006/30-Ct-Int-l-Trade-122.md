@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 05-00113"
 decided: "2006"
-citations: ["30 Ct. Int'l Trade 122", "30 Ct. Int'l Trade 282"]
+decided_precision: "year"
+citations: ["30 Ct. Int'l Trade 122"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
