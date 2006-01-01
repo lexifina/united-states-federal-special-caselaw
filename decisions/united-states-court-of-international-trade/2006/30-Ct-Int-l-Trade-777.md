@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 04-00374"
 decided: "2006"
-citations: ["30 Ct. Int'l Trade 777", "435 F. Supp. 2d 1323", "30 Ct. Int'l Trade 1056", "441 F. Supp. 2d 1348"]
+decided_precision: "year"
+citations: ["30 Ct. Int'l Trade 777", "435 F. Supp. 2d 1323"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
