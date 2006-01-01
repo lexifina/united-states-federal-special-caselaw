@@ -1,0 +1,33 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 06-00025"
+decided: "2006"
+citations: ["30 Ct. Int'l Trade 183"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sakar International, Inc., Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/0183-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3396602
+cites_cases: ["19 U.S.C. § 1526", "28 U.S.C. § 1581", "32 F.3d 1552", "413 F.3d 1344"]
+---
+
+# Sakar International, Inc. v. United States
+
+## Majority (Stanceu, Judge:)
+
+MEMORANDUM OPINION AND ORDER
+Stanceu, Judge:
+Plaintiff Sakar International, Inc. (“Sakar”) has filed a Motion for Stay of Execution of Penalty Enforcement or Collection (“Motion for Stay”) pertaining to an administrative penalty proceeding conducted by the U.S. Department of Homeland Security, Bureau of Customs and Border Protection (“Customs”). Following the signature line of the Motion for Stay, plaintiff included a Notice of Motion for Oral Argument, which Sakar states it will execute unless defendant stipulates to the stay. For the reasons discussed herein, the court concludes that plaintiff has failed to satisfy the requirements for preliminary injunctive relief and, accordingly, that the Motion for Stay must be denied.
+I. Background
+Sakar filed a summons and a complaint in this court on January 25, 2006, seeking “judicial review and a judgment reversing, setting aside, and vacating” a Customs administrative decision issued on December 29, 2005 by the Director of the Office of Fines, Penalties and Forfeitures, Newark/New York Area. Compl. at 1. The Customs administrative decision assessed a mitigated penalty of $67,775 “under the provisions of 19 U.S.C. § 1526(f)” and provided Sakar 30 days in which to pay the mitigated penalty. Compl. Ex. 1. Concurrent with the filing of the summons and complaint in this action, Sakar also filed the Motion for Stay, in which it moves the court, specifically, “[t]o order a Stay of any enforcement or collection of any Customs and Border Protection (‘CBP’) Civil Penalty amount, in issue by the instant action, by defendant United States as against plaintiff pending judicial review to finality.” Motion to Stay ¶ 1. Defendant United States, on February 16, 2006, filed an opposition to plaintiff’s Motion for Stay and moved, pursuant to U.S.C.I.T. R. 12(b), to dismiss the complaint for lack of subject matter jurisdiction and for failure to state a claim upon which relief can be granted. The time period for the filing of a response to defendant’s motion to dismiss, as provided in the Rules of this Court, has not yet expired.
+II. Discussion
+Because plaintiff has moved for a stay of agency action “pending judicial review to finality,” the court has evaluated plaintiff’s motion according to the showing required for a motion for a preliminary injunction under U.S.C.I.T. R. 65(a) and applicable case law. To obtain a preliminary injunction, plaintiff must establish: (1) a likelihood of success on the merits; (2) that it will suffer immediate and irreparable harm if preliminary injunctive relief is not granted; (3) that the balance of hardships favors the plaintiff, i.e., that the potential harm to the moving party in the absence of a preliminary injunction would outweigh the harm that a preliminary injunction would cause to the non-moving party; and (4) that the public interest would be better served by the granting of a preliminary injunction. See U.S. Assoc. of Imps. of Textiles & Apparel v. Dep’t of Commerce, 413 F.3d 1344, 1347 (Fed. Cir. 2005). Plaintiff has failed to make the required showing under any of these four factors.
+Plaintiff has failed to show a likelihood of success on the merits of its underlying claim, in which Sakar attempts to obtain an order of this court vacating an administrative penalty decision. This administrative penalty decision, according to plaintiff’s own pleadings, has not yet ripened into a collection action in any court. Plaintiff, although alleging that this court has subject matter jurisdiction under 28 U.S.C. § 1581(i), has alleged no facts, and provided no legal argument, establishing that its claim on the merits is within the scope of this jurisdictional provision. See Compl. ¶ 1. Therefore, on grounds of both ripeness and subject matter jurisdiction, plaintiff thus far has failed to make any showing that this court would have jurisdiction to hear its claim on the merits.
+Plaintiff’s argument concerning immediate and irreparable harm is confined to the statement that “significant if not drastic financial harm would be irreparably done to plaintiff movant if penalty collection were allowed to proceed pendente lite.” Motion for Stay ¶ 1. However, Sakar has made no showing, and has failed even to allege facts, that would allow this court to assess the validity of its claim of irreparable harm.
+A litigant’s failure to show a likelihood of success on the merits and irreparable harm precludes this court from issuing á preliminary injunction, regardless of any showing made on the remaining two factors. See Reebok Int’l v. J. Baker, Inc., 32 F.3d 1552, 1556 (Fed. Cir. 1994). The court observes, however, that plaintiff has not satisfied either of the remaining two factors. Concerning the balance of hardships, Sakar asserts that, while it would be drastically harmed should penalty collection proceed, “no prejudice or harm will be done to defendant by virtue of such Stay.” Motion for Stay ¶ 1. Plaintiff has not demonstrated that the balance of hardships tips in its favor. Sakar, as discussed previously, has made no showing that it will be irreparably harmed absent a stay or preliminary injunction but, in effect, asks this court to presume that the United States would not be affected adversely if this Court were to halt collection action on a penalty claim that defendant presumably is entitled to pursue judicially. Finally, the Motion to Stay fails to address the public interest factor.
+III. Conclusion and Order
+For the foregoing reasons, the court concludes that plaintiff has failed to make a showing entitling it to a stay or preliminary injunction pending a decision on the merits of this action. Accordingly, it is hereby
+ORDERED that plaintiff’s Motion for a Stay of Execution of Penalty Enforcement or Collection, filed on January 25, 2006, is DENIED; and it is further
+ORDERED that plaintiff’s Notice of Motion requesting oral argument on the Motion for a Stay of Execution of Penalty Enforcement or Collection is DENIED as moot.
