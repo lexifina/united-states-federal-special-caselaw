@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 03-00373"
+decided: "2006"
+citations: ["30 Ct. Int'l Trade 549", "427 F. Supp. 2d 1359"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Former Employees of Electronic Data Systems Corp., Plaintiffs, v. United States Secretary of Labor, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3396345
+cites_cases: ["19 U.S.C. § 2272"]
+---
+
+# Former Employees of Electronic Data Systems Corp. v. United States Secretary of Labor
+
+## Majority (BARZILAY, Judge:)
+
+JUDGMENT
+BARZILAY, Judge:
+In December 2002, Plaintiffs, the Former Employees of Electronic Data Systems Corporation, I Solutions Center, Fairborn, Ohio (“EDS”), filed their petition for trade adjustment assistance (“TAA”) benefits with Defendant, the Department of Labor (“Labor”). In February 2003, Labor denied Plaintiffs’ petition for TAA on the grounds that the facility where Plaintiffs worked prior to their separation did not produce “articles” within the meaning of Section 222 of the Trade Act of 1974, 19 U.S.C. § 2272(a) (2000). Based on EDS’s explanation that it produced computer programs, job control language, database support and documents and third party support and documentation, Labor found that EDS was involved in providing services and not in a production of articles. Plaintiffs then sought review by the Court, and this court remanded the case to the Secretary of Labor for further investigation. On January 31, 2005, Labor issued the second negative determination reasserting its position that Plaintiffs did not produce “articles.” After reviewing Labor’s results, this court remanded the case again in November 2005, instructing Labor to further investigate the nature of EDS’s work and directing it to provide the court with a reasoned explanation why software not sold to the client on a physical medium was not an article within the meaning of Section 222.
+Upon the second remand, Labor has altered its position, “revis[ing] its policy to acknowledge that, at least in the context of this case, thefe are tangible and intangible articles and to clarify that the production of intangible articles can be distinguished from the provision of services.” Notice of Revised Determination on Remand, EDS, at [3]. Labor’s new policy - that Labor stated needs elaboration through rulemaking - is that “[s]oftware and similar intangible goods that would have been considered articles for the purposes of the Trade Act if embodied in a physical medium will now be considered to be articles regardless of their method of transfer.” Notice of Revised Determination on Remand, EDS, at [3] (emphasis added).
+Applying this new policy to the present case, Labor concluded that a significant portion of the workers at EDS were engaged in the production of articles based on its findings that “the former employees spent a considerable amount of their work time on the development of significant enhancements that include new code, and the development of totally new software.” Notice of Revised Determination on Remand, EDS at [6]. Consequently, Labor determined that “[a] 11 workers of [EDS], who became totally or partially separated from employment on or after December 27, 2001, through two years from the issuance of this revised determination, are eligible to apply for Trade Adjustment Assistance under section 223 of the Trade Act of 1974.” Notice of Revised Determination on Remand, EDS, at [8]. In a letter dated April 12, 2006, Plaintiffs informed the court that they have no adverse comments to offer and waived their right to file comments on the remand results.
+Upon consideration of Labor’s remand determination, Notice of Revised Determination of Remand, the court’s prior opinions in this case, and other papers and proceedings filed herein; it is hereby
+ORDERED that Labor’s decision to certify Plaintiffs to receive TAA benefits is supported by substantial evidence and is otherwise in accordance with law; and it is further
+ORDERED that Labor’s Notice of Revised Determination on Remand filed on March 24, 2006, is affirmed in its entirety.
