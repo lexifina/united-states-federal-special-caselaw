@@ -1,0 +1,25 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 01-00988"
+decided: "2006"
+citations: ["30 Ct. Int'l Trade 1103", "442 F. Supp. 2d 1359"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hynix Semiconductor, Inc., Hynix Semiconductor America, Inc., Plaintiffs, v. United States, Defendant, and Micron Technology, Inc., Defendant-Intervenor."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/1103-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3401055
+cites_cases: ["318 F. Supp. 2d 1314", "424 F.3d 1363"]
+---
+
+# Hynix Semiconductor, Inc. v. United States
+
+## Majority (CARMAN, Judge:)
+
+JUDGMENT
+CARMAN, Judge:
+This matter comes before the Court pursuant to the decision of the United States Court of Appeals for the Federal Circuit (“CAFC”) in Hynix Semiconductor, Inc. v. United States, 424 F.3d 1363 (Fed. Cir. 2005), reversing in part and remanding the judgment of the Court in Hynix Semiconductor, Inc. v. United States, 28 CIT_, 318 F. Supp. 2d 1314 (2004) (“Hynix III”). Based on the CAFC’s decision, this Court remanded this matter to the United States Department of Commerce (“Commerce”). Commerce was instructed to recalculate Hynix’s antidumping duty rate by expensing research and development costs. See Hynix Semiconductor, Inc. v. United States, No. 01-00988 (Ct. Int’l Trade Feb. 16, 2006). As to all other issues, this Court’s opinion in Hynix III controls.
+On March 31, 2006, Commerce issued its Final Results of Redeter-mination Pursuant to Court Remand (“Remand Redetermination”). In the Remand Redetermination, Commerce recalculated Hynix’s weighted-average antidumping duty by expensing research and development costs in accordance with the CAFC decision. Commerce determined that Hynix’s margin of dumping for the period of May 1, 1999, through December 30, 1999, is 2.70 percent. Further, Commerce corrected the ministerial error, identified by Micron in Hynix III, and used the corrected margin program for calculating Hynix’s importer-specific assessment rate.
+Having received, reviewed, and duly considered Commerce’s Remand Redetermination and comments from the parties, this Court holds that Commerce complied with the remand order. Further, this Court holds that Commerce’s Remand Redetermination is reasonable, supported by substantial evidence on the record, and otherwise in accordance with law; and it is hereby
+ORDERED that Commerce’s Remand Redetermination of March 31, 2006, is affirmed in its entirety.
