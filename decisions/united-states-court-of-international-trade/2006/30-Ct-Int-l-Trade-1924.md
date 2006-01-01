@@ -1,0 +1,24 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 04-00655"
+decided: "2006"
+citations: ["30 Ct. Int'l Trade 1924", "464 F. Supp. 2d 1384"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Abram K. Anderson Plaintiff, v. United States Secretary of Agriculture, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/1924-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3398174
+cites_cases: ["429 F. Supp. 2d 1352"]
+---
+
+# Anderson v. United States Secretary of Agriculture
+
+## Majority (WALLACH, Judge:)
+
+JUDGMENT ORDER
+WALLACH, Judge:
+Upon consideration of the Department of Agriculture’s Reconsideration Upon Remand of the Application of Abram K. Anderson of November 3, 2006 (“Agriculture’s Remand Determination”), filed pursuant to this court’s decision and Order in Anderson v. United States, 429 F. Supp. 2d 1352 (CIT 2006); Plaintiff having filed no comments contesting Agriculture’s Remand Determination; the court having reviewed Agriculture’s Remand Determination and all pleadings and papers on file herein, and good cause appearing therefor, it is hereby
+ORDERED that Agriculture’s Remand Determination is in accordance with this court’s decision and Order of April 28, 2006; and it is further
+ORDERED that Agriculture’s Remand Determination is SUSTAINED.
