@@ -1,0 +1,73 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 05-00281"
+decided: "2006-03-14"
+citations: ["30 Ct. Int'l Trade 282", "427 F. Supp. 2d 1244"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States of America, Plaintiff, v. First Coast Meat and Seafood, Shapiro Packing Co., and FPL Food LLC, Defendants."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/0282-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3398325
+cites_cases: ["125 F.3d 1457", "135 F.3d 760", "19 C.F.R. §162.71", "19 U.S.C. §1304", "19 U.S.C. §1592", "21 CIT 912", "25 CIT 139", "25 CIT 40", "26 CIT 1224", "28 U.S.C. §1582", "416 U.S. 232", "858 F.2d 1566"]
+---
+
+# United States v. First Coast Meat & Seafood
+
+## Majority (AQUILINO, Senior Judge:)
+
+OPINION & ORDER
+AQUILINO, Senior Judge:
+According to Black’s Law Dictionary, p. 453 (5th ed. 1979), the “most usual signification” of the word duties is the
+synonym of imposts or customs; i.e. tax on imports; but it is sometimes used in a broader sense, as including all manner of taxes, charges, or governmental impositions.
+Plaintiffs three-count amended complaint that has been filed herein pursuant to 19 U.S.C. §1592 and 28 U.S.C. §1582 attempts to implead the “broader sense”, praying, as it does, for antidumping duties in the amount of $9,507,725.50 (less $100,000 already paid by defendants’ surety), for a civil penalty of $13,596,877.47, and also for “marking duties” totalling $446,288.00.
+Named defendant FPL Food LLC has filed an answer to this complaint, asserting four affirmative defenses and praying for dismissal as against it. The other defendants, First Coast Meat and Seafood and Shapiro Packing Co., seek the same relief via a motion to dismiss interposed pursuant to USCIT Rule 12(b)(5) (failure to state a claim upon which relief can be granted).
+I
+This motion recognizes, as it must, that the court has to “take all well-pled factual allegations as true and construe them in favor of the non-moving party”. On its face, and as dissected during oral argument, plaintiffs amended complaint is not a paragon of the art of pleading one’s case. Among other things, it avers in haec verba:
+1. This is an action to recover penalties and duties for violation of Section 592 of the Tariff Act of 1930, as amended!,] 19 U.S.C. § 1592.
+* * *
+8. Between July 15, 1997 and March 2, 1999, Shapiro Packing Company d/b/a[ ] First Coast Meat & Seafood was the importer of record and attempted to enter or introduce, or caused to be entered or introduced, shipments of freshwater crawfish tail meat into the commerce of the United States by means of entry documents filed with . . . Customs [ ] under entry numbers 110-68105194, . . . [etc.].
+9. The merchandise described in paragraph 8 was entered and introduced into the commerce of the United States by means of materially false documents, markings, written or oral statements, acts and/or omissions by Shapiro Packing Company d/b/a[] First Coast Meat & Seafood. Specifically, the entry documents misdescribed the merchandise, provided false entry type codes, falsely marked the merchandise, and failed to identify the true country of origin of the merchandise.
+10. Shapiro Packing Company d/b/a[ ] First Coast Meat & Seafood knew or should have known the correct description of the merchandise, the true country of origin of the merchandise, the correct markings required, the correct entry type code required, and/or that the merchandise was in fact subject to anti-dumping duties.
+11. The false statements, acts, and/or omissions referred to in paragraphs 9 and 10 above were material because they prevented and/or had the potential to prevent Customs from applying the correct dutiable rate to the shipments, thereby causing the United S[t]ates to suffer a loss of revenue of $9,954,013.50.
+12. On or about August 14, 2003, the United States issued penalty notices and duty demand on Shapiro Packing Company d/b/a[ ] First Coast Meat & Seafood regarding the entries described in paragraph 8 above.
+* * *
+14. Neither Shapiro Packing Company, First Coast Meat & Seafood, FPL Foods, LLC, nor any other entity, has paid the remaining duties owed the United States upon the entries described in paragraph 8 above.
+Whereupon count 1 asserts that the
+material false statements, acts and/or omissions described in paragraphs 9 and 10 above were the result of gross negligence and/or negligence on the part of defendants ... in violation of 19 U.S.C. §1592(a)(l), which deprived the United States of lawful anti-dumping duties in the amount of $9,507,725.50.
+Amended Complaint, para. 16. Count 2 repeats this paragraph 16 to the effect that the defendants are also
+liable pursuant to 19 U.S.C. § 1592(c)(1) to plaintiff for a civil penalty in the amount of $13,596,877.47, which is equal to the domestic value of the merchandise.
+Id., para. 19. Finally, misnumbered paragraph 19 of count 3 alleges:
+As a result of Shapiro Packing Company, First Coast Meat & Seafood’s, and FPL Food LLC’s violations of 19 U.S.C. §1592 the merchandise described above in paragraph 8 was entered into the United States in violation of 19 U.S.C. §1304, resulting in the assessment of marking duties pursuant to 19 U.S.C. §1304(i) for those entries ... in the amount of $446,288.
+A
+The initial thrust of defendants’ motion is to dismiss count 3 on the ground that marking duties cannot be collected under 19 U.S.C. §1592. This court concurs.
+The foregoing complaint, on its face, paragraph 1, seeks to recover penalties and duties only for violation of section 1592. Both sides refer to the case Pentax Corp. v. Robison, 125 F.3d 1457 (Fed.Cir. 1997), amended in part on reh’g, 135 F.3d 760 (Fed.Cir. 1998), wherein the court of appeals sought to characterize the relationship between subsections 1304(f), which has since been relettered (i), and 1592(d). At best, it is clearly tenuous. While both are and have been elements of the Tariff Act of 1930, as amended, section 1304 is a “special” provision in subtitle II, part I of the act, while 1592 is an “enforcement” provision in subtitle III, part V. The subsection of section 1304 now lettered (i) provides for “additional duties” for failure to mark as follows:
+If at the time of importation any article ... is not marked in accordance with the requirements of this section,... there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties.
+This congressional impost thus stands entirely on its own, and is collectible irrespective of any other duty or reason for payment or nonpayment thereof. Moreover, it shall not be construed to be penal. Ergo, plaintiffs reference to “a ten percent penalty that arose from mismarking the goods” in Pentax is erroneous. Section 1592, on the other hand, does provide for penalties for fraud, gross negligence, and negligence in entering, introducing, or attempting to enter or introduce, any merchandise into the commerce of the United States. Subsection 1592(d) further states that,
+if the United States has been deprived of lawful duties, taxes, or fees as a result of a violation of subsection (a) of this section,. . . Customs . . . shall require that such lawful duties, taxes, and fees be restored, whether or not a monetary penalty is assessed.
+The courts have enforced this provision against sureties, for example, which themselves were not part of the requisite violations of subsection (a), e.g., United States v. Blum, 858 F.2d 1566 (Fed. Cir. 1988), United States v. Yuchius Morality Co., 26 CIT 1224 (2002), but such recovery of unpaid lawful duties has not transcended the strictures of section 1592 as enacted, nor is there any indication of congressional intent to the contrary.
+In short, as a matter of law, it is impossible for the United States to be deprived of 19 U.S.C. §1304(i) “additional duties” by reason of violation of 19 U.S.C. §1592(a), and notwithstanding that non- or mis-marking of imported merchandise can prove to have been the result of fraud or negligence. See, e.g., United States v. Golden Ship Trading Co., 25 CIT 40, 42-44 (2001). Cf. Pentax Corp. v. Robison, supra.
+B
+In passing upon a motion to dismiss for failure to state a claim upon which relief can be granted, the allegations of the complaint should be construed favorably to the plaintiff. E.g., Scheuer v. Rhodes, 416 U.S. 232, 236 (1974). The second prong of the instant motion of defendants First Coast Meat and Seafood and Shapiro Packing Co. is that potential lost duties may not be collected under 19 U.S.C. §1592(d). The motion seeks to dismiss count 1 of plaintiffs amended complaint on the ground that the
+plain language of Subsection (d) makes clear that it only authorizes the collection of duties of which the United States “has been deprived,” i.e-., actual duty losses. It does not authorize the collection of duties of which the United States may be deprived, i.e., potential duty losses.
+Defendants’ Motion, pp. 4-5 (emphasis in original). Further:
+... As the Amended Complaint makes no reference to any “violation in respect of entries on which liquidation [has] become final,” 19 C.F.R. §162.71, it does not allege, as to any of the subject entries, an actual loss of duties.
+Id. at 8 (emphasis again in original).
+Whatever defendants’ reading of subsection 1592(d), the court’s required favorable reading of plaintiffs amended complaint does not lead it to concur in the immediate relief for which defendants’ motion prays. That is, the court concludes that such a reading of complaint paragraphs 11 and 16 in particular, supra, effectively undermines the motion to dismiss plaintiffs count l.
+C
+Counsel for defendants First Coast Meat and Seafood and Shapiro Packing Co. have seen fit to present a third prong to their motion to dismiss, namely, the amended complaint fails to state any timely claim, including that of count 2. The bottom line of their seemingly-carefully-crafted papers, as noted during the oral argument thereon, is that when
+the Court’s consideration is properly limited to the facts alleged in the complaint, the complaint is untimely on its face and should be dismissed.
+Reply of Defendants, p. 5 n. 1. On its face, there is something to this position, but the oral argument also indicated that, as a matter of fact, it may well be unfounded. Suffice it to report now that counsel for the defendants did not back away from their papers’ position, which circumstance could therefore prove to be either well-founded or the basis of a violation of USCIT Rule 11(b). Whichever, defendants’ motion to dismiss this action as time-barred must be denied at this time, pending joinder of any and all remaining issues and discovery and trial of the facts in connection therewith.
+II
+In view of the foregoing, the motion of defendants First Coast Meat and Seafood and Shapiro Packing Co. should be, and it hereby is, granted to the extent that count 3 of plaintiffs amended complaint be, and it hereby is, dismissed. In all other respects, the said motion is hereby denied.
+Defendants First Coast Meat and Seafood and Shapiro Packing Co. may have until April 3, 2006 to file an answer to the remainder of plaintiffs amended complaint. Whereupon all of the parties to this action are to confer and present to the court on or before May 1, 2006 a proposed schedule for trial of counts 1 and 2 of that complaint.
+So ordered.
+Motion of Defendants First Coast Meat & Seafood and Shapiro Packing Company to Dismiss Amended Complaint for Failure to State a Claim for Which Relief Can Be Granted [hereinafter referred to simply as “Defendants’ Motion”], p. 1, citing United States v. Action Prods. Int’l, Inc., 25 CIT 139 (2001), and Kemet Elecs. Corp. v. Barshefsky, 21 CIT 912, 976F.Supp. 1012(1997).
+Plaintiff’s Response to Defendants’ Motion to Dismiss, p. 3.
+But see 19 C.F.R. §162.71(a) (2005):
+Loss of duties under section 592 .. . means the duties of which the Government is or may be deprived by reason of the violation and includes both actual and potential loss of duties.
+(1) Actual loss of duties . . . means the duties of which the Government has been deprived by reason of the violation in respect of entries on which liquidation had become final.
+(2) Potential loss of duties . . . means the duties of which the Government tentatively was deprived by reason of the violation in respect of entries on which liquidation had not become final.
+Italics in the original.
+The court further notes in passing that, according to amended complaint paragraphs 13 and 17, defendants’ surety has, in fact, paid $100,000.00 in duties owed and also that such parties in interest have not necessarily been known for spontaneous satisfaction of their bonds in matters like this before the Court of International Trade.
