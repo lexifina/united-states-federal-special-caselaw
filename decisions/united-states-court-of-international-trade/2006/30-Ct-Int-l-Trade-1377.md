@@ -1,0 +1,49 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 05-00281"
+decided: "2006-09-06"
+citations: ["30 Ct. Int'l Trade 1377", "452 F. Supp. 2d 1348"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States of America, Plaintiff, v. First Coast Meat and Seafood and Shapiro Packing Co., Defendants Third-Party Plaintiffs, v. Christian Moeller; Cipriano Ltd.; Dalian Tangmu Seafood Products Co., Ltd.; Global Fisheries Pte., Ltd.; Liaoning Arts and Crafts Import and Export Corp.; and Nhatrang Seaproduct Co., Third-Party Defendants."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/1377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3398088
+---
+
+# United States v. First Coast Meat & Seafood
+
+## Majority (AQUILINO, Senior Judge:)
+
+MEMORANDUM & ORDER
+AQUILINO, Senior Judge:
+The above-named third-party plaintiffs have amended a Consent Motion to Appoint Agent for Service of Process Abroad filed pursuant to USCIT Rules 4(c) and 4(f)(1) & (2) and Chapter 1, Article 3 of the Hague Convention on the Service Abroad of Judicial and Extra-Judicial Documents in Civil or Commercial Matters, Nov. 15 1965, 20 U.S.T. 361, to have this court duly authorize and appoint as agent for service of process abroad Ace International Services, Inc. to “ensure that a U.S. judgment against [ ] third-party defendants will be recognized and enforced by the foreign countries in which the third-party defendants reside”.
+I
+The defendants have sought to implead via summons and complaint Christian Moeller; Cipriano Ltd.; Dalian Tangmu Seafood Products Co., Ltd.; Global Fisheries Pte., Ltd.; Liaoning Arts and Crafts Import and Export Corp.; and Nhatrang Seaproduct Co. Moeller and Cipriano are listed in the papers as having addresses in Hong Kong; Dalian Tangmu Seafood Products Co. and Liaoning Arts and Crafts Import and Export in the People’s Republic of China (“PRC”); Global Fisheries in Singapore; and Nhatrang Seaproduct Co. in the Socialist Republic of Vietnam.
+The third-party plaintiffs take the position that, to ensure that a U.S. judgment will be recognized and enforced in the foreign countries in which the third-party defendants are located, service must be perfected in accordance with the Hague Service Convention or in accordance with the laws of a particular country. It is to this end that they ask the court to appoint Ace International Services, Inc., which apparently is incorporated in the state of Rhode Island.
+A
+USCIT Rule 4(c)(1) permits this court to specially appoint a person or officer to serve a summons and complaint at the request of a party plaintiff. Rule 4(f) more specifically applies to “service upon individuals in a foreign country”; subsection (1) thereof is applicable where there are internationally-agreed-upon means of service, and subsection (2) applies when there are no such means. Hong Kong and the PRC have both acceded to the Hague Service Convention, whereas Singapore and Vietnam have not.
+(1)
+According to Rule 4(f), service
+may be effected in a place not within any judicial district of the United States:
+(1) by any internationally agreed means reasonably calculated to give notice, such as those means authorized by the [Hague Service Convention]
+Article 3 of that Convention requires that
+[t]he authority or judicial officer competent under the law of the State in which the documents originate shall forward to the Central Authority of the State addressed a request conforming to the model annexed to the present Convention, without any requirement of legalisation or other equivalent formality.
+Consistent therewith, the neighboring U.S. District Court for the Southern District of New York, for example, instructs that
+Defendants in . . . Hague Convention countries . . . may be served by plaintiff’s counsel who sends the documents, along with a completed USM-94 Form (available from the United States Marshal) to the designated central authority in the foreign country.
+Instructions for Service of Process on a Foreign Defendant Pursuant to FRCP 4(f) and the Foreign Sovereign Immunities Act, available upon request from the District Court for the Southern District of New York. Here, third-party plaintiffs’ counsel seek to transfer their authority as judicial officers to Ace International Services, Inc., which motion can be granted pursuant to this court’s authority under its Rule 4(c)(1).
+(2)
+With regard to Global Fisheries Pte., Ltd. and Nhatrang Seaproduct Co., CIT Rule 4(f) further provides that service may be effected in a place not within any judicial district of the United States:
+* * *
+(2) if there is no internationally agreed upon means of service or the applicable international agreement allows other means of service, provided that service is reasonably calculated to give notice;
+(A) in a manner prescribed by the law of the foreign country for service in that country in an action in any of its courts of general jurisdiction;[]
+* * *
+(C) unless prohibited by the law of the foreign country. . . .
+The third-party plaintiffs’ motion simply states that Athe laws of foreign countries generally require that a summons and complaint be served under the authority of the competent court presiding over the relevant case. Though perhaps true, a more persuasive approach should entail specific reference to the laws of Singapore and Vietnam (the two non-Convention states), which are implicated by foregoing CIT Rule 4(f)(2).
+II
+In sum, Ace International Services, Inc. is hereby appointed to represent the third-party plaintiffs in this matter for purposes of Article 3 of the Hague Convention on the Service Abroad of Judicial and Extra-Judicial Documents in Civil or Commercial Matters, Nov. 15 1965, 20 U.S.T. 361, but only with regard to the putative third-party defendants Christian Moeller; Cipriano Ltd.; Dalian Tangmu Seafood Products Co., Ltd.; and Liaoning Arts and Crafts Import and Export Corp.
+So ordered.
+While this motion apparently has been consented to by the plaintiff, there is no discernible consent on the part of any of the putative third-party defendants.
+The Hague Service Convention became effective in Hong Kong on July 19, 1970 as a territory of the United Kingdom and then on July 1, 1997 as a special administrative region of China. As for the PRC, it had become effective on January 1, 1992. See 2005 Martindale-Hubbell® International Law Digest, pp. IC-5 and IC-12 to 13.
+CIT Rule 4(f)(2)(B) allows that service may additionally be effected as directed by foreign authority in response to a written request. However, there is no indication of such a request (or of receipt of such direction).
