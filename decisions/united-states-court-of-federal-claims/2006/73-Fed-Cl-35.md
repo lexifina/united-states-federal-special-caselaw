@@ -1,0 +1,82 @@
+---
+court: "United States Court of Federal Claims"
+docket: "03-289C"
+decided: "2006-09-08"
+citations: ["73 Fed. Cl. 35"]
+reporter: "fed-cl"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED MEDICAL SUPPLY COMPANY, INC., Plaintiff, v. The UNITED STATES, Defendant."]
+source_url: "https://static.case.law/fed-cl/73/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8450094
+cites_cases: ["14 F.3d 848", "1993 WL 741997", "1995 WL 783610", "2003 WL 21443404", "2005 WL 1903561", "226 F.R.D. 144", "233 F.R.D. 363", "262 F.Supp. 39", "28 U.S.C. § 2251", "40 F.3d 893", "60 Fed.Cl. 133", "846 F.2d 1127", "897 F.Supp. 615"]
+---
+
+# United Medical Supply Co. v. United States
+
+## Majority (ALLEGRA, Judge.)
+
+DOCUMENT PRESERVATION ORDER
+ALLEGRA, Judge.
+This contract case was initiated in the United States Bankruptcy Court for the Northern District of Texas in October of 2001. On February 10, 2003, the case was transferred to this court. Following some preliminary discovery, the parties filed cross-motions for summary judgment. On January 3, 2005, the court issued an opinion denying plaintiffs motion and granting, in part, defendant’s cross-motion. On January 31, 2005, this court issued an order requiring the parties to complete fact discovery on or before July 26,2005, and expert discoveiy on or before August 26, 2005. Following this order, plaintiff filed multiple motions to compel, alleging that defendant had failed to produce relevant documents. On August 2, 2005, the court issued a revised discovery scheduling order staying plaintiffs motions, establishing December 15, 2005, as the close of fact discovery, and requiring the parties to keep the court apprised as to the progress of discovery.
+On October 24, 2005, defendant’s counsel reported that several boxes of discoverable documents had been inadvertently destroyed during the pendency of this case. He further indicated that he did not expect that any substantial number of additional documents would be located. This court held a status conference on December 5, 2005, at which the parties discussed document preservation procedures and defendant reiterated that it had exhausted its search for documents. During that conference, the court cautioned the parties to prevent any further spoliation of evidence.
+Responding to subsequent status reports, the court, on April 26, 2006, issued an order obliging defendant, inter alia, to file affidavits for each of the federal facilities at issue in this case responding to a variety of listed questions concerning the availability of evidence relevant to this case, and the circumstances surrounding whether such evidence had been preserved or destroyed. Defendant filed those affidavits on July 5, 2006. The affidavits revealed, inter alia, that other boxes of documents potentially relevant to this case had been destroyed — some following the December 5, 2005, conference and, in at least one instance, as recently as May of 2006. On July 21, 2006, the court ordered further briefing concerning the potential for imposing spoliation sanctions in this case. In the course of that briefing, on August 9, 2006, defendant’s counsel alerted the court that prior representations made by defendant regarding the extent of the government’s efforts to discover and preserve documents had been found to be erroneous. On August 22, 2006, this court conducted a hearing to discuss the spoliation issues raised by the affidavits and other filings. As a result of discussions held at that conference, on August 24, 2006, this court ordered the parties to file a joint status report proposing a document preservation order, and a revised discovery schedule. On August 31, 2006, the parties filed a joint status report, which included a proposed document preservation order.
+In Pueblo of Laguna v. United States, 60 Fed.Cl. 133 (2004), this court held that it had the authority to preserve evidence and issue orders in furtherance thereof, noting that the fact “this court was established under Article I, rather than Article III of the Constitution is, in this context, a distinction without a difference.” Id. at 135. Rejecting the notion that standards for the issuance of a preliminary injunction (including showing a likelihood of success on the merits) must be met before a preservation order may issue, the court instead found that “one seeking a preservation order [must] demonstrate that it is necessary and not unduly burdensome.” Id. at 138. “To meet the first prong of this test,” this court stated, “the proponent ordinarily must show that absent a court order, there is significant risk that relevant evidence will be lost or destroyed — a burden often met by demonstrating that the opposing party has lost or destroyed evidence in the past or has inadequate retention procedures in place.” Id. As to the latter prong of this test, this court found that “the proponent must show that the particular steps to be adopted will be effective, but not overbroad.” Id.; see also Treppel v. Biovail Corp., 233 F.R.D. 363, 370-71 (S.D.N.Y.2006) (adopting a version of the Pueblo of Laguna test); Williams v. Mass. Mut. Life Ins. Co., 226 F.R.D. 144, 147 (D.Mass.2005) (adopting the Pueblo of Laguna test).
+The court finds that both prongs of the Pueblo of Laguna test are fully satisfied here. In so concluding, the court has considered the parties’ submissions regarding the entry of a document preservation order and largely adopts the order they propose.
+Based on the foregoing, pursuant to Rule 16(c) and Rule 26(c) of the Rules of the United States Court of Federal Claims (“RCFC”), as well as the court’s inherent power to regulate its proceedings and maintain the integrity of its functions, the court hereby orders, as follows:
+1. General Obligation to Preserve. During the pendency of this litigation or until further order of the court, defendant, its agencies, and employees must take reasonable steps to preserve every document, data or tangible thing (collectively “documents”) in its possession, custody or control, containing information that is relevant to, or may reasonably lead to the discovery of information relevant to, the subject matter involved in the pending litigation. Plaintiff is reminded that it likewise has a duty to preserve evidence relevant to this case.
+2. Scope. The documents subject to this order include, but are not limited to, the following:
+(a) Documents evidencing the methods used to by the military bases specifically identified in paragraph 8 of this order to purchase any day to day medical supplies and equipment during the period January 1, 1995, through May 31, 2001, including supplies and equipment subject to Distribution and Pricing Agreements (DAPAs);
+(b) Documents evidencing usage data for the same period and same products as described in paragraph 2(a) above (“usage data”);
+(c) Documents evidencing the communication of such usage data described in paragraph 2(b) above to the Defense Supply Center, Philadelphia (and any successor agency) or United Medical Supply Company, Inc.;
+(d) Documents evidencing the dollar amount of purchases (e.g., periodic financial reports) of the types of items described in paragraph 2(a) above;
+(e) Documents evidencing communications (internal or external) concerning usage data for the same period, but specifically including any usage data submitted to the Generation II prime vendor;
+(f) Documents evidencing any communications regarding the claims made by United Medical, whether made in this case, another case, or the Contract Disputes Act claim submitted to the contracting officer;
+(g) Documents containing catalogue information for DAPA items;
+(h) Documents evidencing policies and procedures to prevent diversion of purchases of the Generation I Prime Vendor Program;
+(i) Documents evidencing any notices from DSCP concerning the failure of the Government’s prime vendor electronic payment system during 1999;
+(j) Documents evidencing amounts owed under calls issued to United Medical during the period June 1, 1997, through May 31, 2001;
+(k) Documents evidencing destruction of records pertaining to any of the above described records;
+(l) Document retention and destruction policies, including policies pertaining to litigation; for the time period 1997 to the present; and
+(m) Documents evidencing communications to preserve potentially relevant evidence concerning any claims made by United Medical.
+3. Document Inspection.
+(a) To the extent they have not previously done so in this ease, each of the facilities named above shall provide defendant’s counsel with a description of the documents it currently possesses with respect to each of the above identified document categories. If, with respect to each category, the facility claims it does not have any responsive documents, it shall describe, in detail, the efforts made to locate such documents and whether it believes such documents once existed but were destroyed, and how and when they were destroyed. These descriptions shall be provided on or before October 13, 2006, to defendant’s counsel, who shall promptly forward them to plaintiffs counsel;
+(b) On or before November 17, 2006, plaintiff shall designate the records (or portions of records) described in the summary description that plaintiff wishes to review;
+(c) Plaintiff generally shall have 63 days within which to inspect a designated record upon receiving notification from defendant that the designated record has become available for inspection, during which process plaintiff may identify relevant documents for production. This inspection period may be extended by the court for good cause shown. Defendant shall provide to plaintiff copies or electronic images of the documents, identified by plaintiff pursuant to this provision within such time as is agreed to by the parties; barring such agreement, the parties shall each file with the court their proposed schedule for the production of such copies or images, with an explanation in support thereof; and
+(d) Copies of electronic records shall be produced in the format in which they are stored by the agency or military base.
+4. Compliance. Defendant shall establish a mechanism for continuously monitoring compliance with this order and, on or before October 6, 2006, shall file a status report with the court describing that mechanism. Defendant shall immediately notify this court if, at any time, it becomes aware of a violation of this order {e.g., the destruction or loss of documents).
+5. Definitions. For purposes of this order:
+(a) “Documents, data, and tangible things” is to be interpreted broadly to include writings; records; files; correspondence; reports; memoranda; calendars; diaries; minutes; electronic messages; voicemails; Emails; telephone message records or logs; computer and network activity logs; hard drives; backup data; removable computer storage media such as tapes, disks, and cards; printouts; document image files; Web pages; databases; spreadsheets; software; books; ledgers; journals; orders; invoices; bills; vouchers; checks; statements; worksheets; summaries; compilations; computations; charts; diagrams; graphic presentations; drawings; films; charts; digital or chemical process photographs; video; phonographic tape; or digital recordings or transcripts thereof; drafts; jottings; and notes. Information that serves to identify, locate, or link such material, such as file inventories, file folders, indices, and metadata, is also included in this definition.
+(b) “Preservation” is to be interpreted broadly to accomplish the goal of maintaining the integrity of all documents, data, and tangible things reasonably anticipated to be subject to discovery under RCFC 26, 34, 45, and 56(e) in this action. Preservation includes taking reasonable steps to prevent the partial or full destruction, alteration, testing, deletion, shredding, incineration, wiping, relocation, migration, theft, or mutation of such material, as well as negligent or intentional handling that would make material incomplete or inaccessible.
+6. Further Instructions; Modification. Either party may apply to the court for further instructions regarding, inter alia: (i) defendant’s obligation to preserve specific categories of documents, data, or tangible things; (ii) any aspect of the inspection tasks not herein clearly defined; and (iii) allocating copying costs and maintaining the confidentiality of information contained in various records. Recognizing that the parties may perceive better ways of accomplishing the purposes of this order, the court notes that joint motions to modify any of the procedures listed herein will likely receive favorable consideration.
+7. Sanctions. Failure to comply with this order may lead to the imposition of sanctions, including, if appropriate, punishment, by fine or imprisonment, for contempt of court, see 28 U.S.C. § 2251.
+8. Dissemination. This order shall forthwith be distributed by defendant to all relevant agencies, departments, offices, divisions, and individuals, including, but not limited to, the following:
+Defense Supply Center Philadelphia, Pennsylvania
+Defense Manpower Data Center, California
+Department of Defense Office of Inspector General
+Defense Finance and Accounting Service
+Fort Hood, Texas
+Fort Bliss, Texas
+Fort Sam Houston, Texas
+Fort Huachuca, Arizona
+Fort Sill, Oklahoma
+Dyess Air Force Base, Texas
+Laughlin Air Force Base, Texas
+Sheppard Air Force Base, Texas
+Tinker Air Force Base, Oklahoma
+Randolph Air Force Base, Texas
+Altus Air Force Base, Oklahoma
+Goodfellow Air Force Base, Texas
+Cannon Air Force Base, New Mexico
+Holloman Air Force Base, New Mexico
+Vance Air Force Base, Oklahoma
+Brooks Air Force Base, Texas
+Kirtland Air Force Base, New Mexico
+Corpus Christi Naval Air Station, Texas
+Air Force Medical War Reserve Material
+On or before October 6, 2006, defendant shall file a notice verifying its compliance with this paragraph, describing the means by which the dissemination was accomplished.
+IT IS SO ORDERED.
+. On this point, this court observed—
+Other courts have held that the requirements for issuing an injunction must be satisfied before a preservation order may issue. See, e.g., Madden v. Wyeth, 2003 WL 21443404, at *1 (N.D.Tex. Apr.16, 2003); Pepsi-Cola Bottling Co. of Olean v. Cargill, Inc., 1995 WL 783610, at *3-4 (D.Minn. Oct.20, 1995); Humble Oil & Refining Co. v. Harang, 262 F.Supp. 39, 42 (E.D.La.1966). The court, however, believes that the more recent of these decisions ignore significant changes made to the Federal Rules of Civil Procedure since the 1960s, further establishing the case management powers of judges. In the court's view, a document preservation order is no more an injunction than an order requiring a party to identify witnesses or to produce documents in discovery. See Mercer v. Magnant, 40 F.3d 893, 896 (7th Cir. 1994). While such pretrial and discovery orders take the basic form of an injunction (an order to do or not to do something), the decisional law suggests that, in issuing them, courts need not observe the rigors of the four-factor analysis ordinarily employed in issuing injunctions. See Reich v. Muth, 1993 WL 741997, at *1-2 (E.D.Va. July 28, 1993); Fed. Election Com’n v. GOPAC, Inc., 897 F.Supp. 615, 617-18 (D.D.C.1995); see also Casey v. Planned Parenthood of Southeastern Pa., 14 F.3d 848, 854 (3d Cir.1994) (distinguishing such pretrial orders from injunctions for appeal purposes); Matter of Establishment Inspection of Skil Corp., 846 F.2d 1127, 1129 (7th Cir.1988) (same). In the court’s view, the same ought to hold true for preservation orders. In particular, contrary to defendant’s claim, the court sees no reason for it to consider whether plaintiff is likely to be successful on the merits of its case in deciding whether to protect records from destruction. In the court's view, such an approach would be decidedly to put the cart before the horse.
+Pueblo of Laguna, 60 Fed.Cl. at 138. Other courts have observed that the notion that traditional injunction requirements must be met before a document preservation order is issued is "in tension” with the fact that "the Federal Rules of Civil Procedure impose preservation obligations on civil litigants in every civil action filed automatically and without court review.” El-Banna v. Bush, 2005 WL 1903561 at *1 n. 3 (D.D.C. July 18, 2005).
