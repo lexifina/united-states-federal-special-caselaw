@@ -1,0 +1,45 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 06-00131"
+decided: "2006-11-09"
+citations: ["30 Ct. Int'l Trade 1763", "462 F. Supp. 2d 1364"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States, Plaintiff, v. XL Specialty Insurance Company, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/30/cases/1763-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3397135
+cites_cases: ["125 F.3d 1457", "19 U.S.C. §1592", "28 U.S.C. §1582", "299 U.S. 248", "398 F.Supp.2d 1354", "713 F.2d 1477", "858 F.2d 1566"]
+---
+
+# United States v. XL Specialty Insurance
+
+## Majority (AQUILINO, Senior Judge:)
+
+OPINION & ORDER
+AQUILINO, Senior Judge:
+Plaintiff’s complaint, filed pursuant to 19 U.S.C. §1592(d) and 28 U.S.C. §1582, prays for recovery of duties upon a continuous entry bond executed by Intercargo Insurance Company, n/k/a XL Specialty Insurance Company, per Customs Form 301 on behalf of Dell Products LP and Dell Computer Corporation. It prays for $1,558,049.79 alleged to have not been paid due to entries
+. . . 13. . . . into the commerce of the United States by means of materially false documents, markings, written or oral statements, acts and/or omissions by Dell. Specifically, the entry documents misdescribed the merchandise and provided an incorrect tariff classification.
+* * *
+15. The false statements, acts, and/or omissions referred to . .. were material because they prevented and/or had the potential to prevent [ ] Customs . . . from applying the correct dutiable rate to the shipments, thereby causing the United S[t]ates to suffer an actual loss of revenue. . . .
+16. The material false statements, acts and/or omissions . . . were the result of fraud, and/or gross negligence, and/or negligence on the part of XL’s insured, Dell, in violation of 19 U.S.C. §1592(a)(l), which deprived the United States of lawful duties....
+17. Pursuant to 19 U.S.C. §1592(d), XL, as surety, is liable for the duties owed the United States on the entries identified. . . .
+I
+The defendant has responded by filing a Motion to Stay Pending Outcome of Administrative Proceedings. It describes Dell’s merchandise as “notebook computers from Malaysia . . . [that] contain [ ] one battery encased in the notebook housing. . . .”
+. . . After entry for consumption, the notebooks are admitted into a foreign trade zone (“FTZ”) in domestic status. Within the FTZ, the notebook is unpacked, and placed into a larger box with other items ordered by the purchaser for use with the notebook. These other items could include operational manuals, a power adapter, and any additional items the customer has purchased. Some customers purchase an additional battery for the notebook. In some cases the advertised price of a notebook includes the additional battery. Even in those cases, where the listed price includes an additional battery, if the customer does not want to purchase the additional battery, it can be deleted from the order and the price is adjusted accordingly, and the customer can choose other features of the advertised laptop. In order to fill a customer order, the ordered items are pulled and placed in a box. . . . There are no prepackaged goods ready to be shipped without subsequent repacking. The boxed merchandise is then withdrawn from the FTZ and shipped to the customer. . . .
+The additional batteries are imported and are not entered for consumption in the U.S. and are admitted into the FTZ in non privileged foreign status. According to the importer, the additional battery is used as an additional power source by customers that need longer battery life than that supplied by the primary battery encased in the notebook. The additional battery is designed to fit into the same battery slot as the primary battery, and cannot be used with other types of Dell laptops, with other brands of laptops, or with any other equipment. The importer also sells the batteries admitted into the FTZ individually.
+Affidavit of David M. Murphy in Support of Defendant’s Motion to Stay Exhibit A, pp. 1-2 (HQ 967364 (Dec. 23, 2004)). Pursuant to request for an “internal advice” from the headquarters of the Bureau of Customs and Border Protection (“CBP”), the additional lithium-ion batteries were held separately dutiable under HTSUS subheading 8507.80.80. See generally id. And CBP began thereafter liquidating such entries pursuant thereto. It also commenced this action to collect those duties that had not been tendered on those entries, which were liquidated prior to the headquarters ruling. Cf. Complaint, Exhibit B.
+Defendant’s motion points to the importer’s protests of the CBP liquidations under subheading 8504.80.80, which, at the time of its filing, apparently had not been acted upon by the agency. Whereupon it states:
+. . . Until the correctness of the importer’s classification at the time of entry is determined, either by Customs in its administrative resolution of the protest in favor of the importer, or by this Court in a separate action maintained by the importer contesting denial of the importer’s protest, the importer in this case cannot be shown to have engaged in any conduct that violates 19 U.S.C. §1592(a).
+A
+Defendant’s motion cites Pentax Corp. v. Robison, 125 F.3d 1457 (Fed.Cir. 1997), and United States v. Blum, 858 F.2d 1566 (Fed.Cir. 1988), for the proposition that, if there has been no violation of 19 U.S.C. §1592(a), there can be no collection of duties under 19 U.S.C. § 1592(d). Of course, such violation must be established for there to be any such collection, but it does not necessarily follow that that predicate be established in an action between the government and the importer. That is, Blum held there to be a direct cause of action against a surety for recovery of lost duties due to violation of section 1592(a), which is this matter at bar. The government is not foreclosed from commencing this kind of action first. To be sure, when it does so, it bears the burden of proving such violation of the statute, just as it does in any action brought by it against an importer pursuant to 19 U.S.C. §1592.
+B
+As indicated, the crux of defendant’s instant motion is that its importer, Dell, has taken and will take steps to defend itself. At the time of filing, they were administrative. Now, the CIT docket reflects the commencement of an action, No. 06-00306, against the government sub nom. Dell Products LP v. United States. The complaint contests in four counts CBP’s “improper classification, under subheading 8507.80.80, HTSUS, of batteries that are components of Dell computers”, albeit covering separate entries from those at issue here. That this new action and the one against the surety are interrelated is obvious. But, their postures and responsibilities differ. In the more recent matter, Dell has the burden of prosecution and persuasion. In the former, that burden is on the plaintiff government.
+Be their array and concomitant burdens as they may, the
+suppliant for a stay must make out a clear case of hardship or inequity in being required to go forward, if there is even a fair possibility that the stay for which he prays will work damage to some one else.
+Landis v. North American Co., 299 U.S. 248, 255 (1936). In other words, a movant must “make a strong showing” that a stay is necessary and that “the disadvantageous effect on others would be clearly outweighed.” Commodity Futures Trading Comm’n v. Chilcott Portfolio Mgmt., Inc., 713 F.2d 1477, 1484 (10th Cir. 1983). This the movant surety has not done herein, presumably because it is not able to do so.
+II
+In thus hereby necessarily denying defendant’s Motion to Stay Pending Outcome of Administrative Proceedings, the court can confirm its confidence that this and its related action can and will nonetheless proceed to final resolution without needless, duplicative litigation.
+So ordered.
+Cf. United States v. Aegis Security Ins. Co., 29 CIT_, 398 F.Supp.2d 1354 (2005). Given the quality of the written submissions on both sides, defendant’s motion for oral argument can be, and it hereby is, also denied.
