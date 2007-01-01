@@ -1,0 +1,24 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 07-00108"
+decided: "2007"
+citations: ["31 Ct. Int'l Trade 415", "481 F. Supp. 2d 1349"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Avecia Inc., Plaintiff, v. United States of America, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/31/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3505266
+---
+
+# Avecia Inc. v. United States
+
+## Majority (MUSGRAVE, Judge:)
+
+JUDGMENT
+MUSGRAVE, Judge:
+The parties having stipulated to make Entry No. 916-1076920-9 (Port of Newark), Entry No 916-1076548-8 (Port of Newark), and Entry No. 916-1076747-6 (Port of Baltimore) the res of this action as of this date and to have this action bound by the decision in Slip Op. 06-184 and Judgment of December 19, 20Q6, entered in Court No. 05-00183 and as amended this date, and the court, after due deliberation, pursuant to such representations and having reached a decision herein; now, therefore, in conformity with said decision, it is
+ORDERED, ADJUDGED and DECREED that judgment be, and it hereby is, entered in accordance for the plaintiff Avecia Inc., whose current successor is Fujifilm Imaging Colorants; and it is further
+ORDERED that the entries of ink-jet inks that are the subject of this action and not settled or severed prior to this disposition shall be classified under heading 3215, Harmonized Tariff Schedule of the United States (2003), specifically under subheading 3215.11.00.60 (black) or 3215.19.00.60 (other), as appropriate, and it is further
+ORDERED that the defendant’s U.S. Customs and Border Protection reliquidate the subject entries in accordance with the foregoing and refund to the plaintiff any excess duties paid, together with interest as provided by law.
