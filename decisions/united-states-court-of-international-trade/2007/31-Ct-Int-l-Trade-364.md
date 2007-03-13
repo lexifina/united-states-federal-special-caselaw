@@ -1,0 +1,33 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 06-00405"
+decided: "2007-03-13"
+citations: ["31 Ct. Int'l Trade 364", "477 F. Supp. 2d 1359"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Specialty Merchandise Corporation, Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/31/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3505168
+cites_cases: ["18 CIT 867", "19 C.F.R. § 351.102", "210 F.3d 1357", "28 U.S.C. § 2631", "397 U.S. 532", "463 F.3d 1345", "468 F.3d 1353", "604 F. Supp. 1245", "71 Fed. Reg. 59,075", "9 CIT 103"]
+---
+
+# Specialty Merchandise Corp. v. United States
+
+## Majority (RESTANI, Chief Judge;)
+
+OPINION AND ORDER
+RESTANI, Chief Judge;
+WALLACH and GORDON, Judge: Defendant-Intervenor National Candle Association (“NCA”) moves pursuant to USCIT R. 12(b)(5) to dismiss Plaintiff Specialty Merchandise Corporation’s (“SMC”) complaint challenging the United States Department of Commerce’s (“Commerce”) anticircumvention inquiry of the antidumping duty order on petroleum wax candles from China. See Later-Developed Merchandise Anticircumvention Inquiry of the Anti-dumping Duty Order on Petroleum Wax Candles from the People’s Republic of China, 71 Fed. Reg. 59,075 (Dep’t of Commerce Oct. 6, 2006) (final determination anticircumvention inquiry) {“Final Determination”). NCA contends that Plaintiff was not a party to the anticircumvention inquiry, and therefore may not challenge the Final Determination.
+The motion presents the narrow question of whether Plaintiff was a “party to the proceeding,” a requirement for challenging an anticircumvention determination in the U.S. Court of International Trade. Section 516A(a)(2)(A) and (d) of the Tariff Act of 1930, as amended, 19 U.S.C. § 1516a(a)(2)(A) and (d) (2000); see also 28 U.S.C. § 2631(c) (2000). As discussed below, Plaintiff was a “party to the proceeding,” and Defendant-Intervenor’s motion to dismiss is therefore denied.
+I. Background
+During the anticircumvention proceeding, Commerce issued various deadlines for the submission of factual information and argument. Final Determination at 59,075. After these deadlines passed, but before the publication of the Final Determination on October 6, 2006, Plaintiff filed a notice of appearance with comments. See SMC’s Aug. 24, 2006 Notice of Appearance and Comments on the Anticircumvention Inquiry (Pub. R. 185, Def.-Intervenor’s Mot. to Dismiss Ex. A). No party objected to SMC’s submission as untimely. In its submission SMC stated that it supported arguments made by other interested parties that the initiation of the inquiry was “inappropriate” and that the retroactive application of the preliminary scope determination was “illegal.” Id. Additionally, SMC argued that the anticircumvention statute “is completely silent as to the suspension of liquidation and the retroactive application of circumvention determinations.” Id. Commerce accepted SMC’s submission and placed it upon the administrative record. Id.
+II. Discussion
+A civil action challenging a Commerce anticircumvention determination may be commenced in the Court of International Trade by an interested party who was a “party to the proceeding.” 19 U.S.C. § 1516a(a)(2)(A) and (d); see also 28 U.S.C. § 2631(c) (2000). Commerce defines a “party to the proceeding” as “any interested party that actively participates, through written submissions of factual information or written argument, in a segment of a proceeding.” 19 C.F.R. § 351.102 (2005); see also JCM, Ltd. v. United States, 210 F.3d 1357, 1360 (Fed. Cir. 2000). The party’s participation needs to reasonably convey “the separate status of a party,” Am. Grape Growers v. United States, 9 CIT 103, 105, 604 F. Supp. 1245, 1249 (1985), and provide Commerce with “notice of a party’s concerns.” Encon Indus., Inc. v. United States, 18 CIT 867, 868 (1994).
+Defendant-Intervenor argues that SMC’s submission fell “short of showing that SMC meaningfully participated in the Anticircumvention Inquiry” and was “untimely.” (Def.-Intervenor’s Br. in Supp. of Mot. to Dismiss at 3, 4 (emphasis removed).) In Commerce’s view, however, “SMC participated in the underlying administrative proceeding by submitting a written submission containing argument.” (Def.’s Resp. in Opp’n. to Mot. to Dismiss at 6.) Indeed, SMC’s submission notified all parties of its appearance and informed Commerce that SMC was joining arguments made by other respondents in the anti circumvention inquiry. Thus, Commerce was satisfied that SMC had participated in the proceeding to the extent necessary to reasonably convey notice of SMC’s “separate status [as] a party.” Am. Grape Growers, 9 CIT at 105, 604 F. Supp. at 1249.
+As for the timeliness of Plaintiff’s submission, “[I]t is always within the discretion of ... an administrative agency to relax or modify its procedural rules adopted for the orderly transaction of business before it when in a given case the ends of justice require it. The action of [an agency] in such a case is not reviewable except upon a showing of substantial prejudice to the complaining party.” Am. Farm Lines v. Black Ball Freight Serv., 397 U.S. 532, 539 (1970); see also Dixon Ticonderoga Co. v. United States, 468 F.3d 1353, 1355 (Fed. Cir. 2006), and PAM S.p.A. v. United States, 463 F.3d 1345, 1348 (Fed. Cir. 2006). Defendant-Intervenor argues that it was within Commerce’s discretion to “refuse to accept late submissions.” (Def.-Intervenor’s Mot. to Dismiss at 4-5.) Commerce, however, exercised its discretion to accept, rather than reject, SMC’s submission. That action “is not reviewable except upon a showing of substantial prejudice to the complaining party.” Am. Farm Lines, 397 U.S. at 539. Defendant-Intervenor does not argue that it suffered substantial prejudice, and it would be difficult to make such a showing. Accordingly, Plaintiff’s submission was properly on the administrative record. It identified Plaintiff as a separate party and presented Plaintiff’s arguments about the anticircumvention proceeding. Plaintiff was therefore a “party to the proceeding.”
+III. Conclusion
+Plaintiff’s submission was properly on the administrative record, and thus Plaintiff was a “party to the proceeding." Accordingly, it is hereby ordered that Defendant-Intervenor’s motion to dismiss is denied.
+All further citations to the Tariff Act of 1930 are to the relevant provision in Title 19 of the U.S. Code, 2000 edition.
+The public version of the administrative record is cited as “Pub. R.’
