@@ -2,7 +2,7 @@
 court: "United States Court of Federal Claims"
 docket: "92-580C"
 decided: "2007-04-18"
-citations: ["77 Fed. Cl. 10", "77 Fed. Cl. 1"]
+citations: ["77 Fed. Cl. 10"]
 reporter: "fed-cl"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["SPARTON CORPORATION, Plaintiff, v. The UNITED STATES, Defendant."]
 source_url: "https://static.case.law/fed-cl/77/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3567188
-cites_cases: ["101 F.3d 1386", "106 F.R.D. 498", "108 F.R.D. 204", "12 F.3d 1072", "122 F.3d 1040", "123 F.R.D. 97", "136 F.R.D. 449", "143 F.R.D. 545", "15 F.R.D. 84", "160 Ct.Cl. 1", "160 Ct.Cl. 58", "167 F.R.D. 68", "169 F.3d 747", "174 F.R.D. 38", "181 F.R.D. 441", "19 Cl.Ct. 106", "196 F.R.D. 46", "198 F.3d 169", "1989 WL 100927", "1997 WL 158280", "1997 WL 873548", "2000 WL 1478476", "2003 WL 21508118", "2004 WL 1535686", "2006 WL 2927639", "208 F.R.D. 606", "21 F.R.D. 164", "212 F.R.D. 73", "225 F.3d 595", "231 F.R.D. 27", "231 F.R.D. 351", "231 F.Supp.2d 94", "234 F.3d 1365", "25 F.3d 422", "25 F.R.D. 197", "25 F.R.D. 346", "273 F.3d 91", "28 U.S.C. § 1498", "281 F.3d 1369", "282 F.3d 1", "292 F.3d 615", "304 F.2d 53", "304 F.3d 635", "312 F.2d 418", "320 F.2d 345", "328 F.3d 655", "345 F.3d 320", "35 U.S.C. § 102", "372 U.S. 915", "372 U.S. 924", "407 F.2d 779", "41 Fed.Cl. 729", "430 F.Supp.2d 346", "449 F.3d 1209", "46 Fed.Cl. 583", "465 F.3d 1329", "49 Fed.Cl. 607", "5 F.3d 1557", "509 U.S. 579", "526 U.S. 137", "547 F.2d 1365", "550 F.2d 505", "58 Fed.Cl. 57", "661 F.2d 542", "67 F.R.D. 93", "7 F.3d 186", "73 Fed.Cl. 480", "74 Fed.Cl. 426", "75 Fed.Cl. 294", "812 F.2d 265", "83 S.Ct. 717", "83 S.Ct. 741", "839 F.2d 958", "853 F.2d 882", "868 F.Supp. 33", "9 L.Ed.2d 722", "9 L.Ed.2d 729", "903 F.2d 468", "926 F.2d 1285", "930 F.2d 867", "933 So.2d 261", "99 F.3d 1109", "993 F.2d 161", "U.S. Patent No. 3,921,120", "U.S. Patent No. 4,029,233"]
+cites_cases: ["101 F.3d 1386", "106 F.R.D. 498", "108 F.R.D. 204", "123 F.R.D. 97", "136 F.R.D. 449", "143 F.R.D. 545", "15 F.R.D. 84", "160 Ct.Cl. 1", "160 Ct.Cl. 58", "167 F.R.D. 68", "174 F.R.D. 38", "181 F.R.D. 441", "196 F.R.D. 46", "1989 WL 100927", "1997 WL 158280", "1997 WL 873548", "2000 WL 1478476", "2006 WL 2927639", "208 F.R.D. 606", "21 F.R.D. 164", "212 F.R.D. 73", "231 F.R.D. 27", "231 F.R.D. 351", "25 F.R.D. 197", "25 F.R.D. 346", "28 U.S.C. § 1498", "304 F.2d 53", "312 F.2d 418", "320 F.2d 345", "372 U.S. 915", "372 U.S. 924", "41 Fed.Cl. 729", "46 Fed.Cl. 583", "49 Fed.Cl. 607", "58 Fed.Cl. 57", "67 F.R.D. 93", "74 Fed.Cl. 426", "83 S.Ct. 717", "83 S.Ct. 741", "839 F.2d 958", "9 L.Ed.2d 722", "9 L.Ed.2d 729", "933 So.2d 261", "U.S. Patent No. 3,921,120", "U.S. Patent No. 4,029,233"]
 ---
 
 # Sparton Corp. v. United States
