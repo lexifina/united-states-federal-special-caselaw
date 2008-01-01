@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No.: 02-00635"
 decided: "2008"
-citations: ["32 Ct. Int'l Trade 160", "545 F. Supp. 2d 1345", "32 Ct. Int'l Trade 91", "533 F. Supp. 2d 1359"]
+decided_precision: "year"
+citations: ["32 Ct. Int'l Trade 160", "545 F. Supp. 2d 1345"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
