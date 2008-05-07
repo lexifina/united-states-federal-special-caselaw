@@ -1,0 +1,27 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 06-00095"
+decided: "2008-05-07"
+citations: ["32 Ct. Int'l Trade 423", "558 F. Supp. 2d 1317"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sherri N. Boynton, Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/32/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3691674
+cites_cases: ["12 CIT 916", "14 CIT 582", "15 F.Supp.2d 934", "16 CIT 984", "22 CIT 701", "601 F. Supp. 202", "698 F. Supp. 916", "8 CIT 336", "807 F. Supp. 792"]
+---
+
+# Boynton v. United States
+
+## Majority (POGUE, Judge:)
+
+MEMORANDUM AND ORDER
+POGUE, Judge:
+Plaintiff, Sherri N. Boynton (“Boynton”) moves for rehearing, claiming that the Defendant’s failure to consider, in prior proceedings, certain judgments that Boynton obtained against various importers renders these proceedings fundamentally unfair.
+This Court has jurisdiction to grant a rehearing under USCIT Rule 59(a)(2). See also Am. Nat’l Fire Ins. Co. v. United States, 200 Ct. Int. Trade LEXIS 137, *2 (citing United States v. Gold Mountain Coffee, Ltd., 8 CIT 336, 336, 601 F. Supp. 202, 214 (1984));Kerr-McGee Chem. Corp. v. United States, 14 CIT 582, 583 (1990). The purpose of a rehearing is not, however, to retry the case. See, Belfont Sales Corp. v. United States, 12 CIT 916, 918, 698 F. Supp. 916, 918 (1988). It is, rather, only to correct significant flaws in the conduct of the proceeding. Am. Nat’l Fire Ins. Co. at *2. The Court will not upset its prior decision unless it is “manifestly erroneous.” See, North American Processing Co. v. United States, 22 CIT 701, 703, 15 F.Supp.2d 934, 936 (1998); Saint Paul Fire & Marine Ins. Co. v. United States, 16 CIT 984, 807 F. Supp. 792 (1992).
+Boynton, however, has not presented any evidence that would warrant the claim that our prior decisions were “manifestly erroneous.” Boynton’s request for rehearing rests entirely on the fact that judgments were entered in her favor by state courts against several importers. These importers were, apparently, connected to some of the transactions that gave rise to several of the charges against Boynton. These judgments, however, are not relevant to this case for two reasons.
+First, the judgments Boynton has submitted all concern whether certain payments were or were not made, as between Boynton and the importer involved. However, the charges before Customs, which the Court has sustained, are not about the payment of duties but rather concern Boynton’s failure to follow proper procedures when payments are not made for any reason. Customs provides, via its Bulletin 88 procedures, methods for dealing with cases where Customs Brokers are not paid by importers in a timely manner. Customs Bulletin 88-30. Boynton v. United States, _ CIT _, Slip-Op 07-146 at 14-5, n.15 (2007). As noted in Charge III Specification 11 and ChargeVIII, for example, Boynton failed to follow Bulletin 88 procedures when appropriate. Because this Bulletin provides procedures for Customs Brokers to follow in situations such as those that gave rise to the judgments Boynton now submits, and because Boynton did not follow Customs’ procedures in the situations involved, the judgments which Boynton has gained are not relevant to the charges. Therefore, the evidence provided by Boynton gives us no reason to find that our prior decision contained “manifest error.”
+Second, a sub-set of the charges against Boynton which have been found by this court to be supported by substantial evidence involve transactions with importers who had nothing to do with and were not involved in the judgments Boynton now submits. The Secretary held that any of the charges against Boynton would individually be sufficient to justify revoking her license. Because certain of the charges against Boynton are not even arguably related to the evidence she offers, and because these charges would be sufficient to justify revoking her license, there is no reason to grant her motion.
+For these reasons, Plaintiff’s motion for retrial or rehearing is DENIED. It is so ORDERED.
