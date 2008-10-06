@@ -1,0 +1,45 @@
+---
+court: "United States Court of International Trade"
+docket: "Consol. Court No.: 04-00162"
+decided: "2008-10-06"
+citations: ["32 Ct. Int'l Trade 1087", "580 F. Supp. 2d 1347"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United States, Plaintiff, v. Martha Matthews, A.K.A. Martha O’Grady; North Star Metals, LLC; Aegis Security Insurance Co.; Daniel Mcguire; and Mcguire Steel Erection Corp., Defendants. Martha Matthews, A.K.A. Martha O’Grady; North Star Metals, LLC; Daniel Mcguire; and Mcguire Steel Erection Corp., Third-Party Plaintiffs, v. Tae Back Resources Co., Ltd. and Haesung Corp., Third-Party Defendants. Aegis Security Insurance Co., Third-Party Plaintiff, v. Daniel Mcguire and Mcguire Steel Erection Corp., Third-Party Defendants."]
+source_url: "https://static.case.law/ct-intl-trade/32/cases/1087-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3691462
+cites_cases: ["110 F.Supp.2d 945", "19 U.S.C. § 1592", "24 CIT 504", "28 U.S.C. § 2646", "462 F.Supp.2d 1261", "601 F. Supp. 212", "623 F. Supp. 1262", "8 CIT 336", "81 Cust. Ct. 141", "9 CIT 571"]
+---
+
+# United States v. Matthews
+
+## Majority (WALLACH, Judge:)
+
+OPINION AND ORDER
+WALLACH, Judge:
+I
+INTRODUCTION
+Plaintiff United States commenced this action to recover lost duties against Martha Matthews (“Matthews”), Daniel McGuire (“McGuire”), North Star Metals, LLC (“North Star”), and McGuire Steel Erection Corp. (“McGuire Steel”) for merchandise entered in violation of 19 U.S.C. § 1592. Plaintiff filed a Motion for Summary Judgment on its claim for lost duties and penalties for the violation on February 28, 2007. Oral argument was held on December 13, 2007. The court determined that Defendants violated 19 U.S.C. § 1592 when they fraudulently entered merchandise identified as Korean origin when they knew it was produced in China, and subject to antidumping duties accordingly. The court found Defendants jointly and severally liable for duties owed to the United States and for penalties for fraud, and granted Plaintiff’s motion. Defendants have moved for reconsideration of that decision pursuant to 28 U.S.C. § 2646 and USCIT R.59. Defendants’ Motion is denied because the arguments that they make do not satisfy the standard for reconsideration.
+II
+STANDARD OF REVIEW
+USCIT Rule 59(a) provides that rehearing may be granted “to all or any of the parties and on all or part of the issues ... in an action finally determined, for any of the reasons for which rehearings have heretofore been granted in suits in equity in the courts of the United States.” Reconsideration may be appropriate for cases in which there was:
+(1) an error or irregularity in the trial; (2) a serious evidentiary flaw; (3) a discovery of important new evidence which was not available even to the diligent party at the time of trial; or (4) an occurrence at trial in the nature of an accident or unpredictable surprise or unavoidable mistake which impaired a party’s ability to adequately present its case.
+United States v. Gold Mountain Coffee, Ltd., 8 CIT 336, 336-37, 601 F. Supp. 212 (1984). See Ford Motor Co. v. United States, No. 99-00394, 2006 Ct. Inti. Trade 147, slip. op. at *2 (CIT September 29, 2006) (“The major grounds justifying a grant of a motion to reconsider a judgment are an intervening change in the controlling law, the availability of new evidence, the need to correct a clear factual or legal error, or the need to prevent manifest injustice.”).
+The purpose of a rehearing is to correct instances in which there was a “significant flaw” in the original proceedings, not to allow a losing party the chance to repeat arguments or to relitigate issues previously before the court. Ontario Forest Indus. Assoc. v. United States, 462 F.Supp.2d 1261, 1262 (CIT 2006); see Am. Nat’l Fire Ins. Co. v. United States, No. 00-00022, 2006 Ct. Int'l. Trade Lexis 137, slip. op. at *2 (CIT September 7, 2006); Starky Labs, Inc. v. United States, 24 CIT 504, 510, 110 F.Supp.2d 945 (2000) (finding rehearing to be a “means to correct a miscarriage of justice”) (quoting Nat’l Corn Growers Ass’n v. Baker, 9 CIT 571, 584, 623 F. Supp. 1262 (1985)); Gold Mountain, 8 CIT at 337. Additionally, “arguments raised for the first time on rehearing are not properly before the court for consideration when prior opportunity existed . . . for the moving party to have adequately made its position known.” Gold Mountain, 8 CIT at 337 (quoting Wild Heerbrugg Instruments, Co. v. United States, 81 Cust. Ct. 141 (1978)).
+Ill
+DISCUSSION
+Defendants argue that it would be “a miscarriage of justice” if summary judgment in this case stands. Defendants’ Motion for Reconsideration and Memorandum in Support Thereof (“Defendants’ Brief’) at 9. According to Defendants, there is not a sufficient basis in fact or law for summary judgment on joint and several liability against all Defendants for duties or penalties, nor is there a basis for the conclusion that the product fell within the scope of the antidump-ing duty order. Defendants’Brief at 10, 21, 25. Defendants assert that given material facts in the record that were at issue at the time the Motion for Summary Judgment was filed, and issues of material fact that have arisen in the new affidavits submitted by Defendants along with their motion, summary judgment is not warranted. Id. at 8, 32.
+Plaintiff United States argues that no new evidence has emerged since the close of discovery in this case, and that there has been no change in the controlling law or factual errors made that would warrant a reconsideration of the court’s decision. Plaintiff’s Response to Defendants’ Motion for Reconsideration (“Plaintiff’s Response”) at 6. Plaintiff concludes that Defendants have has failed to meet the standard for reconsideration. Id.
+Plaintiff alternatively argues that even when considering Defendants’ new factual and legal arguments the United States remains entitled to judgment as a matter of law because it demonstrated that Defendants “conducted a fraudulent scheme,” and Defendants fail to identify any error in the court’s conclusion that the uncontroverted facts supported this. Id. at 7.
+Plaintiff also argues that Defendants’ apparent assertion that the court committed “legal error” in finding the Defendants joint and severally liable is without merit. Id. According to Plaintiff, the court found that 19 U.S.C. § 1592 is not limited to the importer of record, and thus the court’s finding correctly applies to all Defendants jointly and severally because there was uncontroverted evidence of each Defendant’s involvement in the scheme. Id. at 7-8.
+Additionally, Plaintiff argues that Defendants’reliance on Ms. Matthews’ “late-filed affidavit” to show that the entries in question were not subject to antidumping duties is insufficient. Id. at 10 — 11. According to Plaintiff, Defendants failed to raise the purity issue as an affirmative defense and therefore have waived it. Id. at 11. Plaintiff also asserts that the statements made by Ms. Matthews constitute inadmissible hearsay as she does not state that she tested the silicon metal in a U.S. lab herself. Id.
+Plaintiff is correct in its assertion that arguments made by Defendants do not satisfy the standard for reconsideration. The arguments made by Defendants regarding joint and several liability do not identify any flaw or error made by the parties or the court; the Motion simply restates legal arguments that could have been, and in some cases were already made, by Defendants at the summary judgment stage.
+Similarly, Defendants’ argument regarding the existing evidence on the purity level of the entries fails to identify any clear factual or legal error in the original consideration. Here, Defendants’ main arguments are that Plaintiff does not “allege that the product imported was within the scope of the antidumping order,” and that record does not support the court’s reasoning. Defendants’ Brief at 25-26. However, Defendants do not identify evidence from the record, new or otherwise that contradicts the court’s conclusion. Thus, this argument is inadequate to warrant reconsideration.
+Additionally, Defendants’ argument that genuine issues of material fact existed because Plaintiff “had the opportunity to explore the content of . . . documents through deposition but did not elect to do so,” Defendants’ Brief at 30, is another attempt to relitigate points already made by Defendants. This court determined that no genuine issues of material fact remain in this case; Defendants offer nothing that sheds new light on that decision.
+IV
+CONCLUSION
+For the above stated reasons, Defendants’ Motion for Reconsideration of the Summary Judgment entered on December 13, 2007, in U.S. Court of International Trade consolidated court number 04-00162 is DENIED.
+SO ORDERED.
+Defendants’ claims do not meet the standards for reconsideration and, for the most part, are well within the boundary of an “attempt to relitigate.” Accordingly, they are not discussed in detail here.
