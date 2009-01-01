@@ -2,7 +2,8 @@
 court: "United States Court of International Trade"
 docket: "Court No. 06-00236"
 decided: "2009"
-citations: ["33 Ct. Int'l Trade 1691", "662 F. Supp. 2d 1357", "33 Ct. Int'l Trade 1757", "662 F. Supp. 2d 1356"]
+decided_precision: "year"
+citations: ["33 Ct. Int'l Trade 1691", "662 F. Supp. 2d 1357"]
 reporter: "ct-intl-trade"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +11,7 @@ parties: ["Thyssenkrupp Mexinox S.A. DE C.V. et al., Plaintiffs, v. United State
 source_url: "https://static.case.law/ct-intl-trade/33/cases/1691-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3694073
-cites_cases: ["123 Stat. 115,115", "19 U.S.C. § 3438", "2009 WL 3809614", "30 CIT 391", "30 CIT 892", "425 F. Supp. 2d 1321", "441 F. Supp. 2d 1259", "517 F.3d 1319", "547 U.S. 388", "616 F. Supp. 2d 1376"]
+cites_cases: ["19 U.S.C. § 3438", "30 CIT 391", "30 CIT 892", "425 F. Supp. 2d 1321", "441 F. Supp. 2d 1259", "517 F.3d 1319", "547 U.S. 388"]
 ---
 
 # Thyssenkrupp Mexinox S.A. de C.V. v. United States
