@@ -1,0 +1,55 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No.: 07-00039"
+decided: "2009"
+citations: ["33 Ct. Int'l Trade 1504", "657 F. Supp. 2d 1356"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Horizon Lines, Llc, Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/33/cases/1504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3695265
+cites_cases: ["125 S. Ct. 809", "160 L. Ed. 2d 598", "162 F. Supp. 2d 671", "19 U.S.C. § 1466", "2009 WL 2372112", "244 F. Supp. 2d 1358", "25 CIT 1033", "26 CIT 1210", "28 U.S.C. § 2639", "357 F.3d 1358", "543 U.S. 1034"]
+---
+
+# Horizon Lines, LLC v. United States
+
+## Majority (WALLACH, Judge:)
+
+ORDER
+I.
+Introduction
+WALLACH, Judge:
+On June 3, 2009, Defendant United States (“Defendant”) made an oral Motion for Judgment as a Matter of Law Dismissing Plaintiff Horizon Lines, LLC’s (“Plaintiff’) Cause of Action Contesting the Partial Dutiability of Tug Charges (“Defendant’sMotion”) pursuant to USCIT Rule 52(c). Based upon the following findings of fact and conclusions of law, Defendant’s Motion is GRANTED.
+II
+Findings of Fact
+1. On July 7, 2006, U.S. Customs and Border Protection (“Customs”) in Headquarters Ruling No. W116467 rejected Plaintiff’s argument made in the underlying protest that the tug expenses associated with the dry docking of the CSX HAWAII, a U.S.-flag C6 Class steam vessel, now named HORIZON HAWAII (“HAWAII”) in Lisnave, Mitrena Yard in Setubal, Portugal (“Lisnave”) in 2002 were a single purpose expense incurred for non-dutiable inspections. Customs instead found that the tug towage costs at issue appeared clearly to be a dual purpose expense, in part undertaken due to dutiable vessel repairs and, as such, were dutiable on a pro-rated basis.
+2. Plaintiff paid duty in the amount of $11,374.30 on the pro-rated portion of the tug charges set forth in Invoice No. 220-1495/Barwil, Owner’s Ref. No. 1507 for towage related to the HAWAII at Lisnave.
+3. Plaintiff’s dry docking specifications for the HAWAII required in addition to the inspections, repair items be dealt with while the vessel was in dry dock.
+4. The testimony of Mark Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-1” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “PAINTING PREPARATION” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+5. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-4a” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “FLAT BOTTOM” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+6. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-4b” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “VERTICAL SIDES” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+7. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-7” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “MISCELLANEOUS DRYDOCK PAINTING” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+8. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-8” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “CATHODIC PROTECTION SYSTEM ALTERNATIVE A” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+9. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-11” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “RUDDER. RUDDER HORN” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+10. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-13” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “MAIN SCOOP TO CONDENSER” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+11. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-14” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “ROPE GUARD” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+12. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.1-16” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “RUDDER POST GLAND PACKING” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+13. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.2-8” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “STERN TUBE SHAFT SEAL RENEWAL” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+14. The testimony of Mr. Cianci and the uncontested facts showed that the repair work performed pursuant to owner’s reference number “3.2-33” of Lisnave Invoice No. 00174/2002/LISN, for the charge titled “S.W. SERVICE OVBD HULL PENETRATION RENEWALS” is the type of work customarily performed only when a vessel is in a dry dock and was required to be done during the dry docking according to Plaintiff’s dry dock specifications.
+15. The testimony of Mr. Cianci showed that the work performed pursuant to owner’s reference numbers “3.1-1, 3.1-4a, 3.1-4b, 3.1-7, 3.1-8, 3.1-11, 3.1-13, 3.1-14, 3.1-16, 3.2-8, and 3.2-33” of Lisnave Invoice No. 00174/2002/LISN consisted of repair work.
+16. Plaintiff conceded in response to a question from the court during argument on Defendant’s USCIT Rule 52(c) motion, that in fact, certain repair work was performed in dry dock which could only have been done in dry dock, while the HAWAII was at Lisnave in 2002.
+17. The testimony of Mr. Cianci showed that the tug expenses used to push the HAWAII both on and off the dry dock at Lisnave in 2002 were necessarily incurred to accomplish dutiable repairs.
+18. Should any Finding of Fact designated herein, be more properly deemed a Conclusion of Law, it is so designated.
+Ill
+Conclusions Of Law
+1. Under 28 U.S.C. § 2639(a)(1), Customs’ decision is “presumed to be correct” and the “burden of proving otherwise shall rest upon the party challenging such decision.”
+2. Plaintiff argued at trial that Customs improperly applied and impermissibly expanded the ruling in SL Serv., Inc. v. United States, 357 F.3d 1358 (Fed. Cir. 2004) (“SL Serv. IF), by pro-rating duties on the costs of tugs for inspections in contravention of Am. Ship Mgmt., LLC v. United States, 25 CIT 1033, 1036, 162 F. Supp. 2d 671 (2001) (“ASM”). See Pre-Trial Order, Schedule D-l ¶ 3.
+3. The case upon which Plaintiff relies, ASM, was effectively reversed by SL Serv. II (which also reversed SL Serv., Inc. v. United States, 26 CIT 1210, 244 F. Supp. 2d 1358 (2002) (“SL Serv. F)). Further, ASM found that tug charges which were part of the dual (mixed) purpose dry dock charges could not be apportioned because mixed charges were not pro-rateable. See ASM, 25 CIT 1033. SL Serv. II reversed ASM’s findings and held that in the context of dual-purpose expenses, it is rational to apportion expense on the portion that is attributable to the dutiable repairs. SL Serv. II, 357 F.3d at 1362. Therefore, to the extent that ASM provides any support for the concept that mixed charges such as tug charges are duty-free, that finding was reversed.
+4. The Federal Circuit’s opinion in SL Serv. II interpreted the language “expenses of repairs” in 19 U.S.C. § 1466(a) as applying to dual purpose expenses, such as the tug expenses at issue here, which are expenses integral and necessary for both the dutiable repair work and non-dutiable operations and are dutiable on a pro-rated basis. See Horizon Lines, LLC v. United States, No. 2009-1075, 2009 WL 2372112, at *3 (Fed. Cir. August 4, 2009) citing SL Serv. II, 357 F.3d at 1362.
+5. The court’s grant of Defendant’s oral motion for a directed verdict pursuant to USCIT R. 52(c) dismissed Plaintiff’s claim number 3 contained in Schedules D-l and E-l of the Joint Pre-Trial Order (alleging that, Customs wrongly applied and impermissibly expanded the decision in SL Serv. II, 357 F.3d 1358 rev’g SL Serv. I, 26 CIT 1210, cert. denied 543 U.S. 1034, 125 S. Ct. 809, 160 L. Ed. 2d 598 (2004), by pro-rating duties on the cost of tugs (towage), which Plaintiff maintained were single-purpose expenses related to mandatory inspections). The court’s grant of Defendant’s oral motion for a directed verdict pursuant to USCIT R. 52(c) was appropriate as, Plaintiff had been fully heard on the issue, and given the testimony of its witnesses, Plaintiff’s claims related to the tug expense issue could not be maintained as a matter of law.
+6. Should any Conclusion of Law designated herein, be more properly deemed a Finding of Fact, it is so designated.
+IV
+Conclusion
+Based upon the above-stated Findings of Fact and Conclusions of Law, it is hereby ORDERED, ADJUDGED and DECREED that Defendant’s oral USCIT Rule 52(c) Motion for Judgment as a Matter of Law Dismissing Plaintiff Horizon Lines, LLC’s Cause of Action Contesting the Partial Dutiability of Tug Charges be, and hereby is, GRANTED.
