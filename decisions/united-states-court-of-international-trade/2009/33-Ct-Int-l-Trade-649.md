@@ -1,0 +1,91 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 05-00058"
+decided: "2009-06-05"
+citations: ["33 Ct. Int'l Trade 649", "625 F. Supp. 2d 1324"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Honda of America Mfg., Inc., Plaintiff, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/33/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3694214
+cites_cases: ["110 F.3d 774", "112 F.3d 488", "21 CCPA 322", "21 F.3d 1079", "267 F.3d 1354", "28 U.S.C. § 2639", "28 U.S.C. §1581", "323 U.S. 134", "43 CCPA 9", "477 U.S. 242", "533 U.S. 218"]
+---
+
+# Honda of America Mfg., Inc. v. United States
+
+## Majority (AQUILINO, Senior Judge:)
+
+OPINION & ORDER
+AQUILINO, Senior Judge:
+Classification by U.S. Customs and Border Protection (“CBP”) per [¶] 966412 (Sept. 3, 2003) and, upon reconsideration, [¶] 966789 (June 21, 2004) of Honda merchandise from Japan, collectively referred to as “oil bolts”, under subheading 7318.15.80 (“Other screws and bolts, whether or not with their nuts or washers... Other... Having shanks or threads with a diameter of 6 mm or more”) of the Harmonized Tariff Schedule of the United States (“HTSUS”) at a duty rate of 8.5 percent ad valorem has caused the above-encaptioned plaintiff to protest and now to plead more correct classification under HTSUS heading 8708 or 8714, which encompass parts and accessories of motor vehicles.
+I
+Subject-matter jurisdiction has been properly invoked pursuant to 28 U.S.C. §1581(a), and the plaintiff has interposed a motion for summary judgment based upon a requisite USCIT Rule 56(h) “separate, short and concise statement of the material facts as to which... there is no genuine issue to be tried”. Among others, they are:
+23. The oil bolts the subject of this action have been organized into three groups as identified in Plaintiff’s complaint.
+24. Each of the oil bolts identified by part numbers 25950689 9000, 25950P7T 0000, 25950PL4 000, 25950PL5 000, 25950PX4 000, 25951639 0000, 4646ASEO 0000, and 90145MS9 6100MI were imported by Plaintiff on one or more of the consumption entries pertaining to this action.
+❖ ❖ ❖
+28. The oil bolts have specialized design features.
+29. The oil bolts are designed according to Honda Engineering Standards.
+30. The oil bolts have one or four cross-sectional holes.
+31. Certain of the oil bolts for use in transmission applications have extended stems.
+32. The extended stems deliver transmission fluid to the differential of an automotive transmission.
+33. All of the oil bolts are hollow throughout their length.
+34. One of the oil bolts’ functions is to permit the unimpeded passage of fluid from the brake or transmission line.
+36. One of the oil bolts’ functions is to seal the oil bolt and banjo fitting to the brake master cylinder or transmission case as appropriate to the specific oil bolt.
+Citations omitted. The plaintiff further describes its goods as follows:
+The lower half of the oil bolt’s shank is threaded, with the half closest to the oil bolt’s head comprised of a smooth external surface.... Depending upon the application and/or design involved, either one or four cross-sectional beveled and indented holes are bored into the upper non-threaded portion of the shank.... In addition, through a forging process, the shank of the oil bolt has been hollowed throughout its entire length.... The combined design of the single or cross-sectional holes and the hollowed out shank provide! ] the conduit through which brake or transmission fluid transits from the hose assembly to the brake master cylinder or transmission case, as appropriate.... In addition to these design features, instances where the delivery of automotive transmission fluid is involved, the oil bolts have also been designed and manufactured with an extended hollow stem which ensures the precise application of transmission fluid onto the automobile’s differential....
+Plaintiff’s Memorandum of Law, pp. 7-8 (citations omitted).
+The defendant does not contest these factual averments, save number 33. Rather, it has responded with a cross-motion for summary judgment, the import of which is that there is no genuine issue of material fact that requires trial within the meaning of USCIT Rule 56 and teaching of Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 247-48 (1986). Upon review of the cross-motions, this court concurs.
+A
+Indeed, a classification decision, ultimately, is a question of law based on two underlying steps. E.g., Universal Elecs., Inc. v. United States, 112 F.3d 488, 491 (Fed.Cir. 1997). First, the court must define the terms in each of the arguably relevant classification headings; then it must determine under which of them the subject imports correctly fall. Defining these terms is a matter of law, and the court proceeds de novo and without deference to the agency. See, e.g., id.
+According to the HTSUS General Rules of Interpretation, classification shall be determined according to the terms of the headings and any relative section or chapter notes. Looking to those “terms of the headings” and “relative section or chapter notes”, the court examines the provisions pertaining to HTSUS subheading 7318.15.80. The relevant section notes explain that, throughout the tariff schedule, “parts of general use” refers to articles of heading 7318, Section XV, Note 2(a), namely:
+Screws, bolts, nuts, coach screws, screw hooks, rivets, cotters, cotter pins, washers (including spring washers) and similar articles, of iron or steel [.]
+HTSUS Chapter 87, Section XVII, Note 2(b) specifically refers back to this note, to wit:
+The expressions “parts” and “parts and accessories” do not apply to... [p]arts of general use, as defined in note 2 to section XV[.]
+Therefore, the initial test for plaintiff’s articles herein is whether the definition of screws, bolts and similar articles of iron or steel covers them. If it does, the statute dictates that they cannot be classified in Chapter 87. No further investigation would be necessary: the articles must be classified under Chapter 73.
+Additionally, in reviewing the Explanatory Notes to Section XV, General(C) Parts of Articles states explicitly that
+parts of general use... presented separately are not considered as parts of articles, but are classified in the headings of this Section appropriate to them. This would apply, for example, in the case of bolts specialised for central heating radiators or springs specialised for motor cars. The bolts would be classified ...as bolts... [and the] springs would be classified... as springs[.]
+World Customs Organization, Harmonized Commodity Description and Coding System, Explanatory Notes (ENs). On its face, this approach does not generally make an exception for specialized parts when considering parts of general use imported separately. According to Customs publication, Distinguishing Bolts From Screws (rev. May 2000), a
+screw is an externally threaded fastener capable of being inserted into holes in assembled parts, of mating with a preformed internal thread or forming its own thread, and of being tightened or released by torquing the head.
+Plaintiff’s Motion for Summary Judgment, Exhibit 5, p. 3. And, an
+externally threaded fastener, which has a thread form which prohibits assembly with a nut having a straight thread of multiple pitch length,... [or] which must be torqued by its head into a tapped or other preformed hole to perform its intended service [,] is a screw.
+Id. at 4, 5.
+B
+The court reviews the underlying agency analysis to determine whether it “is eligible to claim respect.” United States v. Mead Corp., 533 U.S. 218, 221 (2001). The degree of that respect depends upon
+the thoroughness evident in its consideration, the validity of its reasoning, its consistency with earlier and later pronouncements, and all those factors which give it power persuade, if lacking power to control.
+Skidmore v. Swift & Co., 323 U.S. 134, 140 (1944). Additionally, by
+statute, Customs’ classification decision is presumed to be correct. 28 U.S.C. § 2639(a)(1) (1994).... The presumption of correctness [ ] carries force on any factual components of a classification decision, such as whether the subject imports fall within the scope of the tariff provision, because facts must be proven via evidence.
+Universal Elecs., Inc. v. United States, 112 F.3d at 491-92 (internal quotations omitted; emphasis in original).
+CBP’s ruling letter [¶] 966412, page 7, concluded that plaintiff’s merchandise
+clearly meets the definition of a screw that is classifiable in heading 7318 insofar as it is a cylinder shaped metal object that has threads and a head designed or adapted for tightening by an instrument. Although it may be a specialized screw for use in a part of an automobile, it is nonetheless a screw that meets the terms of and is classifiable in heading 7318. Moreover, as indicated above in the Explanatory Notes, heading 7318 “includes all types of fastening bolts and metal screws regardless of shape and use . . ..”
+Furthermore,
+the fastener is classifiable in heading 8708 by the fact that it is a part of a part for use in a motor vehicle of headings 8701 to 8705, but it is excluded from classification in that heading by note 2(b) to Section XVII.
+The plaintiff does not counter the conclusion that its goods meet the definition of screw. Cf. Rocknel Fastener, Inc. v. United States, 267 F.3d 1354, 1359 (Fed.Cir. 2001). Instead, it focuses on the determination’s consistency with earlier agency pronouncements and previous court decisions. It contends that conclusions reached by Customs in [¶] 954102 (March 15, 1994), NY F88921 (July 7, 2000), and [¶] H007106 (May 8, 2007) support its position herein.
+[¶] H007106 concerned a plastic timer knob assembly used to activate the timer on a home laundry dryer. In determining the knob to be a part of a drying machine, CBP specifically stated that “[k]nobs are not described in Note 2 to Section XV, HTSUS, as parts of general use nor are they similar to any of the articles mentioned therein.” Perhaps, this was due to the fact that Section XV covers “base metals and articles of base metal”, while the knobs at issue were plastic.
+NY F88921 addressed an import referred to as a “washer”, yet Customs found that it did not have the characteristics of a washer as described in the Explanatory Notes, i.e., “a small thin disc intended to be placed to protect a part.” That that import did not satisfy the general-use definition distinguishes the matter now under consideration.
+The focus in [¶] 954102 was on classification of a front parking brake cable for a non-electrical utility vehicle 11 inches long and consisting of
+stranded steel wires encased in hard rubber. One end of the cable has a metal fitting threaded 1 V2 inch from the end that accommodates two (2) nuts. The other end has a 2 % inch long claw-like device attached perpendicular to the wire.
+That article was subject to the same parts-of-general-use provision found at Note 2(a) to Section XV and to consideration of whether or not it fit into the general-use HTSUS heading 7312,
+Stranded wire, ropes, cables, plaited bands, slings and the like, of iron or steel, not electrically insulated: Ropes, cables and cordage other than stranded wire[,]
+or heading 8709, covering parts suitable for use solely or principally with certain engines further described, or another heading. The Explanatory Note to 7312 states:
+The heading includes such ropes, cables, bands, etc., whether or not they are cut to length, or fitted with hooks, spring hooks, swivels, rings, thimbles, clips, sockets, etc. (provided that they do not thereby assume the character of articles of other headings)....
+In [¶] 954102, Customs determined that that brake cable landed under 8709, citing [¶] 953111 (Jan. 4, 1993), concerning control cables, that considered
+their specific length and thickness and their special end terminations which dedicate them for use in [certain vehicles and thereby found that they] have assumed the character of articles of Heading 8708
+and thus determined that “such cables, therefore, are not provided for as ‘parts of general use’ in Section XV”.
+Upon reading [¶] 954102, the considerations therein deviate substantially from CBP’s approach to the oil bolts in this action. Underlying ruling, [¶] 953111, explains that the HTSUS has as its basis the International Convention on the Harmonized Commodity Description and Coding System. And further, that Article 6 of that Convention established the Harmonized System Committee (HSC), representatives of which meet twice a year to consider issues of interpretation of the Convention. In October 1993, several recent HSC opinions were considered, and a resulting amendment of the ENs to HTSUS heading 8709 added the following subpart (9):
+Parts of this heading include:
+* * *
+(9) Clutch cables, brake cables, accelerator cables and similar cables, consisting of a flexible outer casing and a movable inner cable. They are presented cut to length and equipped with end fittings.
+In considering one of those opinions that led to the amendment, [¶] 953111 explains that, “[w]hile the HSC decision is not binding on the Customs Service, upon further consideration of the issue Customs intends to follow the Committee’s decision.”
+[¶] 962586 (May 28, 1999), the reconsideration of [¶] 954102, amongst others, also discusses this change to the ENs. It states that,
+[biased upon the amendment of the ENs, and the evinced intent of the HSC to include accelerator cables within Heading 8708, 8709 [and] 8714[,] we believe that a change of Customs position in the subject rulings is mandated.
+That is, the Service’s decision to classify those articles in Chapter 87, rather than under HTSUS 7312, was instigated by the HSC and addition to the ENs. The ENs that correspond to HTSUS 8708 have 14 inclusive statements, the ENs. for 8714 have 25. While the ENs for heading 8714 do include a statement exactly as (9) to 8709, supra, none of the 39 statements make any mention of screw, bolt, or the like, which absence supports defendant’s position that 8708 and 8714 do not govern herein. In sum, [¶] 954102 is also unsupportive of plaintiff’s proffered position in this action.
+The plaintiff claims support of existing case law, namely, Bauerhin Technologies Ltd. Partnership v. United States, 110 F.3d 774 (Fed.Cir. 1997), United States v. Pompeo, 43 CCPA 9 (1955), and United States v. Willoughby Camera Stores, Inc., 21 CCPA 322 (1933). But none of those cases dealt with a defined parts-of-general-use provision á la the one now at bar. Moreover, prior administrative determinations support defendant’s position. NY 816282 (Nov. 9, 1995) involved a “banjo bolt” described as a steel screw with a hexagonal head, a shank with threads on its bottom half, and a horizontal hole through its upper half. It was to be inserted into the master cylinder of a brake to help control the flow of brake fluid. The ruling classified the part under HTSUS heading 7318, providing for “Screws, bolts, nuts, coach screws”. NY F85449 (April 11, 2000) considered a motor vehicle hollow screw for Porsche Cars North America, Inc. It was described as a socket head screw, of stainless steel, with a threaded, hollow shaft with two holes at the top of the shaft immediately below the head. Porsche claimed that the item functioned by attaching an oil feed line to a timing chain tensioner while also allowing oil to flow into the tensioner and then onto the chain. The ruling classified the part under heading 7318.
+II
+Concluding that the term “screw” defines the articles at issue, and finding that prior Customs rulings support CBP’s current position, the court concludes that the oil bolts at issue herein have been correctly classified under HTSUS subheading 7318.15.80. Plaintiff’s motion for summary judgment must therefore be denied, with defendant’s cross-motion granted. Summary judgment will enter accordingly.
+So ordered.
+The parties now agree that a number of Honda entries sought to be impleaded in this matter are not, as a matter of fact and law, before the court. Compare Defendant’s Answer to Complaint, Annex A with Plaintiff’s Statement of Uncontested Facts, para. 2, and Plaintiff’s Opposition to Defendant’s Cross-Motion for Summary Judgment, § III.
+In fact, the quality of the written submissions on both sides obviates any need to grant plaintiff’s motion for oral argument, which therefore can be, and it hereby is, denied.
+Although such notes are not determinative, they are intended to clarify the scope of HTSUS headings and to offer guidance in interpreting subheadings. E.g., Mita Copystar Am. v. United States, 21 F.3d 1079, 1082 (Fed.Cir. 1994).
+Plaintiff’s papers also use this term in referring to its merchandise. See, e.g., Plaintiff’s Memorandum of Law, p. 7.
