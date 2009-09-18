@@ -1,0 +1,26 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 07-00474"
+decided: "2009-09-18"
+citations: ["33 Ct. Int'l Trade 1366", "645 F. Supp. 2d 1296"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gilda Industries, Inc., Plaintiff, and Nestlé Waters North America, Inc., Plaintiff-Intervenor, v. United States, Defendant."]
+source_url: "https://static.case.law/ct-intl-trade/33/cases/1366-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3695392
+cites_cases: ["201 F.R.D. 560", "64 Fed. Reg. 40638"]
+---
+
+# Gilda Industries, Inc. v. United States
+
+## Majority (MUSGRAVE, Senior Judge:)
+
+OPINION AND ORDER
+MUSGRAVE, Senior Judge:
+Plaintiff Gilda Industries, Inc. (“Gilda”) moves pursuant to USCIT Rule 60(b)(6) to vacate the portion of the Court’s May 14, 2008 order denying Gilda’s motion for class certification with respect to challenging the retaliatory tariffs imposed pursuant to the EC-Beef Hormones dispute, familiarity with which is presumed. Cf Slip Op. 09-58 (June 16, 2009) with Implementation of WTO Recommendations Concerning EC- Measures Concerning Meat and Meat Products (Hormones) 64 Fed. Reg. 40638 (Office of the U.S. Trade Representative, July 27, 1999) (notice of imposition of 100 percent ad valorem duties on certain articles). Gilda’s motion identifies 13 complaints filed after entry of judgment in Gilda’s favor. This new circumstance, Gilda claims, justifies the relief it requests. The government opposes the motion on the ground that this is the only new “issue” raised, and that the motion otherwise merely seeks to re-litigate arguments previously rejected by the court.
+USCIT Rule 23(c), which is modeled on the Federal Rules of Civil Procedure, permits alteration or amendment of an order with respect to class certification “before the decision on the merits.” This court reached a decision on the merits of Gilda’s case.
+A court may not decide the merits first and then certify a class. It is no more appropriate to certify a class after a determination that seems favorable to the class than it would be to certify a class for the purpose of binding class members by an adverse judgment previously rendered without the protections that flow from class certification.
+Preliminary Draft of Proposed Amendments to the Federal Rules of Bankruptcy, Civil and Criminal Procedure and Rules of Evidence, 201 F.R.D. 560, 611 (Committee on Rules of Practice and Procedure of the Judicial Conference of the United States, Aug. 1, 2001). See Advisory Committee Note to 2003 amendments to Rule 23(c) of the Federal Rules of Civil Procedure (“FRCP”). Cf FRCP Rule 23(c); 1966 Advisory Committee Note to amendments to Rule 23(c) (rejecting the practice of “one-way intervention”). Gilda’s motion must therefore be, and it hereby is, denied.
+SO ORDERED.
