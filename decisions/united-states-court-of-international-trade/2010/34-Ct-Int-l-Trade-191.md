@@ -1,0 +1,25 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 10-00031"
+decided: "2010"
+citations: ["34 Ct. Int'l Trade 191", "683 F. Supp. 2d 1334"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American Furniture Manufacturers Committee For Legal Trade and Vaughn-Bassett Furniture Company, Inc., Plaintiffs, v. United States et al. Defendants."]
+source_url: "https://static.case.law/ct-intl-trade/34/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3584926
+---
+
+# American Furniture Manufacturers Committee for Legal Trade v. United States
+
+## Majority (WALLACH, Judge:)
+
+ORDER
+WALLACH, Judge:
+Upon consideration of Plaintiffs’ Motion for Temporary Restraining Order and Preliminay [sic] Injunction, Plaintiffs’ Motion for Expedited Declaratory Judgment or, in the Alternative, Emergency Injunctive Relief, and Defendants’ Motion to Dismiss; the court having reviewed all papers and pleadings on file herein, having heard oral argument by each party, and, after due deliberation, having reached a decision set forth in Slip Op. 10-18; now, in conformity with said decision, it is hereby
+ORDERED that Plaintiffs’ Motion for Temporary Restraining Order and Preliminay [sic] Injunction is DENIED, and it is further
+ORDERED that Plaintiffs’ Motion for Expedited Declaratory Judgment or, in the Alternative, Emergency Injunctive Relief is DENIED; and it is further
+ORDERED, ADJUDGED, AND DECREED that pursuant to the analysis set forth in the court’s decision in Slip Op. 10-18, Plaintiffs’ Complaint fails, pursuant to USCIT R. 12(b)(5) to state a claim upon which relief can be granted, and that accordingly, Defendants’ Motion to Dismiss be, and hereby is, GRANTED; and it is further
+ORDERED, ADJUDGED, AND DECREED that Plaintiffs’ Complaint be, and hereby is, DISMISSED.
