@@ -1,0 +1,35 @@
+---
+court: "United States Court of International Trade"
+docket: "Consol. Ct. No. 05-00003"
+decided: "2010"
+citations: ["34 Ct. Int'l Trade 889", "716 F. Supp. 2d 1300"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dorbest Ltd., et al. Plaintiffs, v. United States, et al. Defendants."]
+source_url: "https://static.case.law/ct-intl-trade/34/cases/0889-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3585900
+cites_cases: ["19 C.F.R. § 351.408", "30 CIT 1671", "462 F. Supp. 2d 1262", "547 F. Supp. 2d 1321", "602 F. Supp. 2d 1287", "604 F.3d 1363", "69 Fed. Reg. 67,313", "70 Fed. Reg. 329"]
+---
+
+# Dorbest Ltd. v. United States
+
+## Majority (POGUE, Judge:)
+
+ORDER FOR REMAND
+POGUE, Judge:
+This remand order follows the Court of Appeals for the Federal Circuit’s opinion in Dorbest Ltd. v. United States, 604 F.3d 1363 (Fed. Cir. 2010) (“Dorbest IV”), affirming in part and vacating in part this court’s previous determinations. See Dorbest Ltd. v. United States, 30 CIT 1671, 462 F. Supp. 2d 1262 (2006) (“Dorbest I"); Dorbest Ltd. v. United States, CIT , 547 F. Supp. 2d 1321 (2008) (“Dorbest II"); Dorbest Ltd. v. United States, CIT, 602 F. Supp. 2d 1287 (2009) (“Dorbest III").
+In Dorbest I, the court addressed Plaintiffs’ facial challenge to the Department of Commerce’s (“Commerce”) regulation, 19 C.F.R. § 351.408(c)(3)(2003), mandating that a regression analysis be utilized in calculating labor rates in order to determine the cost of production (“COP”) for nonmarket economies pursuant to section 773 of the Tariff Act of 1930, 19 U.S.C. § 1677b(c)(2000). Dorbest I, 30 CIT at 1705, 462 F. Supp. 2d at 1292. Specifically, Plaintiffs argued that the regression regulation is inconsistent with the statutory requirement to use “the prices or costs of factors of production in one or more market economy countries that are — ... (A) at a level of economic development comparable to that of the nonmarket economy country, and . . . (B) significant producers of comparable merchandise.” 19 U.S.C. § 1677b(c)(4). The court rejected Plaintiff’s position on this issue. 30 CIT at 1705, 462 F. Supp. 2d at 1292. However, the court remanded as to the issue of Commerce’s application of the challenged regulation. 30 CIT at 1706-15, 462 F. Supp. 2d at 1292-1300.
+In addition, Dorbest I disapproved of Commerce’s use of data from four surrogate country companies to derive financial ratios for calculation of (1) factory overhead (“overhead”), (2) selling, general, and administrative expenses (“SG&A”), and (3) profit for the COP of the subject merchandise. 30 CIT at 1715, 1721-24, 462 F. Supp. 2d at 1300, 1305-07. Because “a firm’s size may affect certain of its financial ratios,” 30 CIT at 1722, 462 F. Supp. 2d at 1306, the court found distortive the inclusion of financial ratio data from the four smallest companies out of the data set, and found insufficient Commerce’s explanation as to the inclusion of these four companies, 30 CIT at 1721-24, 462 F. Supp. 2d at 1305-07. Therefore, the court remanded with instructions for Commerce either to eliminate the four smallest companies from the analysis or to adequately explain the inclusion. 30 CIT at 1723, 462 F. Supp. 2d at 1307.
+After remand, the court affirmed Commerce’s application of its labor wage rate calculation, Dorbest II, _ CIT at _, 547 F. Supp. 2d at 1324-30, but the court once again remanded on the issue of Commerce’s choice of surrogate companies used to calculate financial ratios, _ CIT at _, 547 F. Supp. 2d at 1338-44. Following the second remand, the court affirmed Commerce’s final determination in total. Dorbest III, _ CIT at _, 602 F. Supp. 2d at 1294.
+On appeal, the Federal Circuit vacated in part and affirmed in part Dorbest I, Dorbest II, and Dorbest III. First, the Federal Circuit held that “Commerce’s method for calculating wage rates uses data not permitted to be used by [19 U.S.C. § 1677b(c)].” Dorbest IV, 604 F.3d at 1366. Accordingly, the Federal Circuit “invalidate[d] [19 C.F.R. § 351.408(c)(3)] establishing [the wage rate] calculation method” and vacated the court’s decision. Id. Second, the Federal Circuit reversed the court’s holding as to Commerce’s use of financial ratios, holding reasonable Commerce’s use of the four smallest companies in calculating SG&A, overhead, and profit. Id. at 1367, 1373-75.
+Therefore, in accordance with the decision of the United States Court of Appeals for the Federal Circuit in Dorbest IV, and upon consideration of the parties’ filings herein, it is hereby:
+ORDERED that the final determination and issuance of an anti-dumping duty order by Commerce in Wooden Bedroom Furniture From the People’s Republic of China, 69 Fed. Reg. 67,313 (Dep’t Commerce Nov. 17, 2004) (final determination of sales at less than fair value), amended by Wooden Bedroom Furniture From the People’s Republic of China, 70 Fed. Reg. 329 (Dep’t Commerce Jan. 4, 2005) (notice of amended final determination of sales at less than fair value and antidumping duty order), challenged in Consolidated Court No. 05-00003, is remanded to Commerce for action consistent with the decision in Dorbest IV; and it is further
+ORDERED that upon remand Commerce shall revise its final determination and order in accordance with the decision in Dorbest IV. Commerce shall specifically explain how its final determination and order on remand complies with the Federal Circuit’s interpretation of 19 U.S.C. § 1677b(c); and it is further
+ORDERED that Commerce shall file its remand results in Consolidated Court No. 05-00003 with the Court, and serve the parties with same, by September 7, 2010. All parties may file and serve responses thereto by September 28, 2010. All parties may file and serve a reply to any responses by October 12, 2010; and it is further
+ORDERED that all other action in Consolidated Court No. 05-00003 before this Court is stayed pending further notice from the Court.
+Dorbest I, Dorbest II, and Dorbest III also addressed other issues not raised before the Federal Circuit; these other issues are not discussed in this order.
+Section 351.408(c)(3) dictates that Commerce, “[flor labor, . . . will use regression-based wage rates reflective of the observed relationship between wages and national income in market economy countries. [Commerce] will calculate the wage rate to be applied in nonmarket economy proceedings each year. The calculation will be based on current data, and will be made available to the public.”
+The court also dismissed Dorbest’s argument for failure to exhaust administrative remedies as to the calculation of the surrogate value for profit for one of the surrogate companies, _ CIT at _, 547 F. Supp. 2d at 1344, and determined that another Plaintiff’s claims of a clerical error on the part of Commerce had been waived, _ CIT at _, 547 F. Supp. 2d at 1348.
+In addition, the Federal Circuit affirmed Dorbest II on the issues of administrative exhaustion and waiver. Id. at 1375-77.
