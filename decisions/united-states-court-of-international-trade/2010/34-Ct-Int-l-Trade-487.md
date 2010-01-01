@@ -1,0 +1,24 @@
+---
+court: "United States Court of International Trade"
+docket: "Court No. 08-00283"
+decided: "2010"
+citations: ["34 Ct. Int'l Trade 487", "712 F. Supp. 2d 1369"]
+reporter: "ct-intl-trade"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ad Hoc Shrimp Trade Action Committee, Plaintiff, v. United States, Defendant, and Pakfood Public Company Limited et al., Defendant-Intervenors."]
+source_url: "https://static.case.law/ct-intl-trade/34/cases/0487-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3586613
+cites_cases: ["675 F. Supp. 2d 1287"]
+---
+
+# Ad Hoc Shrimp Trade Action Committee v. United States
+
+## Majority (WALLACH, Judge:)
+
+ORDER AND JUDGMENT
+WALLACH, Judge:
+The court having held an in-court status conference on April 28, 2010, the purpose of which was to discuss Defendant’s Consent Motion to Sever Cases and to Enter Judgment (“Defendant’s Consent Motion”), Plaintiff Ad Hoc Shrimp Trade Action Committee appearing by and through its counsel, Nathaniel Rickard, Picard, Kentz & Rowe, LLP, Defendant United States appearing by and through its counsel, Stephen Tosini, U.S. Department of Justice, Civil Division, Commercial Litigation Branch, Defendant-Intervenors Pakfood Public Company Limited et al. appearing by and through their counsel, Jonathan Freed, Trade Pacific, PLLC, Defendant-Intervenors Thai Union Seafood Co., Ltd. and Thai Union Frozen Products Public Co., Ltd. appearing by and through their counsel, Warren Connelly, Akin, Gump, Strauss, Hauer & Feld, LLP, Defendant-Intervenors Andaman Seafood Co., Ltd. et al. appearing by and through their counsel, Jay Campbell, White & Case, LLP; at which time all parties consented to the entry of judgment requested in Defendant’s Consent Motion; the court having reviewed all pleadings and papers on file herein; and good cause appearing therefor, it is hereby
+ORDERED, ADJUDGED and DECREED that Defendant’s Consent Motion is GRANTED as to the requested entry of judgment; and it is further
+ORDERED, ADJUDGED and DECREED that, pursuant to Ad Hoc Shrimp Trade Action Comm. v. United States, 675 F. Supp. 2d 1287 (CIT 2009), judgment be, and hereby is, entered in favor of Defendant United States and against Plaintiff Ad Hoc Shrimp Trade Action Committee.
