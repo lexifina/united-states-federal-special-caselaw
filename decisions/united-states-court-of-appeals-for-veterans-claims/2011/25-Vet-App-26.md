@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "10-3282"
+decided: "2011-08-11"
+citations: ["25 Vet. App. 26"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Margaret R. RUSSELL, Appellant, v. Eric K. SHINSEKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/25/cases/0026-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4154447
+cites_cases: ["11 Vet.App. 268", "13 Vet.App. 141", "17 Vet.App. 475", "19 Vet.App. 414", "38 U.S.C. § 7252", "542 U.S. 367", "8 Vet.App. 142", "8 Vet.App. 305"]
+---
+
+# Russell v. Shinseki
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+On May 3, 2011, the Clerk of Court granted the parties’ joint motion for remand (JMR). See U.S. Vet.App. R. 45(g)(2) (delegating authority to the Clerk to act on JMRs). On May 24, the appellant filed motions (1) to recall the order and mandate, and (2) for reconsideration of the order and, in the alternative, for a panel decision. In support of both motions, the appellant argues that her ability to enforce the terms of the JMR is affected adversely because the Court’s May 3 order does not expressly incorporate those terms.
+The Court’s Rules of Practice and Procedure (Rules) do not contemplate a motion for reconsideration of the Clerk’s grant of a JMR, or for a panel decision in circumstances where a JMR has been granted by the Clerk. See U.S. Vet.App. R. 35(a) (“A party in a case decided by a single judge may move for reconsideration by the single judge.”) and R. 35(b) (“A party in a case decided by a single judge may move for a decision by a panel of the Court.”). Accordingly, the motion for reconsideration or for a panel decision will be denied. However, for clarification purposes, the motion to recall the order and mandate of May 3 will be granted, and this order will replace the Clerk’s order remanding the matters on appeal.
+Contrary to the appellant’s argument, her ability to enforce the terms of a JMR is not affected by whether the Court’s order granting the JMR expressly incorporates the JMR’s terms or whether the order remands the matter “for action consistent with the terms of the joint motion.” The appellant relies on Breeden v. Principi, 17 Vet.App. 475, 479 (2004), for the proposition that if the terms of the JMR are expressly incorporated in the Court’s order, an appellant may seek enforcement of the terms of the JMR without waiting for a final Board decision on the matter.
+However, the appellant’s reliance on Breeden is misplaced. As noted in Forcier v. Nicholson, 19 Vet.App. 414, 424 (2006), Breeden’s holding is that the Court lacked jurisdiction to consider the appeal because the matter was still pending before the Board and the Court’s remand order did not purport to retain jurisdiction over the matter. Breeden involved the appeal of a nonfinal Board decision that the appellant in that case believed was not fulfilling the terms of a JMR granted by the Clerk. Although the Court in Breeden noted that the JMR was not incorporated in the Clerk’s order, the Court explicitly stated that the Clerk’s order granting a JMR is “administrative rather than adjudicative,” and further stated that the Court lacked jurisdiction over enforcement of the JMR because the Court’s order “did not purport to retain jurisdiction and ‘the Court does not have the power to retain general and continuing jurisdiction over a decision remanded to the [Board] for a new adjudication.’ ” 17 Vet.App. at 478 (quoting Cleary v. Brown, 8 Vet.App. 305, 307 (1995)); see also Forcier, supra.
+Moreover, as stated in Forcier, the terms of the JMR granted by the Court are enforceable regardless of whether the Court’s order expressly incorporates them. 19 Vet.App. 414, 425 (2006) (Secretary’s duty to ensure compliance with the terms of a remand “include[s] the terms of a joint motion that is granted by the Court but not specifically delineated in the Court’s remand order”). This is true whether the order is issued by the Clerk, a single Judge, a panel, or the en banc Court; all are orders of the Court.
+If the Secretary purports to take action in conflict with the JMR, a claimant may seek recourse by appealing to the Board. Forcier, supra; see also Stegall v. West, 11 Vet.App. 268, 271 (1998) (a remand order by the Court or the Board imposes upon the Secretary a concomitant duty to ensure compliance with the terms of the remand); see also Dyment v. West, 13 Vet.App. 141, 146-47 (1999) (no Stegall violation when the examiner “substantially complied with the Board’s remand order”). If the Board does not ensure compliance, a claimant may appeal to the Court and, absent a valid reason for not enforcing a requirement in the JMR, the JMR is enforceable. Id.
+Although the appellant implies that a JMR incorporated into a Court order can be enforced without a final Board decision through a writ of mandamus, she fails to appreciate that mandamus is an extraordinary remedy not to be granted when, inter alia, the veteran possesses adequate alternative means to obtain the desired relief, such as the ability to appeal a decision through the appeals process. Cheney v. U.S. Dist. Court D.C., 542 U.S. 367, 380-81, 124 S.Ct. 2576, 159 L.Ed.2d 459 (2004) (a writ is not to be used as a substitute for the appeals process; the Court may issue a writ of mandamus only when the petitioner demonstrates a clear and indisputable right to the writ, lacks adequate alternative means to attain the desired relief, and the writ is otherwise warranted). As then-Chief Judge Kramer noted in his concurring statement in Breeden, even if the appellant’s JMR-based appeal of the nonfinal Board decision had been construed as a petition for mandamus, it could not have been granted because it had not been shown that administrative remedies had been exhausted. 17 Vet.App. at 479-80 (citing Steffens v. Brown, 8 Vet.App. 142, 144 (1995)).
+Upon consideration of the foregoing, it is
+ORDERED that the motion for reconsideration or, in the alternative, panel decision is denied as not contemplated by the Rules. It is further
+ORDERED that the motion for recall of the May 3, 2011, order and mandate is granted. It is further
+ORDERED that this order replaces the Clerk’s May 3, 2011, order. It is further
+ORDERED that the matter on appeal is remanded pursuant to 38 U.S.C. § 7252(a), for action consistent with the terms of the joint motion for remand. See Border, 19 Vet.App. at 425; Stegall, 11 Vet.App. at 271. Under Rule 41(b) of the Court’s Rules of Practice and Procedure, this order is the mandate of the Court.
