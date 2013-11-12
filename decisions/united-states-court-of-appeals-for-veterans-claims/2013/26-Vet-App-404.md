@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for Veterans Claims"
+docket: "11-3072"
+decided: "2013-11-12"
+citations: ["26 Vet. App. 404"]
+reporter: "vet-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before MOORMAN, BARTLEY, and GREENBERG, Judges."]
+parties: ["Delores M. FABIO, Appellant, v. Eric K. SHINSEKI, Secretary of Veterans Affairs, Appellee."]
+source_url: "https://static.case.law/vet-app/26/cases/0404-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4075600
+cites_cases: ["1 Vet.App. 12", "102 F.3d 1236", "115 S.Ct. 386", "24 Vet.App. 7", "25 Vet.App. 196", "300 U.S. 227", "38 U.S.C. § 5121", "38 U.S.C. § 7266", "38 U.S.C. §§ 1151", "454 U.S. 464", "473 F.3d 1364", "513 U.S. 18"]
+---
+
+# Fabio v. Shinseki
+
+## Majority (PER CURIAM:)
+
+ORDER
+PER CURIAM:
+On October 7, 2011, the appellant, widow of deceased World War II veteran Frank A. Fabio, filed through counsel a Notice of Appeal from a July 27, 2011, Board of Veterans’ Appeals (Board) decision that denied entitlement to service connection for the cause of the veteran’s death; denied entitlement to dependency and indemnity compensation (DIC) under the provisions of 38 U.S.C. §§ 1151 and 1318; and found that a December 1945 rating decision denying the veteran service connection for combat fatigue was not the product of clear and unmistakable error (CUE).
+The parties completed briefing in this case on January 21, 2018. Unbeknownst to the appellant’s attorney, the Secretary, or the Court, the appellant passed away on February 10, 2013. Without knowledge of the appellant’s death, counsel and the Court proceeded with the case, which was later submitted to a panel and scheduled for oral argument. On October 15, 2013, over eight months after the appellant died, the Secretary notified the Court of her passing. The same day, the appellant’s counsel filed with the Court the appellant’s death certificate.
+As a result, the Court promptly issued an order cancelling oral argument and instructing the appellant’s counsel or the appellant’s estate to show cause as to why the matter should not be dismissed. On October 21, 2013, the appellant’s counsel notified the Court that he had contacted the appellant’s son and was advised that no survivor meets the eligibility requirements for accrued benefits and substitution on the appeal under 38 U.S.C. § 5121.
+This Court adheres to the case- or-controversy jurisdictional restrictions found in Article III of the United States Constitution. Mokal v. Derwinski, 1 Vet.App. 12, 15 (1990). When a matter before the Court does not present a live case or controversy, or when a once-existing case or controversy has become moot during the course of the appeal, the matter must be dismissed for lack of jurisdiction. See Briley v. Shinseki, 25 Vet.App. 196, 196-97 (2012) (citing a variety of cases demonstrating that “the Court has steadfastly held that a matter before this Court that does not present a live case or controversy must be dismissed for lack of jurisdiction”); see also U.S. Bancorp Mortg. Co. v. Bonner Mall P’ship, 513 U.S. 18, 21, 115 S.Ct. 386, 130 L.Ed.2d 233 (1994) (“[A]n Article III case or controversy ... must exist at all stages of appellate review.”). This is because federal courts — including this one — have an obligation to “decide real and substantial controversies, not hypothetical claims.” Zevalkink v. Brown, 102 F.3d 1236 (Fed.Cir.1996) (citing Aetna Life Ins. Co. v. Haworth, 300 U.S. 227, 241, 57 S.Ct. 461, 81 L.Ed. 617 (1937)).
+When an appellant dies during the pendency of an appeal, the appropriate remedy is to vacate the appealed Board decision and dismiss the appeal, unless there has been an appropriate substitution by a qualified accrued-benefits claimant. Breedlove v. Shinseki, 24 Vet.App. 7, 21 (2010) (per curiam order) (stating that if, when an appellant “has died while an appeal is pending here, no one seeks substitution or the person seeking substitution is not an eligible accrued-benefits claimant, then Board vacatur and dismissal of the appeal would be the appropriate action”); Briley, 25 Vet.App. at 197 (“It is beyond axiomatic that, where there is no appellant, there is no case or controversy.”); see also Padgett v. Nicholson, 473 F.3d 1364, 1370 (Fed.Cir.2007) (clarifying that, to be substituted on an appeal, the party seeking substitution must have standing pursuant to 38 U.S.C. § 7266(a), which requires the party to have been adversely affected by a Board’s decision).
+Here, with regard to any accrued benefits based upon the appellant’s claims for DIC and service connection for the cause of the veteran’s death and the appellant’s assertion of CUE in the December 1945 rating decision, the appellant’s attorney has advised the Court that there exists no potential accrued-benefits claimant, and therefore no party with standing to be substituted on the appeal. See Padgett, 473 F.3d at 1370; see also Valley Forge Christian College v. Ams. United for Separation of Church and State, Inc., 454 U.S. 464, 472, 102 S.Ct. 752, 70 L.Ed.2d 700 (1982) (explaining that standing requirements “assure that the legal questions presented to the Court will be resolved, not in the rarified atmosphere of a debating society, but in a concrete factual context conducive to a realistic appreciation of the consequences of judicial action”). The Court acknowledges the unfortunate circumstances presented in this appeal, both in the underlying facts of the case, which involve benefits possibly due the surviving spouse of a sailor who served honorably and faced combat situations repeatedly in World War II, and in the untimely death of the appellant as she pursued entitlement to benefits at this Court. However, there is no surviving appellant, no potential accrued-benefits beneficiary in possession of standing, and therefore no existing case or controversy. Thus, the Court must vacate the Board’s decision with respect to the appealed matters and dismiss the appeal. See Padgett, Briley, and Breedlove, all supra.
+Upon consideration of the foregoing, it is
+ORDERED that the July 27, 2011, Board decision is VACATED with respect to the matters on appeal. It is further
+ORDERED that this appeal is DISMISSED for lack of jurisdiction.
